@@ -1,0 +1,789 @@
+{
+  "id": "sxm-04-manipulation-dosage",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "刺灸法",
+    "en": "Technique"
+  },
+  "order": 4,
+  "title": {
+    "zh": "针刺手法量学：捻转补泻的两个定义、四大要素与“以……为度”的终点指标",
+    "en": "Manipulation Dosage: Two Definitions of Twirling Tonify/Reduce, the Four Elements, and Endpoint Indices (\"until ...\")"
+  },
+  "summary": {
+    "zh": "石学敏认为补泻手法都是机械刺激，必有“剂量”，历代却没有量。他给捻转补泻立了两个定义（作用力方向向心为补、离心为泻；小幅度高频率为补、大幅度低频率为泻），又提出四大要素：方向、大小、施术时间（每穴1~3分钟）、两次施术间隔（3~6小时），再用“抽动3次”“眼球湿润”等效应作终点。",
+    "en": "Shi holds that every tonifying or reducing manipulation is mechanical stimulation and so has a dose that the tradition never measured. He gives twirling two definitions (force direction centripetal = tonify, centrifugal = reduce; small-amplitude high-frequency = tonify, large-amplitude low-frequency = reduce) and four elements: direction, size, duration (1-3 min per point) and interval (3-6 hours), and he ends manipulation at effect endpoints such as \"three twitches\" or \"eyes moist\"."
+  },
+  "takeaways": [
+    {
+      "zh": "问题意识：所有针刺手法从性质上说都是机械性刺激，无论补泻都涉及刺激量，可是历代医家没搞清补泻该用多大的“剂量”；近代通行的“大指向前为补、向后为泻”“幅度小用力轻为补、幅度大用力重为泻”，一无体位交代，二无轻重大小的量学概念。他的目标是让针刺“由定性的补泻上升到定量的水平”，使之规范、可重复、可操作。",
+      "en": "His problem: all needling manipulations are mechanical stimuli, so tonifying or reducing involves a stimulus dose, yet earlier physicians never settled what dose; the recent rules \"thumb forward tonifies, backward reduces\" and \"small and light tonifies, large and heavy reduces\" neither state the posture nor quantify light and heavy. His aim is to lift needling \"from qualitative tonify/reduce to a quantitative level\", standardised, repeatable and operable.",
+      "cite": [
+        "M1",
+        "M2",
+        "M3"
+      ]
+    },
+    {
+      "zh": "第一定义管方向：以任督二脉为中心，医者面对患者，两手拇指开始捻转时作用力的切线方向向心者为补，离心者为泻。落到左右侧：左侧顺时针、右侧逆时针（相对患者）为补；左侧逆时针、右侧顺时针为泻。操作是捻转时加力、倒转时自然退回，一捻一转连续不断。内关泻法的例子：左手拇指示指顺时针、右手逆时针，两手拇指作用力方向都是离心。",
+      "en": "The first definition governs direction: taking the Ren and Du channels as the centre, with the physician facing the patient, the tangential direction of the thumb's force at the start of twirling is tonifying when centripetal and reducing when centrifugal. By side: left clockwise and right counterclockwise (relative to the patient) tonify; left counterclockwise and right clockwise reduce. The action adds force on the twirl and lets the needle return by itself, continuously. Example, Neiguan reduction: left hand clockwise, right hand counterclockwise, so both thumbs push centrifugally.",
+      "cite": [
+        "M4",
+        "M4s",
+        "M5",
+        "M6"
+      ]
+    },
+    {
+      "zh": "第二定义管幅度与频率：补法是小幅度（小于90°）、高频率（每分钟120转以上）；泻法是大幅度（大于180°）、低频率（每分钟50~60转）。补时术者手指轻轻捻转，然后自然退回，形成有节奏的频率，“徐徐地激发经气”；泻时手指、腕及全臂协调用力，作用力较大，能迅速激发经气，气至病所。任督二脉的经穴多取小幅度高频率为补，大幅度低频率为泻。",
+      "en": "The second definition governs amplitude and frequency: tonifying is small amplitude (under 90 degrees) and high frequency (over 120 turns per minute); reducing is large amplitude (over 180 degrees) and low frequency (50-60 turns per minute). Tonifying is a light finger twirl that springs back, a rhythmic frequency that \"slowly stimulates channel qi\"; reducing recruits fingers, wrist and whole arm with greater force to stimulate qi quickly and bring it to the disease site. On Ren and Du points, small-amplitude high-frequency is generally tonifying and large-amplitude low-frequency reducing.",
+      "cite": [
+        "M7",
+        "M8",
+        "M9",
+        "M10"
+      ]
+    },
+    {
+      "zh": "“四大要素”有两种说法，内容一致：作用力方向、作用力大小（幅度与频率）、施术持续时间、两次针刺的间隔时间（即一次针刺后疗效持续的时间）。绪言把它们列为“捻转手法的四大要素”，并另外把每个辅穴的取穴体位、针刺方向、针刺深度、手法类型也算作要固定的量学指标。",
+      "en": "The \"four elements\" are stated in two ways with the same content: force direction, force size (amplitude and frequency), duration of manipulation, and interval between two needlings (that is, how long the effect of one needling lasts). The preface calls them the four elements of twirling and also counts posture, needle direction, depth and manipulation type for each auxiliary point as indices to be fixed.",
+      "cite": [
+        "M11",
+        "M12"
+      ]
+    },
+    {
+      "zh": "施术时间的参数是每穴1~3分钟：他批评《针灸甲乙经》只留一呼一吸或两呼两吸，达不到治疗作用，这个参数是对正经361穴和经外50余穴考察对比后提出的。具体如：无脉症太渊、人迎各1分钟；改善脑供血的风池等穴3分钟最佳；支气管哮喘每穴1分钟，听诊哮鸣音仍在说明“还未达治疗量”，就继续运针，最长约3分钟。",
+      "en": "The duration parameter is 1-3 minutes per point: he criticises the Jiayi Jing's single or double breath as far short of a therapeutic effect, and says the parameter was derived by comparing the 361 regular points and over 50 extra points. Examples: Taiyuan and Renying each 1 minute in pulseless disease; Fengchi and others 3 minutes as the best to improve cerebral blood supply; in bronchial asthma 1 minute per point, and if wheeze is still audible \"the therapeutic dose has not been reached\", so continue, up to about 3 minutes.",
+      "cite": [
+        "M13",
+        "M14",
+        "M15"
+      ]
+    },
+    {
+      "zh": "间隔要素是说每次针刺都有一个持续的疗效期，因病而异：针人迎治中风，一次的最佳作用时间为6小时（针后约20分钟脑血流改变最明显，6小时后供血开始衰减，故应6小时蓄积一次）；针刺治支气管哮喘，捻转补法1~3分钟后最佳有效时间可达3~4小时。据此他把两次施术间隔的最佳参数定为3~6小时。",
+      "en": "The interval element means each needling has an effect period that varies with disease: needling Renying for stroke gives a best duration of 6 hours (cerebral blood flow changes most about 20 minutes after needling and supply starts to fade after 6 hours, so needle again every 6 hours); in bronchial asthma the best effect after 1-3 minutes of twirling tonification can last 3-4 hours. He therefore sets the best interval between needlings at 3-6 hours.",
+      "cite": [
+        "M16",
+        "M17",
+        "M18"
+      ]
+    },
+    {
+      "zh": "“度”是终点指标，深度是另一个剂量：他说针刺深度实际上是决定刺激量的另一重要参数。醒脑开窍的每一针都有可观察的终点：三阴交与极泉、尺泽、委中提插至患侧肢体抽动3次，水沟雀啄至眼球湿润或流泪，合谷透三间至示指伸直；外伤性截瘫夹脊针刺，用提插使胸椎夹脊有躯体紧束感、腰椎夹脊向外生殖器及双下肢放射；哮喘听诊哮鸣音消失为止。",
+      "en": "The endpoint is the \"degree\", and depth is another dose: he says needling depth is in fact another important parameter fixing stimulus dose. Every needle in Xingnao Kaiqiao has an observable endpoint: Sanyinjiao, Jiquan, Chize and Weizhong lifted and thrust until the affected limb twitches three times, Shuigou sparrow-pecked until the eyes moisten or tear, Hegu through to Sanjian until the index finger extends; in incomplete traumatic paraplegia Jiaji needled by lifting-thrusting until the thoracic Jiaji gives a tight band around the trunk and the lumbar Jiaji radiates to the genitals and both legs; in asthma until wheeze vanishes on auscultation.",
+      "cite": [
+        "M19",
+        "M20",
+        "M21",
+        "M22",
+        "M23"
+      ]
+    },
+    {
+      "zh": "为什么要这样死抠：他做了对照。发病10天内的缺血性中风60例，双盲，同用醒脑开窍诸穴，一组规范量学，一组传统手法，治疗前指标无差异，治疗后血液流变学、血脂7项均有“极显著性差异”，结论是效果不但与选穴配方有关，也与手法差异关系很大。他同时承认个体差异，要按体质肥瘦调整，“但不能因此而认为针刺手法的刺激量是不能确定的”。后期他又把研究推进到时间、频率、方向几个要素的交互作用（见下节）。",
+      "en": "Why he insists on this: he ran a comparison. In 60 cases of ischaemic stroke within 10 days of onset, double-blind, the same Xingnao Kaiqiao points were needled with standardised dosage in one group and traditional manipulation in the other; indices did not differ before treatment, after treatment haemorheology and seven lipid indices differed \"extremely significantly\", and he concludes that outcome depends on manipulation as well as points. He admits individual variation and adjusts for build, \"but this does not mean the stimulus dose cannot be fixed\". Later he extended the work to interaction among time, frequency and direction (see the section below).",
+      "cite": [
+        "M24",
+        "M25",
+        "M26",
+        "M27",
+        "M28",
+        "M29"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "后来的量效研究：要素之间会互相影响",
+        "en": "Later dose-response work: the elements interact"
+      },
+      "body": {
+        "zh": "全集绪言与第五章还记了他90年代以后的研究：选择已有成熟经验的“穴—病”组合（内关—缺血性中风、合谷—中枢性面瘫、风池—椎基底动脉供血不足），用行针时间、捻转频率、针刺方向三要素做量效研究，再用代谢组学和基因芯片探机理。书中的读法是：针刺手法的“量”是穴位、时间、频率、方向等众多要素组合出来的综合量，各要素之间的交互作用也是关键因素。结果举例：内关—缺血性中风（大鼠模型）显示较快频率整体较优，且需先保证恰当的行针时间，再选合适的频率；合谷—中枢性面瘫，斜刺行针5秒疗效最佳。",
+        "en": "The Quanji preface and chapter 5 also record his later work: taking established point-disease pairs (Neiguan for ischaemic stroke, Hegu for central facial paralysis, Fengchi for vertebrobasilar insufficiency), he studied dose-response over needling time, twirling frequency and direction, then probed mechanisms with metabolomics and gene chips. The reading in the book is that the \"quantity\" of manipulation is a composite of point, time, frequency, direction and so on, and that interaction among elements is itself key. Examples: Neiguan for ischaemic stroke (rat model) favoured faster frequencies overall, first securing an appropriate needling time and then choosing a frequency; Hegu for central facial paralysis was best with oblique needling for 5 seconds."
+      }
+    },
+    {
+      "h": {
+        "zh": "提插、雀啄怎样进入量学",
+        "en": "How lifting-thrusting and sparrow-pecking enter the scheme"
+      },
+      "body": {
+        "zh": "绪言说对提插手法也提出了“提插形式、针刺效应及效应程度”的量学标准，但书中只给出穴位层面的例子：三阴交“重插轻提”为补，极泉、尺泽、委中提插为泻，都以肢体抽动3次为度；水沟用雀啄，且全集写明先将针向一个方向捻转360°，再雀啄，以眼球湿润或流泪为效应指标；印堂用“轻雀啄”，也以流泪或眼球湿润为度。书中没有给提插的次数、幅度或雀啄频率的数值。",
+        "en": "The preface says lifting-thrusting also received quantitative standards for \"form, effect and degree of effect\", but the books give only point-level examples: Sanyinjiao \"heavy thrust, light lift\" to tonify, Jiquan, Chize and Weizhong lifted and thrust to reduce, all ended at three limb twitches; Shuigou is sparrow-pecked, the Quanji specifying first twirling the needle 360 degrees in one direction and then pecking, with moist or tearing eyes as the effect index; Yintang gets a \"light peck\" with the same endpoint. No numbers are given for the count, amplitude or pecking frequency of lifting-thrusting."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "四大要素及其参数",
+        "en": "The four elements and their parameters"
+      },
+      "cols": [
+        {
+          "zh": "要素",
+          "en": "Element"
+        },
+        {
+          "zh": "他的规定",
+          "en": "His rule"
+        },
+        {
+          "zh": "书中的例与依据",
+          "en": "Examples and basis in the text"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "1 作用力方向（第一定义）",
+            "en": "1 Force direction (first definition)"
+          },
+          {
+            "zh": "任督二脉为中心，向心为补，离心为泻；医者面向患者",
+            "en": "Ren-Du as centre; centripetal tonifies, centrifugal reduces; physician faces patient"
+          },
+          {
+            "zh": "左侧顺时针、右侧逆时针为补；左逆右顺为泻",
+            "en": "Left clockwise and right counterclockwise tonify; left counterclockwise and right clockwise reduce"
+          }
+        ],
+        [
+          {
+            "zh": "2 作用力大小（第二定义）",
+            "en": "2 Force size (second definition)"
+          },
+          {
+            "zh": "补：幅度<90°，>120转/分；泻：幅度>180°，50~60转/分",
+            "en": "Tonify: under 90 degrees, over 120 turns/min; reduce: over 180 degrees, 50-60 turns/min"
+          },
+          {
+            "zh": "补：缺血性头痛眩晕针风池；泻：胆结石取阳陵泉、日月",
+            "en": "Tonify: Fengchi for ischaemic headache or dizziness; reduce: Yanglingquan and Riyue for gallstones"
+          }
+        ],
+        [
+          {
+            "zh": "3 施术持续时间",
+            "en": "3 Duration of manipulation"
+          },
+          {
+            "zh": "每穴1~3分钟",
+            "en": "1-3 min per point"
+          },
+          {
+            "zh": "太渊、人迎各1分钟；风池等3分钟；哮喘至哮鸣音消失（最长约3分钟）",
+            "en": "Taiyuan, Renying 1 min each; Fengchi etc. 3 min; asthma until wheeze vanishes (longest about 3 min)"
+          }
+        ],
+        [
+          {
+            "zh": "4 两次施术间隔 / 疗效持续时间",
+            "en": "4 Interval / duration of effect"
+          },
+          {
+            "zh": "最佳间隔3~6小时",
+            "en": "Best interval 3-6 hours"
+          },
+          {
+            "zh": "人迎治中风6小时；支气管哮喘3~4小时；风池施术3分钟效应持续4~6小时",
+            "en": "Renying for stroke 6 h; bronchial asthma 3-4 h; Fengchi 3 min lasts 4-6 h"
+          }
+        ],
+        [
+          {
+            "zh": "另：体位、方向、深度、手法类型",
+            "en": "Also: posture, direction, depth, manipulation type"
+          },
+          {
+            "zh": "每个辅穴逐一确定",
+            "en": "Fixed for each auxiliary point in turn"
+          },
+          {
+            "zh": "深度“实际上是决定针刺刺激量的另一重要参数”",
+            "en": "Depth is \"in fact another important parameter fixing the stimulus dose\""
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "捻转补法与泻法的参数对照",
+        "en": "Twirling tonification versus reduction"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "补",
+          "en": "Tonify"
+        },
+        {
+          "zh": "泻",
+          "en": "Reduce"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "作用力方向（相对患者，医者面对患者）",
+            "en": "Force direction (relative to patient, physician facing)"
+          },
+          {
+            "zh": "向心：左侧顺时针，右侧逆时针",
+            "en": "Centripetal: left clockwise, right counterclockwise"
+          },
+          {
+            "zh": "离心：左侧逆时针，右侧顺时针",
+            "en": "Centrifugal: left counterclockwise, right clockwise"
+          }
+        ],
+        [
+          {
+            "zh": "幅度",
+            "en": "Amplitude"
+          },
+          {
+            "zh": "小于90°",
+            "en": "Under 90 degrees"
+          },
+          {
+            "zh": "大于180°（原文另有一处写“<360°”）",
+            "en": "Over 180 degrees (one sentence in the text says \"<360 degrees\")"
+          }
+        ],
+        [
+          {
+            "zh": "频率",
+            "en": "Frequency"
+          },
+          {
+            "zh": "每分钟120转以上",
+            "en": "Over 120 per minute"
+          },
+          {
+            "zh": "每分钟50~60转",
+            "en": "50-60 per minute"
+          }
+        ],
+        [
+          {
+            "zh": "手感与用力",
+            "en": "Feel and force"
+          },
+          {
+            "zh": "手指轻轻捻转，自然退回，有节奏；徐徐激发经气",
+            "en": "Fingers twirl lightly and spring back rhythmically; slowly stimulates qi"
+          },
+          {
+            "zh": "手指、腕及全臂协调用力；迅速激发经气，气至病所",
+            "en": "Fingers, wrist and whole arm together; quickly stimulates qi and brings it to the disease site"
+          }
+        ],
+        [
+          {
+            "zh": "任督二脉经穴",
+            "en": "Ren and Du points"
+          },
+          {
+            "zh": "小幅度高频率",
+            "en": "Small amplitude, high frequency"
+          },
+          {
+            "zh": "大幅度低频率",
+            "en": "Large amplitude, low frequency"
+          }
+        ],
+        [
+          {
+            "zh": "书中的例",
+            "en": "Examples in the text"
+          },
+          {
+            "zh": "风池治缺血性头痛、眩晕；人迎、太渊治无脉症；哮喘诸背穴",
+            "en": "Fengchi for ischaemic headache and dizziness; Renying and Taiyuan for pulseless disease; back points for asthma"
+          },
+          {
+            "zh": "阳陵泉、日月、太冲治胆石症；丰隆、水道等治便秘；内关（中风）",
+            "en": "Yanglingquan, Riyue, Taichong for gallstones; Fenglong, Shuidao etc. for constipation; Neiguan in stroke"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "各穴、各病的量学规定与终点指标",
+        "en": "Dosage and endpoint by point and disease"
+      },
+      "cols": [
+        {
+          "zh": "穴 / 病",
+          "en": "Point / disease"
+        },
+        {
+          "zh": "手法",
+          "en": "Manipulation"
+        },
+        {
+          "zh": "时间与深度（书中所给）",
+          "en": "Time and depth (as given)"
+        },
+        {
+          "zh": "“以……为度”",
+          "en": "Endpoint (\"until ...\")"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "内关（中风）",
+            "en": "Neiguan (stroke)"
+          },
+          {
+            "zh": "提插与捻转结合的泻法（捻转第一定义，>180°，50~60转/分）",
+            "en": "Combined lifting-thrusting and twirling reduction (first definition, over 180 degrees, 50-60/min)"
+          },
+          {
+            "zh": "全集：深1.0~1.5寸，1~3分钟；实用：0.5~1.0寸，1分钟",
+            "en": "Quanji: 1.0-1.5 cun, 1-3 min; Practical: 0.5-1.0 cun, 1 min"
+          },
+          {
+            "zh": "（以持续时间为度）",
+            "en": "(ended by duration)"
+          }
+        ],
+        [
+          {
+            "zh": "水沟",
+            "en": "Shuigou"
+          },
+          {
+            "zh": "雀啄泻法（全集：先向一个方向捻转360°）",
+            "en": "Sparrow-pecking reduction (Quanji: first twirl 360 degrees one way)"
+          },
+          {
+            "zh": "向鼻中隔斜刺0.3~0.5寸",
+            "en": "Oblique toward nasal septum, 0.3-0.5 cun"
+          },
+          {
+            "zh": "眼球湿润或流泪",
+            "en": "Eyes moist or tearing"
+          }
+        ],
+        [
+          {
+            "zh": "三阴交",
+            "en": "Sanyinjiao"
+          },
+          {
+            "zh": "提插补法（重插轻提）",
+            "en": "Lifting-thrusting tonification (heavy thrust, light lift)"
+          },
+          {
+            "zh": "沿胫骨内侧（后）缘与皮肤呈45°斜刺，1~1.5寸（实用：0.5~1.0寸）",
+            "en": "Along the medial (posterior) tibial border at 45 degrees, 1-1.5 cun (Practical: 0.5-1.0 cun)"
+          },
+          {
+            "zh": "患侧下肢连续抽动3次（针感到足趾）",
+            "en": "Affected leg twitches three times in a row (sensation to toes)"
+          }
+        ],
+        [
+          {
+            "zh": "极泉、尺泽、委中",
+            "en": "Jiquan, Chize, Weizhong"
+          },
+          {
+            "zh": "提插泻法",
+            "en": "Lifting-thrusting reduction"
+          },
+          {
+            "zh": "极泉直刺1~1.5寸（实用：0.5~0.8寸）；委中仰卧直腿抬高取穴，1~1.5寸",
+            "en": "Jiquan straight 1-1.5 cun (Practical 0.5-0.8 cun); Weizhong supine with straight leg raised, 1-1.5 cun"
+          },
+          {
+            "zh": "上肢或下肢抽动3次",
+            "en": "Limb twitches three times"
+          }
+        ],
+        [
+          {
+            "zh": "合谷透三间、八邪（中风）",
+            "en": "Hegu through to Sanjian, Baxie (stroke)"
+          },
+          {
+            "zh": "提插泻法",
+            "en": "Lifting-thrusting reduction"
+          },
+          {
+            "zh": "合谷直刺1~1.5寸；八邪0.5~1寸",
+            "en": "Hegu straight 1-1.5 cun; Baxie 0.5-1 cun"
+          },
+          {
+            "zh": "患侧示指伸直；手指抽动",
+            "en": "Affected index finger extends; fingers twitch"
+          }
+        ],
+        [
+          {
+            "zh": "风池、翳风、完骨（吞咽障碍）",
+            "en": "Fengchi, Yifeng, Wangu (dysphagia)"
+          },
+          {
+            "zh": "小幅度（<90°）高频率（>120转/分）捻转补法",
+            "en": "Small-amplitude (<90 degrees) high-frequency (>120/min) twirling tonification"
+          },
+          {
+            "zh": "风池针向结喉，2~2.5寸，1~3分钟",
+            "en": "Fengchi toward the Adam's apple, 2-2.5 cun, 1-3 min"
+          },
+          {
+            "zh": "（以时间为度）",
+            "en": "(ended by time)"
+          }
+        ],
+        [
+          {
+            "zh": "椎基底动脉供血不足",
+            "en": "Vertebrobasilar insufficiency"
+          },
+          {
+            "zh": "风池、完骨、天柱三对穴，小幅度高频率捻转补法",
+            "en": "Fengchi, Wangu, Tianzhu on both sides, small-amplitude high-frequency tonification"
+          },
+          {
+            "zh": "每穴3分钟，每日2次",
+            "en": "3 min each, twice daily"
+          },
+          {
+            "zh": "头晕目眩心烦失眠缓解；脑血流图波幅增高（效应持续4~6小时）",
+            "en": "Dizziness, blurred vision, irritability and insomnia ease; rheoencephalogram amplitude rises (effect 4-6 h)"
+          }
+        ],
+        [
+          {
+            "zh": "无脉症",
+            "en": "Pulseless disease"
+          },
+          {
+            "zh": "人迎、太渊（下肢加气冲、冲阳），小幅度高频率捻转补法",
+            "en": "Renying, Taiyuan (add Qichong, Chongyang for legs), small-amplitude high-frequency tonification"
+          },
+          {
+            "zh": "每穴1分钟；人迎直刺，针感放射至指端后稍提针再捻转1分钟；每日2次",
+            "en": "1 min each; Renying straight with sensation to fingertips, then lift slightly and twirl 1 min; twice daily"
+          },
+          {
+            "zh": "寸口脉可触及（3~5天）；患肢血压近正常",
+            "en": "Radial pulse palpable (3-5 days); limb blood pressure near normal"
+          }
+        ],
+        [
+          {
+            "zh": "支气管哮喘",
+            "en": "Bronchial asthma"
+          },
+          {
+            "zh": "大椎、大杼、风门、肺俞、心俞、膈俞，小幅度高频率捻转补法",
+            "en": "Dazhui, Dazhu, Fengmen, Feishu, Xinshu, Geshu, small-amplitude high-frequency tonification"
+          },
+          {
+            "zh": "每穴1分钟，未达量则继续运针，最长约3分钟",
+            "en": "1 min each, continue if not yet at dose, longest about 3 min"
+          },
+          {
+            "zh": "听诊哮鸣音消失",
+            "en": "Wheeze disappears on auscultation"
+          }
+        ],
+        [
+          {
+            "zh": "冠心病",
+            "en": "Coronary heart disease"
+          },
+          {
+            "zh": "内关、心经穴、心俞、膈俞、任脉穴，捻转补法",
+            "en": "Neiguan, a heart-channel point, Xinshu, Geshu, Ren points; twirling tonification"
+          },
+          {
+            "zh": "施术3分钟",
+            "en": "3 min"
+          },
+          {
+            "zh": "胸闷、左肩臂刺痛减轻；心电图S-T段回升",
+            "en": "Chest tightness and left shoulder-arm stabbing pain ease; ST segment recovers"
+          }
+        ],
+        [
+          {
+            "zh": "胆石症",
+            "en": "Gallstones"
+          },
+          {
+            "zh": "太冲、阳陵泉、日月（右），大幅度低频率捻转泻法",
+            "en": "Taichong, Yanglingquan, Riyue (right); large-amplitude low-frequency twirling reduction"
+          },
+          {
+            "zh": "每穴1分钟，继续施术可至3分钟",
+            "en": "1 min each, up to 3 min if continued"
+          },
+          {
+            "zh": "右上腹抽动感；泥沙样结石3~7次针刺后排出",
+            "en": "Twitching in the right upper abdomen; sandy stones pass after 3-7 sessions"
+          }
+        ],
+        [
+          {
+            "zh": "顽固性便秘",
+            "en": "Intractable constipation"
+          },
+          {
+            "zh": "丰隆、左水道、左归来、左外水道、左外归来，大幅度低频率捻转泻法",
+            "en": "Fenglong, left Shuidao, left Guilai, left Waishuidao, left Waiguilai; large-amplitude low-frequency reduction"
+          },
+          {
+            "zh": "施手法1分钟，留针30分钟，每日2次",
+            "en": "1 min, retain 30 min, twice daily"
+          },
+          {
+            "zh": "排便（最短20分钟，最长3小时，多在1小时左右）",
+            "en": "Defecation (shortest 20 min, longest 3 h, mostly about 1 h)"
+          }
+        ],
+        [
+          {
+            "zh": "外伤性截瘫（不全损伤）",
+            "en": "Traumatic paraplegia (incomplete)"
+          },
+          {
+            "zh": "夹脊穴提插手法",
+            "en": "Jiaji with lifting-thrusting"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          },
+          {
+            "zh": "胸椎夹脊：躯体紧束感；腰椎夹脊：向外生殖器及双下肢放射感",
+            "en": "Thoracic Jiaji: tight band around trunk; lumbar Jiaji: radiation to genitals and both legs"
+          }
+        ],
+        [
+          {
+            "zh": "风府（闭证）",
+            "en": "Fengfu (closed pattern)"
+          },
+          {
+            "zh": "提插泻法",
+            "en": "Lifting-thrusting reduction"
+          },
+          {
+            "zh": "低头取穴，直刺1.5~2.5寸",
+            "en": "Head bowed, straight 1.5-2.5 cun"
+          },
+          {
+            "zh": "麻电感到达全头",
+            "en": "Electric sensation reaches the whole head"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "M1",
+      "quote": "由于各种针刺手法从性质上来讲，均属于机械性刺激，所以无论是补法还是泻法都涉及一个刺激量，即治疗剂量的问题",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、针刺手法量学概念 p.235"
+    },
+    {
+      "id": "M2",
+      "quote": "捻转幅度小用力轻和捻转幅度大用力重，其轻重大小均无量学概念",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二 p.235"
+    },
+    {
+      "id": "M3",
+      "quote": "使针刺治疗由定性的补泻上升到定量的水平，填补了针灸学历史上的一个空白",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二 p.235"
+    },
+    {
+      "id": "M4",
+      "quote": "两手拇指开始捻转时作用力切线的方向为标准，医生采用面向病人的体位，规定作用力的方向向心者为补，离心者为泻",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（二） p.236"
+    },
+    {
+      "id": "M4s",
+      "quote": "向心者为补，即左侧作用力方向为顺时针，右侧为逆时针者为补",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（一） p.235"
+    },
+    {
+      "id": "M5",
+      "quote": "其作用力的方向左右两侧均为离心，即左侧为逆时针，右侧为顺时针者为泻",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（一） p.236"
+    },
+    {
+      "id": "M6",
+      "quote": "此时拇指所施作用力的方向为离心",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·四、（三）主穴的量学规定 p.398"
+    },
+    {
+      "id": "M7",
+      "quote": "捻转时，小幅度、高频率，幅度小于90°，频率为每分钟120次以上为补",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（二） p.236"
+    },
+    {
+      "id": "M8",
+      "quote": "捻转时，大幅度、低频率，幅度大于180°，频率在每分钟50~60次为泻，在施行捻转泻法时，术者手指、腕及全臂协调用力",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（二） p.236"
+    },
+    {
+      "id": "M9",
+      "quote": "任督二脉的经穴多采取小幅度高频率为补，大幅度低频率为泻的捻转手法",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（一） p.236"
+    },
+    {
+      "id": "M10",
+      "quote": "其幅度<360°，频率在每分钟50～60次，才能达到泻的作用",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（一） p.236"
+    },
+    {
+      "id": "M11",
+      "quote": "对针刺作用力方向、大小、施术时间、两次针刺间隔时间等针刺手法的四大要素进行了科学界定",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二 p.235"
+    },
+    {
+      "id": "M12",
+      "quote": "③实施捻转手法所持续时间的最佳参数为1~3分钟。④实施捻转手法后其治疗作用持续时间的最佳参数为6小时",
+      "src": "石学敏针灸全集·绪言·三、针刺手法量学的研究 p.5"
+    },
+    {
+      "id": "M13",
+      "quote": "捻转补泻手法最佳施术时间参数，为每个穴位操作一至三分钟",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（二） p.236"
+    },
+    {
+      "id": "M14",
+      "quote": "如“无脉症”取太渊、人迎穴均施手法一分钟；为改善脑供血所取风池等穴，以施术3分钟为最佳治疗参数",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（二） p.236"
+    },
+    {
+      "id": "M15",
+      "quote": "如哮鸣音存在说明还未达治疗量。继续运针施法。直至哮鸣音消失为止，最长施手法时间3分钟左右",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（三） p.238"
+    },
+    {
+      "id": "M16",
+      "quote": "针刺人迎穴治疗脑血管疾病（中风），一次治疗所持续的最佳治疗作用时间是6小时",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（二） p.236"
+    },
+    {
+      "id": "M17",
+      "quote": "当施行捻转补法1～3分钟后，肺内哮鸣音逐渐消失，病人症状缓解，最佳有效治疗时间可达3～4小时",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（二） p.237"
+    },
+    {
+      "id": "M18",
+      "quote": "两次施术间隔时间的最佳参数为3～6小时",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（二） p.237"
+    },
+    {
+      "id": "M19",
+      "quote": "针刺的深度实际上是决定针刺刺激量的另一重要参数",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（二） p.237"
+    },
+    {
+      "id": "M20",
+      "quote": "继刺水沟，向鼻中隔方向斜刺0.3～0.5寸，采用雀啄手法（泻法），以患者眼球湿润或流泪为度",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·三、（二）操作及量学规定 p.268"
+    },
+    {
+      "id": "M21",
+      "quote": "再刺三阴交，沿胫骨内侧缘与皮肤呈45°角斜刺，针尖刺到原三阴交穴的位置上，进针0.5～1.0寸，采用提插补法，针感到足趾，以患肢抽动3次为度",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·三、（二）操作及量学规定 p.268"
+    },
+    {
+      "id": "M22",
+      "quote": "用提插手法使胸椎夹脊穴产生躯体紧束感，腰椎夹脊穴产生向外生殖器及双下肢放射感",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（二） p.237"
+    },
+    {
+      "id": "M23",
+      "quote": "提插形式、针刺效应及效应程度多项量学标准",
+      "src": "石学敏针灸全集·绪言·三、针刺手法量学的研究 p.6"
+    },
+    {
+      "id": "M24",
+      "quote": "同用“醒脑开窍”诸穴，规范量学手法与非规范量学手法，在治疗前各项指标没有显著性差异，而治疗后比较，在血液流变学、血脂7项指标方面，均有极显著性差异",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（三） p.237"
+    },
+    {
+      "id": "M25",
+      "quote": "治疗效果的好坏，不但与选穴、配方有关，而且与手法的差异有很大关系",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（三） p.237"
+    },
+    {
+      "id": "M27",
+      "quote": "针刺手法的量是包含针刺穴位、针刺时间、频率、方向等众多手法要素组合所构成的综合量",
+      "src": "石学敏针灸全集·第五章 第六节 石氏针刺手法·4.针刺手法的量效关系研究 p.316"
+    },
+    {
+      "id": "M28",
+      "quote": "说明较快频率的针刺其综合效应整体较优",
+      "src": "石学敏针灸全集·第五章 第六节 石氏针刺手法·4.针刺手法的量效关系研究 p.313"
+    },
+    {
+      "id": "M29",
+      "quote": "其中斜刺行针5s针刺合谷穴的疗效最佳",
+      "src": "石学敏针灸全集·第五章 第六节 石氏针刺手法·4.针刺手法的量效关系研究 p.314"
+    },
+    {
+      "id": "M26",
+      "quote": "机体接受刺激的强度存在较大的个体差异，还应根据病人的体质、肥瘦等因素进行适当的调整，但不能因此而认为针刺手法的刺激量是不能确定的",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学·二、（二） p.237"
+    }
+  ],
+  "how_to_use": {
+    "zh": "读他的处方时，不要只看“施捻转泻法”，要找四个数：这一针的方向（向心还是离心）、幅度与频率、施术多久、隔多久再针一次；再找“以……为度”的终点。没有终点的地方（如内关），用时间当终点。自己核对时注意：全集与实用针灸学对同一穴的深度、时间常有差异（见 caveats），以他在具体病种下给出的数字为准。",
+    "en": "When reading his prescriptions do not stop at \"twirling reduction\"; look for four numbers: the direction of this needle (centripetal or centrifugal), amplitude and frequency, how long to work it, how long until the next needling; then find the \"until ...\" endpoint. Where there is none (Neiguan) time is the endpoint. Note that the Quanji and the Practical often differ in depth and time for the same point (see caveats); prefer the numbers he gives under the specific disease."
+  },
+  "caveats": {
+    "zh": "书中同一参数并不总是一致：泻法幅度在同一节写作“大于180°”，另一句写“<360°”；内关深度全集写1.0~1.5寸、实用针灸学写0.5~1.0寸，施术时间全集写1~3分钟、实用写1分钟；两次施术间隔既有“6小时”（绪言，以人迎—中风为例）又有“3~6小时”（一般参数）。频率与幅度的“最佳”多来自作者单位的临床与动物实验（如大鼠MCAO），书中未把大鼠实验中“较快频率较优”与临床泻法50~60转/分的规定做调和。文中“抢转”为识别错误，应为“捻转”。",
+    "en": "The books are not always consistent on one parameter: the reducing amplitude is \">180 degrees\" in one place and \"<360 degrees\" in another within the same section; Neiguan depth is 1.0-1.5 cun in the Quanji and 0.5-1.0 cun in the Practical, time 1-3 min versus 1 min; the interval is \"6 hours\" (preface, Renying for stroke) and \"3-6 hours\" (general). The \"optimal\" values largely come from the authors' own clinical and animal work (for example rat MCAO), and the books do not reconcile \"faster frequency is better\" in rats with the clinical reducing rule of 50-60 turns per minute."
+  },
+  "see": {
+    "notes": [],
+    "points": [
+      "内关",
+      "水沟",
+      "三阴交",
+      "极泉",
+      "尺泽",
+      "委中",
+      "风池",
+      "人迎",
+      "太渊",
+      "阳陵泉",
+      "合谷"
+    ],
+    "rx": [
+      "sxm-rx-001",
+      "sxm-rx-096",
+      "sxm-rx-002",
+      "sxm-rx-013",
+      "sxm-rx-016",
+      "sxm-rx-021",
+      "sxm-rx-004"
+    ],
+    "cases": [
+      "sxm-001",
+      "sxm-255",
+      "sxm-271",
+      "sxm-305",
+      "sxm-149"
+    ]
+  }
+}

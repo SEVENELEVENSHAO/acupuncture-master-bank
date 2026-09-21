@@ -1,0 +1,14 @@
+import fs from 'fs';
+const P = 'E:\\Documents\\Obsidian\\TCM Vault\\Acupuncture Bank\\_data\\prescriptions\\chengdanan.json';
+const rx = JSON.parse(fs.readFileSync(P, 'utf8'));
+const cjk = (s) => (s.match(/[\u3400-\u9fff]/g) || []).length;
+const lat = (s) => (s.match(/[A-Za-z]/g) || []).length;
+const rows = rx.map((r) => ({ id: r.id, sys: r.system.no, name: r.name.zh, cjk: cjk(r.rx_zh), lat: lat(r.rx_zh), care: cjk(r.care_zh) + '/' + lat(r.care_zh), prog: cjk(r.prognosis_zh) + '/' + lat(r.prognosis_zh) }));
+const eng = rows.filter((r) => r.lat > r.cjk);
+console.log('records with rx mostly Latin letters:', eng.length, 'of', rows.length);
+const bySys = {};
+for (const r of eng) bySys[r.sys] = (bySys[r.sys] || 0) + 1;
+console.log('by system:', bySys);
+const careEng = rx.filter((r) => lat(r.care_zh) > cjk(r.care_zh) || lat(r.prognosis_zh) > cjk(r.prognosis_zh));
+console.log('records whose care/prognosis is mostly English:', careEng.length);
+console.log(eng.map((r) => r.sys + ':' + r.name + '(' + r.cjk + '/' + r.lat + ')').join('  '));

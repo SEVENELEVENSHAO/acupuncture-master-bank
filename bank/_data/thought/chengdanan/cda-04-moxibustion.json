@@ -1,0 +1,636 @@
+{
+  "id": "cda-04-moxibustion",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "刺灸法",
+    "en": "Technique"
+  },
+  "order": 4,
+  "title": {
+    "zh": "灸法思想",
+    "en": "Moxibustion: His Rationale and Practice"
+  },
+  "summary": {
+    "zh": "灸是艾绒炷燃灼皮肤的温热刺激，被解释为神经冲动、血管先缩后张、白细胞与免疫体增加，近于蛋白体疗法。艾绒宜陈；有瘢痕与无瘢痕两类；炷与壮数如药量；灸点是创口须消毒；高热、急性炎症等禁灸。",
+    "en": "Moxa is the thermal stimulus of a burning moxa-wool cone, explained as nerve impulse, vessel constriction then dilation, and more white cells and immune bodies, akin to protein therapy. Wool should be aged; scarring and non-scarring forms; cone and count dosed like medicine; the point is a wound; no moxa in fever or acute inflammation."
+  },
+  "takeaways": [
+    {
+      "zh": "定义与定位：灸术是以艾叶制成的细绒做成小圆锥形艾炷，置于皮肤上点燃，产生灼热刺激，引起刺激反应，增进健康或治愈疾病；他称其为我国独有的发明，属中医治疗科的一科。艾绒宜陈：新绒含油脂，火力强而持久，灼痛难忍；存三年以上，油质挥发净尽，火力弱、刺痛减少，较易忍受；好绒色泽佳、纤维净、干燥而有香气，以湖北蕲春的蕲艾为佳。",
+      "en": "Definition: moxibustion makes a small cone from fine mugwort wool, sets it on the skin and lights it, producing burning stimulation that evokes a response, promoting health or curing disease; he calls it a uniquely Chinese invention and a branch of Chinese therapeutics. Wool should be aged: new wool holds oil, burns strongly and long with hard-to-bear pain; after three or more years the oil is gone, the fire weaker and the stabbing pain less; good wool has good colour, clean fibre, dryness and fragrance, and Qi mugwort of Qichun, Hubei, is best.",
+      "cite": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ]
+    },
+    {
+      "zh": "灸分两类，各有取舍：有瘢痕灸直接灼烧，局部灼痛强，兼有化学与光线刺激，但留永久瘢痕，头面等处不便；无瘢痕灸只给温热，刺激缓和而广泛，等于理想的温罨法，可用于面部、手掌等外露处，但不能深入内部组织。",
+      "en": "Two kinds, each with trade-offs: scarring moxa burns directly, strong local burning pain plus chemical and light stimulation, but leaves a permanent scar and cannot be freely used on head or face; non-scarring gives only warmth, mild and wide, an ideal warm compress usable on the face and palms, but does not reach deeper tissue.",
+      "cite": [
+        "C5",
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "zh": "炷的大小与壮数是“剂量”：灸是温热刺激，能否承受随体质、年龄、性别与病情而异，所以要如药量一样分大小壮数；误用则少则无效，多则有害。一般小炷多壮、弱小者穴少炷小壮少、壮实肥满者炷大壮多，而打脓灸则炷大壮少。",
+      "en": "Cone size and count are the 'dose': moxa is thermal stimulation whose tolerance varies with constitution, age, sex and illness, so size and count must be graded like drug doses; misuse gives no effect if too little, harm if too much. Generally small cones and many counts; the weak and small get fewer points, small cones, few counts; robust, stout adults larger cones and more counts; pus-forming moxa uses big cones with few counts.",
+      "cite": [
+        "C8",
+        "C9",
+        "C10"
+      ]
+    },
+    {
+      "zh": "病情优先于体质：原则上按年龄、性别、体质、病症定炷大小壮数，但遇缓急变通，例如小儿慢性脑炎(慢惊风)将虚脱，须大炷多壮救之；久患结核的壮年已重，也不能因其年龄体格而用多壮中小炷；总结是“首要根据病症情况，以年龄体质作酌量”。",
+      "en": "Illness outranks build: age, sex, constitution and disease set the cone and count in principle, yet urgency allows exceptions, e.g. a child with chronic encephalitis about to collapse needs big cones and many counts, while a robust adult with far-gone tuberculosis is not to be given many mid-size cones because of age and build; the summary is to go first by the disease and moderate by age and constitution.",
+      "cite": [
+        "C11"
+      ]
+    },
+    {
+      "zh": "作用机理：温热刺激使神经系发生冲动，引起镇痛、消炎、吸收、诱导，使代谢与生理功能亢进；血液方面白细胞立即增加、免疫体增加、补体与调理素亢进；青地博士认为白细胞增多与调理素亢进为灸的主要作用，并归因于加热蛋白的吸收，所以“灸之本态，为一种蛋白体疗法”。",
+      "en": "Mechanism: thermal stimulation makes nerves fire, producing analgesia, anti-inflammation, absorption and induction and raising metabolism and function; in blood, white cells rise at once, immune bodies increase, complement and opsonin are enhanced; Dr Aochi holds white-cell increase and opsonin enhancement to be moxa's main action, ascribed to absorption of heated protein, so the essence of moxa is 'a kind of protein therapy'.",
+      "cite": [
+        "C12",
+        "C13",
+        "C14"
+      ]
+    },
+    {
+      "zh": "用途不止治病：健康人施灸也可增进自然抵抗力、调和神经功能、保持血行，预防疾病，这便是养生灸(如关元、足三里)；打脓灸则用大炷使深度火伤、化脓，靠组织变化与异性蛋白体作用治病。",
+      "en": "Uses beyond treatment: moxa on the healthy also raises natural resistance, harmonises nerve function and keeps circulation good, preventing disease, which is health-preserving moxa (e.g. Guanyuan, Zusanli); pus-forming moxa uses a big cone for a deep burn and suppuration, healing through tissue change and a foreign-protein action.",
+      "cite": [
+        "C15",
+        "C16",
+        "C17"
+      ]
+    },
+    {
+      "zh": "灸点是创口，护理决定成败：直接灸即是皮肤创伤，防止化脓“只有严密消毒”；灸前后灸部与术者手指都要消毒，灸后用杀菌纱布覆盖，防抓破与衣服擦伤，已成水疱则放液再盖；化脓小者可再灸二三壮，大者洗涤敷药。",
+      "en": "The moxa point is a wound and care decides the outcome: direct moxa is a skin wound and preventing suppuration takes 'strict sterilisation only'; sterilise the moxa area and the operator's fingers before and after, cover with sterile gauze to prevent scratching and clothing friction, drain a blister and re-cover; a small suppuration may get two or three more cones, a large one washing and dressing.",
+      "cite": [
+        "C18",
+        "C19",
+        "C20"
+      ]
+    },
+    {
+      "zh": "不宜灸的界线：灸非万应，高热之际、严重急性传染病、浸淫性皮肤病、急性肿疡、寄生虫病，以及坏疽、萎缩、变性、肥大等器质变化，禁灸；急性炎症与肠闭塞因加强刺激恐使恶化而禁；妊娠腹部因子宫敏锐、灸使其收缩充血有堕胎之险；食后因胃蠕动旺盛恐被抑制；皮下静脉上灸会伤管壁、感染并可生血栓。但他说不拘泥，四肢远离病灶的诱导灸仍可用。",
+      "en": "Limits: moxa is not a cure-all; no moxa during high fever, in severe acute infectious disease, spreading skin disease, acute tumour, parasitic disease, or organic change such as gangrene, atrophy, degeneration, hypertrophy; acute inflammation and intestinal obstruction are excluded because stronger stimulation may worsen them; the pregnant abdomen because the sensitive uterus contracts and congests, risking abortion; after meals because active gastric peristalsis may be inhibited; over a subcutaneous vein because moxa damages the wall, admits infection and may cause thrombosis. Yet he says not to be rigid: a distal inducing moxa on the limbs is still usable.",
+      "cite": [
+        "C21",
+        "C22",
+        "C23",
+        "C24",
+        "C25"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "施灸的程序",
+        "en": "Procedure"
+      },
+      "body": {
+        "zh": "施灸前先适应气候，寒冷时加温，使解衣不冷；检查病症是否适宜灸；按体质与症情预定灸穴、炷大小与壮数；灸部与术者手指消毒。施灸时体位稳定，按准穴位以墨点记，顺次装炷点燃，炷灰用杀菌棉花逐次拭去，终了再充分消毒。需要再灸时，于原瘢痕或已化脓的小疱上，用比初灸稍大的艾炷灸之。灸痕的愈合是先结痂，周围渗出细胞，新生血管入灸痕中央，最终留下瘢痕，其下毛囊被破坏而成无毛部分。",
+        "en": "Before moxa, adapt to the weather (warm the room in the cold), check the condition suits moxa, fix points, cone size and count from constitution and condition, and sterilise the site and fingers. During treatment, keep the posture steady, mark points in ink, place and light cones in turn, wipe ash away with sterile cotton, and sterilise thoroughly at the end. To repeat, use a cone slightly larger than the first on the old scar or small pustule. A moxa wound heals by scab formation, cell exudation around it, new vessels growing into the centre, leaving a scar whose hair follicles are destroyed."
+      }
+    },
+    {
+      "h": {
+        "zh": "减轻痛感与温度依据",
+        "en": "Reducing pain; heat data"
+      },
+      "body": {
+        "zh": "他引后藤博士的实验：以八折湿润纱布隔开施灸，血液分布与脉数的变化和普通灸相同，但灼痛更好受。温度方面引原田、悭田的实验说明灸热主要作用于浅层：巨大艾炷在石棉板上可达570℃，在家兔腹上200℃，中、小炷90℃、62℃；热量深入组织后迅速衰减。",
+        "en": "He cites Dr Goto: moxa through a moistened eight-fold gauze gives the same blood distribution and pulse change as ordinary moxa but the burning pain is easier to bear. On temperature, he cites Harada and 悭田: a huge cone reaches 570 degrees C on an asbestos board and 200 on a rabbit's belly, medium and small cones 90 and 62; heat falls off rapidly with depth in tissue."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "艾绒与艾炷",
+        "en": "Moxa wool and cones"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "内容",
+          "en": "Content"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "艾炷",
+            "en": "Cone"
+          },
+          {
+            "zh": "艾叶经捶打细筛成细软如棉的艾绒，捻成上尖下圆的圆锥形，黏在皮肤上点燃",
+            "en": "Leaves beaten and sieved into cotton-soft wool, rolled into a cone pointed above and round below, stuck to the skin and lit"
+          }
+        ],
+        [
+          {
+            "zh": "小型炷",
+            "en": "Small"
+          },
+          {
+            "zh": "麦粒大、鼠粪大",
+            "en": "Wheat-grain, mouse-dropping"
+          }
+        ],
+        [
+          {
+            "zh": "中型炷",
+            "en": "Medium"
+          },
+          {
+            "zh": "饭粒大、绿豆大、大豆大",
+            "en": "Rice-grain, mung-bean, soybean"
+          }
+        ],
+        [
+          {
+            "zh": "大型炷",
+            "en": "Large"
+          },
+          {
+            "zh": "半颗枣核大；今人已少用",
+            "en": "Half a jujube stone; now rarely used"
+          }
+        ],
+        [
+          {
+            "zh": "壮",
+            "en": "Zhuang"
+          },
+          {
+            "zh": "燃去一炷为一壮；二七壮=十四壮，三七壮=二十一壮，以七为基数(古人以七为少阳之数，称少火)",
+            "en": "One cone burnt = one zhuang; 2x7 = 14, 3x7 = 21, base of seven (ancients: seven is a shaoyang number, 'young fire')"
+          }
+        ],
+        [
+          {
+            "zh": "艾绒陈久",
+            "en": "Age of wool"
+          },
+          {
+            "zh": "新绒：含油脂，火力强而持久，灼痛剧；三年以上：火力弱，刺痛减少，较易忍受，且有难以形容的快感(因人而异)",
+            "en": "New: oily, strong lasting fire, sharp pain; 3+ years: weak fire, less stabbing, easier to bear, even a pleasant feeling for some"
+          }
+        ],
+        [
+          {
+            "zh": "优质艾绒",
+            "en": "Good wool"
+          },
+          {
+            "zh": "色泽佳、纤维净、干燥而有香气；蕲春所产蕲艾叶厚绒多；五月上旬采叶",
+            "en": "Good colour, clean fibre, dry, fragrant; Qichun mugwort has thick leaves and much wool; leaves picked early in the fifth lunar month"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "有瘢痕灸与无瘢痕灸",
+        "en": "Scarring vs. non-scarring moxa"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "有瘢痕灸",
+          "en": "Scarring"
+        },
+        {
+          "zh": "无瘢痕灸",
+          "en": "Non-scarring"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "做法",
+            "en": "Method"
+          },
+          {
+            "zh": "艾炷直接黏皮点燃，火伤起疱、溃烂、结痂，留永久瘢痕",
+            "en": "Cone on the skin, burn, blister, ulcerate, scab, permanent scar"
+          },
+          {
+            "zh": "不直接烧灼，仅使皮肤温热：太乙针、雷火针、药条灸、隔姜灸、隔蒜灸、附子饼灸、黄土灸、豆豉灸、温灸器等",
+            "en": "No direct burning, warmth only: Taiyi needle, thunder-fire needle, moxa sticks, ginger, garlic, aconite cake, loess, fermented soybean, warming box"
+          }
+        ],
+        [
+          {
+            "zh": "刺激",
+            "en": "Stimulus"
+          },
+          {
+            "zh": "局部灼痛刺激强；含化学与光线刺激；刺激皮下痛觉神经强",
+            "en": "Strong local burning pain; chemical and light stimulation; strongly stimulates subcutaneous pain nerves"
+          },
+          {
+            "zh": "单纯温热刺激；痛觉神经所受不及有瘢痕灸",
+            "en": "Simple warmth; less pain-nerve stimulation"
+          }
+        ],
+        [
+          {
+            "zh": "范围",
+            "en": "Extent"
+          },
+          {
+            "zh": "无广泛的温罨法作用",
+            "en": "No wide warm-compress effect"
+          },
+          {
+            "zh": "温热感在皮肤组织广泛，为温罨法作用",
+            "en": "Warmth spreads through skin tissue, a warm-compress effect"
+          }
+        ],
+        [
+          {
+            "zh": "优点",
+            "en": "Merits"
+          },
+          {
+            "zh": "热痛外还有化学、光线刺激",
+            "en": "Chemical and light stimulation beyond heat pain"
+          },
+          {
+            "zh": "不留瘢痕；面部、头部、手掌等外露处可自由灸；缓和而广泛，合乎理想的温罨法",
+            "en": "No scar; free use on exposed face, head, palms; mild and wide, an ideal warm compress"
+          }
+        ],
+        [
+          {
+            "zh": "缺点",
+            "en": "Drawbacks"
+          },
+          {
+            "zh": "有瘢痕，有伤观瞻；头面不能自由施术；热痛难堪",
+            "en": "Scar, unsightly; head and face restricted; heat pain hard to bear"
+          },
+          {
+            "zh": "只有普通温热，不能深入内部组织；手术不娴熟也能起疱成瘢痕灸；温灸器效力微，费时费药，已不受注意",
+            "en": "Ordinary warmth, cannot reach deep tissue; unskilled use can still blister; the warming box is weak, slow and costly, no longer favoured"
+          }
+        ],
+        [
+          {
+            "zh": "火伤四度(直接灸)",
+            "en": "Four degrees of burn (direct)"
+          },
+          {
+            "zh": "一度红晕黄褐；二度水疱；三度表皮坏死；四度焦痂脱落留瘢",
+            "en": "1st redness, yellow-brown; 2nd blister; 3rd epidermal necrosis; 4th eschar falls off, scar"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "艾炷燃烧温度(所引实验)",
+        "en": "Cone burning temperatures (experiments cited)"
+      },
+      "cols": [
+        {
+          "zh": "条件",
+          "en": "Condition"
+        },
+        {
+          "zh": "温度",
+          "en": "Temperature"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "鸡卵大巨艾炷，绝缘石棉板上",
+            "en": "Egg-sized cone on asbestos board"
+          },
+          "570 ℃"
+        ],
+        [
+          {
+            "zh": "艾炷包于水银柱周围",
+            "en": "Cone wrapped around a mercury column"
+          },
+          "360 ℃"
+        ],
+        [
+          {
+            "zh": "巨大艾炷，37℃ 常温肌肉上",
+            "en": "Huge cone on 37 C muscle"
+          },
+          "290 ℃"
+        ],
+        [
+          {
+            "zh": "剃去腹毛家兔腹上：巨大艾炷 / 中切艾炷 / 小切艾炷",
+            "en": "Shaved rabbit belly: huge / medium / small cone"
+          },
+          "200 ℃ / 90 ℃ / 62 ℃"
+        ],
+        [
+          {
+            "zh": "组织深处升温(原文“升的密脱”，应为“生的密脱”即厘米之OCR误)：深2、3、7单位",
+            "en": "Tissue warming at depth (source reads 'sheng-di-mi-tuo', an OCR slip for centimetre): at 2, 3, 7 units"
+          },
+          {
+            "zh": "约升高2℃ / 0.5℃以上 / 几无影响",
+            "en": "About +2 C / over +0.5 C / almost none"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "灸的适应与禁忌(及他给的理由)",
+        "en": "Moxa indications and contraindications (with his reasons)"
+      },
+      "cols": [
+        {
+          "zh": "类别",
+          "en": "Category"
+        },
+        {
+          "zh": "内容(旧名见括号)",
+          "en": "Items (old names in brackets)"
+        },
+        {
+          "zh": "他的说明",
+          "en": "His explanation"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "适应：神经系统",
+            "en": "Indicated: nervous"
+          },
+          {
+            "zh": "脑充血(实性头痛)、脑贫血(虚性眩晕)、神经痛(各种痛症)、麻痹(木强)、痉挛(痣疯)、神经衰弱(虚弱)、歇斯底里(脏躁)、偏头痛、震颤、脚气",
+            "en": "Cerebral congestion, cerebral anaemia, neuralgia, paralysis, spasm, neurasthenia, hysteria, migraine, tremor, beriberi"
+          },
+          {
+            "zh": "温热刺激使血液循环良好、制止知觉神经兴奋；使麻痹神经重新兴奋",
+            "en": "Warmth improves circulation and inhibits sensory-nerve excitation; re-excites paralysed nerves"
+          }
+        ],
+        [
+          {
+            "zh": "适应：血行器、运动器",
+            "en": "Indicated: circulation, locomotor"
+          },
+          {
+            "zh": "神经性心悸亢进(怔忡)、神经性狭心症(心痛)；关节偻麻质斯(痛风)、肌肉偻麻质斯(着痹)",
+            "en": "Nervous palpitation, nervous angina; joint and muscle rheumatism"
+          },
+          {
+            "zh": "肌肉受温热刺激，兴奋性亢进，血液灌溉旺盛，新陈代谢佳，疲劳与疼痛减轻",
+            "en": "Warmed muscle: raised excitability, richer blood supply, better metabolism, less fatigue and pain"
+          }
+        ],
+        [
+          {
+            "zh": "适应：消化、呼吸",
+            "en": "Indicated: digestive, respiratory"
+          },
+          {
+            "zh": "急慢性胃炎(呕吐胃痛)、胃痉挛、神经性消化不良(胃呆)、急慢性肠炎(泄泻)、加答儿性黄疸、便秘、下痢、痔核；喉头炎(喉痛)、气管支炎(哮咳)、喘息、肋膜炎(胁痛)、肺结核(肺痨)",
+            "en": "Acute and chronic gastritis, gastric spasm, nervous dyspepsia, enteritis, catarrhal jaundice, constipation, diarrhoea, haemorrhoids; laryngitis, bronchitis, asthma, pleurisy, tuberculosis"
+          },
+          {
+            "zh": "背腰俞穴刺激及于内脏神经、自律神经，调节胃运动分泌与肠蠕动；肺结核、肋膜炎灸之增进自然抵抗力、旺盛营养功能",
+            "en": "Back and lumbar shu points reach visceral and autonomic nerves, regulating gastric motility/secretion and peristalsis; in TB and pleurisy moxa raises resistance and nutrition"
+          }
+        ],
+        [
+          {
+            "zh": "适应：泌尿生殖、小儿、妇人",
+            "en": "Indicated: urogenital, paediatric, gynaecological"
+          },
+          {
+            "zh": "慢性肾脏炎(浮肿)、膀胱炎、膀胱痉挛、淋病、睾丸炎、尿道炎；小儿消化不良、腺病、夜惊症、小儿急痫、夜尿；卵巢炎、子宫内膜炎、子宫痉挛、月经痛",
+            "en": "Chronic nephritis, cystitis, bladder spasm, gonorrhoea, orchitis, urethritis; infantile dyspepsia, scrofula, night terror, infantile convulsion, bedwetting; oophoritis, endometritis, uterine spasm, dysmenorrhoea"
+          },
+          {
+            "zh": "淋病灸之增进抵抗力与白细胞吞噬作用；灸不涉及急性传染病，只用于慢性有效者",
+            "en": "In gonorrhoea moxa raises resistance and phagocytosis; acute infectious disease is outside this scope, only chronic conditions where it works"
+          }
+        ],
+        [
+          {
+            "zh": "绝对不可灸",
+            "en": "Absolutely not"
+          },
+          {
+            "zh": "高热之际、严重的急性传染病、浸淫性皮肤病、急性肿疡、寄生虫病，及坏疽、萎缩、变性、肥大等机质变化",
+            "en": "High fever, severe acute infectious disease, spreading skin disease, acute tumour, parasitic disease, gangrene, atrophy, degeneration, hypertrophy"
+          },
+          {
+            "zh": "“灸非万应”；总以禁止灸治为宜",
+            "en": "'Moxa is not a cure-all'; better to forbid"
+          }
+        ],
+        [
+          {
+            "zh": "一般禁忌",
+            "en": "General contraindications"
+          },
+          {
+            "zh": "法定传染病；癌肿及一般肿疡；急性炎症(纤维素性肺炎、盲肠炎、穿孔性腹膜炎)；肠闭塞；酗酒烂醉；大病衰弱甚；高热；血压过高",
+            "en": "Notifiable infections; cancer and tumours; acute inflammation (lobar pneumonia, appendicitis, perforated peritonitis); intestinal obstruction; drunkenness; severe debility; high fever; high blood pressure"
+          },
+          {
+            "zh": "急性炎症“因加强刺激恐有使恶化”；肠闭塞“因加以刺激，更形收缩”；但四肢远离病灶的诱导灸不拘泥",
+            "en": "Acute inflammation: stronger stimulation may worsen it; obstruction: stimulation makes it contract more; but distal limb inducing moxa is not barred"
+          }
+        ],
+        [
+          {
+            "zh": "生理状态与部位",
+            "en": "Physiological states and sites"
+          },
+          {
+            "zh": "妊娠腹部(四个月后腹部与禁穴绝对禁灸)；月经期腹部及相关反射部位；食后；皮下静脉上；浅显血管、眼球、延髓、睾丸；心脏部位禁多灸；面部、手外露处、妊妇腹部、肘窝膝腘避免",
+            "en": "Pregnant abdomen (absolute after four months, with forbidden points); abdomen and related reflex sites in menstruation; just after meals; over subcutaneous veins; superficial vessels, eyeball, medulla, testis; heart region no heavy moxa; avoid face, exposed hand, pregnant abdomen, elbow and knee folds"
+          },
+          {
+            "zh": "妊娠子宫锐敏，灸使收缩、充血，有堕胎之险；食后胃蠕动旺盛，恐抑制；静脉上灸会毁伤血管壁、流血、感染、血栓",
+            "en": "Sensitive pregnant uterus contracts and congests, abortion risk; active gastric motility after meals may be inhibited; on a vein moxa damages the wall, bleeds, infects, thromboses"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "灸术者，以艾叶制成之细绒，做成小圆锥形艾炷，置于皮肤之上，用火点燃，发生灼热之刺激",
+      "src": "针灸精华·第四篇 灸科常识 p.107"
+    },
+    {
+      "id": "C2",
+      "quote": "此种方法，名曰灸术，为我国独有之发明，属中医治疗科中之一科",
+      "src": "针灸精华·第四篇 灸科常识 p.107"
+    },
+    {
+      "id": "C3",
+      "quote": "艾绒经过3年以上，油质挥发净尽，火力弱而易于燃过，剧烈之刺痛减少，比较易于忍受",
+      "src": "针灸精华·第四篇 灸科常识 p.107"
+    },
+    {
+      "id": "C4",
+      "quote": "则在色泽佳、纤维净、干燥而有香气，即是上品",
+      "src": "针灸精华·第四篇 灸科常识 p.107"
+    },
+    {
+      "id": "C5",
+      "quote": "引起皮肤上发生火伤，留着瘢痕，甚至起疱，发生溃烂，及至结痂，留着永久不灭之瘢痕",
+      "src": "针灸精华·第四篇 灸科常识 p.108"
+    },
+    {
+      "id": "C6",
+      "quote": "无瘢痕灸：其温热感之于皮肤组织有广泛性，因此为一种温罨法之作用",
+      "src": "针灸精华·第四篇 灸科常识 p.111"
+    },
+    {
+      "id": "C7",
+      "quote": "无瘢痕灸：仅有普通之温热刺激，不能深入内部组织",
+      "src": "针灸精华·第四篇 灸科常识 p.111"
+    },
+    {
+      "id": "C8",
+      "quote": "灸为温热刺激，发生火伤毒素，其人能胜任多寡，则视其体质、年龄、男女之不同，与夫病症情况之如何，而为衡量",
+      "src": "针灸精华·第四篇 灸科常识 p.110"
+    },
+    {
+      "id": "C9",
+      "quote": "若误用灸之刺激量，少则无效，过多反而发生有害之情况",
+      "src": "针灸精华·第四篇 灸科常识 p.110"
+    },
+    {
+      "id": "C10",
+      "quote": "虽然，亦需视疾病之如何，依照治病为目的，以炷小壮多为宜，若以打脓灸法，则宜炷大而壮数少为是",
+      "src": "针灸精华·第四篇 灸科常识 p.118"
+    },
+    {
+      "id": "C11",
+      "quote": "总结，首要根据病症情况，以年龄体质作酌量",
+      "src": "针灸精华·第四篇 灸科常识 p.110"
+    },
+    {
+      "id": "C12",
+      "quote": "灸术对于白细胞大量增加之外，并能使免疫体增加",
+      "src": "针灸精华·第四篇 灸科常识 p.112"
+    },
+    {
+      "id": "C13",
+      "quote": "青地博士在人体之实验上，白细胞增多与调理素作用之亢进，为灸之主要作用",
+      "src": "针灸精华·第四篇 灸科常识 p.113"
+    },
+    {
+      "id": "C14",
+      "quote": "因此，可谓灸之本态，为一种蛋白体疗法",
+      "src": "针灸精华·第四篇 灸科常识 p.120"
+    },
+    {
+      "id": "C15",
+      "quote": "若于健康体施灸时，能使之增进自然抵抗力，调和神经之功能，保持血行之佳良，有预防各种疾病之效果",
+      "src": "针灸精华·第四篇 灸科常识 p.114"
+    },
+    {
+      "id": "C16",
+      "quote": "以达预防疾病为目的，此名预防之灸，亦曰养生灸",
+      "src": "针灸精华·第四篇 灸科常识 p.117"
+    },
+    {
+      "id": "C17",
+      "quote": "目的亦要使其化脓，发生组织变化，与异性蛋白体作用，而达疾病之治愈",
+      "src": "针灸精华·第四篇 灸科常识 p.117"
+    },
+    {
+      "id": "C18",
+      "quote": "直接艾灸，即是与皮肤创伤。防止创伤不化脓，只有严密消毒",
+      "src": "针灸精华·第四篇 灸科常识 p.109"
+    },
+    {
+      "id": "C19",
+      "quote": "既灸之后，不许接触不清洁之手指与抓破，用消毒棉布掩盖之，防止衣服等之擦伤",
+      "src": "针灸精华·第四篇 灸科常识 p.109"
+    },
+    {
+      "id": "C20",
+      "quote": "如属小者，仍于灸创之上再灸二三壮，并予以四周消毒，用消毒纱布掩盖",
+      "src": "针灸精华·第四篇 灸科常识 p.109"
+    },
+    {
+      "id": "C21",
+      "quote": "灸非万应，病症虽多数可以灸治，第有绝对不可灸治者",
+      "src": "针灸精华·第四篇 灸科常识 p.114"
+    },
+    {
+      "id": "C22",
+      "quote": "因加强刺激恐有使恶化之能者，悉禁之",
+      "src": "针灸精华·第四篇 灸科常识 p.119"
+    },
+    {
+      "id": "C23",
+      "quote": "因妊娠之子宫甚锐敏，灸之刺激，能起收缩作用",
+      "src": "针灸精华·第四篇 灸科常识 p.115"
+    },
+    {
+      "id": "C24",
+      "quote": "因食后胃生理之蠕动旺盛，灸之恐有抑制之非",
+      "src": "针灸精华·第四篇 灸科常识 p.119"
+    },
+    {
+      "id": "C25",
+      "quote": "以上为一般之应禁忌者，但不拘泥，如在四肢部灸，距离病灶远者，亦可能采用诱导之灸",
+      "src": "针灸精华·第四篇 灸科常识 p.119"
+    }
+  ],
+  "how_to_use": {
+    "zh": "学他的灸法，先问灸的目的(镇静、兴奋、诱导、预防还是化脓)，再按此选有瘢痕或无瘢痕、炷的大小与壮数，并以病情、体质、部位三者校正剂量；同时把灸点当作创口来管理。遇高热、急性炎症、妊娠腹部、食后、静脉上等情形先想他给的理由，再决定避开还是改用远隔诱导灸。",
+    "en": "Learn his moxa by asking its purpose first (calming, exciting, inducing, preventing or forming pus), then choosing scarring or non-scarring, cone size and count, and correcting the dose by disease, constitution and site; treat the moxa point as a wound. In fever, acute inflammation, pregnant abdomen, after meals or over veins, recall his reason first, then decide whether to avoid the site or switch to remote inducing moxa."
+  },
+  "caveats": {
+    "zh": "灸的机理建立在二三十年代日本学者的血液实验与蛋白体疗法假说上，后世解释已有不同；壮数、炷大小(如“鼠粪大”)为经验描述，无精确尺寸；书中并存两种灸后化脓处理(消毒篇用2%来苏尔与磺胺油膏，灸科篇用川黄连煎汤与硼酸软膏)；适应证中的部分西医病名与中医旧名对应关系较粗。",
+    "en": "The mechanism rests on 1920s-30s Japanese blood experiments and the protein-therapy hypothesis, since explained differently; cone sizes (e.g. 'mouse-dropping') are empirical descriptions without exact dimensions; the book carries two post-moxa suppuration treatments (2% Lysol and sulfa ointment in the hygiene part, Coptis decoction and boric ointment in the moxa part); the pairing of Western disease names with old Chinese names in the indications is rough."
+  },
+  "see": {
+    "notes": [
+      "01 艾绒艾炷与施灸基础 Moxa Wool Cones and Basic Procedure",
+      "02 灸法的生理作用 Physiological Effects of Moxibustion",
+      "03 灸法的临床应用 Clinical Application of Moxibustion"
+    ],
+    "points": [
+      "关元",
+      "足三里",
+      "肺俞",
+      "脾俞",
+      "百会",
+      "气海"
+    ]
+  }
+}

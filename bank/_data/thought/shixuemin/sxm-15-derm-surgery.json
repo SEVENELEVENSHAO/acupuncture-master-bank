@@ -1,0 +1,555 @@
+{
+  "id": "sxm-15-derm-surgery",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 15,
+  "title": {
+    "zh": "皮肤科与外科：刺络拔罐为先，火热毒邪郁于血分，慢性瘙痒加调神健脾，外科急症严守适应证",
+    "en": "Dermatology and Surgery: Bleeding-Cupping First, Fire-Toxin Stagnating in the Blood Level, Spirit Regulation and Spleen-Strengthening for Chronic Itch, Strict Indications for Surgical Emergencies"
+  },
+  "summary": {
+    "zh": "皮肤科7条处方全都把“刺络疗法”列在第一位：脊柱旁开2寸或皮损处刺络拔罐，再按证型加经穴。他的理由是火热毒邪郁于血分，“血去邪出、祛瘀生新”；带状疱疹靠皮部理论，单用刺络即可取效。慢性瘙痒性皮肤病(神经性皮炎、痒疹、湿疹、荨麻疹)另加调神(神门、四神聪)与健脾利湿。外科感染取大椎、曲池加刺络(红丝疔必须配刺络拔罐)，乳腺炎用火针引流；肠梗阻与阑尾炎虽可针，但反复强调“严格掌握适应证”，病情变化或穿孔须转手术。52例医案中含刺络/放血/点刺者22例。",
+    "en": "All 7 dermatology entries list \"bleeding therapy\" first: bleeding-cupping 2 cun beside the spine or at the lesion, then channel points by pattern. His reasoning is that fire-heat toxin is lodged in the blood level, \"blood out, evil out, dispel stasis and generate the new\"; herpes zoster rests on the skin-region theory and can be cured with bleeding alone. Chronic itchy dermatoses (neurodermatitis, prurigo, eczema, urticaria) add spirit regulation (Shenmen, Sishencong) and spleen-strengthening damp-draining. Surgical infection takes Dazhui and Quchi with bleeding (red-line furuncle must have bleeding-cupping), mastitis uses fire-needle drainage; intestinal obstruction and appendicitis may be needled but he repeats \"strictly master the indications\", with surgery when the condition changes or perforation is suspected. Of 52 cases, 22 mention bleeding, bleeding-pricking or pricking."
+  },
+  "takeaways": [
+    {
+      "zh": "皮肤科的处方结构是固定的：7条(网状淋巴管炎、神经性皮炎、荨麻疹、湿疹、痒疹、带状疱疹、痤疮)都以“刺络疗法”开头——在疱疹或皮损部位，或“脊柱旁开左右2寸刺络拔罐”，痤疮另沿华佗夹脊三棱针挑刺放血，神经性皮炎用皮肤针叩刺；随后才是按证型的经穴。医案37例皮肤科中含刺络/放血/点刺者17例、拔罐11例。",
+      "en": "The dermatology formula is fixed: all 7 entries (reticular lymphangitis/erysipelas, neurodermatitis, urticaria, eczema, prurigo, herpes zoster, acne) begin with \"bleeding therapy\", at the eruption or lesion, or \"bleeding-cupping 2 cun either side of the spine\"; acne adds three-edged needle pricking along Huatuojiaji, neurodermatitis uses the skin needle; only then come channel points by pattern. Of 37 dermatology cases, 17 mention bleeding or pricking and 11 cupping.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ]
+    },
+    {
+      "zh": "他用“火热毒邪郁于血分”解释丹毒与红丝疔：“抓住火热毒邪和气血郁滞的关键，以清热解毒、活血通络、祛瘀生新为治疗原则”，运用刺络加针灸“以达到血去邪出”；“治疗红丝疔要配以刺络拔罐法”，大椎与红丝起点刺络，红丝沿线挑刺，经穴取灵台、身柱、曲池、尺泽、十宣。早期用可显著缩短病程。",
+      "en": "He explains erysipelas and red-line furuncle by \"fire-heat toxin lodged in the blood level\": \"grasp fire-toxin and qi-blood stagnation, principle clear heat, resolve toxin, activate blood, unblock the network, dispel stasis and generate the new\", using bleeding with needling \"so that blood goes out and evil goes out\"; \"red-line furuncle needs bleeding-cupping\", at Dazhui and the start of the red line, pricking along the line, with Lingtai, Shenzhu, Quchi, Chize, Shixuan. Applied early it markedly shortens the course.",
+      "cite": [
+        "E5",
+        "E6",
+        "E7"
+      ]
+    },
+    {
+      "zh": "带状疱疹是刺络的典型：疱疹部位“2~3处刺络拔罐”，另取双侧丰隆、阴陵泉；理由是皮部“以经脉为纪”，“刺之于血即可通过皮部以疏调本经气血，引邪外出”。原文称“不使用任何药物可痊愈”，“单独应用刺络疗法即可取得疗效”，一次治疗“即可大幅度减轻神经痛”。医案带状疱疹9例中6例用刺络类。",
+      "en": "Herpes zoster is the model of bleeding: 2-3 spots at the eruption are pricked and cupped, plus bilateral Fenglong and Yinlingquan; the reason is that the skin region \"takes the channel as its thread\", so \"bleeding it regulates qi and blood of the channel through the skin region and leads evil out\". The text says it can be \"cured without any drug\", \"bleeding alone is effective\", and one session \"greatly reduces neuralgia\". 6 of 9 zoster cases use bleeding-type technique.",
+      "cite": [
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "慢性瘙痒性皮肤病在刺络之外加调神与健脾：神经性皮炎“情志内伤、营血失和、经脉失疏是该病的内因，也是发病的关键”，治则“平衡阴阳、调神养血、祛风止痒”，情志内伤型取神门、四神聪、上星、百会；痒疹“治疗该病当先健脾，脾运湿消”，痒甚不得眠加神门、四神聪、太冲以宁心；荨麻疹分风寒、风热、气血两虚，湿疹分脾虚湿重与血虚风燥。此类病都提到易反复。",
+      "en": "Chronic itchy dermatoses add spirit regulation and spleen-strengthening to bleeding. Neurodermatitis: \"emotional injury, disharmony of ying blood and blocked channels is the inner cause and the key\", principle \"balance yin-yang, regulate the spirit, nourish blood, dispel wind, stop itch\", the emotional-injury type taking Shenmen, Sishencong, Shangxing, Baihui. Prurigo: \"treatment should first strengthen the spleen, spleen moves and damp resolves\", with Shenmen, Sishencong, Taichong to calm the heart when itch prevents sleep. Urticaria is split into wind-cold, wind-heat, qi-blood deficiency; eczema into spleen deficiency with damp and blood deficiency with dryness. All these are noted as prone to relapse.",
+      "cite": [
+        "E11",
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "zh": "痤疮从血热立论：“素体的血热是发病的根本”，过食肥甘则血郁痰结；肺胃蕴热型取尺泽、列缺、太渊、大椎，气血郁滞型取少商、尺泽、太白、足三里，痰瘀结聚型取血海、曲池、足三里、太溪，另沿华佗夹脊三棱针挑刺放血。青春期后常自然减轻。",
+      "en": "Acne is argued from blood heat: \"constitutional blood heat is the root\", with overeating of rich food causing blood stagnation and phlegm binding; lung-stomach accumulated heat takes Chize, Lieque, Taiyuan, Dazhui; qi-blood stagnation Shaoshang, Chize, Taibai, Zusanli; phlegm-stasis binding Xuehai, Quchi, Zusanli, Taixi; plus three-edged needle pricking along Huatuojiaji. It often eases by itself after puberty.",
+      "cite": [
+        "E14"
+      ]
+    },
+    {
+      "zh": "外科感染以排脓与清热为主：急性乳腺炎治则“清泻肝胃郁热、疏通经络”，取肩井、乳根、少泽、足三里、合谷，脓成用火针“取患乳肿之低位”穿刺排脓，“关键在于引流口通畅”；急性淋巴管炎取大椎、红丝起点刺络拔罐与沿红丝挑刺。",
+      "en": "Surgical infection turns on draining pus and clearing heat. Acute mastitis: principle \"clear liver-stomach stagnant heat, unblock the channels\"; Jianjing, Rugen, Shaoze, Zusanli, Hegu; when pus has formed, fire needle at \"the lowest point of the swollen breast\" to drain, \"the key is an open drainage channel\"; acute lymphangitis: bleeding-cupping at Dazhui and the start of the red line, pricking along the line.",
+      "cite": [
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "zh": "急腹症明确“适应证”：肠梗阻“应严格掌握适应证”，机械性、动力性、单纯性都属针刺范围，取俞募配穴大肠俞、小肠俞、天枢、关元加足三里、上巨虚，便闭不通另用丰隆与左侧水道、归来组，但“对病情变化者，不能采取保守治疗的，应尽快手术治疗，以免贻误病机”；阑尾炎分三期，取上巨虚、曲池、天枢、人中、支沟、阴陵泉、腹部压痛点，另用芒针，“症状严重，考虑有阑尾穿孔的可能，应及时转外科手术处理”。",
+      "en": "Acute abdomen carries explicit indications. Intestinal obstruction: \"strictly master the indications\"; mechanical, dynamic and simple types are within needling range; back-shu with front-mu pairs Dachangshu, Xiaochangshu, Tianshu, Guanyuan plus Zusanli, Shangjuxu, and for blocked stool Fenglong with the left-sided Shuidao and Guilai group; yet \"if the condition changes and conservative treatment fails, operate promptly so as not to miss the chance\". Appendicitis is treated in three stages with Shangjuxu, Quchi, Tianshu, Renzhong, Zhigou, Yinlingquan and the abdominal tender point, plus long needle; \"if symptoms are severe and perforation possible, transfer promptly to surgery\".",
+      "cite": [
+        "E17",
+        "E18",
+        "E19",
+        "E20"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "皮肤科与外科：病 → 治则 → 要穴 → 技术 → 预后",
+        "en": "Dermatology and surgery: disease → principle → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "治则",
+          "en": "Principle"
+        },
+        {
+          "zh": "要穴",
+          "en": "Key points"
+        },
+        {
+          "zh": "技术",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后备注",
+          "en": "Prognosis note"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "网状淋巴管炎(丹毒)",
+            "en": "Erysipelas"
+          },
+          {
+            "zh": "清热解毒、活血通络、祛瘀生新",
+            "en": "Clear heat, resolve toxin, activate blood, unblock, dispel stasis"
+          },
+          "大椎、双侧曲池；面部加风池、中渚、外关；胁腰加支沟、血海、委中；胫踝加丰隆、太冲",
+          {
+            "zh": "皮损中央与周围交替刺络拔罐",
+            "en": "Bleeding-cupping alternately at centre and edge of the lesion"
+          },
+          {
+            "zh": "及时治疗5~6日好转；刺络显著缩短疗程",
+            "en": "Improves in 5-6 days; bleeding shortens course"
+          }
+        ],
+        [
+          {
+            "zh": "急性淋巴管炎(红丝疔)",
+            "en": "Acute lymphangitis (red line)"
+          },
+          {
+            "zh": "清热凉血、解毒开窍",
+            "en": "Clear heat, cool blood, resolve toxin, open orifices"
+          },
+          "灵台、身柱、曲池、尺泽、十宣；大椎",
+          {
+            "zh": "大椎、红丝起点、井穴刺络拔罐；沿红丝挑刺",
+            "en": "Bleeding-cupping at Dazhui, line start, jing points; pricking along the line"
+          },
+          {
+            "zh": "及时治疗1~2日可愈",
+            "en": "1-2 days if prompt"
+          }
+        ],
+        [
+          {
+            "zh": "带状疱疹",
+            "en": "Herpes zoster"
+          },
+          {
+            "zh": "祛湿清热、消疹止痛",
+            "en": "Drain damp, clear heat, resolve rash, stop pain"
+          },
+          "双侧丰隆、阴陵泉",
+          {
+            "zh": "疱疹部位2~3处刺络拔罐",
+            "en": "Bleeding-cupping at 2-3 spots on the eruption"
+          },
+          {
+            "zh": "一次即可大幅减轻神经痛",
+            "en": "One session greatly reduces neuralgia"
+          }
+        ],
+        [
+          {
+            "zh": "神经性皮炎",
+            "en": "Neurodermatitis"
+          },
+          {
+            "zh": "平衡阴阳、调神养血、祛风止痒",
+            "en": "Balance yin-yang, regulate spirit, nourish blood, dispel wind, stop itch"
+          },
+          "风热：大椎、曲池、列缺、合谷；情志：神门、四神聪、上星、百会；血虚：血海、三阴交、足三里、风市",
+          {
+            "zh": "皮肤针叩刺皮疹或沿夹脊；局限皮损围刺",
+            "en": "Skin needle over lesion or along Jiaji; surround-needling"
+          },
+          {
+            "zh": "较难痊愈，易反复，须坚持",
+            "en": "Hard to cure, relapses; persist"
+          }
+        ],
+        [
+          {
+            "zh": "荨麻疹",
+            "en": "Urticaria"
+          },
+          {
+            "zh": "疏风固表、调和营卫、清营止痒",
+            "en": "Dispel wind, secure the surface, harmonise ying-wei, clear ying, stop itch"
+          },
+          "风寒：大椎、风池、肺俞、曲池、足三里；风热：大椎、风池、血海、神门；气血两虚：曲池、血海、三阴交、气海、关元",
+          {
+            "zh": "脊椎旁开2寸刺络拔罐",
+            "en": "Bleeding-cupping 2 cun beside the spine"
+          },
+          {
+            "zh": "慢性顽固者更有优势",
+            "en": "Especially for chronic, stubborn cases"
+          }
+        ],
+        [
+          {
+            "zh": "湿疹",
+            "en": "Eczema"
+          },
+          {
+            "zh": "(原文未列治则)分脾虚湿重、血虚风燥",
+            "en": "(No principle listed) spleen-damp or blood-dryness patterns"
+          },
+          "脾虚湿重：大椎、足三里、阴陵泉、合谷、曲池、丰隆、神门、四神聪；血虚风燥：足三里、血海、三阴交、曲池、神门",
+          {
+            "zh": "脊柱旁开2寸刺络拔罐；梅花针叩打",
+            "en": "Bleeding-cupping 2 cun beside spine; plum-blossom needle"
+          },
+          {
+            "zh": "易反复；慢性肥厚者刺络拔罐较好",
+            "en": "Relapses; bleeding-cupping better for thickened chronic lesions"
+          }
+        ],
+        [
+          {
+            "zh": "痒疹",
+            "en": "Prurigo"
+          },
+          {
+            "zh": "宁心止痒、除湿解毒、活血散结",
+            "en": "Calm heart, stop itch, drain damp, resolve toxin, activate blood, scatter nodules"
+          },
+          "脾虚湿盛：足三里、阴陵泉、曲池、丰隆；心神不宁：神门、三阴交、四神聪、太冲；瘀血：血海、膈俞、行间",
+          {
+            "zh": "脊柱旁开2寸刺络拔罐；皮损围刺",
+            "en": "Bleeding-cupping beside spine; surround-needling"
+          },
+          {
+            "zh": "病程长，止痒效果良好",
+            "en": "Long course; itch relief good"
+          }
+        ],
+        [
+          {
+            "zh": "寻常痤疮",
+            "en": "Acne vulgaris"
+          },
+          {
+            "zh": "疏风通络、泻肺清胃、凉血解毒",
+            "en": "Dispel wind, unblock, drain lung and stomach, cool blood, resolve toxin"
+          },
+          "肺胃蕴热：尺泽、列缺、太渊、大椎；气血郁滞：少商、尺泽、太白、足三里；痰瘀：血海、曲池、足三里、太溪",
+          {
+            "zh": "沿华佗夹脊三棱针挑刺放血；旁开2寸刺络拔罐",
+            "en": "Three-edged pricking along Huatuojiaji; bleeding-cupping beside spine"
+          },
+          {
+            "zh": "青春期后常自然减轻",
+            "en": "Often eases after puberty"
+          }
+        ],
+        [
+          {
+            "zh": "急性乳腺炎",
+            "en": "Acute mastitis"
+          },
+          {
+            "zh": "清泻肝胃郁热、疏通经络",
+            "en": "Drain liver-stomach heat, unblock channels"
+          },
+          "肩井、乳根、少泽、足三里、合谷、足临泣、外关",
+          {
+            "zh": "脓成火针穿刺排脓，引流口须通畅",
+            "en": "Fire-needle drainage once pus forms; keep the channel open"
+          },
+          {
+            "zh": "针刺可促炎症消散、加速排脓",
+            "en": "Speeds resolution and drainage"
+          }
+        ],
+        [
+          {
+            "zh": "肠梗阻",
+            "en": "Intestinal obstruction"
+          },
+          {
+            "zh": "开闭止痛、通利腑气",
+            "en": "Open the blockage, stop pain, free fu qi"
+          },
+          "大肠俞、小肠俞、天枢、关元、足三里、上巨虚；丰隆、左水道、左归来",
+          {
+            "zh": "电针、穴位注射、耳针；严格量学",
+            "en": "Electro-acupuncture, point injection, auricular; strict quantification"
+          },
+          {
+            "zh": "病情变化须尽快手术",
+            "en": "Operate promptly if the condition changes"
+          }
+        ],
+        [
+          {
+            "zh": "阑尾炎",
+            "en": "Appendicitis"
+          },
+          {
+            "zh": "清热解毒、行气化瘀",
+            "en": "Clear heat, resolve toxin, move qi, resolve stasis"
+          },
+          "上巨虚、曲池、天枢、人中、支沟、阴陵泉、腹部压痛点",
+          {
+            "zh": "芒针(阑尾穴、天枢、气海)；电针；分三期",
+            "en": "Long needle; electro-acupuncture; three stages"
+          },
+          {
+            "zh": "单纯性较好；疑穿孔转外科",
+            "en": "Simple cases good; transfer if perforation is suspected"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "52例皮肤科(37)与外科(15)医案的技术与治则计数",
+        "en": "Technique and principle counts across 52 dermatology (37) and surgical (15) cases"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "皮肤科(37)",
+          "en": "Derm (37)"
+        },
+        {
+          "zh": "外科(15)",
+          "en": "Surgery (15)"
+        }
+      ],
+      "rows": [
+        [
+          "刺络/放血/点刺/三棱针/挑刺",
+          "17",
+          "5"
+        ],
+        [
+          "拔罐",
+          "11",
+          "5"
+        ],
+        [
+          "皮肤针/梅花针",
+          "2",
+          "0"
+        ],
+        [
+          "灸",
+          "1",
+          "0"
+        ],
+        [
+          "耳针/耳穴",
+          "8",
+          "0"
+        ],
+        [
+          "用曲池",
+          "10",
+          "7"
+        ],
+        [
+          "用大椎",
+          "9",
+          "3"
+        ],
+        [
+          "用血海",
+          "7",
+          "2"
+        ],
+        [
+          "用足三里",
+          "7",
+          "6"
+        ],
+        [
+          "治则含清热/解毒/泻火",
+          "22",
+          "5"
+        ],
+        [
+          "治则含祛风/疏风/息风",
+          "17",
+          "0"
+        ],
+        [
+          "治则含利湿/祛湿/除湿",
+          "12",
+          "1"
+        ],
+        [
+          "治则含活血/化瘀/祛瘀",
+          "11",
+          "7"
+        ],
+        [
+          "治则含益气/养血/补益",
+          "6",
+          "0"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "沿脊椎旁开左右各2寸刺络拔罐",
+      "src": "石学敏针灸全集·治疗各论·荨麻疹 p.555"
+    },
+    {
+      "id": "E2",
+      "quote": "脊柱旁开左右2寸刺络拔罐",
+      "src": "石学敏针灸全集·治疗各论·湿疹 p.558"
+    },
+    {
+      "id": "E3",
+      "quote": "用皮肤针移动叩刺皮疹局部，或用皮肤针沿华佗夹脊叩击",
+      "src": "石学敏针灸全集·治疗各论·神经性皮炎 p.553"
+    },
+    {
+      "id": "E4",
+      "quote": "沿华佗脊用三棱针挑刺放血，脊柱左右旁开2寸刺络拔罐",
+      "src": "石学敏针灸全集·治疗各论·寻常痤疮 p.561"
+    },
+    {
+      "id": "E5",
+      "quote": "石学敏院士认为：丹毒是火热毒邪郁于血分，发于肌肤而成",
+      "src": "石学敏针灸全集·治疗各论·网状淋巴管炎 p.551"
+    },
+    {
+      "id": "E6",
+      "quote": "抓住火热毒邪和气血郁滞的关键，以清热解毒、活血通络、祛瘀生新为治疗原则，运用刺络疗法及针灸配伍相结合",
+      "src": "石学敏针灸全集·治疗各论·网状淋巴管炎 p.552"
+    },
+    {
+      "id": "E7",
+      "quote": "石教授特别指出治疗红丝疗要配以刺络拔罐法",
+      "src": "石学敏针灸全集·治疗各论·急性淋巴管炎 p.564"
+    },
+    {
+      "id": "E8",
+      "quote": "循其皮部发病部位，刺之于血即可通过皮部以疏调本经气血，引邪外出",
+      "src": "石学敏针灸全集·治疗各论·带状疱疹 p.560"
+    },
+    {
+      "id": "E9",
+      "quote": "石学敏院士运用刺络疗法配合针灸，有卓著疗效，且取效快，不使用任何药物可痊愈",
+      "src": "石学敏针灸全集·治疗各论·带状疱疹 p.560"
+    },
+    {
+      "id": "E10",
+      "quote": "该病单独应用刺络疗法即可取得疗效，治愈带状疱疹，缩短疗程",
+      "src": "石学敏针灸全集·治疗各论·带状疱疹 p.560"
+    },
+    {
+      "id": "E11",
+      "quote": "情志内伤、营血失和、经脉失疏是该病的内因，也是发病的关键",
+      "src": "石学敏针灸全集·治疗各论·神经性皮炎 p.553"
+    },
+    {
+      "id": "E12",
+      "quote": "所以治疗该病当先健脾，脾运湿消",
+      "src": "石学敏针灸全集·治疗各论·痒疹 p.559"
+    },
+    {
+      "id": "E13",
+      "quote": "该病较难痊愈，易反复发作，需坚持治疗",
+      "src": "石学敏针灸全集·治疗各论·神经性皮炎 p.554"
+    },
+    {
+      "id": "E14",
+      "quote": "素体的血热是发病的根本",
+      "src": "石学敏针灸全集·治疗各论·寻常痤疮 p.562"
+    },
+    {
+      "id": "E15",
+      "quote": "石学敏院士治疗急性乳腺炎，使用火针治疗，疗效较为理想",
+      "src": "石学敏针灸全集·治疗各论·急性乳腺炎 p.565"
+    },
+    {
+      "id": "E16",
+      "quote": "使用火针治疗急性乳腺炎，关键在于引流口通畅",
+      "src": "石学敏针灸全集·治疗各论·急性乳腺炎 p.565"
+    },
+    {
+      "id": "E17",
+      "quote": "他指出治疗肠梗阻应严格掌握适应证",
+      "src": "石学敏针灸全集·治疗各论·肠梗阻 p.567"
+    },
+    {
+      "id": "E18",
+      "quote": "对病情变化者，不能采取保守治疗的，应尽快手术治疗，以免贻误病机",
+      "src": "石学敏针灸全集·治疗各论·肠梗阻 p.567"
+    },
+    {
+      "id": "E19",
+      "quote": "石教授强调针刺治疗急性阑尾炎，应严格掌握适应证",
+      "src": "石学敏针灸全集·治疗各论·阑尾炎 p.569"
+    },
+    {
+      "id": "E20",
+      "quote": "若症状严重，考虑有阑尾穿孔的可能，应及时转外科手术处理",
+      "src": "石学敏针灸全集·治疗各论·阑尾炎 p.569"
+    }
+  ],
+  "caveats": {
+    "zh": "带状疱疹“不使用任何药物可痊愈”“数百例病例”是石学敏团队的经验陈述，不是对照研究结论。两本书对皮肤病名称不同(全集“网状淋巴管炎”“神经性皮炎”，实用针灸学“丹毒”“牛皮癣”“隐疹”等)，本指南以全集为主。外科条目的医案计数中皮肤科医案许多不列选穴(刺络只写部位)，用穴计数偏低。“红丝疔”在原文OCR作“红丝疗”，引文按原样保留。",
+    "en": "The claims for herpes zoster (\"cured without any drug\", \"several hundred cases\") are his team's experience statements, not controlled-study conclusions. The two books name skin diseases differently (complete collection: reticular lymphangitis, neurodermatitis; practical text: erysipelas, niupi-xuan, yinzhen and so on); this guide leads with the complete collection. Many dermatology cases list bleeding sites without channel points, so point counts run low. \"Red-line furuncle\" is OCR-printed with a different final character in one quote, kept as printed."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-056",
+      "sxm-rx-063",
+      "sxm-rx-061",
+      "sxm-rx-057",
+      "sxm-rx-058",
+      "sxm-rx-059",
+      "sxm-rx-060",
+      "sxm-rx-062",
+      "sxm-rx-064",
+      "sxm-rx-065",
+      "sxm-rx-066"
+    ],
+    "cases": [
+      "sxm-441",
+      "sxm-457",
+      "sxm-445",
+      "sxm-467",
+      "sxm-481",
+      "sxm-482"
+    ],
+    "points": [
+      "曲池",
+      "足三里",
+      "大椎",
+      "血海",
+      "太冲",
+      "合谷",
+      "神门",
+      "阴陵泉",
+      "丰隆",
+      "三阴交"
+    ]
+  }
+}

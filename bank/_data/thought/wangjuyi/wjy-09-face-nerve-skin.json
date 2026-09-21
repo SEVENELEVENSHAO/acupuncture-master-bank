@@ -1,0 +1,124 @@
+{
+  "id": "wjy-09-face-nerve-skin",
+  "doctor": "wangjuyi",
+  "group": { "zh": "分科心得", "en": "By condition group" },
+  "order": 9,
+  "title": {
+    "zh": "神经与带状疱疹：前顶、头部腧穴的解剖、针感四要求与面瘫的分期辨经",
+    "en": "Nerve Disorders and Herpes Zoster: Qianding, Scalp-point Anatomy, Four Demands on De Qi, and Staged Channel Differentiation of Facial Palsy"
+  },
+  "summary": {
+    "zh": "这一章的絮语从一次带状疱疹的偶然发现讲起，引出前顶、后顶、百会三穴的区别，再谈头部穴的解剖特点(层浅、脉细、要搓针、针尖到骨膜上)和他的针感四要求(定位准、找有反应的穴、深度、传导方向与长度)；面瘫部分强调早期先辨经、先治乳突部炎症、禁针面部，并按风寒(太阳经)、风热(阳明经)分类。",
+    "en": "The essays begin with a chance finding in herpes zoster and lead to what separates Qianding, Houding and Baihui, then the anatomy of scalp points (shallow, fine vessels, cuo needling, tip down to the periosteum) and his four demands on needling sensation (accurate location, a reactive point, depth, direction and length of transmission). On facial palsy he stresses early channel differentiation, treating mastoid inflammation first, avoiding the face early, and sorting by wind-cold (Taiyang) and wind-heat (Yangming)."
+  },
+  "takeaways": [
+    {
+      "zh": "前顶清热解毒的发现：一位38岁男子小腹、阴部严重带状疱疹，住院1周抗炎、维生素、止痛无效，走路时两腿要叉开。他诊断为肝胆湿浊热毒，单针前顶、做搓针法后疼痛明显减轻、即刻能正常走路，走了一段时间再搓针1次，疼痛完全消失。前顶位于囟会往后循摸矢状缝上的凹陷处，离囟会的距离因人的解剖而异。",
+      "en": "How Qianding's heat-clearing, detoxifying action was found: a 38-year-old man had severe zoster on the lower abdomen and genitals and, after a week of anti-inflammatory, vitamin and analgesic treatment in hospital, could not walk without spreading his legs. He diagnosed liver-gallbladder damp-turbid heat toxin, needled Qianding alone with cuo technique, and pain eased markedly so that he could walk normally at once; after walking a while a second cuo needling removed the pain completely. Qianding lies in the depression on the sagittal suture found by palpating backward from Xinhui, its distance from Xinhui varying with individual anatomy.",
+      "cite": ["E1", "E2", "E3"]
+    },
+    {
+      "zh": "后顶、百会、前顶三穴各管一类：三穴都在颅骨上，针刺相对安全。前顶与百会皆能升清，但前顶还能补气清热；后顶能温经散寒、舒筋通络、行气止痛、活血化瘀。后顶治肌腱韧带病变(筋出槽、位移、痉挛)；百会治内脏下垂、阳气下陷(气短、久泄、脱肛、尿频)；前顶升清降浊，可改善脑部血液循环，清醒头脑，对中风后遗症的头昏沉、记忆差也常用。他说这些理论认识只是“初步的”。",
+      "en": "Houding, Baihui and Qianding each cover a different area: all three lie on the skull, so needling is relatively safe. Qianding and Baihui both raise the clear, but Qianding also supplements qi and clears heat; Houding warms channels and dispels cold, relaxes sinews, moves qi to relieve pain and invigorates blood. Houding treats tendon and ligament lesions (sinew out of groove, displacement, spasm); Baihui treats organ prolapse and sunken yang (shortness of breath, chronic diarrhoea, rectal prolapse, frequent urination); Qianding raises the clear and lowers the turbid, improves cerebral circulation and clears the head, and is often used for post-stroke muddled head and poor memory. He calls this understanding only preliminary.",
+      "cite": ["E4", "E5", "E6", "E7", "E8", "E30"]
+    },
+    {
+      "zh": "头部穴的解剖决定针法：《内经》说发际内的穴多为“脉气所发”；头部没有肌肉、层次不深，经脉气较浅，在皮筋之间，血供分散细小。因此头皮针刺必须用搓针，深度要合适，针尖到骨膜上、筋膜下，不能太浅；头皮薄的人容易刺到皮浅层，疼而效果差。",
+      "en": "Scalp anatomy dictates the needling: the Neijing calls many points inside the hairline places where 'channel qi issues'; the head has no muscle and few layers, so channel qi is shallow, between skin and sinew, and the blood supply is scattered and fine. Scalp needling therefore needs the cuo technique at a suitable depth, the tip down to the periosteum beneath the fascia, not too shallow; in thin scalps it is easy to hit the superficial skin layer, which hurts and works poorly.",
+      "cite": ["E9", "E10", "E11"]
+    },
+    {
+      "zh": "针感四要求决定疗效：一，准确定位——穴皆在缝隙里，位置不准则理解病机再好、选经配穴再适当也没有针感、没有疗效；二，取对症候有明显反应的穴(酸痛、结节，或能使症候改变)；三，针刺深度——同一穴在不同人、不同时段、不同季节或身体状态得气深度都不同，须靠提插去找；四，针感传导的方向和长度——每穴方向不同，长度要求一样，传得越远效果越好。",
+      "en": "Four demands on needling sensation decide the effect. One, accurate location: points lie in gaps, and if the position is off, however good the pathomechanism and point combination there is no sensation and no effect. Two, choose points that react clearly to the symptom (sore, nodular, or able to change the symptom). Three, depth: the de qi depth of one point differs between people, times, seasons and body states and must be found by lifting and thrusting. Four, direction and length of transmission: each point has its own direction, but the length demand is the same, and the further it travels the better.",
+      "cite": ["E27", "E12", "E13", "E14", "E15"]
+    },
+    {
+      "zh": "面瘫要靠察经，不能只想阳明：本部分4位周围性面瘫患者病因、病程不同——李某以太阳经为主伴阳明经，徐某以少阳、阳明经为主且由带状疱疹引起，金某以太阳、少阳、阳明经，王某以阳明、少阳经并累及厥阴经。他说这说明经络诊察非常重要。",
+      "en": "Facial palsy needs channel palpation, not a reflex to Yangming: the four peripheral-palsy patients in this section differed in cause and duration; Li mainly Taiyang with Yangming, Xu mainly Shaoyang and Yangming and caused by zoster, Jin Taiyang, Shaoyang and Yangming, Wang Yangming and Shaoyang involving Jueyin. He says this shows how important channel palpation is.",
+      "cite": ["E16", "E17"]
+    },
+    {
+      "zh": "早期先治乳突部，不要急于局部取穴：发病前期有乳突部疼痛时，先察乳突部的太阳经、少阳经(天柱、玉枕、完骨、风池、脑空，个别在风府、大椎)；治急性乳突炎症以患侧乳突部穴为主，禁用面部穴，可在太阳经井穴放血；他认为很多慢性面瘫后遗症是医生忽视乳突发炎，造成面神经营养障碍所致，发病越短恢复越快。“先治急性炎症”，疼痛消失或缓解后才取局部穴。",
+      "en": "Treat the mastoid first in the early stage and do not rush to local points: when mastoid pain is present early, palpate the Taiyang and Shaoyang channels at the mastoid (Tianzhu, Yuzhen, Wangu, Fengchi, Naokong, occasionally Fengfu and Dazhui); for acute mastoid inflammation use mainly points of the affected mastoid, avoid facial points, and the Taiyang jing-well may be bled. He holds that many chronic sequelae arise because the doctor ignored mastoid inflammation, starving the facial nerve, and that the shorter the onset the faster the recovery. Treat the acute inflammation first; take local points once the pain has gone or eased.",
+      "cite": ["E18", "E19", "E20", "E21", "E28", "E31"]
+    },
+    {
+      "zh": "面瘫按病因分类选经：中枢性(多见脑血管病)在脑血管病控制后可自愈，可取通里、照海通脑络；针灸科常见的是周围性，病因分风寒和风热。风寒大多侵太阳经(并可牵连少阳)；风热多为病毒感染、以阳明经为主。风热早期浅刺额部穴(患侧头维、颔厌)，在患侧商阳放血清热解毒，针患侧合谷、曲池、足三里，恢复期以面部穴为主。",
+      "en": "Facial palsy is sorted by cause. Central palsy (mostly cerebrovascular) recovers by itself once the vascular disease is controlled, and Tongli and Zhaohai may be used to open the brain collaterals; peripheral palsy is what acupuncturists usually see, caused by wind-cold or wind-heat. Wind-cold mostly attacks the Taiyang channel (and can involve Shaoyang); wind-heat is usually viral and mainly Yangming. In wind-heat, early on needle the forehead shallowly (affected-side Touwei, Hanyan), bleed Shangyang on the affected side to clear heat and detoxify, needle Hegu, Quchi and Zusanli on that side, and in recovery use mainly facial points.",
+      "cite": ["E22", "E23", "E24", "E25", "E26"]
+    }
+  ],
+  "tables": [
+    {
+      "title": { "zh": "表1 后顶、百会、前顶的比较(《后顶、百会、前顶三个腧穴的比较》)", "en": "Table 1. Houding, Baihui and Qianding compared" },
+      "cols": [
+        { "zh": "穴", "en": "Point" },
+        { "zh": "他说的作用", "en": "Actions he states" },
+        { "zh": "他说的主治", "en": "Indications he states" }
+      ],
+      "rows": [
+        [{ "zh": "前顶", "en": "Qianding" }, { "zh": "升清降浊(提升阳气、排除代谢物)，补气清热；位于囟会后循摸矢状缝凹陷", "en": "Raises clear and lowers turbid (lifts yang, clears waste), supplements qi, clears heat; on the sagittal suture, found by palpation behind Xinhui" }, { "zh": "虚型带状疱疹；头昏沉、用脑疲劳、记忆差；脑供血差、中风后遗症的头部供血不足", "en": "Deficient-type zoster; muddled head, mental fatigue, poor memory; poor cerebral supply and post-stroke head hypoperfusion" }],
+        [{ "zh": "百会", "en": "Baihui" }, { "zh": "诸阳之会，与前后肌腱韧带相联系；益气升阳", "en": "Meeting of the yang; connected with tendons and ligaments front and back; boosts qi and lifts yang" }, { "zh": "内脏下垂、阳气下陷(气短、气不足、腹泻、久泄、脱肛、尿频)", "en": "Organ prolapse, sunken yang (short of breath, weak qi, diarrhoea, chronic diarrhoea, rectal prolapse, frequent urination)" }],
+        [{ "zh": "后顶", "en": "Houding" }, { "zh": "温经散寒、舒筋通络、行气止痛、活血化瘀；使异常的肌肉肌腱韧带松弛", "en": "Warms channels and dispels cold, relaxes sinews, moves qi to stop pain, invigorates blood; relaxes abnormal muscles, tendons and ligaments" }, { "zh": "肌腱韧带病变(筋出槽、位移、痉挛，急慢性)；督脉及项、背、腰、下肢的经筋病；针刺时需配合病变部位活动", "en": "Tendon and ligament lesions (sinew out of groove, displacement, spasm, acute or chronic); Du channel and neck, back, waist and leg sinew disease; needle together with movement of the affected part" }]
+      ]
+    },
+    {
+      "title": { "zh": "表2 面瘫的分类、分期与选穴(《关于针灸治疗面瘫的体会》)", "en": "Table 2. Facial palsy: type, stage and points" },
+      "cols": [
+        { "zh": "类型", "en": "Type" },
+        { "zh": "主经", "en": "Main channel" },
+        { "zh": "早期", "en": "Early stage" },
+        { "zh": "恢复期", "en": "Recovery stage" }
+      ],
+      "rows": [
+        [{ "zh": "中枢性(多见脑血管病)", "en": "Central (mostly cerebrovascular)" }, { "zh": "—", "en": "—" }, { "zh": "脑血管病控制后可自我恢复；可取通里、照海，通脑络", "en": "Recovers itself once the vascular disease is controlled; Tongli and Zhaohai open the brain collaterals" }, { "zh": "—", "en": "—" }],
+        [{ "zh": "周围性·风寒(疲劳时受风寒)", "en": "Peripheral, wind-cold (after fatigue)" }, { "zh": "太阳经，可牵连少阳", "en": "Taiyang, may involve Shaoyang" }, { "zh": "先察乳突部：天柱、玉枕、完骨、风池、脑空；太阳经井穴放血；虚加患侧太阳经原穴；可取患侧通天、曲差；风寒加灸大椎；禁用面部穴", "en": "Palpate the mastoid first: Tianzhu, Yuzhen, Wangu, Fengchi, Naokong; bleed the Taiyang jing-well; add the affected-side Taiyang source point if deficient; affected-side Tongtian, Qucha; moxa Dazhui for wind-cold; avoid facial points" }, { "zh": "乳突疼痛消失后取面部穴", "en": "Facial points once mastoid pain is gone" }],
+        [{ "zh": "周围性·风热(病毒感染)", "en": "Peripheral, wind-heat (viral)" }, { "zh": "阳明经，可及少阳、太阳", "en": "Yangming, may include Shaoyang, Taiyang" }, { "zh": "乳突胀痛取最敏感的穴(天柱、风池、玉枕、脑空)；浅刺额部穴(头维、颔厌)；患侧商阳放血；合谷、曲池、足三里(足三里可血罐)；禁针面部", "en": "For mastoid swelling take the most sensitive points (Tianzhu, Fengchi, Yuzhen, Naokong); shallow forehead points (Touwei, Hanyan); bleed affected-side Shangyang; Hegu, Quchi, Zusanli (Zusanli may be cupped for blood); avoid the face" }, { "zh": "以取面部穴为主", "en": "Mainly facial points" }]
+      ]
+    }
+  ],
+  "evidence": [
+    { "id": "E1", "quote": "诊断为肝胆湿浊热毒，单针刺前顶穴，做搓针法之后疼痛明显减轻，即刻能正常走路", "src": "王居易针灸医案讲习录·诊后絮语·怎样发现了前顶的清热解毒作用 p.70" },
+    { "id": "E2", "quote": "又在前顶做1次搓针法，随后疼痛完全消失", "src": "王居易针灸医案讲习录·诊后絮语·怎样发现了前顶的清热解毒作用 p.70" },
+    { "id": "E3", "quote": "前顶位于头顶，卤会往后循摸出失状缝上的凹陷处，离卤会的具体距离根据个人的解部有差异", "src": "王居易针灸医案讲习录·诊后絮语·前顶穴的取穴方法 p.70" },
+    { "id": "E4", "quote": "前顶与百会皆能升清，但前顶亦能补气清热，后顶能温经散寒、舒筋通络、行气止痛、活血化瘀", "src": "王居易针灸医案讲习录·诊后絮语·后顶、百会、前顶三个腧穴的比较 p.70" },
+    { "id": "E5", "quote": "后顶穴主要治疗肌腱和韧带的病变，包括肌的位置变化（筋出槽、位移）、痉挛，急性、慢性皆有疗效", "src": "王居易针灸医案讲习录·诊后絮语·后顶、百会、前顶三个腧穴的比较 p.71" },
+    { "id": "E6", "quote": "后顶治疗身体脉肉筋骨的问题（肌腱、韧带），而百会对内脏有益气升阳的功能，能治疗内脏下垂，阳气下陷", "src": "王居易针灸医案讲习录·诊后絮语·后顶、百会、前顶三个腧穴的比较 p.71" },
+    { "id": "E7", "quote": "前顶有升清降浊的作用。升清指提升阳气；降浊指排除代谢物（废物）", "src": "王居易针灸医案讲习录·诊后絮语·后顶、百会、前顶三个腧穴的比较 p.71" },
+    { "id": "E8", "quote": "针刺前顶可明显改善脑部血液循环，使大脑感觉清醒", "src": "王居易针灸医案讲习录·诊后絮语·后顶、百会、前顶三个腧穴的比较 p.71" },
+    { "id": "E9", "quote": "头部没有肌肉，层次不深，所以在头部经脉气较浅，在皮筋之间", "src": "王居易针灸医案讲习录·诊后絮语·头部解剖结构与针刺疗效的关系 p.71" },
+    { "id": "E10", "quote": "《黄帝内经》解释，头部在发际之内的穴多为“脉气所发”", "src": "王居易针灸医案讲习录·诊后絮语·头部解剖结构与针刺疗效的关系 p.71" },
+    { "id": "E11", "quote": "针刺头皮时必须用“搓针”的手法，而且针刺的深度要合适，针尖应到骨膜上、筋膜下的层次，不能太浅", "src": "王居易针灸医案讲习录·诊后絮语·头部解剖结构与针刺疗效的关系 p.72" },
+    { "id": "E12", "quote": "如果对穴结构理解得不够，位置取得不准，理解病机再好、选经配穴再适当也没有用，因为不会有针感，无针感就无理想疗效", "src": "王居易针灸医案讲习录·诊后絮语·针感的要求 p.72" },
+    { "id": "E13", "quote": "第二个要求是寻找对某症候有明显反应的相应穴，即有酸痛感的，或有反应的（如结节等），或能使症候产生改变的穴", "src": "王居易针灸医案讲习录·诊后絮语·针感的要求 p.72" },
+    { "id": "E14", "quote": "穴的深度在不同的季节或身体状态下也会产生变动", "src": "王居易针灸医案讲习录·诊后絮语·针感的要求 p.72" },
+    { "id": "E15", "quote": "每个穴都有不同的针感方向的要求，但长度的要求是一样的。针感传导的距离越长效果越好", "src": "王居易针灸医案讲习录·诊后絮语·针感的要求 p.73" },
+    { "id": "E16", "quote": "李某的病以太阳经为主伴阳明经异常；徐某以少阳经和阳明经异常为主，而且是由于带状疱疹导致的", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.73" },
+    { "id": "E17", "quote": "这说明经络诊察非常重要", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.73" },
+    { "id": "E18", "quote": "在发病前期，有乳突部疼痛时，应仔细察乳突部的经络", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.73" },
+    { "id": "E19", "quote": "治疗急性乳突炎症时以患侧乳突部的穴为主，禁用面部穴，可考虑在太阳经井穴放血，引阳通络", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.73" },
+    { "id": "E20", "quote": "很多慢性面神经麻痹的后遗症是由于接诊医生忽视乳突发炎情况，造成面神经的营养障碍", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.73" },
+    { "id": "E21", "quote": "先治急性炎症，供应面神经营养当疼痛消失或缓解，可以取局部穴位。不要急于在局部取穴治疗", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.73" },
+    { "id": "E22", "quote": "脑血管病获得控制或好转以后能自我恢复，可取通里、照海，通脑络", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.73" },
+    { "id": "E23", "quote": "风寒外邪大多侵袭太阳经，与太阳经的走向和属性有关", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.74" },
+    { "id": "E24", "quote": "风热导致的周围性面神经麻痹常为病毒感染，以阳明经为主", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.74" },
+    { "id": "E25", "quote": "早期也可考虑在患侧商阳放血以清热解毒，针患侧合谷、曲池、足三里", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.74" },
+    { "id": "E26", "quote": "早期禁针面部，但可浅刺额部穴，如患侧头维、领厌等", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.74" },
+    { "id": "E27", "quote": "穴皆在缝隙里，摸得越准，疗效越好", "src": "王居易针灸医案讲习录·诊后絮语·针感的要求 p.72" },
+    { "id": "E28", "quote": "早期先治乳突部疼痛。恢复期乳突部疼痛消失以后可治局部面神经麻痹", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.74" },
+    { "id": "E30", "quote": "关于前顶、百会、后顶穴的认识，特别是理论层次上的认识，仅仅是初步的，尚需大量临床观察、实验研究才能逐步深化", "src": "王居易针灸医案讲习录·诊后絮语·头部解剖结构与针刺疗效的关系(按语) p.72" },
+    { "id": "E31", "quote": "病因基本分两种：风寒和风热", "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.74" }
+  ],
+  "how_to_use": {
+    "zh": "头部穴先按表1区分三穴的方向(后顶治筋、百会升阳、前顶升清降浊)，再按“头部解剖”的要求用搓针、针尖到骨膜上；每穴都按针感四要求检查一遍。面瘫先看是中枢还是周围、是风寒还是风热，早期先处理乳突部，恢复期再取面部穴(表2)。",
+    "en": "For scalp points first separate the three by direction (Houding for sinew, Baihui for lifting yang, Qianding for raising clear and lowering turbid), then needle with cuo to the periosteum as his anatomy requires, checking each point against the four demands. For facial palsy decide central or peripheral, wind-cold or wind-heat, deal with the mastoid first, and use facial points only in recovery (Table 2)."
+  },
+  "caveats": {
+    "zh": "前顶的作用和三穴比较是他自称“初步的”认识，来自个人临床观察。原文“卤会”“失状缝”“领厌”即囟会、矢状缝、颔厌(OCR或原用字)，“太阳经井穴”未说明手足；“周围性面瘫约占95%以上”一句在OCR中被页眉打断，此处未引用数字。带状疱疹的前顶病例是一例的印象，不是系列统计。",
+    "en": "The actions of Qianding and the three-point comparison are, in his words, preliminary, drawn from personal clinical observation. 卤会, 失状缝 and 领厌 in the source are Xinhui, the sagittal suture and Hanyan (OCR or the author's spelling); 'Taiyang jing-well' is not specified as hand or foot; the '95% or more' figure for peripheral palsy is interrupted by a page header in the OCR and is not quoted here. The zoster case for Qianding is a single-case impression, not a series."
+  },
+  "see": {
+    "cases": ["wjy-028", "wjy-029", "wjy-030", "wjy-033", "wjy-034", "wjy-035", "wjy-036", "wjy-037"],
+    "points": ["前顶", "后顶", "百会", "囟会", "天柱", "完骨", "风池", "玉枕", "头维", "合谷", "商阳", "通里"]
+  }
+}

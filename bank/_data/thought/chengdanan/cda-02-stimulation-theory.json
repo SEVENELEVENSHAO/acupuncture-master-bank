@@ -1,0 +1,532 @@
+{
+  "id": "cda-02-stimulation-theory",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "针灸原理",
+    "en": "Principles"
+  },
+  "order": 2,
+  "title": {
+    "zh": "刺激与反射：针灸为何有效",
+    "en": "Stimulation and Reflex: Why Acupuncture Works"
+  },
+  "summary": {
+    "zh": "他把针灸归结为神经刺激：针是“器械的神经刺激术”，灸是“温热的神经刺激术”，或兴奋、或镇静、或诱导，经反射调节神经功能之变常；血管先缩后张、白细胞与免疫物增加是证据，针灸类比蛋白体疗法，经穴多与黑特氏带一致。",
+    "en": "He reduces acupuncture to nerve stimulation: the needle is a 'mechanical nerve-stimulation art', moxa a 'thermal' one; stimulation excites, calms or induces, adjusting deranged nerve function by reflex. Vessels first constrict then dilate, white cells and immune substances rise, and needling/moxa is likened to protein therapy; the points largely coincide with Head's zones."
+  },
+  "takeaways": [
+    {
+      "zh": "总原理：人的生活与百般功能由神经主宰，所以针(器械的)与灸(温热的)都是神经刺激术；刺激或为兴奋、或为镇静，通过“反射的或诱导的”途径调节神经功能之变常，对功能性疾患和一部分器质性疾患有效。",
+      "en": "General principle: nerves govern life and all functions, so needle (mechanical) and moxa (thermal) are both nerve-stimulation arts; stimulation excites or calms, through 'reflex or inducing' routes adjusting deranged nerve function, effective for functional and some organic disease.",
+      "cite": [
+        "C1",
+        "C2"
+      ]
+    },
+    {
+      "zh": "针的治疗作用只有三类：兴奋、镇静、诱导，具体表现由刺激程度决定；对细胞组织与神经功能衰弱者用兴奋术，对亢进、痉挛者用制止术。",
+      "en": "Needling has just three therapeutic effects: excitation, calming and induction, determined by stimulus intensity; excitation for weakened cells and nerves, inhibition for hyperactivity and spasm.",
+      "cite": [
+        "C3",
+        "C4",
+        "C5"
+      ]
+    },
+    {
+      "zh": "反射：深部神经不能直接刺激，就刺激与之相关的浅部神经，把兴奋传达过去。例：脑充血时，刺激风池、足三里，通过反射使脑血管收缩；腹部内脏充血，则刺针足部，使扩张的内脏血管收缩、血液被诱导向下肢。",
+      "en": "Reflex: deep nerves cannot be stimulated directly, so related superficial nerves are stimulated to relay the excitation. E.g. in cerebral congestion, stimulating Fengchi and Zusanli constricts brain vessels by reflex; in abdominal visceral congestion, needling the foot constricts dilated visceral vessels and draws blood to the leg.",
+      "cite": [
+        "C6",
+        "C7",
+        "C8"
+      ]
+    },
+    {
+      "zh": "针的生理反应有固定的清单：血管先收缩、继则扩张；抑制肠蠕动；白细胞增加、促进免疫物产生；旺盛肾脏分泌；对运动神经先引起肌肉挛缩，若连续刺激不止则兴奋性衰沉，发生肌肉麻痹。",
+      "en": "Needling's physiological responses form a fixed list: vessels constrict then dilate; intestinal peristalsis is inhibited; white cells rise and immune substances are promoted; renal secretion increases; on motor nerves it first causes contracture but, if stimulation is continuous, excitability fades and paralysis results.",
+      "cite": [
+        "C9",
+        "C10",
+        "C11"
+      ]
+    },
+    {
+      "zh": "灸的机理与针同属神经刺激，但着重温热引起的血液与免疫反应：白细胞立即大量增加、血清免疫力亢盛、血循环异动；对亢进的病变镇静，对衰弱的病变兴奋，对肠蠕动则亢进者使之镇静、衰弱者使之亢进，是双向的“调节作用”。",
+      "en": "Moxa is also nerve stimulation but stresses heat-induced blood and immune responses: an immediate large rise in white cells, higher serum immunity, altered circulation; it calms hyperactive states and excites weak ones, and for peristalsis calms the overactive and boosts the sluggish, a two-way 'regulating action'.",
+      "cite": [
+        "C12",
+        "C13",
+        "C14"
+      ]
+    },
+    {
+      "zh": "灸的施法逻辑取决于灸点与病灶的距离：直接(灸在病处)、诱导(在远隔处灸，使血管扩张以引导患部血液，如头痛灸手足)、反射(内脏病灸其相应的浅表部，如肺病取肺俞)。",
+      "en": "The logic of moxa depends on distance between moxa site and lesion: direct (on the lesion), inducing (a remote site, dilating vessels to draw blood from the affected part, e.g. headache treated at hand or foot), reflex (the corresponding superficial area for a visceral disease, e.g. Feishu for lung disease).",
+      "cite": [
+        "C15"
+      ]
+    },
+    {
+      "zh": "他把针灸类比为“蛋白体疗法”：灸热使组织蛋白加热、刺针使组织蛋白游离，引起吸收刺激，与非经口注入蛋白质的反应相同；蛋白体疗法的剂量规律(中等刺激促进、强刺激抑制、最强刺激使细胞废绝)也就是针灸刺激量的道理。",
+      "en": "He likens acupuncture to 'protein therapy': moxa heat warms tissue protein and needling frees it, causing absorption stimulation like parenteral protein injection; the dose rule of protein therapy (moderate stimulus promotes, strong inhibits, strongest destroys cells) is the same logic as needle/moxa dosage.",
+      "cite": [
+        "C16",
+        "C17",
+        "C18"
+      ]
+    },
+    {
+      "zh": "经穴的“科学解释”：内脏有病，其外的躯体浅表皮肤上出现知觉过敏带(黑特氏带)；依此取穴施针灸，刺激反射到相应内脏可减轻病痛；而经穴主治内脏疾患者，多与黑特氏带一致，所谓经穴不外是古人经验所得的内脏知觉过敏带。",
+      "en": "The 'scientific explanation' of points: visceral disease produces zones of skin hyperalgesia (Head's zones) on the body surface; needling or moxa there reflexes to the viscus and eases disease; points that treat viscera largely coincide with Head's zones, so the meridian points are, in effect, visceral hyperalgesia zones found by ancient experience.",
+      "cite": [
+        "C19",
+        "C20",
+        "C21"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "机制的三个层次",
+        "en": "Three layers of mechanism"
+      },
+      "body": {
+        "zh": "第一层是神经：针刺或灸热作用于末梢神经，向中枢传入，再经交感神经或脑脊髓神经引起内脏、血管、腺体与肌肉的反应。第二层是血液与免疫：白细胞、纤维原、凝集素、溶血素、补体、调理素等的变化，被视为体质与抵抗力的增强。第三层是局部组织：针使组织蛋白游离、灸使蛋白加热分解，其吸收作用被认为是刺激疗法起效的一种解释。",
+        "en": "Layer one is nervous: needle or moxa heat acts on peripheral nerves, signals go to the centres, then via sympathetic or cerebrospinal nerves evoke responses in viscera, vessels, glands and muscle. Layer two is blood and immunity: changes in white cells, fibrinogen, agglutinin, hemolysin, complement and opsonin, read as raised resistance. Layer three is local tissue: needling frees tissue protein and moxa heat breaks it down; its absorption is offered as one explanation of stimulation therapy."
+      }
+    },
+    {
+      "h": {
+        "zh": "强度决定方向",
+        "en": "Intensity decides direction"
+      },
+      "body": {
+        "zh": "同一针灸，刺激程度不同结果相反：交感神经受刺激时血管先收缩后扩张，内脏与腺分泌随刺激程度而亢进或减退；运动神经连续刺激则兴奋性减退。因此他反复强调刺激量与药量相当，误用刺激量“不仅徒劳，反酿成危害”。",
+        "en": "The same needle or moxa gives opposite results at different intensities: on the sympathetic nerves vessels constrict then dilate, and visceral or glandular function rises or falls with intensity; continued motor-nerve stimulation lowers excitability. Hence his repeated point that stimulus dose is like drug dose, and wrongly chosen it is not just useless but harmful."
+      }
+    },
+    {
+      "h": {
+        "zh": "他的论据来自哪里",
+        "en": "Where his evidence comes from"
+      },
+      "body": {
+        "zh": "文中的实验多引日本学者的报告：如灸后血液变化(原田、悭田、青地、时枝、原志免太郎诸氏)、皮肤针实验(藤井氏)、针刺损伤组织的实验(三浦氏)；黑特氏带的灸治关系引后藤氏。他自己的经验则出现在断针自化、砂纸摩擦针具等处。",
+        "en": "The experiments are mostly reports by Japanese researchers: blood changes after moxa (原田, 悭田, 青地, 时枝, 原志免太郎), skin-needle work (藤井), tissue injury by needling (三浦); the moxa-Head's zone link is credited to 后藤. His own experience appears in things like self-dissolving broken needles and cleaning needles with sandpaper."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "针的三种治疗效用与适用",
+        "en": "Three therapeutic effects of needling"
+      },
+      "cols": [
+        {
+          "zh": "效用",
+          "en": "Effect"
+        },
+        {
+          "zh": "对象/场合",
+          "en": "When"
+        },
+        {
+          "zh": "方法特点",
+          "en": "Method"
+        },
+        {
+          "zh": "书中例子",
+          "en": "Examples in text"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "兴奋",
+            "en": "Excitation"
+          },
+          {
+            "zh": "细胞组织与神经功能衰弱",
+            "en": "Weak cell, tissue and nerve function"
+          },
+          {
+            "zh": "轻刺激兴奋法",
+            "en": "Light stimulation"
+          },
+          {
+            "zh": "知觉运动麻痹、四肢麻痹无力；内脏功能衰弱所致消化不良、便秘",
+            "en": "Sensory/motor paralysis, limp limbs; indigestion and constipation from weak viscera"
+          }
+        ],
+        [
+          {
+            "zh": "镇静(制止)",
+            "en": "Calming (inhibition)"
+          },
+          {
+            "zh": "神经兴奋亢进，如痉挛、神经痛",
+            "en": "Overexcited nerves, e.g. spasm, neuralgia"
+          },
+          {
+            "zh": "强刺激制止法；置针术使兴奋性减退",
+            "en": "Strong stimulation; retained needles lower excitability"
+          },
+          {
+            "zh": "痉挛：在痉挛局部及其运动神经起根处施制止术",
+            "en": "Spasm: inhibit at the spastic site and at the root of its motor nerve"
+          }
+        ],
+        [
+          {
+            "zh": "诱导",
+            "en": "Induction"
+          },
+          {
+            "zh": "充血或血行分布异常",
+            "en": "Congestion or abnormal blood distribution"
+          },
+          {
+            "zh": "在远隔部位刺激，把血液诱向他处",
+            "en": "Stimulate a remote site to draw blood away"
+          },
+          {
+            "zh": "脑充血刺激手三里、足三里、合谷、三阴交，诱导血液至四肢末梢",
+            "en": "Cerebral congestion: Shousanli, Zusanli, Hegu, Sanyinjiao draw blood to the extremities"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "针与灸：刺激与作用比较",
+        "en": "Needle vs. moxa"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "针",
+          "en": "Needle"
+        },
+        {
+          "zh": "灸",
+          "en": "Moxa"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "刺激性质",
+            "en": "Nature of stimulus"
+          },
+          {
+            "zh": "仅为机械的刺激",
+            "en": "Mechanical only"
+          },
+          {
+            "zh": "温热的、化学的、光线的",
+            "en": "Thermal, chemical and light"
+          }
+        ],
+        [
+          {
+            "zh": "深度与部位",
+            "en": "Depth and site"
+          },
+          {
+            "zh": "能深达内部，深浅自由；不留瘢痕",
+            "en": "Reaches deep, depth adjustable; no scar"
+          },
+          {
+            "zh": "仅行于身体表皮；灸点可留瘢痕",
+            "en": "Only on the skin surface; may leave scar"
+          }
+        ],
+        [
+          {
+            "zh": "血管",
+            "en": "Vessels"
+          },
+          {
+            "zh": "初收缩，继扩张",
+            "en": "First constrict, then dilate"
+          },
+          {
+            "zh": "初收缩，继扩张，周围显著充血",
+            "en": "First constrict, then dilate; marked congestion around"
+          }
+        ],
+        [
+          {
+            "zh": "血液/免疫",
+            "en": "Blood/immunity"
+          },
+          {
+            "zh": "白细胞增加(尤中性多核)、纤维原增加、凝集素与溶血素增量",
+            "en": "Leucocytes up (esp. neutrophils), fibrinogen up, agglutinin and hemolysin up"
+          },
+          {
+            "zh": "白细胞立即大量增加，补体、调理素亢进；红细胞之增减不一定；凝集素、溶血素在青地实验中不受影响",
+            "en": "Leucocytes up at once, complement and opsonin raised; red-cell change inconsistent; agglutinin and hemolysin unaffected in Aochi's experiment"
+          }
+        ],
+        [
+          {
+            "zh": "肠蠕动",
+            "en": "Peristalsis"
+          },
+          {
+            "zh": "缓慢；减退时可恢复正常",
+            "en": "Slows; restores normal when reduced"
+          },
+          {
+            "zh": "亢进者镇静，衰弱者亢进",
+            "en": "Calms the overactive, boosts the weak"
+          }
+        ],
+        [
+          {
+            "zh": "运动神经",
+            "en": "Motor nerve"
+          },
+          {
+            "zh": "肌肉挛缩；连续刺激则兴奋性减退乃至麻痹",
+            "en": "Contracture; sustained stimulation lowers excitability, then paralysis"
+          },
+          {
+            "zh": "适宜刺激时兴奋性亢进；对亢进者有镇制作用",
+            "en": "Raised excitability with suitable stimulus; calms hyperfunction"
+          }
+        ],
+        [
+          {
+            "zh": "他的总括",
+            "en": "His summary"
+          },
+          {
+            "zh": "机械的神经刺激术",
+            "en": "Mechanical nerve stimulation"
+          },
+          {
+            "zh": "温热的神经刺激术；本态为一种蛋白体疗法",
+            "en": "Thermal nerve stimulation; essentially protein therapy"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "灸的三种施法(施灸法则)",
+        "en": "Three moxa strategies"
+      },
+      "cols": [
+        {
+          "zh": "法则",
+          "en": "Rule"
+        },
+        {
+          "zh": "灸点位置",
+          "en": "Where"
+        },
+        {
+          "zh": "机制",
+          "en": "Mechanism"
+        },
+        {
+          "zh": "举例",
+          "en": "Example"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "直接刺激",
+            "en": "Direct"
+          },
+          {
+            "zh": "灸点在患处",
+            "en": "On the lesion"
+          },
+          {
+            "zh": "局部温热刺激",
+            "en": "Local heat"
+          },
+          {
+            "zh": "肌肉痛、关节痛，就痛处取穴灸之",
+            "en": "Muscle or joint pain treated at the painful site"
+          }
+        ],
+        [
+          {
+            "zh": "诱导刺激",
+            "en": "Inducing"
+          },
+          {
+            "zh": "远隔部位",
+            "en": "Remote site"
+          },
+          {
+            "zh": "使该处血管扩张，引导患部血液，调整分布不匀",
+            "en": "Dilates vessels there and draws blood from the lesion"
+          },
+          {
+            "zh": "头痛灸手足；脑部充血灸四肢末端；关节炎症充血择肢末相应穴灸之",
+            "en": "Headache: moxa hand or foot; cerebral congestion: limb ends; congested joints: matching distal points"
+          }
+        ],
+        [
+          {
+            "zh": "反射刺激",
+            "en": "Reflex"
+          },
+          {
+            "zh": "与内脏相应的浅表皮肤部",
+            "en": "Superficial area matching the viscus"
+          },
+          {
+            "zh": "经求心性神经传至深部脏器",
+            "en": "Via afferent nerves to the deep organ"
+          },
+          {
+            "zh": "肺病取肺俞，肠胃病取脾胃俞",
+            "en": "Feishu for lung disease; Pi/Weishu for gastro-intestinal disease"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "保持吾人生活，调节全身百般功能，为神经之所主宰",
+      "src": "针灸精华·第三篇 针科常识 p.101"
+    },
+    {
+      "id": "C2",
+      "quote": "针为一种之器械的神经刺激术，灸为一种之温热的神经刺激术",
+      "src": "针灸精华·第三篇 针科常识 p.101"
+    },
+    {
+      "id": "C3",
+      "quote": "针治是一种机械的刺激疗法。从其刺激之程度，表现兴奋、镇静、诱导之治疗效用",
+      "src": "针灸精华·第三篇 针科常识 p.102"
+    },
+    {
+      "id": "C4",
+      "quote": "凡细胞组织，及神经功能之衰弱者，则应用兴奋术",
+      "src": "针灸精华·第三篇 针科常识 p.102"
+    },
+    {
+      "id": "C5",
+      "quote": "针治法以缓解痉挛为目的，从发生痉挛之局部，及于其运动神经之起根处施行制止术之刺激",
+      "src": "针灸精华·第三篇 针科常识 p.102"
+    },
+    {
+      "id": "C6",
+      "quote": "对于深部之神经，不能作直接刺激，于是刺激其有关浅部之神经，传达其刺激兴奋，此名反射刺激",
+      "src": "针灸精华·第三篇 针科常识 p.101"
+    },
+    {
+      "id": "C7",
+      "quote": "发生脑充血，脑血管为之扩张，从风池、足三里等穴，加以刺激，于反射作用中，可使脑血管为之收缩",
+      "src": "针灸精华·第三篇 针科常识 p.101"
+    },
+    {
+      "id": "C8",
+      "quote": "刺针足部借反射之作用，使扩张之内脏血管为之收缩，血液诱导至下肢，病灶部得以向愈",
+      "src": "针灸精华·第三篇 针科常识 p.101"
+    },
+    {
+      "id": "C9",
+      "quote": "针于血管，初则使之收缩，继则为之扩张。针能抑制肠之蠕动运动",
+      "src": "针灸精华·第三篇 针科常识 p.101"
+    },
+    {
+      "id": "C10",
+      "quote": "针能增加白细胞，促进免疫物之产生",
+      "src": "针灸精华·第三篇 针科常识 p.101"
+    },
+    {
+      "id": "C11",
+      "quote": "如连续刺针不止之时，其兴奋性衰沉，发生肌肉之麻痹",
+      "src": "针灸精华·第三篇 针科常识 p.102"
+    },
+    {
+      "id": "C12",
+      "quote": "灸术：能使白细胞立即大量增加，使血清之免疫力亢盛之外，因温热之刺激，血循环发生异动",
+      "src": "针灸精华·第四篇 灸科常识 p.112"
+    },
+    {
+      "id": "C13",
+      "quote": "灸于神经功能亢进之病变：灸之有显著之镇制作用",
+      "src": "针灸精华·第四篇 灸科常识 p.117"
+    },
+    {
+      "id": "C14",
+      "quote": "灸之对于肠蠕动亢进者，能使之镇静；对于肠蠕动之衰弱者，能使之亢进。为调节之作用",
+      "src": "针灸精华·第四篇 灸科常识 p.113"
+    },
+    {
+      "id": "C15",
+      "quote": "所谓法则，即为直接、诱导、反射3种",
+      "src": "针灸精华·第四篇 灸科常识 p.116"
+    },
+    {
+      "id": "C16",
+      "quote": "针灸术者，因由灸热使组织蛋白加热，又由刺针之故，使组织蛋白游离",
+      "src": "针灸精华·第三篇 针科常识 p.102"
+    },
+    {
+      "id": "C17",
+      "quote": "所以，可云针灸术为一种之蛋白体疗法",
+      "src": "针灸精华·第三篇 针科常识 p.103"
+    },
+    {
+      "id": "C18",
+      "quote": "若遇此蛋白体之中等度刺激，能促进其生活之功能，如为强度之刺激，细胞之生活功能为之抑制",
+      "src": "针灸精华·第三篇 针科常识 p.103"
+    },
+    {
+      "id": "C19",
+      "quote": "适当其脏器之外之躯体浅表部分，或一定之皮肤上，发生特有之知觉过敏带",
+      "src": "针灸精华·第三篇 针科常识 p.103"
+    },
+    {
+      "id": "C20",
+      "quote": "依照黑特氏知觉过敏带取穴，而施针刺之时，其刺激的反射向黑特氏所发现之内脏方面传达，有减轻其疾患之效果",
+      "src": "针灸精华·第三篇 针科常识 p.103"
+    },
+    {
+      "id": "C21",
+      "quote": "所谓经穴者，为古人经验上所得来之内脏知觉过敏带，要不外为黑特氏带是也",
+      "src": "针灸精华·第四篇 灸科常识 p.116"
+    }
+  ],
+  "how_to_use": {
+    "zh": "用他的思路理解一次针灸：先判断病变是功能衰弱、亢进还是充血分布异常，对应选兴奋、镇静或诱导；再决定刺激离病灶多远(直接、诱导、反射)、刺激多强。针与灸的差别在刺激性质和深度，而不是“补”与“泻”的玄理。",
+    "en": "To read any needling or moxa act in his terms: judge whether the lesion is weakness, hyperactivity or misdistributed blood, and choose excitation, calming or induction; then decide how far from the lesion to stimulate (direct, inducing, reflex) and how strongly. Needle and moxa differ in the kind and depth of stimulus, not in bu-xie doctrine."
+  },
+  "caveats": {
+    "zh": "所依据的是二三十年代的生理学与日本实验：蛋白体疗法、黑特氏带与“经穴即知觉过敏带”的说法、血液指标的解释，均是当时的假说，后世多有修订；文中原文也承认其中一些机理“未能确定”。术语按原书保留(如偻麻质斯、荷尔蒙)。",
+    "en": "The basis is 1920s-30s physiology and Japanese experiments: protein therapy, Head's zones, 'points = hyperalgesia zones' and the reading of blood indices were the hypotheses of the day and have since been revised; the text itself admits some mechanisms are 'not yet determined'. Original terminology is kept."
+  },
+  "see": {
+    "notes": [
+      "03 针刺生理作用与临床应用 Physiological Effects and Clinical Application",
+      "02 灸法的生理作用 Physiological Effects of Moxibustion",
+      "03 灸法的临床应用 Clinical Application of Moxibustion"
+    ],
+    "points": [
+      "风池",
+      "足三里",
+      "合谷",
+      "三阴交",
+      "手三里",
+      "肺俞"
+    ]
+  }
+}

@@ -1,0 +1,704 @@
+{
+  "id": "sxm-03-xingnao-formula",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "醒脑开窍",
+    "en": "Xingnao Kaiqiao"
+  },
+  "order": 3,
+  "title": {
+    "zh": "醒脑开窍处方：主穴辅穴、分期分症加穴与疗程",
+    "en": "The Xingnao Kaiqiao Prescription: Principal and Auxiliary Points, Staged and Symptom-Specific Additions, Course"
+  },
+  "summary": {
+    "zh": "固定的核心是内关、水沟、患侧三阴交为主穴，患肢极泉、尺泽、委中为辅穴；小醒脑以印堂代水沟。按分期（先兆、中经络、闭证、脱证、后遗症）改变治则与穴组，再按症状加穴；每日2次，10日为1个疗程，急性期3个疗程，后遗症期持续半年至一年。",
+    "en": "The fixed core is Neiguan, Shuigou and the affected-side Sanyinjiao as principal points with Jiquan, Chize and Weizhong on the affected limb as auxiliary; the \"small\" version replaces Shuigou with Yintang. Rule and points change with stage (prodrome, channel-stroke, closed, collapse, sequelae) and further points are added by symptom; twice daily, ten days a course, three courses in the acute stage and six to twelve months for sequelae."
+  },
+  "takeaways": [
+    {
+      "zh": "核心方是固定的：主穴双侧内关、水沟、患侧三阴交；辅穴患肢极泉、尺泽、委中；小醒脑以印堂代替水沟。他强调“配穴设立非常广泛”，即核心不变，配穴随症；配穴也“是在醒神调神的前提下实施的”，选穴“合理、精炼，有主有次紧扣治则”。",
+      "en": "The core formula is fixed: bilateral Neiguan, Shuigou and affected-side Sanyinjiao as principal points, Jiquan, Chize and Weizhong of the affected limb as auxiliary, Yintang replacing Shuigou in the small version. Additional points are \"set very widely\" by clinical picture, yet always applied \"on the premise of waking and regulating shen\"; the selection is \"reasonable and refined, principal and secondary in line with the principle\".",
+      "cite": [
+        "F1",
+        "F2",
+        "F3"
+      ]
+    },
+    {
+      "zh": "大醒脑与小醒脑是同一思路的两个强度：大醒脑取内关、水沟，用于心神昏聩、意识丧失和某些疾病的急性期（他列出中风脱证、闭证、惊悸、癫狂痫、中暑、中毒昏迷等）；小醒脑取印堂、内关、三阴交，用于中风恢复期和非器质性的心悸、遗尿等，三穴既宁心安神，又减少针水沟的疼痛。",
+      "en": "The large and small versions are two intensities of one idea: the large one (Neiguan, Shuigou) is for clouded shen and loss of consciousness and the acute phase of some diseases (he lists collapse and closed types of stroke, palpitations from fright, epilepsy and mania, heatstroke, poisoning coma); the small one (Yintang, Neiguan, Sanyinjiao) is for the recovery phase of stroke and non-organic palpitation, enuresis and the like, calming shen while sparing the pain of needling Shuigou.",
+      "cite": [
+        "F4",
+        "F5",
+        "F6"
+      ]
+    },
+    {
+      "zh": "分期先定治则，再定穴组：中风先兆“调神通络”；中经络“醒脑开窍、疏通经络”；中脏腑闭证“开窍启闭”；脱证“回阳固脱、醒神开窍”；后遗症“醒脑开窍、疏通经络”。闭证在内关、水沟外加十宣放血和风府；脱证加气海、关元、神阙等的长时间灸、太冲、内庭、气舍。",
+      "en": "Stage sets the rule first and then the point group: prodrome \"regulate shen, free the collaterals\"; channel-stroke \"wake the brain and open the orifices, free the channels\"; closed pattern \"open the orifices\"; collapse pattern \"return yang and secure the desertion, wake shen and open the orifices\"; sequelae \"wake the brain, free the channels\". The closed pattern adds bleeding of Shixuan and Fengfu to Neiguan and Shuigou; the collapse pattern adds prolonged moxibustion at Qihai, Guanyuan, Shenque, plus Taichong, Neiting and Qishe.",
+      "cite": [
+        "F7",
+        "F8",
+        "F9",
+        "F10",
+        "F11"
+      ]
+    },
+    {
+      "zh": "取穴“以阴经穴为主，阳经穴为辅”只描述已发中风（中经络）的方：内关（手厥阴）、水沟（督脉）、三阴交（足三阴）、极泉（手少阴）、尺泽（手太阴）为阴经或督脉，委中为阳经。中风先兆的方则以上星、百会、印堂等头部穴加曲池、足三里、阳陵泉等阳经穴，手法用平补平泻和泻法，可见他并不是不用阳经穴，而是按病机分期取舍。",
+      "en": "\"Mainly yin-channel points, yang-channel as auxiliary\" describes the formula for established stroke (channel-stroke): Neiguan (pericardium), Shuigou (Du), Sanyinjiao (three leg yin), Jiquan (heart) and Chize (lung) are yin or Du points and only Weizhong is a yang channel point. The prodrome formula instead uses head points (Shangxing, Baihui, Yintang) with yang-channel Quchi, Zusanli and Yanglingquan, needled with even and reducing methods; he does use yang points, choosing by mechanism and stage.",
+      "cite": [
+        "F12",
+        "F13",
+        "F14"
+      ]
+    },
+    {
+      "zh": "补泻并用是这个方的特点：内关、水沟、极泉、尺泽、委中开窍醒神通络（泻），三阴交生髓醒脑、滋水熄风（补），“补泻兼施，则收到标本兼顾、相得益彰之效”。这也是他所说的“标本兼治”在处方里的样子。",
+      "en": "Using reduction and tonification together is the mark of this formula: Neiguan, Shuigou, Jiquan, Chize and Weizhong open orifices, wake shen and free the collaterals (reducing), Sanyinjiao generates marrow, wakes the brain and nourishes water to quell wind (tonifying); \"combining tonifying and reducing gives attention to both branch and root, each enhancing the other\". This is what \"treating branch and root together\" looks like in the prescription.",
+      "cite": [
+        "F15"
+      ]
+    },
+    {
+      "zh": "症状加穴是成套的：吞咽困难加风池、翳风、完骨；语言不利加上廉泉并金津、玉液放血；手指握固加合谷透三间、八邪；便秘加丰隆、左水道、左归来、左外水道、左外归来；足内翻加丘墟透照海；癃闭加上星透百会、中极、关元、曲骨；呼吸衰竭加足三里、气舍；高血压加人迎、合谷、太冲等。",
+      "en": "Symptom additions come as standard sets: swallowing difficulty adds Fengchi, Yifeng, Wangu; speech impairment adds Shang-Lianquan with bleeding of Jinjin and Yuye; clenched fingers add Hegu through to Sanjian and Baxie; constipation adds Fenglong, left Shuidao, left Guilai, left Waishuidao, left Waiguilai; inverted foot adds Qiuxu through to Zhaohai; urinary retention adds Shangxing through to Baihui, Zhongji, Guanyuan, Qugu; respiratory failure adds Zusanli, Qishe; hypertension adds Renying, Hegu, Taichong and so on.",
+      "cite": [
+        "F16",
+        "F17"
+      ]
+    },
+    {
+      "zh": "疗程与时机：每日针刺2次，10日为1个疗程；急性期（发病1~2周内）持续3个疗程，恢复期（2周至6个月）3~9个疗程，后遗症期（6个月以上）6~12个月。全集另一处写作“1日2次，10次为1个疗程，一般3~4个疗程”。他还说不论出血性或缺血性中风都可用，急性期使用“应用越早疗效越好”。",
+      "en": "Course and timing: twice daily, ten days per course; acute stage (within 1-2 weeks of onset) three courses, recovery stage (2 weeks to 6 months) 3-9 courses, sequelae stage (over 6 months) 6-12 months. Elsewhere the Quanji writes \"twice a day, ten sessions a course, generally 3-4 courses\". He adds that it serves haemorrhagic and ischaemic stroke alike and, used in the acute stage, \"the earlier the better\".",
+      "cite": [
+        "F18",
+        "F19",
+        "F20"
+      ]
+    },
+    {
+      "zh": "这组主穴不只用于中风：他说醒脑开窍法主穴应用非常广泛，一切调神大法的使用“均应首先采用醒脑开窍法主穴”。所以厥证、百合病、郁证、顽固性疼痛等处方里常见内关、水沟打头（见 sxm-05）。",
+      "en": "The principal points are not confined to stroke: he says they are used very widely and every shen-regulating method \"should first use the principal points of Xingnao Kaiqiao\". Hence Neiguan and Shuigou head prescriptions for syncope, lily disease, depression and stubborn pain (see sxm-05).",
+      "cite": [
+        "F21"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "一次完整治疗的顺序",
+        "en": "The order of one complete treatment"
+      },
+      "body": {
+        "zh": "他给中风主方的下针顺序是固定的：先刺双侧内关，再刺水沟，再刺三阴交，然后是极泉、尺泽、委中（各穴的方向、深度、手法与“度”见 sxm-04）。这个顺序本身也带着思路：先“醒神”（内关、水沟），再“补下”（三阴交），最后“通络”（极泉、尺泽、委中）。配穴（合谷透三间、八邪、完骨、天柱等）在核心穴之后加入。",
+        "en": "The needle order for the stroke core is fixed: bilateral Neiguan first, then Shuigou, then Sanyinjiao, then Jiquan, Chize and Weizhong (direction, depth, manipulation and endpoint of each are in sxm-04). The order carries the reasoning: first wake shen (Neiguan, Shuigou), then supplement below (Sanyinjiao), lastly free the collaterals (Jiquan, Chize, Weizhong). Symptom points (Hegu through to Sanjian, Baxie, Wangu, Tianzhu and so on) are added after the core."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "中风分期 → 治则 → 穴组",
+        "en": "Stroke stage → rule → point group"
+      },
+      "cols": [
+        {
+          "zh": "分期",
+          "en": "Stage"
+        },
+        {
+          "zh": "书中所述临床表现",
+          "en": "Presentation as described"
+        },
+        {
+          "zh": "治则",
+          "en": "Rule"
+        },
+        {
+          "zh": "主穴",
+          "en": "Principal points"
+        },
+        {
+          "zh": "配穴与特殊操作",
+          "en": "Additions and special handling"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "中风先兆",
+            "en": "Prodrome"
+          },
+          {
+            "zh": "眩晕，半身或一侧手足麻木无力",
+            "en": "Dizziness; numbness and weakness of half body or one hand and foot"
+          },
+          {
+            "zh": "调神通络",
+            "en": "Regulate shen, free collaterals"
+          },
+          {
+            "zh": "上星、百会、印堂、肩髃、曲池、足三里、阳陵泉、完骨、天柱",
+            "en": "Shangxing, Baihui, Yintang, Jianyu, Quchi, Zusanli, Yanglingquan, Wangu, Tianzhu"
+          },
+          {
+            "zh": "眩晕加头维、风池；夜眠不安加四神聪、神门；烦躁加合谷、太冲。上星、百会平补平泻，印堂雀啄，曲池等用提插泻法，风池、完骨、天柱用捻转补法",
+            "en": "Dizziness: Touwei, Fengchi; restless sleep: Sishencong, Shenmen; irritability: Hegu, Taichong. Shangxing and Baihui even method, Yintang sparrow-pecking, Quchi etc. lifting-thrusting reduction, Fengchi, Wangu, Tianzhu twirling tonification"
+          }
+        ],
+        [
+          {
+            "zh": "中经络",
+            "en": "Channel stroke"
+          },
+          {
+            "zh": "突发口眼㖞斜、语言謇涩、半身不遂",
+            "en": "Sudden wry mouth and eye, slurred speech, hemiplegia"
+          },
+          {
+            "zh": "醒脑开窍、疏通经络",
+            "en": "Wake brain and open orifices, free channels"
+          },
+          {
+            "zh": "内关、水沟、三阴交、极泉、尺泽、委中、风池、完骨、天柱",
+            "en": "Neiguan, Shuigou, Sanyinjiao, Jiquan, Chize, Weizhong, Fengchi, Wangu, Tianzhu"
+          },
+          {
+            "zh": "手指握固加合谷、八邪；上肢不能伸加曲池",
+            "en": "Clenched fingers: Hegu, Baxie; arm cannot extend: Quchi"
+          }
+        ],
+        [
+          {
+            "zh": "中脏腑·闭证",
+            "en": "Zang-fu attack, closed"
+          },
+          {
+            "zh": "突然昏仆、牙关紧闭、两手握固、二便闭结，面红气粗、痰鸣",
+            "en": "Sudden collapse, clenched jaw and fists, retention of stool and urine, red face, coarse breathing, rattling phlegm"
+          },
+          {
+            "zh": "开窍启闭",
+            "en": "Open the orifices, release the closure"
+          },
+          {
+            "zh": "内关、水沟、十宣、风府",
+            "en": "Neiguan, Shuigou, Shixuan, Fengfu"
+          },
+          {
+            "zh": "十宣三棱针点刺，每穴出血1~2ml；风府低头取穴，直刺1.5~2.5寸，提插泻法，麻电感达全头",
+            "en": "Shixuan pricked with a three-edged needle, 1-2 ml each; Fengfu with head bowed, 1.5-2.5 cun, lifting-thrusting reduction, electric sensation to the whole head"
+          }
+        ],
+        [
+          {
+            "zh": "中脏腑·脱证",
+            "en": "Zang-fu attack, collapse"
+          },
+          {
+            "zh": "突然昏仆、目合口开、鼻鼾息微、手撒肢冷、汗多不止、二便自遗",
+            "en": "Sudden collapse, eyes shut and mouth open, faint snoring breath, open hands, cold limbs, profuse sweat, incontinence"
+          },
+          {
+            "zh": "回阳固脱、醒神开窍",
+            "en": "Return yang and secure the desertion; wake shen, open orifices"
+          },
+          {
+            "zh": "内关、水沟、气海、关元、神阙、太冲、内庭、气舍",
+            "en": "Neiguan, Shuigou, Qihai, Guanyuan, Shenque, Taichong, Neiting, Qishe"
+          },
+          {
+            "zh": "气海、关元、神阙用雷火针或隔盐、隔姜、隔附子饼灸，持续4~8小时，不以壮数为限；气舍捻转补法连续运针1~3分钟，待恢复自主呼吸",
+            "en": "Qihai, Guanyuan, Shenque with thunder-fire needle or salt-, ginger- or aconite-cake moxa for 4-8 hours, not counted in cones; Qishe twirling tonification continuously 1-3 min until spontaneous breathing returns"
+          }
+        ],
+        [
+          {
+            "zh": "中风后遗症",
+            "en": "Sequelae"
+          },
+          {
+            "zh": "口眼㖞斜、失语、失明、上肢拘挛或软弱、手指握固、肩痛、下肢拘挛或痿软、足内翻或下垂、便秘、癃闭",
+            "en": "Wry mouth and eye, aphasia, blindness, limb spasm or weakness, clenched fingers, shoulder pain, foot inversion or drop, constipation, urinary retention"
+          },
+          {
+            "zh": "醒脑开窍、疏通经络",
+            "en": "Wake brain and open orifices, free channels"
+          },
+          {
+            "zh": "（核心方，加下表症状穴）",
+            "en": "(core formula plus symptom points below)"
+          },
+          {
+            "zh": "见下表",
+            "en": "See next table"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "症状加穴（后遗症与合并症）",
+        "en": "Symptom additions (sequelae and complications)"
+      },
+      "cols": [
+        {
+          "zh": "症状",
+          "en": "Symptom"
+        },
+        {
+          "zh": "加穴",
+          "en": "Added points"
+        },
+        {
+          "zh": "书中所给的操作要点",
+          "en": "Operation given in the text"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "手指握固或功能障碍",
+            "en": "Clenched or weak fingers"
+          },
+          {
+            "zh": "合谷透三间、八邪",
+            "en": "Hegu through to Sanjian, Baxie"
+          },
+          {
+            "zh": "合谷直刺1~1.5寸，提插泻法，以患侧示指伸直为度；八邪提插泻法，以手指抽动为度",
+            "en": "Hegu 1-1.5 cun lifting-thrusting reduction until the index finger extends; Baxie until fingers twitch"
+          }
+        ],
+        [
+          {
+            "zh": "语言謇涩（失语）",
+            "en": "Speech impairment"
+          },
+          {
+            "zh": "金津、玉液放血，上廉泉；（全集另有风池、上星、百会、通里）",
+            "en": "Bleed Jinjin and Yuye, Shang-Lianquan; (Quanji also lists Fengchi, Shangxing, Baihui, Tongli)"
+          },
+          {
+            "zh": "金津、玉液三棱针点刺；廉泉直刺1~1.5寸，合谷刺，胀感达舌根咽喉",
+            "en": "Jinjin and Yuye pricked; Lianquan 1-1.5 cun with the \"Hegu ci\" pattern, distension to tongue root and throat"
+          }
+        ],
+        [
+          {
+            "zh": "吞咽困难",
+            "en": "Dysphagia"
+          },
+          {
+            "zh": "风池、翳风、完骨",
+            "en": "Fengchi, Yifeng, Wangu"
+          },
+          {
+            "zh": "风池针向结喉，进针2~2.5寸，小幅度高频率捻转补法1~3分钟；翳风、完骨同法",
+            "en": "Fengchi toward the Adam's apple, 2-2.5 cun, small-amplitude high-frequency twirling tonification 1-3 min; Yifeng, Wangu the same"
+          }
+        ],
+        [
+          {
+            "zh": "眼肌运动障碍 / 视力障碍",
+            "en": "Ocular muscle palsy / visual loss"
+          },
+          {
+            "zh": "睛明、球后、承泣；失明：风池、天柱",
+            "en": "Jingming, Qiuhou, Chengqi; blindness: Fengchi, Tianzhu"
+          },
+          {
+            "zh": "失明风池针尖与双目系对角相交，捻转补法",
+            "en": "For blindness Fengchi needle crosses the ocular axes diagonally, twirling tonification"
+          }
+        ],
+        [
+          {
+            "zh": "听力障碍",
+            "en": "Hearing loss"
+          },
+          {
+            "zh": "耳门、听宫、听会",
+            "en": "Ermen, Tinggong, Tinghui"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ],
+        [
+          {
+            "zh": "基底动脉供血不足",
+            "en": "Basilar insufficiency"
+          },
+          {
+            "zh": "风池、完骨、天柱",
+            "en": "Fengchi, Wangu, Tianzhu"
+          },
+          {
+            "zh": "小幅度高频率捻转补法，每穴3分钟（见 sxm-04）",
+            "en": "Small-amplitude high-frequency twirling tonification, 3 min each (see sxm-04)"
+          }
+        ],
+        [
+          {
+            "zh": "高血压",
+            "en": "Hypertension"
+          },
+          {
+            "zh": "人迎、合谷、太冲",
+            "en": "Renying, Hegu, Taichong"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ],
+        [
+          {
+            "zh": "癫痫",
+            "en": "Epilepsy"
+          },
+          {
+            "zh": "大陵、鸠尾（并风池）",
+            "en": "Daling, Jiuwei (with Fengchi)"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ],
+        [
+          {
+            "zh": "中枢性呼吸衰竭",
+            "en": "Central respiratory failure"
+          },
+          {
+            "zh": "足三里、气舍",
+            "en": "Zusanli, Qishe"
+          },
+          {
+            "zh": "气舍直刺，连续运针至呼吸均匀（见上表脱证）",
+            "en": "Qishe straight, needle continuously until breathing is even (see collapse row)"
+          }
+        ],
+        [
+          {
+            "zh": "足内翻 / 足下垂",
+            "en": "Foot inversion / drop"
+          },
+          {
+            "zh": "丘墟透照海 / 解溪、商丘、中封",
+            "en": "Qiuxu through to Zhaohai / Jiexi, Shangqiu, Zhongfeng"
+          },
+          {
+            "zh": "丘墟透照海直刺2.5~3寸，捻转泻法",
+            "en": "Qiuxu to Zhaohai 2.5-3 cun, twirling reduction"
+          }
+        ],
+        [
+          {
+            "zh": "小便失控 / 癃闭",
+            "en": "Loss of urinary control / retention"
+          },
+          {
+            "zh": "关元、气海、中极；癃闭：上星透百会、中极、关元、曲骨（另秩边、水道）",
+            "en": "Guanyuan, Qihai, Zhongji; retention: Shangxing through to Baihui, Zhongji, Guanyuan, Qugu (also Zhibian, Shuidao)"
+          },
+          {
+            "zh": "中极直刺1.5~2寸，令胀感传至会阴；秩边直刺2.5~3寸，针尖透向水道，令胀感达前阴",
+            "en": "Zhongji 1.5-2 cun, distension to perineum; Zhibian 2.5-3 cun toward Shuidao, distension to the genitals"
+          }
+        ],
+        [
+          {
+            "zh": "便秘",
+            "en": "Constipation"
+          },
+          {
+            "zh": "丰隆、天枢、水道、归来、外水道、外归来（左侧）",
+            "en": "Fenglong, Tianshu, Shuidao, Guilai, Waishuidao, Waiguilai (left side)"
+          },
+          {
+            "zh": "捻转泻法1分钟，留针20分钟，留针期间每5分钟运针1次",
+            "en": "Twirling reduction 1 min, retain 20 min, needle again every 5 min during retention"
+          }
+        ],
+        [
+          {
+            "zh": "肩关节痛 / 肩凝",
+            "en": "Shoulder pain"
+          },
+          {
+            "zh": "肩部诸穴（含肩内陵、肩外陵、肩贞、肩中俞、肩外俞）及痛点",
+            "en": "Shoulder points (including Jianneiling, Jianwailing, Jianzhen, Jianzhongshu, Jianwaishu) and the painful spot"
+          },
+          {
+            "zh": "痛点刺络拔罐（见 sxm-08）",
+            "en": "Bloodletting-cupping at the painful spot (see sxm-08)"
+          }
+        ],
+        [
+          {
+            "zh": "颅压高、脑膜刺激征、头痛呕吐；共济失调；睡眠倒错",
+            "en": "Raised intracranial pressure with headache and vomiting; ataxia; sleep reversal"
+          },
+          {
+            "zh": "至阴刺络放血；风府、哑门、颈椎夹脊；上星、百会",
+            "en": "Bleed Zhiyin; Fengfu, Yamen, cervical Jiaji; Shangxing, Baihui"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ],
+        [
+          {
+            "zh": "肌肉萎缩",
+            "en": "Muscle atrophy"
+          },
+          {
+            "zh": "萎缩肌群排刺",
+            "en": "Row needling of the atrophied muscle group"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "疗程",
+        "en": "Course of treatment"
+      },
+      "cols": [
+        {
+          "zh": "时期",
+          "en": "Stage"
+        },
+        {
+          "zh": "发病后",
+          "en": "After onset"
+        },
+        {
+          "zh": "频次与疗程",
+          "en": "Frequency and course"
+        },
+        {
+          "zh": "持续",
+          "en": "Duration"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "急性期",
+            "en": "Acute"
+          },
+          {
+            "zh": "1周~2周之内",
+            "en": "Within 1-2 weeks"
+          },
+          {
+            "zh": "每日针刺2次，10日为1个疗程",
+            "en": "Twice daily, 10 days per course"
+          },
+          {
+            "zh": "持续3个疗程",
+            "en": "3 courses"
+          }
+        ],
+        [
+          {
+            "zh": "恢复期",
+            "en": "Recovery"
+          },
+          {
+            "zh": "2周~6个月",
+            "en": "2 weeks to 6 months"
+          },
+          {
+            "zh": "每日针刺2次，10日为1个疗程",
+            "en": "Twice daily, 10 days per course"
+          },
+          {
+            "zh": "3~9个疗程",
+            "en": "3-9 courses"
+          }
+        ],
+        [
+          {
+            "zh": "后遗症期",
+            "en": "Sequelae"
+          },
+          {
+            "zh": "6个月以上",
+            "en": "Over 6 months"
+          },
+          {
+            "zh": "每日针刺2次，10日为1个疗程",
+            "en": "Twice daily, 10 days per course"
+          },
+          {
+            "zh": "6~12个月",
+            "en": "6-12 months"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "F1",
+      "quote": "主穴：双侧内关水沟患侧三阴交小醒脑以印堂代替水沟辅穴：患肢极泉患肢尺泽患肢委中",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·三、（一）穴位组成 p.267"
+    },
+    {
+      "id": "F2",
+      "quote": "醒脑开窍法的配穴设立非常广泛，主要根据不同病证的临床表现而定",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·三、（一）穴位组成 p.267"
+    },
+    {
+      "id": "F3",
+      "quote": "本配方选穴合理、精炼，有主有次紧扣治则，成为醒脑开窍法的精髓部分",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·四、（二） p.398"
+    },
+    {
+      "id": "F4",
+      "quote": "“大醒脑”取手厥阴心包经内关和督脉人中两穴，主要用于心神昏督，意识丧失及某些疾病的急性期",
+      "src": "石学敏针灸全集·绪言·二、以脑府立论 p.2"
+    },
+    {
+      "id": "F5",
+      "quote": "“小醒脑”取印堂、内关、三阴交诸穴，主要用于中风病的恢复期",
+      "src": "石学敏针灸全集·绪言·二、以脑府立论 p.3"
+    },
+    {
+      "id": "F6",
+      "quote": "三穴相配既可宁心安神，又减少了针刺人中穴的疼痛之苦",
+      "src": "石学敏针灸全集·绪言·二、以脑府立论 p.3"
+    },
+    {
+      "id": "F7",
+      "quote": "中风先兆：调神通络。（2）中经络：醒脑开窍、疏通经络。",
+      "src": "石学敏针灸全集·第八章 治疗各论·脑卒中·针灸治疗·治则 p.421"
+    },
+    {
+      "id": "F8",
+      "quote": "中脏腑（闭证）：开窍启闭。（4）中脏腑（脱证）：回阳固脱、醒神开窍。（5）中风后遗症：醒脑开窍、疏通经络",
+      "src": "石学敏针灸全集·第八章 治疗各论·脑卒中·针灸治疗·治则 p.422"
+    },
+    {
+      "id": "F9",
+      "quote": "十宣以三棱针点刺，挤压出血，每穴出血量1~2ml；风府低头取穴，直刺1.5~2.5寸，施提插泻法，令麻电感到达全头",
+      "src": "石学敏针灸全集·第八章 治疗各论·脑卒中·针灸治疗·操作 p.422"
+    },
+    {
+      "id": "F10",
+      "quote": "气海、关元、神阙用雷火针或隔盐灸、隔姜灸、隔附子饼灸法，持续时间4~8小时，不以壮数为限",
+      "src": "石学敏针灸全集·第八章 治疗各论·脑卒中·针灸治疗·操作 p.423"
+    },
+    {
+      "id": "F11",
+      "quote": "气舍直刺1~1.5寸，施转补法，连续运针持续1~3min，待其恢复自主呼吸",
+      "src": "石学敏针灸全集·第八章 治疗各论·脑卒中·针灸治疗·操作 p.423"
+    },
+    {
+      "id": "F12",
+      "quote": "主穴：上星、百会、印堂、肩、曲池、足三里、阳陵泉、完骨、天柱",
+      "src": "石学敏针灸全集·第八章 治疗各论·脑卒中·针灸治疗·配方 p.422"
+    },
+    {
+      "id": "F13",
+      "quote": "主穴：内关、人中、三阴交、极泉、尺泽、委中、风池、完骨、天柱",
+      "src": "石学敏针灸全集·第八章 治疗各论·脑卒中·针灸治疗·配方 p.422"
+    },
+    {
+      "id": "F14",
+      "quote": "内关、人中、三阴交、极泉、曲泽、委中等是以阴经穴为主",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·四、（二） p.397"
+    },
+    {
+      "id": "F15",
+      "quote": "补三阴交即可生髓醒脑，又可滋水熄风，补泻兼施，则收到标本兼顾、相得益彰之效",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·三、（三）方义 p.269"
+    },
+    {
+      "id": "F16",
+      "quote": "眼肌运动障碍：睛明、球后、承泣。听力障碍：耳门、听宫、听会。基底动脉供血不足：风池、完骨、天柱",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·三、（一）配穴 p.267"
+    },
+    {
+      "id": "F17",
+      "quote": "癫痫：大陵、鸠尾。呼吸衰竭：足三里、气舍。足内翻：丘墟透照海。足下垂：解溪、商丘、中封",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·三、（一）配穴 p.268"
+    },
+    {
+      "id": "F18",
+      "quote": "急性期（发病1周~2周之内）：每日针刺2次，10日为1个疗程，持续治疗3个疗程",
+      "src": "石学敏针灸全集·第八章 治疗各论·脑卒中·针灸治疗·疗程 p.423"
+    },
+    {
+      "id": "F19",
+      "quote": "关于蓄积治疗次数为1日2次，10次为1个疗程，一般需要治疗3~4个疗程",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·四、（三）针刺手法的量学要求 p.398"
+    },
+    {
+      "id": "F20",
+      "quote": "不但出血性及缺血性中风都可使用，而且在急性期使用，应用越早疗效越好",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四 p.269"
+    },
+    {
+      "id": "F21",
+      "quote": "一切调神大法的使用均应首先采用醒脑开窍法主穴",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·三、（三）方义 p.269"
+    }
+  ],
+  "how_to_use": {
+    "zh": "先定分期与治则（先兆、中经络、闭证、脱证、后遗症），再取相应的穴组；核心穴不动，症状穴按上表加。落针前想清两件事：这一穴是“泻以开窍”还是“补以填下”，以及它的“度”是什么（sxm-04）。见病例 sxm-001（中经络全方）、sxm-103（闭证）、sxm-042（脱证）、sxm-058（转中经络）。",
+    "en": "Fix stage and rule first (prodrome, channel-stroke, closed, collapse, sequelae), then take the matching point group; leave the core points alone and add symptom points from the table. Before inserting, settle two things: is this point reducing to open or tonifying to fill below, and what is its endpoint (sxm-04). See cases sxm-001 (full channel-stroke formula), sxm-103 (closed), sxm-042 (collapse), sxm-058 (turning to channel-stroke)."
+  },
+  "caveats": {
+    "zh": "书中的分期与临床表现沿用中医“中经络、中脏腑”的传统命名，不等同于现行诊断分型。疗程写法不一：各论写“每日2次，10日为1个疗程”，第七章写“10次为1个疗程”。先兆方的“肩”字在原文缺字（应为肩某穴，此处按上下文写作肩髃）；“中风9005例”的总有效率各处写法不一（见 sxm-01）。",
+    "en": "Staging and presentations use the traditional \"zhong jingluo / zhong zangfu\" labels and do not equal current diagnostic categories. Course wording is inconsistent: the clinical chapter says \"twice daily, ten days a course\", chapter 7 says \"ten sessions a course\". The prodrome formula's \"Jian\" has a missing character in the text (read here as Jianyu from context); the effective rates for the \"9005 cases\" vary between passages (see sxm-01)."
+  },
+  "see": {
+    "notes": [],
+    "points": [
+      "内关",
+      "水沟",
+      "三阴交",
+      "极泉",
+      "尺泽",
+      "委中",
+      "印堂",
+      "风池",
+      "完骨",
+      "天柱",
+      "合谷",
+      "金津"
+    ],
+    "rx": [
+      "sxm-rx-001",
+      "sxm-rx-096",
+      "sxm-rx-002",
+      "sxm-rx-021",
+      "sxm-rx-088",
+      "sxm-rx-005"
+    ],
+    "cases": [
+      "sxm-001",
+      "sxm-003",
+      "sxm-005",
+      "sxm-103",
+      "sxm-042",
+      "sxm-058",
+      "sxm-132",
+      "sxm-547"
+    ]
+  }
+}

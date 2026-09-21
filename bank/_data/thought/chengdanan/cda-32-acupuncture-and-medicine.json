@@ -1,0 +1,1130 @@
+{
+  "id": "cda-32-acupuncture-and-medicine",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "调护与预后",
+    "en": "Care & prognosis"
+  },
+  "order": 32,
+  "title": {
+    "zh": "针药关系与转诊：谁主治，何时助治，何时送专医",
+    "en": "Acupuncture and Medicine: Who Leads, When It Is an Aid, When to Refer"
+  },
+  "summary": {
+    "zh": "《针灸处方集》把针灸放在药物、专医与外科之旁，而不是之上：73条(约三分之一)写明与专医或药物的关系，分作药物为主针为辅、针药并行、转诊、针为主另荐单方、条内转诊触发点五种。传染病一章里，针灸多是“助治”，只有疟疾、感冒把它放在首位；他也直说鼠疫、破伤风、脑脊髓膜炎“无经验”“无师承”。书末附“备查药方”13个名称，供对照。",
+    "en": "The formulary places acupuncture beside drugs, specialists and surgery, not above them: 73 entries (about a third) state a relation to a specialist or drugs, in five kinds: drugs lead and needling aids, needling and drugs together, refer, needling leads with a simple remedy added, and a referral trigger inside the entry. In the infectious chapter acupuncture is mostly an aid, first-line only in malaria and the common cold; he also says outright that he has \"no experience\" or \"no teacher\" for plague, tetanus and meningitis. The book closes with an appendix of 13 named \"formulas for reference\"."
+  },
+  "takeaways": [
+    {
+      "zh": "把219条逐条读下来，有73条(三分之一)写明针灸与专医、药物、外科的关系，可分五种：药物或专医为主、针为辅或助治13条；针药并行、须专医或药物配合30条；不用针灸、转诊15条(见 cda-30)；针为主而编者另荐药物或单方10条；条内写明转诊触发点5条(表1，条目分类是编者的整理)。可见他的针灸是“配合医学”的针灸，而不是“替代医学”的针灸。",
+      "en": "Reading all 219 entries, 73 (a third) state how acupuncture relates to a specialist, drugs or surgery, in five kinds: drugs or a specialist lead and needling is an aid 13; needling and drugs together 30; no acupuncture, refer 15 (see cda-30); needling leads and the editor adds a drug or simple remedy 10; a referral trigger written inside the entry 5 (Table 1; the classification is the editor's). His acupuncture is one that works alongside medicine, not in place of it.",
+      "cite": [
+        "M1",
+        "M5",
+        "M7",
+        "M8",
+        "M43",
+        "M11"
+      ]
+    },
+    {
+      "zh": "第一种关系，他把主治交给药物与专医，针灸“作辅助”：小叶性肺炎“主要治疗，应由医家用消炎、灭菌之药物诊治，在针治上则作辅助”，并说伴同药物比单用药物“效率提高”；格鲁布性肺炎“针灸作为辅助，收效可以迅速”；急性心脏内膜炎“应以药物作主治”；糖尿病“针术为辅”；中耳炎“针术只作助治”。辅助的作用他写得具体：消炎诱导、减轻心肌炎性、加强抗力。",
+      "en": "In the first relation he hands the main treatment to drugs and specialists and gives acupuncture \"an auxiliary role\": bronchopneumonia \"the main treatment is drugs by a physician, needling is auxiliary\", and drugs plus needling are \"more effective\" than drugs alone; lobar pneumonia \"acupuncture as adjunct, results can be quick\"; acute endocarditis \"drugs as the main treatment\"; diabetes \"needling is secondary\"; otitis media \"needling only as aid\". What the aid does he names: anti-inflammation by induction, easing myocardial inflammation, raising resistance.",
+      "cite": [
+        "M1",
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6"
+      ]
+    },
+    {
+      "zh": "第二种关系是针药同用，用词是“共同诊治”“配合”“并用”：急性肠炎“宜与专医用药物共同诊治，收效必速”；肝脏硬化症“针灸刺激内脏之神经，疏通血行，加强门脉循环，比较合乎理想，一面与专医配合药物治疗为适宜”；腹水“由专医并用强心利尿之药品互相辅助”；急性关节偻麻质斯“不能单纯用针灸治疗”；脑溢血急救时“同时应与专医配合药物之治疗”。",
+      "en": "The second relation is joint use, with words such as \"joint diagnosis and treatment\", \"combine\", \"use together\": acute enteritis \"best treated jointly with a specialist using drugs, results will be fast\"; cirrhosis: needling the visceral nerves, clearing blood flow and strengthening portal circulation \"is more ideal, while combining drugs with a specialist is appropriate\"; ascites \"a specialist uses heart and diuretic drugs in mutual support\"; acute rheumatic arthritis \"cannot be treated by acupuncture alone\"; in cerebral haemorrhage first aid \"at the same time work with a specialist on drugs\".",
+      "cite": [
+        "M7",
+        "M8",
+        "M9",
+        "M10",
+        "M48"
+      ]
+    },
+    {
+      "zh": "针灸被提到前面，往往是因为路远或缺医缺药，而不是因为它比药好。盲肠炎“如以距离有设备之医所太远，可以针术先作消炎镇痛之诱导针法后，送医所诊治”；乳腺炎“在僻壤乡间，药物急切难得时，可应用针治”，而已化脓则由外科切开；霍乱“唯穷乡僻壤之地，盐水一时不及置备时，先其所急，可作针灸之治疗”；破伤风“在穷乡僻壤中，缺乏新药……可照脑脊髓膜炎之针法试治之”。",
+      "en": "Acupuncture is brought forward mainly when the road is long or doctors and drugs are missing, not because it beats drugs. Appendicitis: \"if the equipped clinic is too far, first needle for anti-inflammation and analgesia by induction, then send to the clinic\"; mastitis: \"in remote villages where drugs are hard to get, needling may be used\", while pus goes to a surgeon; cholera: \"in remote places where saline cannot be prepared in time, do the urgent thing first, acupuncture and moxa\"; tetanus: \"in remote places lacking new drugs ... try the meningitis needling method\".",
+      "cite": [
+        "M11",
+        "M12",
+        "M17",
+        "M28"
+      ]
+    },
+    {
+      "zh": "传染病一章16条里，针灸的角色是分层的(表3)：8条明说“非适应证”(见 cda-30)；赤痢(疫痢)、霍乱、脑脊髓膜炎、流行性感冒4条写作“助治”，并给出穴位与目的，如赤痢“可减低里急后重之症状，并有抑制病症进行之效”，疫痢灸大椎、身柱“有减低热度，增进抗力之效”；麻疹在药物之外灸身柱、关元，“可作麻疹隐没之帮助”；只有疟疾与感冒把针灸放在首位，疟疾“已公认针术对疟疾有效”。他还写了助治的限度：“针术对于各种急性病症之有效，大都如是；及体力已衰，针术即不发生效用”。",
+      "en": "In the 16 infectious entries the role is graded (Table 3): 8 say \"not an indication\" (see cda-30); dysentery (with epidemic dysentery), cholera, meningitis and influenza are written as \"aid\", with points and aims, e.g. dysentery \"can lessen tenesmus and hold the disease back\", epidemic dysentery moxa on Dazhui and Shenzhu \"lowers fever and raises resistance\"; measles takes moxa on Shenzhu and Guanyuan beside drugs, \"an aid when the rash has receded\"; only malaria and the common cold put acupuncture first, malaria \"now generally recognised as effective\". He also states the limit of an aid: \"needling helps in acute illness in general like this; once strength is spent, needling no longer works\".",
+      "cite": [
+        "M14",
+        "M15",
+        "M16",
+        "M18",
+        "M21",
+        "M24",
+        "M26",
+        "M29",
+        "M32"
+      ]
+    },
+    {
+      "zh": "他坦率标出自己经验的边界，并且用词克制：鼠疫“编者于本病无直接治疗经验”，所写放血法“为供针灸学者之参考，备不虞之试用耳”；脑脊髓膜炎“原无师承与文献可据”，据来信有效，但“主张用新药作主治”；破伤风“于针术无经验”；麻风“在新药中迄无有效之药品”，初期针放血与灸“颇有效果”，并推荐他人专著；疟疾则写“近年经多数之针灸医证明”。读这些条目时，要区分“书中转述”“他的经验”与“他的推想”。",
+      "en": "He marks the limits of his own experience and words it with restraint: plague \"I have no direct experience\", the bleeding method offered \"for reference, for an emergency trial\"; meningitis \"no teacher or literature to go by\", effective according to letters, yet \"I urge new drugs as the main treatment\"; tetanus \"no experience of needling\"; leprosy \"no effective drug among the new ones\", early bleeding and moxa \"quite effective\", pointing to another author; malaria \"shown by many acupuncturists in recent years\". Keep apart what the book relays, what he experienced and what he supposes.",
+      "cite": [
+        "M19",
+        "M20",
+        "M22",
+        "M23",
+        "M27",
+        "M30",
+        "M31"
+      ]
+    },
+    {
+      "zh": "书末“附：备查药方”共15个编号、13个名称(犀黄、《千金》苇茎汤、芥菜卤、十枣丸、金钱草、锡类散、甘麦大枣汤、牛黄夺命散、黄汞油膏、硼酸水、紫金锭、七液丹、龙虎丸)，每一个都能在正文的某条里找到出处(表2)，多是编者“录供参考”“录出供新医家参考”的国药验方，另有硼酸水、黄汞油膏等外用剂，不是针灸处方。此外正文另荐的参三七、杜仲、阳和汤等5个药未收入附录。",
+      "en": "The appendix \"formulas for reference\" has 15 numbers and 13 names (Xihuang, Qianjin Weijing Tang, mustard-brine, Shizao Wan, Jinqian Cao, Xilei San, Gan-Mai-Dazao Tang, Niuhuang Duoming San, yellow-mercury ointment, boric-acid water, Zijin Ding, Qiye Dan, Longhu Wan), each traceable to some entry in the main text (Table 2); most are Chinese-drug formulas that the editor \"records for reference\", plus external agents such as boric-acid water and yellow-mercury ointment, not acupuncture prescriptions. Five more remedies named in the text (Sanqi, Duzhong, Yanghe Tang and others) are not in the appendix.",
+      "cite": [
+        "M34",
+        "M35",
+        "M36",
+        "M37",
+        "M38",
+        "M39",
+        "M40",
+        "M41",
+        "M47"
+      ]
+    },
+    {
+      "zh": "在针为主的条目里，他也自荐中药单方，但附有限制：十二指肠溃疡“本病时服云南产之参三七，作治疗辅助甚好”；膝关节炎“在一般之治法中，以针灸为最效，而同时用中药方阳和汤作助治，收效更速”；麻痹狂“中药龙虎丸，编者屡用有效，于此介绍”；歇斯底里“中药方甘麦大枣汤，编者屡用良效”。对十枣丸他专门提醒“唯针灸医而不谙中药方剂者，不得用之”，即以懂不懂中药方剂作为用药的界线。",
+      "en": "Even where needling leads he recommends simple Chinese remedies, but with limits: duodenal ulcer \"taking Yunnan Sanqi is very good as an aid to treatment\"; knee arthritis \"acupuncture is the most effective of the usual treatments, and adding the Chinese formula Yanghe Tang as an aid works faster\"; mania \"the Chinese pill Longhu Wan, which I have often used effectively, is introduced here\"; hysteria \"the Chinese formula Gan-Mai-Dazao Tang, which I have often used to good effect\". For Shizao Wan he warns \"an acupuncturist who does not know Chinese formulas may not use it\", making knowledge of Chinese formulas the line for using it.",
+      "cite": [
+        "M44",
+        "M45",
+        "M43",
+        "M46",
+        "M42"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "五种关系：怎样读“助治”“共同诊治”“转诊”",
+        "en": "Five relations: reading \"aid\", \"joint treatment\" and \"referral\""
+      },
+      "body": {
+        "zh": "“助治”“辅助”指针灸不是主治，但对某个环节有用(消炎诱导、减热、增进抗力、缓解疼痛)；“共同诊治”“配合”指针药并行，各管一段；“转诊”则是他把病交给专医、医院或外科，并常写明触发点(化脓、中毒、腹腔积液、结石过大)。表1的分类是编者逐条读原文所作，一条只归一类，按该条首先点名的关系计；同一条中也可能有转诊的话，如肋膜炎既属针药并行，又写化脓性者“非针灸之适应证”。这73条之外的146条中，除传染病一章另在表3列出的霍乱、鼠疫、疟疾、感冒、麻风外，多数没有药物或专医的字样，以神经痛、神经麻痹、痉挛与慢性内科病居多。",
+        "en": "\"Aid\" and \"adjunct\" mean acupuncture is not the main treatment but is useful for one link (anti-inflammation by induction, lowering fever, raising resistance, easing pain); \"joint diagnosis and treatment\" and \"combine\" mean needling and drugs run in parallel, each in its part; \"refer\" means he hands the case to a specialist, hospital or surgeon, often naming the trigger (pus, poisoning, effusion in the abdomen, large stones). Table 1 is the editor's reading, each entry counted once by the relation named first; the same entry may also carry a referral, as pleurisy is joint treatment yet its purulent form is \"not an indication\". Of the other 146 entries, apart from cholera, plague, malaria, the common cold and leprosy, which Table 3 lists separately, most carry no wording on drugs or specialists, mainly neuralgia, nerve paralysis, spasm and chronic internal disease."
+      }
+    },
+    {
+      "h": {
+        "zh": "传染病一章：针灸作助手",
+        "en": "The infectious chapter: acupuncture as helper"
+      },
+      "body": {
+        "zh": "本章分“十大传染病”与“其他之传染病”两节，共16条，其中11条有【消毒】一项，把“防止传播”放在首位。他把时代的新疗法(血清、疫苗、磺胺、奎宁、盐水注射)当作主治，把针灸放在“体力未至十分衰弱时有效”的助治位置；只在没有这些新药的地方，或是缺少确切疗法的病(鼠疫、麻风、脑脊髓膜炎、破伤风)，才说出自己的“试用”经验。表3把16个病逐条列出。",
+        "en": "The chapter has two sections, \"the ten great infectious diseases\" and \"other infectious diseases\", 16 entries in all, 11 of them with a disinfection item that puts \"preventing spread\" first. He treats the new therapies of the time (serum, vaccines, sulfa, quinine, saline infusion) as the main treatment and puts acupuncture in the aid position, \"effective while strength is not yet badly spent\"; only where such drugs are missing, or where no sure therapy exists (plague, leprosy, meningitis, tetanus), does he give his own \"trial\" experience. Table 3 lists all 16."
+      }
+    },
+    {
+      "h": {
+        "zh": "“附：备查药方”：只列名称",
+        "en": "The appendix \"formulas for reference\": names only"
+      },
+      "body": {
+        "zh": "附录编号(1)至(15)，实为13个名称：(9)、(13)没有名称，紧接在(8)牛黄夺命散、(12)紫金锭之后，从位置看应是这两个药的组成行(编者推读)；七液丹(14)的说明续至下一页。本导读只列名称与出处，不转述附录里的用量、制法与服法，也不据此提出用药建议。表2的“附录编号”与“未收入附录”两列，方便从正文的药名反查附录。",
+        "en": "The appendix numbers run (1) to (15) but hold 13 names: (9) and (13) have no name and follow (8) Niuhuang Duoming San and (12) Zijin Ding, so by position they look like the composition lines of those two (the editor's reading); the note for Qiye Dan (14) runs onto the next page. This guide lists names and locations only and does not relay the appendix's quantities, preparation or dosing, nor make any prescribing suggestion. The \"appendix number\" and \"not in appendix\" columns of Table 2 allow looking up the appendix from a drug named in the text."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 针灸与药物、专医的五种关系(编者逐条归类)",
+        "en": "Table 1. Five relations between acupuncture and drugs or specialists (the editor's classification)"
+      },
+      "cols": [
+        {
+          "zh": "关系",
+          "en": "Relation"
+        },
+        {
+          "zh": "原文的说法",
+          "en": "Wording"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        },
+        {
+          "zh": "例(病名)",
+          "en": "Examples"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "药物或专医为主，针为辅或助治",
+            "en": "Drugs or specialist lead; needling is adjunct"
+          },
+          {
+            "zh": "“本病应以药物作主治”“针灸作为辅助”“针术只作助治”",
+            "en": "\"Drugs are the main treatment\", \"acupuncture as adjunct\", \"needling only as aid\""
+          },
+          "13",
+          {
+            "zh": "小叶性肺炎、格鲁布性肺炎、急性心脏内膜炎、急性心肌炎、糖尿病、中耳炎、赤痢、流行性脑脊髓膜炎、流行性感冒",
+            "en": "bronchopneumonia, lobar pneumonia, acute endocarditis, acute myocarditis, diabetes, otitis media, dysentery, cerebrospinal meningitis, influenza"
+          }
+        ],
+        [
+          {
+            "zh": "针药并行，须专医或药物配合",
+            "en": "Needling and drugs together, with a specialist or drugs"
+          },
+          {
+            "zh": "“宜与专医用药物共同诊治”“配合药物疗法”“不能单纯用针灸治疗”",
+            "en": "\"Best treated jointly with a specialist using drugs\", \"combine with drug therapy\", \"cannot be treated by acupuncture alone\""
+          },
+          "30",
+          {
+            "zh": "急性肠炎、肝脏硬化症、腹水、三种黄疸、急性肾脏炎、脑溢血、脊髓炎、急性关节偻麻质斯、尿崩症、肺结核(二期)",
+            "en": "acute enteritis, cirrhosis, ascites, three kinds of jaundice, acute nephritis, cerebral haemorrhage, myelitis, acute rheumatic arthritis, diabetes insipidus, TB (second stage)"
+          }
+        ],
+        [
+          {
+            "zh": "不用针灸，转诊",
+            "en": "No acupuncture; refer"
+          },
+          {
+            "zh": "“应由专医诊治”“速送医院”“非针灸之适应证”(见 cda-30)",
+            "en": "\"To be treated by a specialist\", \"send to hospital at once\", \"not an indication\" (see cda-30)"
+          },
+          "15",
+          {
+            "zh": "喉头癌、声门水肿、肺水肿、肺脓疡、气胸、伤寒、白喉、天然痘、猩红热、麻疹、破伤风",
+            "en": "laryngeal cancer, glottic oedema, pulmonary oedema, lung abscess, pneumothorax, typhoid, diphtheria, smallpox, scarlet fever, measles, tetanus"
+          }
+        ],
+        [
+          {
+            "zh": "针为主，编者另荐药物或单方",
+            "en": "Needling leads; the editor adds a drug or simple remedy"
+          },
+          {
+            "zh": "“编者屡用有效”“作治疗辅助甚好”“作助治，收效更速”",
+            "en": "\"I have often used it with effect\", \"very good as an aid\", \"as adjunct, results come faster\""
+          },
+          "10",
+          {
+            "zh": "胃溃疡、十二指肠溃疡、子宫出血(参三七)，麻痹狂、偏执狂(龙虎丸)，歇斯底里，膝关节炎，脑动脉硬化症，肾盂炎，亚布答性口内炎",
+            "en": "gastric and duodenal ulcer, uterine bleeding (Sanqi), mania and monomania (Longhu Wan), hysteria, knee arthritis, cerebral arteriosclerosis, pyelitis, aphthous stomatitis"
+          }
+        ],
+        [
+          {
+            "zh": "条内写明转诊的触发点",
+            "en": "A referral trigger written inside the entry"
+          },
+          {
+            "zh": "“有化脓倾向者，应由专医诊治”“有脓漏、蛀齿，由牙医师诊治”“彻底治法，应由专医治疗”",
+            "en": "\"If pus is forming, to a specialist\", \"with pus or decayed teeth, to a dentist\", \"the radical treatment belongs to a specialist\""
+          },
+          "5",
+          {
+            "zh": "耳下腺炎、齿痛、卡他性食管炎、盲肠炎、痔疾",
+            "en": "parotitis, toothache, catarrhal oesophagitis, appendicitis, haemorrhoids"
+          }
+        ],
+        [
+          {
+            "zh": "合计",
+            "en": "Total"
+          },
+          {
+            "zh": "占219条的三分之一",
+            "en": "A third of 219"
+          },
+          "73",
+          {
+            "zh": "",
+            "en": ""
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 正文点名的药方与附录“备查药方”对照(只列名称与出处)",
+        "en": "Table 2. Formulas named in the text against the appendix (names and locations only)"
+      },
+      "cols": [
+        {
+          "zh": "药方或药物",
+          "en": "Formula or drug"
+        },
+        {
+          "zh": "正文提到之处(页)",
+          "en": "Where in the text (page)"
+        },
+        {
+          "zh": "附录编号",
+          "en": "Appendix no."
+        },
+        {
+          "zh": "附录注明的主治(原文)",
+          "en": "Indication stated in the appendix"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "犀黄",
+            "en": "Xihuang"
+          },
+          {
+            "zh": "肺脓疡与肺坏疽 p.221",
+            "en": "Lung abscess and gangrene (p.221)"
+          },
+          "(1)",
+          {
+            "zh": "有消炎杀菌之作用",
+            "en": "has an anti-inflammatory, germicidal action"
+          }
+        ],
+        [
+          {
+            "zh": "《千金》苇茎汤",
+            "en": "Qianjin Weijing Tang"
+          },
+          {
+            "zh": "肺脓疡与肺坏疽 p.221",
+            "en": "Lung abscess and gangrene (p.221)"
+          },
+          "(2)",
+          {
+            "zh": "治咳嗽，咯痰如脓，有腐败臭(旧医名肺痈)",
+            "en": "for cough with pus-like putrid sputum (old name feiyong)"
+          }
+        ],
+        [
+          {
+            "zh": "芥菜卤",
+            "en": "Mustard-brine"
+          },
+          {
+            "zh": "肺脓疡与肺坏疽 p.222",
+            "en": "Lung abscess and gangrene (p.222)"
+          },
+          "(3)",
+          {
+            "zh": "附录写“治病同麻风”，又说可治肺脓疡(语义不明)",
+            "en": "the appendix reads \"same disease as leprosy\" yet also says it treats lung abscess (unclear)"
+          }
+        ],
+        [
+          {
+            "zh": "十枣丸",
+            "en": "Shizao Wan"
+          },
+          {
+            "zh": "肋膜炎 p.222",
+            "en": "Pleurisy (p.222)"
+          },
+          "(4)",
+          {
+            "zh": "治渗出性肋膜炎及水肿",
+            "en": "for exudative pleurisy and oedema"
+          }
+        ],
+        [
+          {
+            "zh": "金钱草",
+            "en": "Jinqian Cao"
+          },
+          {
+            "zh": "肾盂炎 p.242；膀胱结石症 p.243",
+            "en": "Pyelitis; bladder stones (p.242, p.243)"
+          },
+          "(5)",
+          {
+            "zh": "能利小便，治砂淋、石淋(即肾、膀胱结石)",
+            "en": "promotes urination; for sand and stone strangury (kidney and bladder stones)"
+          }
+        ],
+        [
+          {
+            "zh": "锡类散",
+            "en": "Xilei San"
+          },
+          {
+            "zh": "亚布答性口内炎 p.229",
+            "en": "Aphthous stomatitis (p.229)"
+          },
+          "(6)",
+          {
+            "zh": "治白喉、扁桃体炎、牙龈溃烂、口腔炎等",
+            "en": "for diphtheria, tonsillitis, ulcerated gums, stomatitis and the like"
+          }
+        ],
+        [
+          {
+            "zh": "甘麦大枣汤",
+            "en": "Gan-Mai-Dazao Tang"
+          },
+          {
+            "zh": "歇斯底里 p.263",
+            "en": "Hysteria (p.263)"
+          },
+          "(7)",
+          {
+            "zh": "治歇斯底里",
+            "en": "for hysteria"
+          }
+        ],
+        [
+          {
+            "zh": "牛黄夺命散",
+            "en": "Niuhuang Duoming San"
+          },
+          {
+            "zh": "肺水肿 p.219",
+            "en": "Pulmonary oedema (p.219)"
+          },
+          "(8)(9)",
+          {
+            "zh": "治肺水肿(旧医名马脾风)",
+            "en": "for pulmonary oedema (old name mapifeng)"
+          }
+        ],
+        [
+          {
+            "zh": "黄汞油膏",
+            "en": "Yellow-mercury ointment"
+          },
+          {
+            "zh": "眼睑缘炎(外治) p.278",
+            "en": "Blepharitis (external) (p.278)"
+          },
+          "(10)",
+          {
+            "zh": "(附录未写主治)",
+            "en": "(no indication given in the appendix)"
+          }
+        ],
+        [
+          {
+            "zh": "硼酸水",
+            "en": "Boric-acid water"
+          },
+          {
+            "zh": "结膜充血症 p.277；眼睑缘炎、泪囊炎、颗粒性结膜炎 p.278",
+            "en": "Conjunctival congestion, blepharitis, dacryocystitis, trachoma (p.277, p.278)"
+          },
+          "(11)",
+          {
+            "zh": "(附录未写主治)",
+            "en": "(no indication given in the appendix)"
+          }
+        ],
+        [
+          {
+            "zh": "紫金锭",
+            "en": "Zijin Ding"
+          },
+          {
+            "zh": "鼠疫 p.282；流行性脑脊髓膜炎 p.283；破伤风 p.284",
+            "en": "Plague; cerebrospinal meningitis; tetanus (p.282, p.283, p.284)"
+          },
+          "(12)(13)",
+          {
+            "zh": "解诸毒、疗疮肿、利关窍、治百病",
+            "en": "resolves poisons, treats sores and swellings, opens the orifices, treats all illnesses"
+          }
+        ],
+        [
+          {
+            "zh": "七液丹",
+            "en": "Qiye Dan"
+          },
+          {
+            "zh": "伤寒 p.281",
+            "en": "Typhoid (p.281)"
+          },
+          "(14)",
+          {
+            "zh": "主治一切高热，如伤寒、副伤寒、痢疾、咽喉炎症",
+            "en": "for every high fever such as typhoid, paratyphoid, dysentery and throat inflammation"
+          }
+        ],
+        [
+          {
+            "zh": "龙虎丸",
+            "en": "Longhu Wan"
+          },
+          {
+            "zh": "麻痹狂 p.248；偏执狂 p.248",
+            "en": "Mania; monomania (p.248, p.248)"
+          },
+          "(15)",
+          {
+            "zh": "主治癫狂病",
+            "en": "for mania"
+          }
+        ],
+        [
+          {
+            "zh": "云南参三七",
+            "en": "Yunnan Sanqi"
+          },
+          {
+            "zh": "胃溃疡 p.233；十二指肠溃疡 p.237；子宫出血 p.270",
+            "en": "Gastric ulcer; duodenal ulcer; uterine bleeding (p.233, p.237, p.270)"
+          },
+          {
+            "zh": "未收入附录",
+            "en": "Not in appendix"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ],
+        [
+          {
+            "zh": "杜仲、桑寄生",
+            "en": "Duzhong, Sangjisheng"
+          },
+          {
+            "zh": "脑动脉硬化症 p.248",
+            "en": "Cerebral arteriosclerosis (p.248)"
+          },
+          {
+            "zh": "未收入附录",
+            "en": "Not in appendix"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ],
+        [
+          {
+            "zh": "阳和汤",
+            "en": "Yanghe Tang"
+          },
+          {
+            "zh": "膝关节炎 p.266",
+            "en": "Knee arthritis (p.266)"
+          },
+          {
+            "zh": "未收入附录",
+            "en": "Not in appendix"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ],
+        [
+          {
+            "zh": "川黄连末加麝香浸酒",
+            "en": "Chuanhuanglian powder and musk in spirit"
+          },
+          {
+            "zh": "中耳炎 p.278",
+            "en": "Otitis media (p.278)"
+          },
+          {
+            "zh": "未收入附录",
+            "en": "Not in appendix"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ],
+        [
+          {
+            "zh": "芒硝",
+            "en": "Mangxiao"
+          },
+          {
+            "zh": "胆石痛 p.240",
+            "en": "Biliary colic (p.240)"
+          },
+          {
+            "zh": "未收入附录",
+            "en": "Not in appendix"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 传染病一章：主治、针灸的角色与页码",
+        "en": "Table 3. The infectious chapter: who treats, the role of acupuncture, page"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他对主治的说法",
+          "en": "Who treats"
+        },
+        {
+          "zh": "针灸(或灸)的角色",
+          "en": "Role of acupuncture or moxa"
+        },
+        {
+          "zh": "页",
+          "en": "Page"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "赤痢(附疫痢)",
+            "en": "Dysentery (with epidemic dysentery)"
+          },
+          {
+            "zh": "疫痢“应速送医院隔离，由专医治疗”；赤痢由专医用血清等药物治疗",
+            "en": "Epidemic dysentery \"to hospital and isolation at once, treated by a specialist\"; dysentery by a specialist with serum and other drugs"
+          },
+          {
+            "zh": "“作为助治”：强刺激大肠俞、中膂俞、合谷、足三里；疫痢于药物治疗中灸大椎、身柱；体力未衰时有效",
+            "en": "\"As aid\": strong needling of Dachangshu, Zhonglushu, Hegu, Zusanli; in epidemic dysentery moxa on Dazhui and Shenzhu alongside drugs; effective while strength holds"
+          },
+          "p.280"
+        ],
+        [
+          {
+            "zh": "霍乱",
+            "en": "Cholera"
+          },
+          {
+            "zh": "“死亡至速”，必须立即隔离，速作盐水注射",
+            "en": "\"Death comes fastest\", isolate at once and give saline at once"
+          },
+          {
+            "zh": "盐水注射之外，旧医神阙盐灸的急救法“试采用”，承山针缓解转筋；今日针灸“只可作为助治”，无盐水时可先针灸",
+            "en": "Alongside saline, the old physicians' salt moxa on Shenque \"may be tried\", Chengshan for cramps; acupuncture is now \"only an aid\", but first choice where no saline exists"
+          },
+          "p.281"
+        ],
+        [
+          {
+            "zh": "伤寒",
+            "en": "Typhoid fever"
+          },
+          {
+            "zh": "入医院，用新出有效药；于针灸为不适应证",
+            "en": "Hospital and new effective drugs; not indicated for acupuncture"
+          },
+          {
+            "zh": "无；编者记七液丹的经验",
+            "en": "None; the editor records his experience with Qiye Dan"
+          },
+          "p.281"
+        ],
+        [
+          {
+            "zh": "副伤寒",
+            "en": "Paratyphoid"
+          },
+          {
+            "zh": "同伤寒；医院新药",
+            "en": "As typhoid; hospital drugs"
+          },
+          {
+            "zh": "无",
+            "en": "None"
+          },
+          "p.281"
+        ],
+        [
+          {
+            "zh": "发疹伤寒",
+            "en": "Typhus"
+          },
+          {
+            "zh": "专医隔离治疗；非针灸之适应证",
+            "en": "Specialist isolation; not an indication"
+          },
+          {
+            "zh": "无",
+            "en": "None"
+          },
+          "p.281"
+        ],
+        [
+          {
+            "zh": "鼠疫",
+            "en": "Plague"
+          },
+          {
+            "zh": "“急速隔离，由专医用新药治疗”",
+            "en": "\"Isolate quickly, specialist with new drugs\""
+          },
+          {
+            "zh": "编者“无直接治疗经验”；曾函告放血、敷紫金锭等法，“供针灸学者之参考，备不虞之试用”",
+            "en": "The editor has \"no direct experience\"; he once wrote back suggesting bleeding, Zijin Ding and the like, \"for reference, for an emergency trial\""
+          },
+          "p.282"
+        ],
+        [
+          {
+            "zh": "白喉",
+            "en": "Diphtheria"
+          },
+          {
+            "zh": "预防注射；早送医院作血清治疗；非针灸之适应证",
+            "en": "Preventive injection; early hospital serum; not an indication"
+          },
+          {
+            "zh": "无",
+            "en": "None"
+          },
+          "p.282"
+        ],
+        [
+          {
+            "zh": "天然痘",
+            "en": "Smallpox"
+          },
+          {
+            "zh": "牛痘接种预防；专医治疗；非针灸适应证",
+            "en": "Vaccination; specialist; not an indication"
+          },
+          {
+            "zh": "无",
+            "en": "None"
+          },
+          "p.282"
+        ],
+        [
+          {
+            "zh": "猩红热",
+            "en": "Scarlet fever"
+          },
+          {
+            "zh": "送医院，隔离治疗；非针灸之适应证",
+            "en": "Hospital isolation; not an indication"
+          },
+          {
+            "zh": "无",
+            "en": "None"
+          },
+          "p.282"
+        ],
+        [
+          {
+            "zh": "流行性脑脊髓膜炎",
+            "en": "Cerebrospinal meningitis"
+          },
+          {
+            "zh": "“应由专医治疗”",
+            "en": "\"To be treated by a specialist\""
+          },
+          {
+            "zh": "“可以针术作助治”；编者“原无师承与文献可据”，据转述来信用其法者“全活数百名”，主张新药主治、以针术代抽脊水手术",
+            "en": "\"May serve as aid\"; the editor had \"no teacher or literature to go by\", a correspondent reported \"hundreds saved\" with his method, and he urges new drugs as the main treatment with needling in place of lumbar puncture"
+          },
+          "p.283"
+        ],
+        [
+          {
+            "zh": "麻疹",
+            "en": "Measles"
+          },
+          {
+            "zh": "专医治疗；非针术适应证",
+            "en": "Specialist; not an indication"
+          },
+          {
+            "zh": "按语：兼磺胺剂，灸身柱、关元，“可作麻疹隐没之帮助”",
+            "en": "Note: with sulfa, moxa on Shenzhu and Guanyuan, \"an aid when the rash has receded\""
+          },
+          "p.283"
+        ],
+        [
+          {
+            "zh": "疟疾",
+            "en": "Malaria"
+          },
+          {
+            "zh": "“用奎宁治疗，每多即行痊愈”，亦有体弱服药数日不愈者",
+            "en": "\"Quinine often cures at once\"; some weak patients get no result after days of it"
+          },
+          {
+            "zh": "发作前一二小时针治，“已公认针术对疟疾有效”；体力已衰而药与针久不效者，加灸强壮",
+            "en": "Needle one or two hours before the attack, \"needling is now generally recognised as effective\"; where strength is spent and drugs and needling long fail, add strengthening moxa"
+          },
+          "p.283"
+        ],
+        [
+          {
+            "zh": "破伤风",
+            "en": "Tetanus"
+          },
+          {
+            "zh": "专医用破伤风血清；“在针术应列入不适应证”",
+            "en": "Specialist with tetanus serum; \"to be listed as not indicated for needling\""
+          },
+          {
+            "zh": "缺药缺医的偏远处，可照脑脊髓膜炎针法“试治之”；编者“于针术无经验”",
+            "en": "Where drugs and doctors are absent, \"try\" the meningitis needling method; the editor has \"no experience of needling\" here"
+          },
+          "p.284"
+        ],
+        [
+          {
+            "zh": "感冒",
+            "en": "Common cold"
+          },
+          {
+            "zh": "(未提专医)",
+            "en": "(no specialist mentioned)"
+          },
+          {
+            "zh": "针灸为主：以加强抵抗力、促进发汗为目的，轻刺激；易感冒者灸",
+            "en": "Acupuncture leads: aim strengthening resistance and promoting sweating, light needling; moxa for the cold-prone"
+          },
+          "p.284"
+        ],
+        [
+          {
+            "zh": "流行性感冒",
+            "en": "Influenza"
+          },
+          {
+            "zh": "“应由专医用药物作主治”",
+            "en": "\"Drugs by a specialist as the main treatment\""
+          },
+          {
+            "zh": "针术随症状取穴，作药物之助治；先针能退身热的穴",
+            "en": "Points by symptom as aid to the drugs; first the points that bring down fever"
+          },
+          "p.284"
+        ],
+        [
+          {
+            "zh": "麻风",
+            "en": "Leprosy"
+          },
+          {
+            "zh": "应作隔离治疗，“在新药中迄无有效之药品”",
+            "en": "Isolate; \"no effective drug among the new ones\""
+          },
+          {
+            "zh": "初期针放血法及灸法“颇有效果”；参考况乾五《大麻风针灸疗法》",
+            "en": "Early-stage bleeding and moxa \"quite effective\"; see Kuang Qianwu's book on leprosy acupuncture"
+          },
+          "p.284"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "M1",
+      "quote": "本病之主要治疗，应由医家用消炎、灭菌之药物诊治，在针治上则作辅助，亦以消炎诱导为目的",
+      "src": "针灸处方集·第一章 呼吸器病·小叶性肺炎 p.219"
+    },
+    {
+      "id": "M2",
+      "quote": "每日伴同药物治疗，较单纯用药物治疗者效率提高",
+      "src": "针灸处方集·第一章 呼吸器病·小叶性肺炎 p.219"
+    },
+    {
+      "id": "M3",
+      "quote": "本病之主要治疗，应由专医用药物诊治。针灸作为辅助，收效可以迅速",
+      "src": "针灸处方集·第一章 呼吸器病·格鲁布性肺炎 p.219"
+    },
+    {
+      "id": "M4",
+      "quote": "本病应以药物作主治，由专医治疗。以针术作诱导刺激，使心脏之炎性减轻上，亦有相当辅助",
+      "src": "针灸处方集·第二章 循环器病·急性心脏内膜炎 p.224"
+    },
+    {
+      "id": "M5",
+      "quote": "本病应由专医用药物治疗为主，针术为辅",
+      "src": "针灸处方集·第九章 新陈代谢病·糖尿病 p.276"
+    },
+    {
+      "id": "M6",
+      "quote": "本病应由专医用消炎治疗，针术只作助治",
+      "src": "针灸处方集·第十章 五官器病·中耳炎 p.278"
+    },
+    {
+      "id": "M7",
+      "quote": "本病宜与专医用药物共同诊治，收效必速",
+      "src": "针灸处方集·第三章 消化器病·急性肠炎 p.235"
+    },
+    {
+      "id": "M8",
+      "quote": "针灸刺激内脏之神经，疏通血行，加强门脉循环，比较合乎理想，一面与专医配合药物治疗为适宜",
+      "src": "针灸处方集·第三章 消化器病·肝脏硬化症 p.239"
+    },
+    {
+      "id": "M9",
+      "quote": "由专医并用强心利尿之药品互相辅助",
+      "src": "针灸处方集·第三章 消化器病·腹水 p.239"
+    },
+    {
+      "id": "M10",
+      "quote": "本病应与药物之发汗退热疗法并用，不能单纯用针灸治疗",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·急性关节偻麻质斯 p.265"
+    },
+    {
+      "id": "M11",
+      "quote": "如以距离有设备之医所太远，可以针术先作消炎镇痛之诱导针法后，送医所诊治",
+      "src": "针灸处方集·第三章 消化器病·盲肠炎、虫样突起炎 p.236"
+    },
+    {
+      "id": "M12",
+      "quote": "在僻壤乡间，药物急切难得时，可应用针治",
+      "src": "针灸处方集·第六章 妇人科病·乳腺炎 p.271"
+    },
+    {
+      "id": "M13",
+      "quote": "如与药剂并用，收效更速",
+      "src": "针灸处方集·第六章 妇人科病·乳腺炎 p.271"
+    },
+    {
+      "id": "M14",
+      "quote": "作强刺激之针治，作为助治，可减低里急后重之症状，并有抑制病症进行之效",
+      "src": "针灸处方集·第十一章 传染病·赤痢(附疫痢) p.280"
+    },
+    {
+      "id": "M15",
+      "quote": "针术对于各种急性病症之有效，大都如是；及体力已衰，针术即不发生效用",
+      "src": "针灸处方集·第十一章 传染病·赤痢(附疫痢) p.280"
+    },
+    {
+      "id": "M16",
+      "quote": "疫痢：于行药物治疗中，在大椎、身柱两穴位上，每点用小艾炷(如米粒大)灸五至七炷，作为助治，有减低热度，增进抗力之效",
+      "src": "针灸处方集·第十一章 传染病·赤痢(附疫痢) p.280"
+    },
+    {
+      "id": "M17",
+      "quote": "近年一致采用盐水注射后，针与灸，只可作为助治；唯穷乡僻壤之地，盐水一时不及置备时，先其所急，可作针灸之治疗",
+      "src": "针灸处方集·第十一章 传染病·霍乱 p.281"
+    },
+    {
+      "id": "M18",
+      "quote": "此为旧医之急救疗法，效果甚佳，以其有强心与增加抗力止吐泻之效；在不妨碍盐水注射之施治上，试采用之",
+      "src": "针灸处方集·第十一章 传染病·霍乱 p.281"
+    },
+    {
+      "id": "M19",
+      "quote": "编者于本病无直接治疗经验",
+      "src": "针灸处方集·第十一章 传染病·鼠疫 p.282"
+    },
+    {
+      "id": "M20",
+      "quote": "此处提出过去针治放血治法，绝非玄奇，为供针灸学者之参考，备不虞之试用耳",
+      "src": "针灸处方集·第十一章 传染病·鼠疫 p.282"
+    },
+    {
+      "id": "M21",
+      "quote": "本病应由专医治疗，可以针术作助治",
+      "src": "针灸处方集·第十一章 传染病·流行性脑脊髓膜炎 p.282"
+    },
+    {
+      "id": "M22",
+      "quote": "编者对于此症之针术治疗，原无师承与文献可据",
+      "src": "针灸处方集·第十一章 传染病·流行性脑脊髓膜炎 p.283"
+    },
+    {
+      "id": "M23",
+      "quote": "编者主张用新药作主治，不用抽脊水手术而代以针术，一定可缩短病程，减少死亡",
+      "src": "针灸处方集·第十一章 传染病·流行性脑脊髓膜炎 p.283"
+    },
+    {
+      "id": "M24",
+      "quote": "兼于身柱、关元两点，用小艾炷直接灸治七壮，可加强抗力，不半日而疹复起，可作麻疹隐没之帮助",
+      "src": "针灸处方集·第十一章 传染病·麻疹 p.283"
+    },
+    {
+      "id": "M25",
+      "quote": "本病用奎宁治疗，每多即行痊愈，亦有因体弱而服奎宁数日不愈者",
+      "src": "针灸处方集·第十一章 传染病·疟疾 p.283"
+    },
+    {
+      "id": "M26",
+      "quote": "近年经多数之针灸医证明，已公认针术对疟疾有效",
+      "src": "针灸处方集·第十一章 传染病·疟疾 p.283"
+    },
+    {
+      "id": "M27",
+      "quote": "编者对此病，在30余年前随内科业师时，见有数人治愈，后自行针术，无机会遇见，故于针术无经验",
+      "src": "针灸处方集·第十一章 传染病·破伤风 p.284"
+    },
+    {
+      "id": "M28",
+      "quote": "就理想，在穷乡僻壤中，缺乏新药或并稍有经验之旧医而亦无时，可照脑脊髓膜炎之针法试治之",
+      "src": "针灸处方集·第十一章 传染病·破伤风 p.284"
+    },
+    {
+      "id": "M29",
+      "quote": "本病应由专医用药物作主治，以针术随其症状取穴，解其毒素所刺激之神经诸症",
+      "src": "针灸处方集·第十一章 传染病·流行性感冒 p.284"
+    },
+    {
+      "id": "M30",
+      "quote": "编者按本病初期用针放血法及灸法，颇有效果",
+      "src": "针灸处方集·第十一章 传染病·麻风 p.284"
+    },
+    {
+      "id": "M31",
+      "quote": "本病应作隔离治疗，在新药中迄无有效之药品",
+      "src": "针灸处方集·第十一章 传染病·麻风 p.284"
+    },
+    {
+      "id": "M32",
+      "quote": "以加强抵抗力，促进发汗功能，并对主诉症作诱导为目的",
+      "src": "针灸处方集·第十一章 传染病·感冒 p.284"
+    },
+    {
+      "id": "M33",
+      "quote": "编者用七液丹(方附篇末)，曾治经检验证明之伤寒发热，与未经证明之高热数人，皆迅速收效",
+      "src": "针灸处方集·第十一章 传染病·伤寒 p.281"
+    },
+    {
+      "id": "M34",
+      "quote": "附：备查药方(1)犀黄",
+      "src": "针灸处方集·第十一章 传染病·附录·备查药方 p.284"
+    },
+    {
+      "id": "M35",
+      "quote": "(7)甘麦大枣汤：治歇斯底里",
+      "src": "针灸处方集·第十一章 传染病·附录·备查药方 p.285"
+    },
+    {
+      "id": "M36",
+      "quote": "(14)七液丹：主治一切高热，如伤寒、副伤寒、痢疾、咽喉炎症",
+      "src": "针灸处方集·第十一章 传染病·附录·备查药方 p.285"
+    },
+    {
+      "id": "M37",
+      "quote": "(15)龙虎丸：主治癫狂病",
+      "src": "针灸处方集·第十一章 传染病·附录·备查药方 p.286"
+    },
+    {
+      "id": "M38",
+      "quote": "(4)十枣丸：治渗出性肋膜炎及水肿",
+      "src": "针灸处方集·第十一章 传染病·附录·备查药方 p.285"
+    },
+    {
+      "id": "M39",
+      "quote": "(12)紫金锭：解诸毒、疗疮肿、利关窍、治百病",
+      "src": "针灸处方集·第十一章 传染病·附录·备查药方 p.285"
+    },
+    {
+      "id": "M40",
+      "quote": "录出供新医家参考",
+      "src": "针灸处方集·第一章 呼吸器病·肺脓疡与肺坏疽 p.222"
+    },
+    {
+      "id": "M41",
+      "quote": "每用锡类散敷之，二三日即愈，录供参考",
+      "src": "针灸处方集·第三章 消化器病·亚布答性口内炎 p.229"
+    },
+    {
+      "id": "M42",
+      "quote": "唯针灸医而不谙中药方剂者，不得用之",
+      "src": "针灸处方集·第一章 呼吸器病·肋膜炎 p.222"
+    },
+    {
+      "id": "M43",
+      "quote": "中药龙虎丸，编者屡用有效，于此介绍",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·麻痹狂 p.248"
+    },
+    {
+      "id": "M44",
+      "quote": "本病时服云南产之参三七，作治疗辅助甚好",
+      "src": "针灸处方集·第三章 消化器病·十二指肠溃疡 p.237"
+    },
+    {
+      "id": "M45",
+      "quote": "在一般之治法中，以针灸为最效，而同时用中药方阳和汤作助治，收效更速",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·膝关节炎 p.266"
+    },
+    {
+      "id": "M46",
+      "quote": "中药方甘麦大枣汤，编者屡用良效",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·歇斯底里 p.263"
+    },
+    {
+      "id": "M47",
+      "quote": "按：中医《幼幼集成》书中所称马脾风，即为此症。用牛黄夺命散救治",
+      "src": "针灸处方集·第一章 呼吸器病·肺水肿 p.219"
+    },
+    {
+      "id": "M48",
+      "quote": "作紧急降低血压、收缩脑血管之急救，同时应与专医配合药物之治疗",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑溢血 p.246"
+    }
+  ],
+  "how_to_use": {
+    "zh": "读一条处方，先看首句里主治交给谁：药物或专医(针灸辅助)、共同诊治、转诊，还是针灸为主。条内若写“送专医”“外科手术”“化脓则……”，就是转诊触发点，不要继续照方针刺。传染病与急重症条目里的“助治”只是针灸在药物之外的补充，不是替代。附录药方仅供“对照出处”，不作用药建议。相关阅读：不宜针灸的病见 cda-30，调护与预后见 cda-31。",
+    "en": "Read the first sentence of an entry to see who takes the main treatment: drugs or a specialist (acupuncture as aid), joint treatment, referral, or acupuncture itself. A line such as \"to a specialist\", \"surgery\" or \"if pus forms\" is a referral trigger and the point list should not simply be followed. \"Aid\" in infectious and acute entries is a supplement beside drugs, not a substitute. The appendix formulas are for looking up sources only, not prescribing advice. See also cda-30 for diseases not for acupuncture and cda-31 for care and prognosis."
+  },
+  "caveats": {
+    "zh": "书中的血清、疫苗、磺胺、奎宁、盐水注射与“新药”是1951年前后的疗法，附录药方是编者“录供参考”的验方与外用剂，不是针灸方案，本导读不据此提供用药建议；附录编号(3)芥菜卤的说明有“治病同麻风”字样，语义不明，(9)与(13)两条无名称，其归属为编者据位置推读。",
+    "en": "The serum, vaccines, sulfa, quinine, saline infusion and \"new drugs\" in the book are therapies of about 1951; the appendix formulas are tested remedies and external washes the editor \"records for reference\", not acupuncture regimens, and this guide gives no prescribing advice. Appendix (3) mustard-brine carries the wording \"same disease as leprosy\", which is unclear; (9) and (13) have no names and their attribution is the editor's reading by position."
+  },
+  "see": {
+    "notes": [
+      "Lobular Pneumonia Bronchopneumonia (痰热喘嗽) 小叶性肺炎",
+      "Liver Cirrhosis (血蛊、单腹蛊) 肝脏硬化症",
+      "Cerebral Hemorrhage (Zhongfeng) 脑溢血",
+      "Acute Enteritis (食泻、热泻) 急性肠炎",
+      "Mastitis (乳痈) 乳腺炎",
+      "Bacillary Dysentery (with Epidemic Dysentery 疫痢) 赤痢(附疫痢)",
+      "Cholera 霍乱",
+      "Plague 鼠疫",
+      "Epidemic Cerebrospinal Meningitis (急惊风) 流行性脑脊髓膜炎",
+      "Malaria 疟疾",
+      "Tetanus (痉症) 破伤风",
+      "Gonitis - Knee Arthritis (Hexifeng) 膝关节炎"
+    ],
+    "points": [
+      "大椎",
+      "身柱",
+      "关元",
+      "陶道",
+      "足三里"
+    ],
+    "rx": [
+      "cda-rx-013",
+      "cda-rx-058",
+      "cda-rx-072",
+      "cda-rx-179",
+      "cda-rx-204",
+      "cda-rx-205",
+      "cda-rx-209",
+      "cda-rx-213",
+      "cda-rx-215",
+      "cda-rx-216"
+    ]
+  }
+}

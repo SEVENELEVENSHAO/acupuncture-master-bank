@@ -1,0 +1,609 @@
+{
+  "id": "cda-15-urogenital",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 15,
+  "title": {
+    "zh": "泌尿生殖器病：急性消炎诱导，慢性强壮加灸",
+    "en": "Urogenital Diseases: Acute — Anti-inflammation by Induction; Chronic — Strengthening with Moxa"
+  },
+  "summary": {
+    "zh": "17条泌尿生殖器病全部列为可用针灸，逻辑是一分为二：急性炎症(肾炎、肾盂炎、膀胱炎、睾丸炎、摄护腺炎、淋疾)“消炎诱导”，用强刺激；慢性与功能衰弱(慢性肾炎、膀胱麻痹、尿失禁、遗尿、阴痿、遗精)“强壮”，用轻刺激再加灸。取穴集中在腰骶(肾俞、命门、髎、大肠俞)与下腹(关元、中极、气海)，加三阴交。",
+    "en": "All 17 urogenital entries are treated as usable, with one split: acute inflammations (nephritis, pyelitis, cystitis, orchitis, prostatitis, gonorrhoea) are aimed at anti-inflammation by induction with strong stimulation; chronic and weak states (chronic nephritis, bladder paralysis, incontinence, enuresis, impotence, spermatorrhoea) at strengthening, with light stimulation then moxa. Points cluster on the lumbosacral back (Shenshu, Mingmen, Liao points, Dachangshu) and lower abdomen (Guanyuan, Zhongji, Qihai), plus Sanyinjiao."
+  },
+  "takeaways": [
+    {
+      "zh": "急与慢是这一章的分水岭：膀胱炎“急性症以消炎诱导为目的，慢性症以强壮膀胱之组织为目的”；摄护腺炎“急性以消炎诱导为目的；慢性以强壮为目的”；淋疾急性“图抗菌消炎”，慢性“以加强抗菌力为目的”。肾盂炎、睾丸炎也按急慢分两套穴位与手法。",
+      "en": "Acute versus chronic is the watershed: cystitis acute aimed at anti-inflammation by induction, chronic at strengthening the bladder tissue; prostatitis likewise; gonorrhoea acute at anti-bacterial anti-inflammation, chronic at raising anti-bacterial power. Pyelitis and orchitis also get separate point sets and technique for acute and chronic.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "手法随之分开：急性期用强刺激(8条提到)，如急性肾炎“每日或间日作强刺激之针治”、睾丸炎“强刺激日针1次，数次即消”；慢性期先轻刺激(6条提到)“而后以药艾灸条灸治之”，睾丸炎转慢性时更以药艾条对准睾丸灸，并灸关元、腰俞、三阴交。全章12条用灸。",
+      "en": "Technique splits accordingly: strong stimulation in the acute phase (named in 8 entries), e.g. acute nephritis daily or on alternate days, orchitis daily \"gone in a few sessions\"; light stimulation then a medicated moxa stick in the chronic phase (6 entries), chronic orchitis even moxaed directly at the testis plus Guanyuan, Yaoshu, Sanyinjiao. Twelve of the 17 entries use moxa.",
+      "cite": [
+        "E4",
+        "E5",
+        "E6"
+      ]
+    },
+    {
+      "zh": "取穴集中在两带一穴：腰骶带(肾俞10条，命门、阳关、上髎、次髎、中髎，大肠俞、三焦俞、腰俞)，下腹带(关元12条，气海7条，中极6条，曲骨)，和三阴交12条。17条中16条含腰骶带穴、15条含下腹带穴；只有睾丸炎、血尿等少数改取上肢与足部远隔穴(手三里、合谷、大陵、列缺)作诱导。",
+      "en": "Points cluster in two zones and one point: lumbosacral (Shenshu in 10 entries; Mingmen, Yangguan, Shangliao, Ciliao, Zhongliao, Dachangshu, Sanjiaoshu, Yaoshu), lower abdomen (Guanyuan 12, Qihai 7, Zhongji 6, Qugu), and Sanyinjiao in 12. Sixteen of 17 entries include a lumbosacral point and 15 a lower-abdominal one; only a few (orchitis, haematuria) use remote arm or foot points (Shousanli, Hegu, Daling, Lieque) for induction.",
+      "cite": [
+        "E7",
+        "E8"
+      ]
+    },
+    {
+      "zh": "肾脏病的目的因型而异：急性肾炎“亢进肾脏功能，促进消炎利尿”，慢性肾炎“强壮肾脏功能，旺盛血行，强心利尿”，萎缩肾“减低血压，强壮肾脏组织”；他把利尿、强心、降压当作针灸的目标，同时在调护里限制盐、肉蛋，发热时配合中医发汗利尿。",
+      "en": "Kidney aims differ by type: acute nephritis to raise kidney function and promote anti-inflammation and diuresis; chronic nephritis to strengthen the kidney, circulation, the heart and diuresis; atrophic kidney to lower blood pressure and strengthen renal tissue; care limits salt, meat and eggs, and with fever he asks to combine with a Chinese physician's sweating and diuretic prescription.",
+      "cite": [
+        "E9",
+        "E10",
+        "E11"
+      ]
+    },
+    {
+      "zh": "膀胱与尿道的功能病被理解为神经功能：膀胱麻痹“促进膀胱神经功能之恢复”，尿失禁“借神经反射传导，图加强膀胱括约肌之收缩功能”，遗尿“强壮膀胱神经功能”；处理都是灸(百会、命门、中髎、关元)，尿失禁“每日用小艾炷各灸七壮……持续数周”；膀胱痉挛则相反，“以镇静诱导为目的”用强刺激。",
+      "en": "Functional bladder disorders are read as nerve function: paralysis to restore bladder nerve function; incontinence to strengthen the sphincter through reflex transmission; enuresis to strengthen bladder nerves; all treated by moxa (Baihui, Mingmen, Zhongliao, Guanyuan), incontinence with seven small cones daily for several weeks; bladder spasm is the opposite, calmed and induced with strong stimulation.",
+      "cite": [
+        "E12",
+        "E13",
+        "E14",
+        "E25"
+      ]
+    },
+    {
+      "zh": "生殖器病同样按“强壮”或“诱导”：阴痿“旺盛全身血行与加强阴部神经之兴奋”，每日药艾条灸百会、肾俞、命门、阳关、关元、中极；遗精“强壮”，需持久针疗；睾丸炎、摄护腺炎急性时消炎，慢性时灸。调护里有节欲、戒手淫、热罨等生活项。",
+      "en": "Genital disease is likewise strengthened or induced: impotence to boost whole-body circulation and excite pudendal nerves, by daily medicated moxa stick at Baihui, Shenshu, Mingmen, Yangguan, Guanyuan, Zhongji; spermatorrhoea to strengthen, with long needling; orchitis and prostatitis are anti-inflammatory when acute, moxaed when chronic. Care includes sexual restraint, stopping masturbation, hot compresses.",
+      "cite": [
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "zh": "与药物、生活的配合明确：急性肾炎“应与中医配合作发汗利尿之处方”，急性膀胱炎“应与药物配合治疗，首先发汗解热”，淋疾“同时由专医用对症之灭菌治疗”，结石“同时服中药之化结石剂”，结石过大则手术；遗尿另有夜间缚带养成习惯的办法。针灸在这一章是其中一部分，而非全部。",
+      "en": "Combination with drugs and habits is explicit: acute nephritis with a Chinese physician's sweating and diuretic prescription, acute cystitis with drugs first inducing sweat and lowering fever, gonorrhoea with a specialist's antibacterial treatment, stones with a stone-dissolving herbal agent and surgery if large; enuresis has a night-time strap routine to build a habit. Acupuncture is one part here, not the whole.",
+      "cite": [
+        "E17",
+        "E18",
+        "E19",
+        "E20"
+      ]
+    },
+    {
+      "zh": "预后按病因和神经来源：多数炎症写“多良”“大多良好”，遗尿“佳良”；但慢性肾炎有心脏肥大者难效，萎缩肾“经过缓慢，不易痊愈”，急性肾炎并发尿毒症者危险，膀胱麻痹“从脊髓病来者多不良”，结石多并发他病者转归不良。",
+      "en": "Prognosis follows cause and nerve origin: most inflammations \"mostly good\", enuresis \"excellent\"; chronic nephritis with cardiac hypertrophy is refractory, atrophic kidney slow and hard to cure, acute nephritis with uraemia dangerous, bladder paralysis from spinal disease mostly poor, stones with many complications poor.",
+      "cite": [
+        "E21",
+        "E22",
+        "E23",
+        "E24"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "泌尿生殖器病：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Urogenital: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "急性肾脏炎",
+            "en": "Acute nephritis"
+          },
+          {
+            "zh": "亢进肾功能，消炎利尿",
+            "en": "Raise kidney function; anti-inflammation, diuresis"
+          },
+          "天柱、风门、肾俞、大肠俞、上髎、章门、外关、合谷、阴陵泉、三阴交",
+          {
+            "zh": "每日或间日强刺激",
+            "en": "Strong, daily or alternate days"
+          },
+          {
+            "zh": "并发尿毒症者危险",
+            "en": "Dangerous with uraemia"
+          }
+        ],
+        [
+          {
+            "zh": "慢性肾脏炎",
+            "en": "Chronic nephritis"
+          },
+          {
+            "zh": "强壮肾功能，旺盛血行，强心利尿",
+            "en": "Strengthen kidney, circulation, heart; diuresis"
+          },
+          "三焦俞、气海俞、大肠俞、上髎、气海、足三里、阴陵泉；另组肾俞、关元俞、次髎、天枢、关元、三阴交",
+          {
+            "zh": "两组轮换，先轻刺激后药艾条灸",
+            "en": "Two groups alternated; light needling then medicated moxa stick"
+          },
+          {
+            "zh": "有心脏肥大者难效",
+            "en": "Refractory with cardiac hypertrophy"
+          }
+        ],
+        [
+          {
+            "zh": "肾盂炎",
+            "en": "Pyelitis"
+          },
+          {
+            "zh": "消炎诱导利尿",
+            "en": "Anti-inflammation, induction, diuresis"
+          },
+          "急：肾俞、大肠俞、委中、血海、足三里、三阴交、大钟；慢：三焦俞、督俞、次髎，并足三里、委中",
+          {
+            "zh": "急性强刺激；慢性轻刺激后艾条灸",
+            "en": "Acute strong; chronic light then moxa stick"
+          },
+          {
+            "zh": "原书未列预后",
+            "en": "None stated"
+          }
+        ],
+        [
+          {
+            "zh": "膀胱炎",
+            "en": "Cystitis"
+          },
+          {
+            "zh": "急：消炎诱导；慢：强壮膀胱组织",
+            "en": "Acute: anti-inflammation; chronic: strengthen bladder"
+          },
+          "急：大肠俞、膀胱俞、上髎、中髎、足三里、血海、阴陵泉、三阴交；慢：肾俞、上髎、中髎、气海、中极",
+          {
+            "zh": "急性强刺激；慢性日用温灸",
+            "en": "Acute strong; chronic daily warm moxa"
+          },
+          {
+            "zh": "视原因而异",
+            "en": "Depends on cause"
+          }
+        ],
+        [
+          {
+            "zh": "血尿",
+            "en": "Haematuria"
+          },
+          {
+            "zh": "收缩该部血管",
+            "en": "Constrict the local vessels"
+          },
+          "肾俞、小肠俞、气海、关元、大陵、列缺、复溜",
+          {
+            "zh": "强刺激，连针数日",
+            "en": "Strong, several days running"
+          },
+          {
+            "zh": "大多良好",
+            "en": "Mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "膀胱麻痹",
+            "en": "Bladder paralysis"
+          },
+          {
+            "zh": "促进膀胱神经功能恢复",
+            "en": "Restore bladder nerve function"
+          },
+          "阳关、次髎、中髎、关元、中极、曲骨",
+          {
+            "zh": "轻刺激后药艾条灸，日1次",
+            "en": "Light needling then medicated moxa stick, daily"
+          },
+          {
+            "zh": "从脊髓病来者多不良",
+            "en": "Mostly poor if from spinal disease"
+          }
+        ],
+        [
+          {
+            "zh": "膀胱结石症",
+            "en": "Bladder stones"
+          },
+          {
+            "zh": "反射调整肾与膀胱功能；同服中药化石",
+            "en": "Reflex regulation of kidney and bladder; with herbal stone-dissolving agent"
+          },
+          "肾俞、膀胱俞、气海、关元、中极、阴陵泉、三阴交",
+          {
+            "zh": "轻刺激后艾条灸，日1次",
+            "en": "Light needling then moxa stick, daily"
+          },
+          {
+            "zh": "砂石过多并发他病者不良",
+            "en": "Poor with many stones and complications"
+          }
+        ],
+        [
+          {
+            "zh": "遗尿症",
+            "en": "Enuresis"
+          },
+          {
+            "zh": "强壮膀胱神经功能",
+            "en": "Strengthen bladder nerve function"
+          },
+          "百会、肾俞、命门、关元",
+          {
+            "zh": "温灸器每日灸，或艾条灸；配夜间缚带习惯",
+            "en": "Daily warm-moxa device or stick; night strap habit"
+          },
+          {
+            "zh": "佳良",
+            "en": "Excellent"
+          }
+        ],
+        [
+          {
+            "zh": "阴痿症",
+            "en": "Impotence"
+          },
+          {
+            "zh": "旺盛全身血行，加强阴部神经兴奋",
+            "en": "Boost whole-body circulation and pudendal nerve excitation"
+          },
+          "百会、膈俞、胃俞、肾俞、命门、阳关、关元、中极",
+          {
+            "zh": "药艾灸条每日灸",
+            "en": "Medicated moxa stick daily"
+          },
+          {
+            "zh": "不一定",
+            "en": "Uncertain"
+          }
+        ],
+        [
+          {
+            "zh": "睾丸炎",
+            "en": "Orchitis"
+          },
+          {
+            "zh": "反射传导，恢复局部神经功能",
+            "en": "Reflex; restore local nerve function"
+          },
+          "手三里、合谷、曲泉、三阴交、中封、大敦；慢性灸关元、腰俞、三阴交",
+          {
+            "zh": "强刺激日1次；慢性药艾条对准睾丸灸",
+            "en": "Strong daily; chronic: moxa stick aimed at the testis"
+          },
+          {
+            "zh": "多数良好",
+            "en": "Mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "摄护腺炎",
+            "en": "Prostatitis"
+          },
+          {
+            "zh": "急：消炎诱导；慢：强壮",
+            "en": "Acute: anti-inflammation; chronic: strengthen"
+          },
+          "急：气海、血海、阴陵泉、三阴交、太溪、照海；慢：腰俞、中极、百会、大赫、三阴交",
+          {
+            "zh": "急性强刺激；慢性轻刺激后药艾条灸",
+            "en": "Acute strong; chronic light then medicated moxa stick"
+          },
+          {
+            "zh": "多良",
+            "en": "Mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "淋疾",
+            "en": "Gonorrhoea"
+          },
+          {
+            "zh": "急：调整病灶血行，抗菌消炎，专医灭菌同治；慢：加强抗菌力",
+            "en": "Acute: local circulation, anti-bacterial anti-inflammation with specialist; chronic: raise anti-bacterial power"
+          },
+          "急：小肠俞、气海、曲泉、三阴交、行间、合谷；慢：小肠俞、中髎、中极、曲骨、三阴交",
+          {
+            "zh": "急性日强刺激；慢性轻刺激后药艾条灸",
+            "en": "Acute strong daily; chronic light then medicated moxa stick"
+          },
+          {
+            "zh": "多良",
+            "en": "Mostly good"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "急性与慢性对照：同一病的两套治法",
+        "en": "Acute versus chronic: two regimens for one disease"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "急性：目的与手法",
+          "en": "Acute: aim and technique"
+        },
+        {
+          "zh": "慢性：目的与手法",
+          "en": "Chronic: aim and technique"
+        },
+        {
+          "zh": "穴位变化",
+          "en": "Point shift"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "肾盂炎",
+            "en": "Pyelitis"
+          },
+          {
+            "zh": "消炎诱导利尿；强刺激",
+            "en": "Anti-inflammation, induction, diuresis; strong"
+          },
+          {
+            "zh": "轻刺激后艾条灸",
+            "en": "Light needling then moxa stick"
+          },
+          {
+            "zh": "肾俞、大肠俞、委中、血海、足三里、三阴交 → 三焦俞、督俞、次髎、足三里、委中",
+            "en": "Shenshu, Dachangshu, Weizhong, Xuehai, Zusanli, Sanyinjiao → Sanjiaoshu, Dushu, Ciliao, Zusanli, Weizhong"
+          }
+        ],
+        [
+          {
+            "zh": "膀胱炎",
+            "en": "Cystitis"
+          },
+          {
+            "zh": "消炎诱导；强刺激",
+            "en": "Anti-inflammation by induction; strong"
+          },
+          {
+            "zh": "强壮膀胱组织；日用温灸",
+            "en": "Strengthen bladder tissue; daily warm moxa"
+          },
+          {
+            "zh": "大肠俞、膀胱俞、髎穴、足三里、血海、阴陵泉、三阴交 → 肾俞、上髎、中髎、气海、中极",
+            "en": "Dachangshu, Pangguangshu, Liao points, Zusanli, Xuehai, Yinlingquan, Sanyinjiao → Shenshu, Shangliao, Zhongliao, Qihai, Zhongji"
+          }
+        ],
+        [
+          {
+            "zh": "摄护腺炎",
+            "en": "Prostatitis"
+          },
+          {
+            "zh": "消炎诱导；强刺激",
+            "en": "Anti-inflammation by induction; strong"
+          },
+          {
+            "zh": "强壮；轻刺激后药艾条灸",
+            "en": "Strengthen; light then medicated moxa stick"
+          },
+          {
+            "zh": "气海、血海、阴陵泉、三阴交、太溪、照海 → 腰俞、中极、百会、大赫、三阴交",
+            "en": "Qihai, Xuehai, Yinlingquan, Sanyinjiao, Taixi, Zhaohai → Yaoshu, Zhongji, Baihui, Dahe, Sanyinjiao"
+          }
+        ],
+        [
+          {
+            "zh": "淋疾",
+            "en": "Gonorrhoea"
+          },
+          {
+            "zh": "抗菌消炎，专医灭菌同治；日强刺激",
+            "en": "Anti-bacterial anti-inflammation with specialist; strong daily"
+          },
+          {
+            "zh": "加强抗菌力；轻刺激后药艾条灸",
+            "en": "Raise anti-bacterial power; light then medicated moxa stick"
+          },
+          {
+            "zh": "小肠俞、气海、曲泉、三阴交、行间、合谷 → 小肠俞、中髎、中极、曲骨、三阴交",
+            "en": "Xiaochangshu, Qihai, Ququan, Sanyinjiao, Xingjian, Hegu → Xiaochangshu, Zhongliao, Zhongji, Qugu, Sanyinjiao"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "急性症以消炎诱导为目的，慢性症以强壮膀胱之组织为目的",
+      "src": "针灸处方集·第四章 泌尿生殖器病·膀胱炎 p.242"
+    },
+    {
+      "id": "E2",
+      "quote": "急性以消炎诱导为目的；慢性以强壮为目的",
+      "src": "针灸处方集·第四章 泌尿生殖器病·摄护腺炎 p.245"
+    },
+    {
+      "id": "E3",
+      "quote": "急性症时，以反射刺激，调整病灶部之血行与功能，图抗菌消炎为目的；同时由专医用对症之灭菌治疗",
+      "src": "针灸处方集·第四章 泌尿生殖器病·淋疾 p.245"
+    },
+    {
+      "id": "E4",
+      "quote": "每日或间日作强刺激之针治",
+      "src": "针灸处方集·第四章 泌尿生殖器病·急性肾脏炎 p.241"
+    },
+    {
+      "id": "E5",
+      "quote": "用强刺激日针1次，数次即消",
+      "src": "针灸处方集·第四章 泌尿生殖器病·睾丸炎 p.245"
+    },
+    {
+      "id": "E6",
+      "quote": "转成慢性时，以药艾灸条对准睾丸灸治，并灸关元、腰俞、三阴交，每日1次，渐消",
+      "src": "针灸处方集·第四章 泌尿生殖器病·睾丸炎 p.245"
+    },
+    {
+      "id": "E7",
+      "quote": "取穴：肾俞、膀胱俞、气海、关元、中极、阴陵泉、三阴交",
+      "src": "针灸处方集·第四章 泌尿生殖器病·膀胱结石症 p.243"
+    },
+    {
+      "id": "E8",
+      "quote": "取穴：肾俞、小肠俞、气海、关元、大陵、列缺、复溜",
+      "src": "针灸处方集·第四章 泌尿生殖器病·血尿 p.242"
+    },
+    {
+      "id": "E9",
+      "quote": "以图亢进肾脏功能，促进消炎利尿为目的",
+      "src": "针灸处方集·第四章 泌尿生殖器病·急性肾脏炎 p.241"
+    },
+    {
+      "id": "E10",
+      "quote": "以强壮肾脏功能，旺盛血行，强心利尿为目的",
+      "src": "针灸处方集·第四章 泌尿生殖器病·慢性肾脏炎 p.241"
+    },
+    {
+      "id": "E11",
+      "quote": "以减低血压，强壮肾脏组织为目的",
+      "src": "针灸处方集·第四章 泌尿生殖器病·萎缩肾 p.241"
+    },
+    {
+      "id": "E12",
+      "quote": "以促进膀胱神经功能之恢复为目的",
+      "src": "针灸处方集·第四章 泌尿生殖器病·膀胱麻痹 p.243"
+    },
+    {
+      "id": "E13",
+      "quote": "借神经反射传导，图加强膀胱括约肌之收缩功能为目的",
+      "src": "针灸处方集·第四章 泌尿生殖器病·尿失禁 p.243"
+    },
+    {
+      "id": "E14",
+      "quote": "每日用小艾炷各灸七壮，或用艾条灸治，持续数周有良效",
+      "src": "针灸处方集·第四章 泌尿生殖器病·尿失禁 p.244"
+    },
+    {
+      "id": "E15",
+      "quote": "以旺盛全身血行与加强阴部神经之兴奋为目的",
+      "src": "针灸处方集·第四章 泌尿生殖器病·阴痿症 p.244"
+    },
+    {
+      "id": "E16",
+      "quote": "以强壮与加强射精管之功能为目的",
+      "src": "针灸处方集·第四章 泌尿生殖器病·遗精症 p.244"
+    },
+    {
+      "id": "E17",
+      "quote": "应与中医配合作发汗利尿之处方，使患者绝对安静，限制有盐味之食物",
+      "src": "针灸处方集·第四章 泌尿生殖器病·急性肾脏炎 p.241"
+    },
+    {
+      "id": "E18",
+      "quote": "急性症：应与药物配合治疗，首先发汗解热",
+      "src": "针灸处方集·第四章 泌尿生殖器病·膀胱炎 p.242"
+    },
+    {
+      "id": "E19",
+      "quote": "图肾与膀胱组织功能之调整为目的；同时服中药之化结石剂",
+      "src": "针灸处方集·第四章 泌尿生殖器病·膀胱结石症 p.243"
+    },
+    {
+      "id": "E20",
+      "quote": "经一二旬之养成习惯，可不治而愈",
+      "src": "针灸处方集·第四章 泌尿生殖器病·遗尿症 p.243"
+    },
+    {
+      "id": "E21",
+      "quote": "有心脏肥大者难效",
+      "src": "针灸处方集·第四章 泌尿生殖器病·慢性肾脏炎 p.241"
+    },
+    {
+      "id": "E22",
+      "quote": "本病经过缓慢，不易痊愈",
+      "src": "针灸处方集·第四章 泌尿生殖器病·萎缩肾 p.242"
+    },
+    {
+      "id": "E23",
+      "quote": "从脊髓病来者多不良",
+      "src": "针灸处方集·第四章 泌尿生殖器病·膀胱麻痹 p.243"
+    },
+    {
+      "id": "E25",
+      "quote": "以镇静诱导为目的",
+      "src": "针灸处方集·第四章 泌尿生殖器病·膀胱痉挛 p.243"
+    },
+    {
+      "id": "E24",
+      "quote": "并发尿毒症者危险",
+      "src": "针灸处方集·第四章 泌尿生殖器病·急性肾脏炎 p.241"
+    }
+  ],
+  "caveats": {
+    "zh": "病名为民国西医名词(溺道炎、摄护腺炎、淋疾、萎缩肾等)，“反射传导”“神经功能”是他当时的机理说明。关于遗精、阴痿、淋疾的调护含有当时的生活告诫(戒手淫、禁房欲)，按原文保留而不作评价。淋疾、肾炎等在今日有抗生素与专科治疗，书中也明说要与专医、药物配合。“阳关”一名为原书所用，即腰阳关。",
+    "en": "Disease names are Republican-era Western terms (urethritis, prostatitis, gonorrhoea, atrophic kidney) and \"reflex transmission\" and \"nerve function\" are his mechanism words. Care notes on spermatorrhoea, impotence and gonorrhoea carry period lifestyle admonitions (stop masturbation, avoid intercourse), kept as printed without comment. Antibiotics and specialist care exist today, and the text itself says to co-treat with a specialist or drugs. \"Yangguan\" is the book's name, i.e. lumbar Yangguan."
+  },
+  "see": {
+    "points": [
+      "三阴交",
+      "关元",
+      "肾俞",
+      "气海",
+      "中极",
+      "大肠俞",
+      "阴陵泉",
+      "命门",
+      "次髎",
+      "百会"
+    ],
+    "rx": [
+      "cda-rx-078",
+      "cda-rx-079",
+      "cda-rx-081",
+      "cda-rx-082",
+      "cda-rx-083",
+      "cda-rx-084",
+      "cda-rx-086",
+      "cda-rx-087",
+      "cda-rx-090",
+      "cda-rx-092",
+      "cda-rx-093",
+      "cda-rx-094"
+    ]
+  }
+}

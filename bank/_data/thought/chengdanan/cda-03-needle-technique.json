@@ -1,0 +1,806 @@
+{
+  "id": "cda-03-needle-technique",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "刺灸法",
+    "en": "Technique"
+  },
+  "order": 3,
+  "title": {
+    "zh": "针具与刺法",
+    "en": "Needles and Needling Technique"
+  },
+  "summary": {
+    "zh": "常用的只有毫针(28号丝，寸五至二寸五为常用)与皮肤针；刺激强弱由针的粗细、手技的缓急、时间的长短三者配合决定，并按体质、性别、病性加减；深浅依肥瘦与解剖部位；晕针、涩针、断针等意外都有明确的成因、处置与预防。",
+    "en": "Only the filiform needle (28 gauge, 1.5 to 2.5 cun common) and skin needle are in use. Strength combines needle thickness, manipulation tempo and duration, adjusted for person and disease; depth follows build and anatomy; faint, stuck, bent and broken needles each have cause, remedy and prevention."
+  },
+  "takeaways": [
+    {
+      "zh": "针具从简：古有九针，近代不用；现时常用的只有毫针，锋针已改为三棱针。毫针按质(金、银、钢、铜)、长度(一寸至三寸五，常用寸五至二寸五)、粗细(26号粗、28号通用、30号细)区分；长针用于深部，大针用于强刺激。",
+      "en": "Needles are kept simple: the ancient nine needles are out of use; today's is essentially the filiform needle, the lance needle having become the three-edged needle. Filiform needles vary by metal (gold, silver, steel, copper), length (1 to 3.5 cun, 1.5 to 2.5 in common use) and gauge (26 thick, 28 general, 30 fine); the long needle serves deep sites, the large needle strong stimulation.",
+      "cite": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ]
+    },
+    {
+      "zh": "“刺”与“针”是两种进针方式：刺是短针直入直出的皮肤浅刺，用于末梢神经麻痹；针必须深入透过皮下达于肌层，拈捻而入、拈捻而出，为时较长，有种种手技。",
+      "en": "'Ci' and 'zhen' are two ways of entering: ci is a straight in-and-out shallow prick with a short needle, for peripheral nerve paralysis; zhen must go deep through the skin to muscle, twirled in and twirled out over a longer time, with various techniques.",
+      "cite": [
+        "C5"
+      ]
+    },
+    {
+      "zh": "刺激强弱是配出来的：粗针加较长时间的雀啄术是强刺激，细针加短时间的旋捻(单刺)术是弱刺激；同一号针、同一手技，也会因时间长短、手技缓急而强弱不同。适度的标准是使患者有快感舒适。强度还要因人而调：男子、肥满者、知觉迟钝者、生活功能亢进的病、有受针经验者，要比其对照者稍加强；精神劳动者比筋肉劳动者稍弱。",
+      "en": "Strength is a combination: a thick needle with somewhat prolonged sparrow-pecking is strong stimulation; a fine needle with brief twirling (or single insertion) is weak; even the same needle and technique differ in strength with duration and tempo. The measure of correctness is that the patient feels pleasant and comfortable. Intensity is also adjusted for the person: slightly stronger for men, the obese, the insensitive, diseases of hyperfunction and the needle-experienced than for their counterparts; slightly weaker for mental than manual workers.",
+      "cite": [
+        "C6",
+        "C7",
+        "C8",
+        "C9"
+      ]
+    },
+    {
+      "zh": "他把刺激量比作药量：强弱误用，治疗即使勉力为之也是徒劳，甚至造成危害，例如神经痛误用刺激量，反使疼痛增剧或不见镇痛。",
+      "en": "He compares stimulus dose to drug dose: misusing strong or weak is futile and can do harm; for example a wrong dose in neuralgia may intensify the pain or give no analgesia.",
+      "cite": [
+        "C10"
+      ]
+    },
+    {
+      "zh": "十种手技各有目的：单刺(轻刺激)、旋捻(稍强)、雀啄(强)、皮肤针(极浅，用于小儿)、置针(留针镇静神经兴奋)、乱刺、间歇(使血管扩张、筋肉弛缓)、回旋、颤振(使血管筋肉收缩)、歇啄(分三段雀啄，深部强刺激)；对应的生理作用也逐一列出。",
+      "en": "Ten techniques, each with an aim: single insertion (light), twirling (slightly stronger), sparrow-pecking (strong), skin needling (very shallow, for children), retained needle (calms nerve overexcitation), random pricking, intermittent (dilates vessels, relaxes muscle), rotary, trembling (contracts vessels and muscle), and stop-and-peck (three-stage pecking, strong stimulation at depth); the matching physiological effects are listed one by one.",
+      "cite": [
+        "C11",
+        "C12",
+        "C13",
+        "C14"
+      ]
+    },
+    {
+      "zh": "深浅按两条定：体质肥瘦(瘦人入一寸所达之处，肥人须增加一半或一倍以上)；刺针部位的解剖关系(深入会危及重要器官处，以浅刺为是)。",
+      "en": "Depth follows two rules: constitution (where a thin person is reached at one cun, a fat one needs half again or double or more) and local anatomy (where deep insertion endangers vital organs, shallow is correct).",
+      "cite": [
+        "C15",
+        "C16"
+      ]
+    },
+    {
+      "zh": "意外都从“原因—处置—预防”来想：晕针是进针急速或拈捻过激引起的急性脑贫血，处理是安卧、掐指尖、饮热水，重者掐人中、灸百会；涩针是肌肉强收缩，不可硬拔，在旁另下针使肌肉缓解；断针要镇静、不告诉患者，钢铁针深断可任其自化，金银铜针必须立送医院；出针要迟缓、避免遗感觉。",
+      "en": "Accidents are reasoned as cause, remedy, prevention: needle faint is acute cerebral anaemia from hasty insertion or over-vigorous twirling, handled by lying down, pinching fingertip, hot drink, and for severe cases pinching Renzhong or moxa at Baihui; a stuck needle is muscle spasm, not to be forced but released by extra needles beside it; for a broken needle stay calm and do not tell the patient, a deep steel one may be left to dissolve, a gold/silver/copper one must go straight to hospital; withdraw slowly to avoid after-sensations.",
+      "cite": [
+        "C17",
+        "C18",
+        "C19",
+        "C20",
+        "C21"
+      ]
+    },
+    {
+      "zh": "施针有前置程序：先诊断此病是否适用针治，从病症预定经穴，从体质预定手技，检查针具无缺损，术者手指与针身穴位消毒，取安全体位；所谓针灸的“处方”，就是预先决定取何穴、用针还是灸、针的粗细长短与手技，或灸炷大小与壮数。",
+      "en": "Needling has a pre-procedure: diagnose whether it suits needling, fix the points from the disease, fix the technique from the constitution, check the needle for defects, sterilise fingers, needle and point, and secure a safe posture; the acupuncture 'prescription' is the advance decision of points, needle or moxa, needle thickness/length and technique, or cone size and count.",
+      "cite": [
+        "C22",
+        "C23"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "进针、行针、出针",
+        "en": "Insertion, manipulation, withdrawal"
+      },
+      "body": {
+        "zh": "进针前先消毒手指、针穴与针体，体位端正；左拇指爪甲掐准穴位，右手拇、食、中三指持针捻入；二寸以上的针，左手拇、食两指夹持离针尖一分多处，助针身用力直送。出针前捻动渐缓或停止，待酸麻胀感因刺激减低而缓解，再徐徐捻出。旧式的“泻针”(强刺激制止或诱导)出针要急速而不按摸针孔，“补法”(轻刺激兴奋)出针缓慢并按摸针孔；他说今则不论刺激程度，出针都徐缓，并按揉所针之部。角度分直刺、横刺(沿皮针)、斜刺；针尖遇骨须立刻提起，不可摩擦骨膜。",
+        "en": "Before insertion sterilise fingers, point and needle and settle a correct posture; the left thumbnail marks the point and the right thumb, index and middle fingers twirl the needle in; for needles over two cun the left thumb and index grip about a fen above the tip and help drive the shaft. Before withdrawal twirling slows or stops, and once the sour/numb/distended feeling eases the needle is drawn slowly. In the old style the 'draining' needle (strong stimulation, inhibiting or inducing) is withdrawn quickly without pressing the hole, the 'supplementing' one (light, exciting) slowly with the hole pressed; he says that now all are withdrawn slowly and the area rubbed. Angles are perpendicular, transverse (along the skin) and oblique; if the tip meets bone it must be lifted at once, never scraped on the periosteum."
+      }
+    },
+    {
+      "h": {
+        "zh": "针感与针后反应",
+        "en": "Needle sensation and after-effects"
+      },
+      "body": {
+        "zh": "针尖触及神经干，术者指下有黏着、吸引之感，古称得气；被针者觉酸、麻、胀或如通电、直达他处，古称行气；日本针医称针之响，他称“针之感通作用”。拔针后遗留压迫酸重、疼痛或牵引不适为“遗感觉”，多因手技不纯熟：刺激太强、时间太长、酸感极重时立刻出针。针后局部出现粟粒或硬块，多因技术未熟伤及毛细血管，也可因消毒不全、针尖伤皮、针过粗、患者过衰弱、针后未按揉。",
+        "en": "When the tip touches a nerve trunk the operator's fingers feel a sticky, drawing sensation, called de qi in old books; the patient feels sour, numb, distended or an electric current running elsewhere, called 'moving qi'; Japanese needlers say 'needle response' and he calls it the needle's 'sensory-conduction effect'. Pressure, soreness, pain or dragging left after withdrawal is 'after-sensation', mostly from poor technique: too strong, too long, or withdrawing at once when the sour feeling is severe. Millet-like or hard lumps after needling mostly come from capillary damage by unskilled technique, but also from incomplete sterilisation, tip injury to skin, too thick a needle, a very weak patient, or no rubbing afterwards."
+      }
+    },
+    {
+      "h": {
+        "zh": "古法的处理",
+        "en": "Handling of ancient methods"
+      },
+      "body": {
+        "zh": "天地人三部之针有两种说法(分三次斜刺、直刺、下斜刺，或按浅、中、近骨三层深度)；补泻迎随(呼吸补泻、针向经脉来去)被作为古法列出，并说明今已不讲。",
+        "en": "Two versions of the heaven-human-earth three-level needling are given (three successive insertions: oblique up, straight, oblique down; or three depths: subcutaneous, deeper, near bone); breath-based supplementing and draining and needling toward or with the meridian flow are listed as ancient method and said to be no longer taught."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "针具",
+        "en": "Needles"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "内容",
+          "en": "Content"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "针质",
+            "en": "Material"
+          },
+          {
+            "zh": "金、银、钢、铜",
+            "en": "Gold, silver, steel, copper"
+          }
+        ],
+        [
+          {
+            "zh": "针体",
+            "en": "Type"
+          },
+          {
+            "zh": "毫针、小儿针(即皮肤针)",
+            "en": "Filiform needle; child's needle (= skin needle)"
+          }
+        ],
+        [
+          {
+            "zh": "毫针长度",
+            "en": "Filiform length"
+          },
+          {
+            "zh": "一寸、寸五、二寸、二寸五、三寸、三寸五；常用寸五至二寸五",
+            "en": "1, 1.5, 2, 2.5, 3, 3.5 cun; 1.5 to 2.5 in common use"
+          }
+        ],
+        [
+          {
+            "zh": "毫针粗细",
+            "en": "Filiform gauge"
+          },
+          {
+            "zh": "粗者26号丝，细者30号丝，通用28号丝",
+            "en": "Thick 26, fine 30, general 28"
+          }
+        ],
+        [
+          {
+            "zh": "古九针",
+            "en": "Ancient nine needles"
+          },
+          {
+            "zh": "镵针、员针、提针、锋针、铍针、员利针、毫针、长针、大针；今仅用毫针与锋针(锋针已改为三棱针)",
+            "en": "Chan, round, di, lance, pi, round-sharp, filiform, long, large; today only filiform and lance (lance now the three-edged needle)"
+          }
+        ],
+        [
+          {
+            "zh": "长针 / 大针",
+            "en": "Long / large"
+          },
+          {
+            "zh": "长针用于深部病痛，达深层神经；大针用于局部神经痛或痉挛须强刺激者",
+            "en": "Long: deep pain reaching deep nerves; large: local neuralgia or spasm needing strong stimulation"
+          }
+        ],
+        [
+          {
+            "zh": "长针 vs 短针",
+            "en": "Long vs short"
+          },
+          {
+            "zh": "长针适深部，浅部不便；短针适浅部，深部不适用",
+            "en": "Long suits depth, awkward superficially; short suits superficial sites, unsuitable deep"
+          }
+        ],
+        [
+          {
+            "zh": "粗针 vs 细针",
+            "en": "Thick vs fine"
+          },
+          {
+            "zh": "粗针：强刺激，较易刺入，少折针，能耐久用，但针时较痛，腹部等知觉过敏处不宜。细针：弱刺激，进针较难，多折针之虞，针时痛少，适腹部等知觉锐敏处",
+            "en": "Thick: strong stimulation, easier insertion, less breakage, lasts longer, but more painful, unsuitable on sensitive sites such as the abdomen. Fine: weak stimulation, harder insertion, more risk of breaking, less pain, suits sensitive sites"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "刺激强弱的定义与加减",
+        "en": "Defining strong and weak stimulation"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "强刺激",
+          "en": "Strong"
+        },
+        {
+          "zh": "弱刺激",
+          "en": "Weak"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "针",
+            "en": "Needle"
+          },
+          {
+            "zh": "粗号",
+            "en": "Thick gauge"
+          },
+          {
+            "zh": "细号",
+            "en": "Fine gauge"
+          }
+        ],
+        [
+          {
+            "zh": "手技",
+            "en": "Technique"
+          },
+          {
+            "zh": "雀啄术等",
+            "en": "Sparrow-pecking etc."
+          },
+          {
+            "zh": "单刺术(或短时旋捻术)等",
+            "en": "Single insertion (or brief twirling) etc."
+          }
+        ],
+        [
+          {
+            "zh": "时间",
+            "en": "Time"
+          },
+          {
+            "zh": "较长",
+            "en": "Longer"
+          },
+          {
+            "zh": "较短",
+            "en": "Short"
+          }
+        ],
+        [
+          {
+            "zh": "治疗效用与旧名",
+            "en": "Effect and old name"
+          },
+          {
+            "zh": "制止(镇静)或诱导；旧称泻针",
+            "en": "Inhibiting or inducing; old 'draining'"
+          },
+          {
+            "zh": "兴奋；旧称补法",
+            "en": "Exciting; old 'supplementing'"
+          }
+        ],
+        [
+          {
+            "zh": "旧式出针",
+            "en": "Old withdrawal"
+          },
+          {
+            "zh": "急速，不按摸针孔",
+            "en": "Quick, hole not pressed"
+          },
+          {
+            "zh": "缓慢，离皮即按摸针孔(今皆徐缓并按揉)",
+            "en": "Slow, hole pressed on leaving the skin (now all slow with rubbing)"
+          }
+        ],
+        [
+          {
+            "zh": "患者相对应加强者",
+            "en": "Give slightly more to"
+          },
+          {
+            "zh": "男子、肥满者、知觉迟钝者、功能亢进的病、有受针经验者",
+            "en": "Men, obese, insensitive, hyperfunction diseases, needle-experienced"
+          },
+          {
+            "zh": "精神劳动者宜稍弱(相对筋肉劳动者)",
+            "en": "Mental workers a little weaker than manual workers"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "十种手技",
+        "en": "Ten manipulation techniques"
+      },
+      "cols": [
+        {
+          "zh": "手技",
+          "en": "Technique"
+        },
+        {
+          "zh": "做法",
+          "en": "How"
+        },
+        {
+          "zh": "强度/目的",
+          "en": "Strength / aim"
+        },
+        {
+          "zh": "生理作用(原文)",
+          "en": "Physiological effect (as stated)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "单刺术",
+            "en": "Single insertion"
+          },
+          {
+            "zh": "针尖到达目的部位即出针",
+            "en": "Tip reaches target and is withdrawn at once"
+          },
+          {
+            "zh": "轻微刺激",
+            "en": "Light"
+          },
+          {
+            "zh": "亢进组织细胞之生理功能",
+            "en": "Enhances tissue and cell function"
+          }
+        ],
+        [
+          {
+            "zh": "旋捻术",
+            "en": "Twirling"
+          },
+          {
+            "zh": "刺入中或出针时作旋捻",
+            "en": "Twirl during insertion or on withdrawal"
+          },
+          {
+            "zh": "较单刺略强",
+            "en": "Slightly stronger than single insertion"
+          },
+          {
+            "zh": "使功能衰弱的脏器恢复正常",
+            "en": "Restores weak viscera to normal"
+          }
+        ],
+        [
+          {
+            "zh": "雀啄术",
+            "en": "Sparrow-pecking"
+          },
+          {
+            "zh": "到达部位后在肌肉中一上一下提插",
+            "en": "Lift-thrust in the muscle like a sparrow pecking"
+          },
+          {
+            "zh": "强刺激",
+            "en": "Strong"
+          },
+          {
+            "zh": "血管扩张，神经兴奋性减弱",
+            "en": "Dilates vessels, lowers nerve excitability"
+          }
+        ],
+        [
+          {
+            "zh": "皮肤针术",
+            "en": "Skin needling"
+          },
+          {
+            "zh": "仅刺入皮肤，极浅，专用于小儿",
+            "en": "Only into the skin, very shallow, for children"
+          },
+          {
+            "zh": "浅",
+            "en": "Superficial"
+          },
+          {
+            "zh": "皮下血管收缩；刺激传向深部神经，亢进其官能",
+            "en": "Subcutaneous vessels contract; stimulus passes to deep nerves and raises function"
+          }
+        ],
+        [
+          {
+            "zh": "置针术",
+            "en": "Retained needle"
+          },
+          {
+            "zh": "一支至数支针刺入后放置2分钟至数十分钟以上再出",
+            "en": "One or several needles left 2 minutes up to tens of minutes"
+          },
+          {
+            "zh": "镇静(制止)神经异常兴奋",
+            "en": "Calm abnormal nerve excitation"
+          },
+          {
+            "zh": "组织细胞与神经功能兴奋性减退",
+            "en": "Lowers excitability of tissue cells and nerves"
+          }
+        ],
+        [
+          {
+            "zh": "乱刺术",
+            "en": "Random pricking"
+          },
+          {
+            "zh": "刺入拔出再刺入，频频反复",
+            "en": "Insert, withdraw, reinsert, repeatedly"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          },
+          {
+            "zh": "同雀啄术",
+            "en": "Same as sparrow-pecking"
+          }
+        ],
+        [
+          {
+            "zh": "间歇术",
+            "en": "Intermittent"
+          },
+          {
+            "zh": "刺入后提至中部，稍留，再刺入，往返",
+            "en": "Insert, lift to mid-level, pause, reinsert, alternating"
+          },
+          {
+            "zh": "使血管扩张、筋肉弛缓",
+            "en": "Dilate vessels, relax muscle"
+          },
+          {
+            "zh": "同上(同雀啄术)",
+            "en": "As above (same as sparrow-pecking)"
+          }
+        ],
+        [
+          {
+            "zh": "回旋术",
+            "en": "Rotary"
+          },
+          {
+            "zh": "进针时向右捻、又退向左，出针时反向回旋",
+            "en": "Twirl right, back left on entry; reverse on exit"
+          },
+          {
+            "zh": "稍缓慢的刺激",
+            "en": "Somewhat slow stimulation"
+          },
+          {
+            "zh": "同旋捻术，亢进组织与神经兴奋性",
+            "en": "As twirling; raises tissue and nerve excitability"
+          }
+        ],
+        [
+          {
+            "zh": "颤振术",
+            "en": "Trembling"
+          },
+          {
+            "zh": "刺针中使针作细微颤动",
+            "en": "Fine tremor of the needle in place"
+          },
+          {
+            "zh": "使血管筋肉收缩",
+            "en": "Contract vessels and muscle"
+          },
+          {
+            "zh": "肌肉收缩及血管收缩",
+            "en": "Muscle and vessel contraction"
+          }
+        ],
+        [
+          {
+            "zh": "歇啄术",
+            "en": "Stop-and-peck"
+          },
+          {
+            "zh": "先入1/3行雀啄，再入1/3再啄，最后余1/3再啄，然后出针",
+            "en": "Peck at 1/3 depth, again at 2/3, again at full depth, then withdraw"
+          },
+          {
+            "zh": "深部疾患需强刺激",
+            "en": "Strong stimulation at depth"
+          },
+          {
+            "zh": "同雀啄术",
+            "en": "Same as sparrow-pecking"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "意外与处置",
+        "en": "Accidents and remedies"
+      },
+      "cols": [
+        {
+          "zh": "事项",
+          "en": "Event"
+        },
+        {
+          "zh": "成因/表现",
+          "en": "Cause / signs"
+        },
+        {
+          "zh": "处置",
+          "en": "Remedy"
+        },
+        {
+          "zh": "预防",
+          "en": "Prevention"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "晕针",
+            "en": "Needle faint"
+          },
+          {
+            "zh": "进针急速或拈捻过激致急性脑贫血；多见无受针经验而惧怕者、体质弱而敏感者，多在第一针，或四五针后因刺激过多。轻：头晕恶心，面转淡，脉小；重：加心跳急速，面苍白，额汗，脉小肢冷；更重：失去知觉，脉搏停止，四肢冷",
+            "en": "Acute cerebral anaemia from hasty insertion or over-vigorous twirling; in the needle-naive and fearful or the weak and sensitive, usually at the first needle or after four or five from over-stimulation. Mild: dizzy, nauseous, pale, small pulse; severe: rapid heartbeat, pallor, forehead sweat, small pulse, cold limbs; worst: loses consciousness, pulse stops, cold limbs"
+          },
+          {
+            "zh": "立刻安卧，掐中指尖使痛，饮热开水或热茶；甚者掐人中；更甚灸百会三至五壮；更重者灸百会与气海，医者须万分镇静",
+            "en": "Lay flat at once, pinch middle fingertip to pain, hot water or tea; if severe pinch Renzhong; worse, moxa Baihui 3 to 5 cones; the worst, Baihui and Qihai, operator very calm"
+          },
+          {
+            "zh": "针前询问是否神经过敏、有无受针经验；进针时多揉掐皮肤，针透皮下立即停5秒再缓推，随时问有无头晕，有则停针；一针后略停再针",
+            "en": "Ask beforehand about sensitivity and experience; rub and pinch the skin, pause 5 seconds once through the skin and advance slowly, ask about dizziness and stop if present; pause between needles"
+          }
+        ],
+        [
+          {
+            "zh": "涩针",
+            "en": "Stuck needle"
+          },
+          {
+            "zh": "肌肉强烈收缩致针难提出；也有因针身之故",
+            "en": "Strong muscle contraction makes withdrawal hard; sometimes due to the shaft itself"
+          },
+          {
+            "zh": "不可勉强抽拔，在针的上下左右距针一二寸处另下2针或4针，肌肉缓解即易出针",
+            "en": "Do not force; insert 2 or 4 extra needles one or two cun above, below and beside, muscle relaxes and the needle comes out"
+          },
+          {
+            "zh": "肌肉收缩时即停止，设法缓解再抽针",
+            "en": "Stop when the muscle contracts, relax it, then withdraw"
+          }
+        ],
+        [
+          {
+            "zh": "缺痕",
+            "en": "Nicked shaft"
+          },
+          {
+            "zh": "针体有缺痕，肌纤维缠绕，进捻退捻皆痛，手下不能进退，而肌肉并不收缩",
+            "en": "Nick in the shaft entangles muscle fibres: pain on twirling either way, cannot advance or retreat, yet muscle not contracted"
+          },
+          {
+            "zh": "反转捻动并微微前进后退，觉可旋捻即出针",
+            "en": "Reverse twirl with slight advance and retreat; once it turns, withdraw"
+          },
+          {
+            "zh": "检查针身，略有微伤或锈痕，绝对弃置不用",
+            "en": "Inspect; discard any needle with even slight damage or rust"
+          }
+        ],
+        [
+          {
+            "zh": "曲针",
+            "en": "Bent needle"
+          },
+          {
+            "zh": "体位移动使针丝弯曲，皮外针柄忽变角度，不能捻转",
+            "en": "Patient's shift bends the needle; handle angle changes and cannot rotate"
+          },
+          {
+            "zh": "先矫正体位，使针柄恢复；左手中、食指押定针上下肌肉，右手持柄，一压一拔拔出",
+            "en": "Correct posture first; left middle and index fingers press the tissue above and below, right hand holds the handle, press and pull alternately"
+          },
+          {
+            "zh": "进针前使体位舒适，避免因不能支持而移动",
+            "en": "Make the posture comfortable beforehand"
+          }
+        ],
+        [
+          {
+            "zh": "断针",
+            "en": "Broken needle"
+          },
+          {
+            "zh": "三因：针身不良(曾屈曲修直)；进针后体位移动；手技不熟，针尖被两骨夹住或肌肉强收缩仍勉力捻转",
+            "en": "Three causes: faulty shaft (once bent and straightened); patient moves; unskilled, tip caught between bones or muscle spasm yet forced to twirl"
+          },
+          {
+            "zh": "术者镇静，第一不能告诉患者；浅者按压、拇食指分开、镊出；皮上触及而不冒出则割开少许镊出；深而触不到者不可张皇，钢铁针可自化，仅二三日微痛；金银铜针不能化，须立送医院开刀取出",
+            "en": "Stay calm; above all do not tell the patient; if shallow press and spread with thumb and index, forceps; if palpable but not surfacing, cut the skin slightly; if deep and impalpable do not panic, a steel needle dissolves with only two or three days of slight pain; gold/silver/copper cannot dissolve and must go to hospital for surgery"
+          },
+          {
+            "zh": "弃已屈曲之针；弃有伤痕锈痕的针；体位舒适；遇不能旋捻提插即停，稍停后抽出；肌肉收缩即停；进针必留二三分针体在皮外(断针多在针柄接合处)",
+            "en": "Discard bent needles and any with nicks or rust; comfortable posture; stop when it cannot twirl or lift-thrust and withdraw after a pause; stop on muscle contraction; always leave two or three fen of shaft outside the skin (breaks are at the handle junction)"
+          }
+        ],
+        [
+          {
+            "zh": "遗感觉",
+            "en": "After-sensation"
+          },
+          {
+            "zh": "拔针后遗留压迫酸重、疼痛或牵引不适",
+            "en": "Pressure, soreness, pain or dragging after withdrawal"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          },
+          {
+            "zh": "刺激不太强，时间不太长，出针迟缓；他认为针医应绝对避免",
+            "en": "Do not stimulate too strongly or long; withdraw slowly; he says the needler must avoid it absolutely"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "现时普通常用者只有毫针，毫针分粗细长短与不同之质地",
+      "src": "针灸精华·第三篇 针科常识 p.89"
+    },
+    {
+      "id": "C2",
+      "quote": "粗者为26号丝，细者为30号丝，通用者为28号丝",
+      "src": "针灸精华·第三篇 针科常识 p.89"
+    },
+    {
+      "id": "C3",
+      "quote": "今日所用之针，仅为毫针与锋针",
+      "src": "针灸精华·第三篇 针科常识 p.89"
+    },
+    {
+      "id": "C4",
+      "quote": "总而言之，长针作深入之针治用之，大针作强刺激用之",
+      "src": "针灸精华·第三篇 针科常识 p.90"
+    },
+    {
+      "id": "C5",
+      "quote": "针法必拈捻而入，拈捻而出，为时略长，有种种手技焉",
+      "src": "针灸精华·第三篇 针科常识 p.90"
+    },
+    {
+      "id": "C6",
+      "quote": "欲与强刺激之时，应用粗针，行稍稍长时间之雀啄术",
+      "src": "针灸精华·第三篇 针科常识 p.93"
+    },
+    {
+      "id": "C7",
+      "quote": "同一号之针，同一种之手技，因时间之长短，手技之缓急，其强弱之分，又别论矣",
+      "src": "针灸精华·第三篇 针科常识 p.93"
+    },
+    {
+      "id": "C8",
+      "quote": "刺针刺激之强弱，通常与患者以快感舒适为适度",
+      "src": "针灸精华·第三篇 针科常识 p.93"
+    },
+    {
+      "id": "C9",
+      "quote": "一般之精神劳动者：比筋肉劳动者，要用稍弱之刺激",
+      "src": "针灸精华·第三篇 针科常识 p.94"
+    },
+    {
+      "id": "C10",
+      "quote": "强弱误用，即勉力为之治疗，不仅徒劳，反酿成危害",
+      "src": "针灸精华·第三篇 针科常识 p.94"
+    },
+    {
+      "id": "C11",
+      "quote": "雀啄术：此术恰如雀之啄食饵，针身到达目的部位，于肌肉组织中，作一上一下之提插",
+      "src": "针灸精华·第三篇 针科常识 p.92"
+    },
+    {
+      "id": "C12",
+      "quote": "专为镇静(即制止)神经之异常兴奋为目的，而应用此手技",
+      "src": "针灸精华·第三篇 针科常识 p.92"
+    },
+    {
+      "id": "C13",
+      "quote": "应用于使血管扩张，筋肉弛缓为目的之一种手技",
+      "src": "针灸精华·第三篇 针科常识 p.92"
+    },
+    {
+      "id": "C14",
+      "quote": "此一手技，在刺针之中，将针作细微之颤动，使血管筋肉，起收缩作用为目的而应用之",
+      "src": "针灸精华·第三篇 针科常识 p.92"
+    },
+    {
+      "id": "C15",
+      "quote": "必须视肥满之程度而增加1半或1倍以上，乃合法度",
+      "src": "针灸精华·第三篇 针科常识 p.94"
+    },
+    {
+      "id": "C16",
+      "quote": "如深入为重要器官能惹起危险与障碍者，则以浅刺为是",
+      "src": "针灸精华·第三篇 针科常识 p.94"
+    },
+    {
+      "id": "C17",
+      "quote": "由于进针急速，或拈捻针体太激剧，而发生急性脑贫血，旧医名晕针",
+      "src": "针灸精华·第三篇 针科常识 p.95"
+    },
+    {
+      "id": "C18",
+      "quote": "针透皮下，立刻停止5秒钟，而后缓缓推进，随时询问有无头晕现象",
+      "src": "针灸精华·第三篇 针科常识 p.95"
+    },
+    {
+      "id": "C19",
+      "quote": "其处置之法，不可勉强抽拔，要于针之上下左右距针一二寸之处，另下2针或4针",
+      "src": "针灸精华·第三篇 针科常识 p.95"
+    },
+    {
+      "id": "C20",
+      "quote": "发生断针，术者必须镇静，第一不能告诉患者，使其发生恐惧",
+      "src": "针灸精华·第三篇 针科常识 p.96"
+    },
+    {
+      "id": "C21",
+      "quote": "针医对于遗感觉要绝对避免不发生为是",
+      "src": "针灸精华·第三篇 针科常识 p.97"
+    },
+    {
+      "id": "C22",
+      "quote": "在施行针治之前，需诊断其病之是否适用针治",
+      "src": "针灸精华·第三篇 针科常识 p.94"
+    },
+    {
+      "id": "C23",
+      "quote": "需用灸术，应用针之粗细长短，应采用何种手技。或灸炷大小，壮数多寡，作决定之预计是也",
+      "src": "针灸精华·第三篇 针科常识 p.95"
+    }
+  ],
+  "how_to_use": {
+    "zh": "学他的针法：先想清要产生兴奋、镇静还是诱导，再选针号、手技和时间去“配”出这个强度，并按患者体质、性别、职业和病的亢进或衰弱来微调；遇肥人加深、遇要害器官取浅；针前查针，针中问感觉，针后缓出并揉按。意外一律先求预防，因为他把晕针、断针、遗感觉都归因于手技与准备。",
+    "en": "Learn his needling as a build-up: decide whether excitation, calming or induction is wanted, then combine needle gauge, technique and duration to reach that strength and fine-tune for constitution, sex, occupation and whether the disease is over- or under-active; go deeper in the stout, shallower near vital organs; check the needle beforehand, ask about sensation during, and withdraw slowly and rub afterwards. Prevent accidents first, since he traces needle faint, breakage and after-sensation to technique and preparation."
+  },
+  "caveats": {
+    "zh": "针号(“号丝”)、尺寸(寸、分)为民国时期的规格，与今日国标针具规格未必一一对应；铜、金、银针与“铁针断在体内可以自化”的说法出自当时经验与日本动物试验，仅据本书记述，未作现代验证；文中所述“断针不生危害”只限铁质针。",
+    "en": "Gauges ('hao si'), sizes (cun, fen) and needle numbers are Republican-era specifications that do not necessarily map onto today's standard needles; the claim that a steel needle can dissolve in the body rests on his experience and Japanese animal tests as reported and is not modern-verified; the text limits the 'no harm' claim to iron/steel needles."
+  },
+  "see": {
+    "notes": [
+      "01 针具与基本刺法 Needle Types and Basic Technique",
+      "02 针刺手法与意外处理 Needling Techniques and Complication Management",
+      "03 针刺生理作用与临床应用 Physiological Effects and Clinical Application"
+    ],
+    "points": [
+      "百会",
+      "气海",
+      "水沟",
+      "足三里"
+    ]
+  }
+}

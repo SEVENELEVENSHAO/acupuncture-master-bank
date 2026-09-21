@@ -1,0 +1,131 @@
+{
+  "id": "wjy-07-cough",
+  "doctor": "wangjuyi",
+  "group": { "zh": "分科心得", "en": "By condition group" },
+  "order": 7,
+  "title": {
+    "zh": "咳嗽：辨经选经、七种证型与久咳的两组腧穴",
+    "en": "Cough: Channel Differentiation, Seven Patterns and Two Point Groups for Long-standing Cough"
+  },
+  "summary": {
+    "zh": "咳嗽不等于肺经病：他引“五脏六腑皆令人咳”，要求先问清咳的性质、部位、痰、伴症和发病时间，再与经络诊察“对接”，看是手太阴、手阳明、太阴、少阴、厥阴、任脉还是督脉。他列出七种常见证型的常变经脉和选穴，强调仅是基本思路；久咳另有左通天和经渠、大都两组经验穴。",
+    "en": "Cough is not simply a Lung-channel disease. Citing 'all five zang and six fu can cause cough', he wants the character, site, phlegm, accompanying symptoms and onset clarified, then joined to channel palpation to see whether Hand Taiyin, Hand Yangming, Taiyin, Shaoyin, Jueyin, Ren or Du is involved. He lists seven common patterns with usual channels and points as a basic frame only, and adds two experience-based groups for long cough: left Tongtian, and Jingqu with Dadu."
+  },
+  "takeaways": [
+    {
+      "zh": "咳嗽不能只想到肺：他引《内经》“五脏六腑皆令人咳，非独肺也”，本章病例的病经除手太阴外，还有足少阴、足太阴、手厥阴、任脉、督脉。咳嗽与经络的关系靠经络诊察与经络辨证来对接，并且“所有的经络穴都可以参与治疗咳嗽”，关键是辨经选经准确。",
+      "en": "Cough cannot be reduced to the Lung: he cites the Neijing line 'the five zang and six fu all cause cough, not only the Lung'. Besides Hand Taiyin, the chapter's cases involve Foot Shaoyin, Foot Taiyin, Hand Jueyin, Ren and Du. Cough is linked to channels through palpation and channel differentiation, and 'every channel's points can take part in treating cough'; what matters is choosing the channel correctly.",
+      "cite": ["E1", "E2", "E3"]
+    },
+    {
+      "zh": "问诊要把症候结构问全：单取肺经穴无效时，尤其要仔细询问咳嗽的性质、部位、伴有症状和发病时间，再把症候与经络诊察结合。部位分咽喉、膈、气管、肺(浅咳在咽喉，深咳在气管或横隔，慢性者可在胸膈或脐下)；痰的性状和颜色提示病邪与寒热虚实。",
+      "en": "The symptom structure has to be asked out in full: when Lung-channel points alone fail, ask carefully about the character, site, accompanying symptoms and onset, then join these to channel palpation. Site is throat, diaphragm, trachea or lung (superficial cough in the throat, deep cough in the trachea or diaphragm, chronic cough in the chest-diaphragm or below the umbilicus); phlegm colour and quality point to the pathogen and to cold, heat, deficiency or excess.",
+      "cite": ["E4"]
+    },
+    {
+      "zh": "七种常见证型只是“基本辨经思路”：风寒、风热、燥热、湿痰、肝火、阴虚、气虚，各给出常见变动经脉、可选经脉和选穴(表1)。他特别说病人不会按课本得病，具体诊治必须根据个体经络改变和症候来判断。风寒取大椎得气热感后旋转针柄、不留针，列缺可留针，一般治疗1～2次。",
+      "en": "The seven common patterns are only a 'basic frame of channel differentiation': wind-cold, wind-heat, dry-heat, damp-phlegm, liver fire, yin deficiency and qi deficiency, each with usual changed channels, channels to select and points (Table 1). He stresses that patients do not fall ill by the textbook, so the actual treatment must follow the individual's channel changes and symptoms. In wind-cold, Dazhui is needled to a warm de qi, the needle handle twisted, and not retained; Lieque may be retained; usually 1-2 treatments.",
+      "cite": ["E5", "E22"]
+    },
+    {
+      "zh": "手太阴、手阳明与足太阴按虚实取穴：单纯手太阴咳，实象(黄痰、咽痛)取合穴尺泽，虚象(久咳、恶寒、气短无力)取太渊、肺俞或募穴中府，可配络穴列缺，胸痛咯血配孔最，咽喉肿痛在少商放血。手太阴无异常而手阳明异常时用手阳明穴，咽肿可在商阳放血。脾为生痰之源、肺为贮痰之器，痰咳取手足太阴经穴。",
+      "en": "Hand Taiyin, Hand Yangming and Foot Taiyin are chosen by excess or deficiency. In pure Hand Taiyin cough, an excess picture (yellow phlegm, sore throat) takes the he-sea point Chize; a deficient picture (long cough, aversion to cold, weak breath) takes Taiyuan, Feishu or the front-mu point Zhongfu; Lieque may be added, Kongzui for chest pain or haemoptysis, Shaoshang bled for a swollen throat. If Hand Taiyin is normal but Hand Yangming abnormal, use Hand Yangming points, bleeding Shangyang for throat swelling. Since the Spleen is the source of phlegm and the Lung its container, phlegm cough takes points of both Taiyin channels.",
+      "cite": ["E6", "E7", "E8"]
+    },
+    {
+      "zh": "少阴、厥阴、任脉、督脉各有对应：肾阴亏虚的干咳取复溜配尺泽或列缺，肾阳虚不纳气取太溪配太渊或列缺，咽干声嘶取照海配列缺或尺泽；厥阴郁热、咳黄痰烦躁取大陵、行间，实象明显取曲泽、曲泉；任脉咳(胸闷胀痛或咳自胸骨处)取璇玑至膻中一带，一个穴足够，先循摸任脉；风寒悬灸大椎，风热点刺大椎，慢性咳可取陶道、身柱。",
+      "en": "Shaoyin, Jueyin, Ren and Du each have their match. Kidney-yin deficient dry cough: Fuliu with Chize or Lieque; Kidney-yang deficiency failing to receive qi: Taixi with Taiyuan or Lieque; dry throat and hoarseness: Zhaohai with Lieque or Chize. Jueyin depressed heat with yellow phlegm and irritability: Daling and Xingjian, or Quze and Ququan when excess is marked. Ren-channel cough (chest oppression, distension or pain, or cough felt at a fixed spot on the sternum): the Xuanji-to-Danzhong stretch, one point is enough, palpate the Ren channel first. Wind-cold: suspended moxa on Dazhui; wind-heat: prick Dazhui; chronic cough may use Taodao and Shenzhu.",
+      "cite": ["E9", "E10", "E11", "E12", "E13"]
+    },
+    {
+      "zh": "虚象久咳有专门的选法：可取原穴、灸相关背俞穴、取相关募穴，久咳不愈也可灸膏肓(他引《针灸资生经》“久嗽，最宜灸膏肓穴，其次则宜灸肺俞”)。他区分背俞与募：背俞对本脏温阳行气，适合阳虚咳嗽；募穴调节本脏代谢废物的排除，适合本脏功能失常者。",
+      "en": "Long-standing deficient cough has its own selection: source points, moxa on the relevant back-shu points, or the relevant front-mu points, and Gaohuang may be moxaed (he quotes the Zhenjiu Zizhu Jing: for long cough Gaohuang is best, Feishu next). He distinguishes the two: a back-shu point warms yang and moves qi in its organ and suits yang-deficient cough; a front-mu point promotes clearing of the organ's metabolic waste and suits an organ whose function is disordered.",
+      "cite": ["E14", "E15"]
+    },
+    {
+      "zh": "久咳的第一组是左通天：久咳不愈、剧咳到不能睡，干咳或痰咳，若左通天(或其上下左右)指下松软或僵硬、按压酸痛，用搓针法，可配其他穴。他在经络诊察时偶然发现它治慢性干咳，一度称“咳点”，针4~5次能愈，包括几年的咳嗽；他承认经典未记载通天治咳，但从“使上下相通、使肺气宣发”的经络理论和诊察反应来解释。因穴易移位，定位在前顶与百会之间旁开1.5寸左右、冠状缝后，须仔细循摸。",
+      "en": "First group for long cough is left Tongtian: in cough that will not clear, is violent enough to prevent sleep, dry or productive, if left Tongtian (or the area around it) feels soft or stiff under the finger or is sore on pressure, needle it with the rubbing-twirling (cuo) technique, adding other points as needed. He found by chance during palpation that it treats chronic dry cough, once called it the 'cough point', and 4-5 sessions cured even coughs of several years; he admits the classics do not record Tongtian for cough and explains it by channel theory ('make heaven and earth connect, let Lung qi disperse') and palpation findings. Because points shift, it lies about 1.5 cun lateral between Qianding and Baihui, behind the coronal suture, and must be palpated carefully.",
+      "cite": ["E16", "E17", "E18", "E19"]
+    },
+    {
+      "zh": "久咳的第二组是经渠、大都：两穴都是太阴经穴，治伤寒汗不出，也治外感咳嗽久而不愈、兼脾虚(如便溏)的肺脾两虚。他的区分是：经渠、大都用于外感余邪未净兼肺脾虚的久咳，太渊、太白用于单纯肺脾两虚的久咳。他举1982年一例发热输液后仍出汗不透的患者，只取这一对，行针后汗从里面自然出来，认为输液解表是强迫发汗，而这对穴使汗自然渗出。",
+      "en": "Second group for long cough is Jingqu with Dadu: both are Taiyin points, treating cold-damage without sweating and also lingering external-type cough with Spleen deficiency (for example loose stools), a Lung-Spleen deficiency. His distinction: Jingqu and Dadu for long cough with residual external pathogen plus Lung-Spleen deficiency; Taiyuan and Taibai for pure Lung-Spleen deficiency. He gives a 1982 case of a feverish patient still sweating poorly after infusions; with only this pair, sweat came out 'from inside', which he contrasts with the forced sweating of infused releasing medicines.",
+      "cite": ["E20", "E21"]
+    }
+  ],
+  "tables": [
+    {
+      "title": { "zh": "表1 咳嗽七种常见证型(《咳嗽症候的讨论》)", "en": "Table 1. Seven common cough patterns" },
+      "cols": [
+        { "zh": "证型", "en": "Pattern" },
+        { "zh": "症候要点", "en": "Key features" },
+        { "zh": "常见变动经脉", "en": "Usually changed channels" },
+        { "zh": "可选经脉", "en": "Channels to select" },
+        { "zh": "选穴", "en": "Points" }
+      ],
+      "rows": [
+        [{ "zh": "风寒", "en": "Wind-cold" }, { "zh": "咽喉发紧、背部发紧、背寒；稀白痰或无痰；脉浮紧、苔薄白", "en": "Tight throat and back, cold back; thin white or no phlegm; floating-tight pulse, thin white coat" }, { "zh": "督脉、太阴经、手阳明经", "en": "Du, Taiyin, Hand Yangming" }, { "zh": "督脉、手太阴经", "en": "Du, Hand Taiyin" }, { "zh": "大椎、列缺(大椎不留针，列缺可留针，1～2次)", "en": "Dazhui, Lieque (Dazhui not retained; Lieque retained; 1-2 sessions)" }],
+        [{ "zh": "风热", "en": "Wind-heat" }, { "zh": "痰较稠，甚者痰黄", "en": "Thicker or yellow phlegm" }, { "zh": "督脉、手太阴经、手阳明经", "en": "Du, Hand Taiyin, Hand Yangming" }, { "zh": "督脉、手太阴经", "en": "Du, Hand Taiyin" }, { "zh": "大椎(或陶道)、尺泽", "en": "Dazhui (or Taodao), Chize" }],
+        [{ "zh": "燥热", "en": "Dry-heat" }, { "zh": "干咳无痰，或带少量血丝；多由外感咳嗽传变而来", "en": "Dry cough, no phlegm or a little blood streaking; mostly evolved from external cough" }, { "zh": "手太阴经、手阳明经、手…阴经(原文脱字)", "en": "Hand Taiyin, Hand Yangming, a Hand ...yin channel (character missing in source)" }, { "zh": "手太阴经、手厥阴经", "en": "Hand Taiyin, Hand Jueyin" }, { "zh": "孔最(咳血多时加曲泽)", "en": "Kongzui (add Quze when much blood)" }],
+        [{ "zh": "湿痰", "en": "Damp-phlegm" }, { "zh": "咳嗽痰多，痰出后咳嗽减轻", "en": "Much phlegm; cough eases once phlegm comes up" }, { "zh": "太阴经、阳明经、任脉", "en": "Taiyin, Yangming, Ren" }, { "zh": "任脉、太阴经、阳明经", "en": "Ren, Taiyin, Yangming" }, { "zh": "中脘(原文作“中胱”)、丰隆、列缺", "en": "Zhongwan (printed 中胱), Fenglong, Lieque" }],
+        [{ "zh": "肝火", "en": "Liver fire" }, { "zh": "咳嗽气逆，无痰，咽干", "en": "Counterflow cough, no phlegm, dry throat" }, { "zh": "太阴经、厥阴经、少阳经", "en": "Taiyin, Jueyin, Shaoyang" }, { "zh": "少阳经、手太阴经", "en": "Shaoyang, Hand Taiyin" }, { "zh": "外关、足临泣、尺泽", "en": "Waiguan, Zulinqi, Chize" }],
+        [{ "zh": "阴虚", "en": "Yin deficiency" }, { "zh": "干咳少痰，痰如小核，或白或灰", "en": "Dry cough, scant phlegm like small kernels, white or grey" }, { "zh": "太阴经、厥阴经", "en": "Taiyin, Jueyin" }, { "zh": "手太阴经、足少阴经", "en": "Hand Taiyin, Foot Shaoyin" }, { "zh": "尺泽、鱼际、复溜", "en": "Chize, Yuji, Fuliu" }],
+        [{ "zh": "气虚", "en": "Qi deficiency" }, { "zh": "久咳，劳累后咳嗽不断，甚者无力，或咳时遗尿(肾虚)，以女士为主", "en": "Long cough, continuous after exertion, weakness, or urine leaking with cough (Kidney deficiency), mainly women" }, { "zh": "太阴经、少阴经、任脉", "en": "Taiyin, Shaoyin, Ren" }, { "zh": "任脉、太阴经", "en": "Ren, Taiyin" }, { "zh": "太渊、太白、气海", "en": "Taiyuan, Taibai, Qihai" }]
+      ]
+    },
+    {
+      "title": { "zh": "表2 按病经取穴(《咳嗽的辨经与选经》《治疗久咳不愈的两组腧穴》)", "en": "Table 2. Points by involved channel" },
+      "cols": [
+        { "zh": "察经所见", "en": "Channel finding" },
+        { "zh": "情况", "en": "Condition" },
+        { "zh": "他取的穴", "en": "Points he takes" }
+      ],
+      "rows": [
+        [{ "zh": "手太阴经", "en": "Hand Taiyin" }, { "zh": "实象：黄痰、咽痛；虚象：久咳、恶寒、气短无力", "en": "Excess: yellow phlegm, sore throat; deficiency: long cough, cold aversion, weak breath" }, { "zh": "实取尺泽；虚取太渊、肺俞、中府；可配列缺；胸痛咯血配孔最；咽喉肿痛少商放血", "en": "Excess: Chize; deficiency: Taiyuan, Feishu, Zhongfu; Lieque may be added; Kongzui for chest pain or haemoptysis; bleed Shaoshang for throat swelling" }],
+        [{ "zh": "手阳明经", "en": "Hand Yangming" }, { "zh": "手太阴无异常而手阳明异常；咽喉肿胀", "en": "Hand Taiyin normal, Hand Yangming abnormal; swollen throat" }, { "zh": "手阳明经穴；商阳放血", "en": "Hand Yangming points; bleed Shangyang" }],
+        [{ "zh": "手足太阴经", "en": "Both Taiyin channels" }, { "zh": "脾气虚、不升，生痰", "en": "Spleen qi deficient, not rising, generating phlegm" }, { "zh": "实：尺泽、阴陵泉；虚：太渊、太白；可灸脾肺背俞；本脏失常取中府(操)、章门(操或针)", "en": "Excess: Chize, Yinlingquan; deficiency: Taiyuan, Taibai; moxa on Spleen and Lung back-shu; organ dysfunction: Zhongfu (cao), Zhangmen (cao or needle)" }],
+        [{ "zh": "手足太阴合并少阴", "en": "Taiyin with Shaoyin" }, { "zh": "肾阴亏虚干咳；肾阳虚不纳气(恶寒、腰膝凉)；咽干声嘶", "en": "Kidney-yin deficient dry cough; Kidney-yang deficiency (cold, cold waist and knees); dry throat, hoarseness" }, { "zh": "复溜配尺泽或列缺；太溪配太渊或列缺；照海配列缺或尺泽", "en": "Fuliu with Chize or Lieque; Taixi with Taiyuan or Lieque; Zhaohai with Lieque or Chize" }],
+        [{ "zh": "手厥阴经", "en": "Hand Jueyin" }, { "zh": "胸膈郁热上逆犯肺，咳黄痰、口干苦、烦躁", "en": "Chest-diaphragm depressed heat rising against the Lung: yellow phlegm, dry bitter mouth, irritability" }, { "zh": "大陵、行间；实象明显取曲泽、曲泉", "en": "Daling, Xingjian; Quze, Ququan when excess is marked" }],
+        [{ "zh": "任脉", "en": "Ren" }, { "zh": "咳伴胸闷、胀、痛，或咳源于胸骨固定处", "en": "Cough with chest oppression, distension, pain, or from a fixed spot on the sternum" }, { "zh": "璇玑至膻中一带，操法或针刺，一穴足够，先循摸", "en": "Xuanji to Danzhong, cao or needle, one point, palpate first" }],
+        [{ "zh": "督脉", "en": "Du" }, { "zh": "外感咳或虚象咳", "en": "External or deficient cough" }, { "zh": "风寒悬灸大椎15~20分钟；风热点刺大椎；慢性取陶道、身柱", "en": "Wind-cold: suspended moxa on Dazhui 15-20 min; wind-heat: prick Dazhui; chronic: Taodao, Shenzhu" }],
+        [{ "zh": "久咳不愈(经验穴)", "en": "Long cough (experience points)" }, { "zh": "左通天松软/僵硬/酸痛；或外感余邪未净兼肺脾虚", "en": "Left Tongtian soft, stiff or sore; or residual external pathogen with Lung-Spleen deficiency" }, { "zh": "左通天(搓针)；经渠、大都(单纯肺脾两虚则太渊、太白)", "en": "Left Tongtian (cuo needling); Jingqu, Dadu (pure Lung-Spleen deficiency: Taiyuan, Taibai)" }]
+      ]
+    }
+  ],
+  "evidence": [
+    { "id": "E1", "quote": "五脏六腑皆令人咳，非独肺也", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.17" },
+    { "id": "E2", "quote": "咳嗽和相关经络之间的关系是根据经络诊察与经络辨证来对接的", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.17" },
+    { "id": "E3", "quote": "切记，所有的经络穴都可以参与治疗咳嗽。关键在于辨经选经的准确", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.18" },
+    { "id": "E4", "quote": "应该仔细询问咳嗽的性质、部位、伴有症状及发病时间，分析症候结构，再把症候与经络诊察结合，才能准确把握证治", "src": "王居易针灸医案讲习录·诊后絮语·关于咳嗽症候的讨论 p.19" },
+    { "id": "E5", "quote": "以下仅为咳嗽的基本辨经思路，具体诊治必须根据患者个体经络改变以及症候的呈现来判断", "src": "王居易针灸医案讲习录·诊后絮语·关于咳嗽症候的讨论 p.19" },
+    { "id": "E6", "quote": "若有实象，如有黄痰、咽痛，取合穴尺泽，若有虚象，有久咳不愈、恶寒、气短无力，可取太渊、肺俞或募穴中府", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.17" },
+    { "id": "E7", "quote": "有的时候经络诊察会发现手太阴经无异常，手阳明经反而异常", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.17" },
+    { "id": "E8", "quote": "脾为生痰之源，肺为贮痰之器", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.17" },
+    { "id": "E9", "quote": "肾阴亏虚引起的干咳，可取复溜配尺泽或列缺；肾阳虚，肾不纳气所致咳嗽，伴有恶寒、腰膝凉，可以取太溪配太渊或列缺", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.18" },
+    { "id": "E10", "quote": "若厥阴经异常，有咳嗽黄痰，伴有烦躁等症，可取大陵、行间清厥阴经的郁热", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.18" },
+    { "id": "E11", "quote": "选穴不宜过多，一个穴足够。选穴时，必须先循摸任脉，看是否有异常", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.18" },
+    { "id": "E12", "quote": "风寒咳嗽，有白痰、恶寒等症，可悬灸大椎", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.18" },
+    { "id": "E13", "quote": "风热咳嗽，有黄痰、身热等症，可以点刺大椎", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.18" },
+    { "id": "E14", "quote": "背俞穴对本脏有温阳行气的功能，募穴调节本脏代谢废物的排除", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.18" },
+    { "id": "E15", "quote": "久嗽，最宜灸膏育穴，其次则宜灸肺俞等穴，各随证治之", "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.18(引《针灸资生经》)" },
+    { "id": "E16", "quote": "如左通天（或其上下左右的部位）有松软或僵硬的指下感，或按压时患者有酸痛感", "src": "王居易针灸医案讲习录·诊后絮语·治疗久咳不愈的两组腧穴 p.20" },
+    { "id": "E17", "quote": "以本穴为主配伍其他穴，针刺4~5次能痊愈，包括病史有几年时间的咳嗽", "src": "王居易针灸医案讲习录·诊后絮语·治疗久咳不愈的两组腧穴 p.21" },
+    { "id": "E18", "quote": "“通天”的意义应解释为“使上下相通，使肺气宣发”", "src": "王居易针灸医案讲习录·诊后絮语·治疗久咳不愈的两组腧穴 p.21" },
+    { "id": "E19", "quote": "左通天的定位大概是在前顶和百会之间旁开1.5寸左右，在冠状缝的后面（大约失状缝旁开），需要仔细循摸", "src": "王居易针灸医案讲习录·诊后絮语·治疗久咳不愈的两组腧穴 p.21" },
+    { "id": "E20", "quote": "区别在于经渠、大都治疗外感余邪未净兼有肺脾虚的久亥不愈；而太渊、太白治疗单纯肺脾两虚的久咳不愈", "src": "王居易针灸医案讲习录·诊后絮语·治疗久咳不愈的两组腧穴 p.21" },
+    { "id": "E21", "quote": "此例说明输解表药液引起的出汗为强迫发汗，无法达到排除邪气的目的，而经渠、大都能把汗从里面自然地渗透出来", "src": "王居易针灸医案讲习录·诊后絮语·治疗久咳不愈的两组腧穴 p.22" },
+    { "id": "E22", "quote": "大椎得气为热感，得气后旋转针柄，有益气升阳作用，患者常有热感出现。大椎不留针，列缺可留针。一般治疗1～2次即可", "src": "王居易针灸医案讲习录·诊后絮语·关于咳嗽症候的讨论 p.19" }
+  ],
+  "how_to_use": {
+    "zh": "遇咳嗽先不要默认肺经：按他的顺序，先问全咳的性质、部位、痰和伴症，再察经，看哪条经异常并与症候对接，然后选经、选穴。表1是他给的七种常见证型的基本框架，表2按察经所见列出他取的穴；久咳而肺经取穴不效时，再看左通天和经渠、大都两组。",
+    "en": "Do not default to the Lung channel. In his order: ask the character, site, phlegm and companions of the cough fully, palpate the channels, match the abnormal channel to the symptom picture, then select channel and points. Table 1 is his basic frame for seven patterns and Table 2 lists his points by palpation finding; if Lung-channel points fail in long cough, consider left Tongtian and the Jingqu-Dadu pair."
+  },
+  "caveats": {
+    "zh": "七种证型是他自称的“基本辨经思路”，不是固定分型，实际以个体察经为准。左通天治咳是他个人经验，他自己说经典没有记载；经渠、大都的“母能生子”解释也是他的理解。表1燥热行的“手阴经”原文脱字(疑为手厥阴，此处未擅补)，“中胱”为“中脘”的OCR误。“失状缝”为原文用字(应指矢状缝)。",
+    "en": "The seven patterns are, in his words, a basic frame for channel differentiation, not fixed types; individual palpation governs. Left Tongtian for cough is his personal experience, which he says the classics do not record; the 'mother generates child' account of Jingqu and Dadu is his own reading. In the dry-heat row of Table 1 the source drops a character ('hand ...yin channel', probably Hand Jueyin, not supplied here); 中胱 is an OCR error for Zhongwan; 失状缝 is printed for the sagittal suture."
+  },
+  "see": {
+    "cases": ["wjy-001", "wjy-004", "wjy-006", "wjy-007", "wjy-008", "wjy-009", "wjy-011", "wjy-012"],
+    "points": ["尺泽", "列缺", "太渊", "孔最", "中府", "大椎", "璇玑", "通天", "经渠", "大都", "复溜", "膏肓"]
+  }
+}

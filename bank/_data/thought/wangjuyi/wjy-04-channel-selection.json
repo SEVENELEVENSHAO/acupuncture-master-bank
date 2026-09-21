@@ -1,0 +1,657 @@
+{
+  "id": "wjy-04-channel-selection",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "临床思维",
+    "en": "Clinical reasoning"
+  },
+  "order": 4,
+  "title": {
+    "zh": "辨经与选经：症候结构对接病经，再用本经、同名经、表里经、相生相克经、奇经八脉选治疗经",
+    "en": "Differentiating and Choosing Channels: Match Symptom Structure to Disease Channels, then Choose by Own Channel, Same-name, Exterior-interior, Generating/Controlling, or Extraordinary Vessels"
+  },
+  "summary": {
+    "zh": "辨经是把症候结构与察出的异常经脉对接；选经是据此定治疗经脉，常用本经、同名经、表里经、相生相克经、奇经八脉五法。所选的经不一定就是病经，例如病在太阳先治阳明、少阳。对125案的统计：辨经与选经里太阴经最常被点名，选经里督脉、任脉也很多。",
+    "en": "Differentiation matches symptom structure to the abnormal channels found; channel choice then fixes the treatment channels, usually by one of five methods: own channel, same-name, exterior-interior, generating/controlling, extraordinary vessels. The chosen channel is not always the disease channel; for instance with taiyang disease he first treats yangming and shaoyang. Over the 125 cases taiyin is named most often in both differentiation and choice, and du and ren often in the choice."
+  },
+  "takeaways": [
+    {
+      "zh": "辨经是把症候结构与异常经脉“对接”，而症候本身常给出经脉线索：头痛按部位分，头双侧属少阳、枕部属太阳、额部属阳明、头顶属太阳与厥阴，头沉重属太阴；汗按部位分，足心汗多属足少阴与足太阳，手心汗属手厥阴郁热，背汗多属太阳；案116上眼睑与小趾同在足太阳经路线，结合察经就辨为病在太阳经。",
+      "en": "Differentiation \"matches\" symptom structure to abnormal channels, and the symptoms themselves often point to a channel: headache by site (sides shaoyang, occiput taiyang, forehead yangming, vertex taiyang and jueyin, heaviness taiyin); sweating by site (sole mostly foot shaoyin and taiyang, palm hand jueyin stagnant heat, back mostly taiyang); in case 116 the upper eyelid and little toe both lie on the foot taiyang route, and with examination this was differentiated as taiyang disease.",
+      "cite": [
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C28"
+      ]
+    },
+    {
+      "zh": "同一症状可属不同病经，所以要分型别辨：咳嗽写了七个常见证型，各有常见变动经脉(见表2)，但他强调这只是基本辨经思路，具体要看个体的经络改变与症候；头痛案78到81都是少阳经头痛，而性质和治法各不相同。",
+      "en": "The same symptom can belong to different disease channels, so he differentiates by type: cough is given seven common types, each with usual abnormal channels (table 2), but he stresses this is only a basic route and the individual channel changes and symptoms decide; headache cases 78 to 81 are all shaoyang headaches yet differ in nature and treatment.",
+      "cite": [
+        "C6",
+        "C7",
+        "C27"
+      ]
+    },
+    {
+      "zh": "选经不等于“病在哪就治哪”：案77病在太阳经，却一开始先治阳明经和少阳经，阳明调理好后太阳经头痛也减轻，之后再调太阳。在有“选经”一栏的91案里，每案通常点名两条(46案)或三条(30案)经，而不是一条。",
+      "en": "Choosing a channel is not \"treat where it hurts\": case 77 was taiyang disease but he began with yangming and shaoyang, the taiyang headache eased once yangming was regulated, and taiyang was treated afterwards. In the 91 cases with a channel-choice line, two channels (46 cases) or three (30 cases) are usually named, not one.",
+      "cite": [
+        "C8"
+      ]
+    },
+    {
+      "zh": "导读列出五种选经法：本经、同名经、表里经、相生相克经、奇经八脉。本经法最直接：单纯手太阴咳嗽，实象(黄痰、咽痛)取合穴尺泽，虚象取原穴太渊、肺俞或募穴中府；案71取足厥阴本经的原穴太冲、络穴蠡沟、合穴曲泉。",
+      "en": "The introduction lists five ways of choosing channels: own channel, same-name, exterior-interior, generating/controlling, extraordinary vessels. Own-channel is the most direct: in pure hand taiyin cough an excess picture (yellow phlegm, sore throat) takes the he-sea point Chize, a deficient picture the yuan-source Taiyuan, Feishu or the mu point Zhongfu; case 71 took the own foot jueyin channel with its yuan Taichong, luo Ligou and he Ququan.",
+      "cite": [
+        "C1",
+        "C9",
+        "C10"
+      ]
+    },
+    {
+      "zh": "同名经有三种用法：手足同名经合穴相配(尺泽+阴陵泉，手足太阴同名经协同行气化湿)；同名经对应取穴法(缪刺的一种，治经筋病，如案113右膝内侧痛，在左手太阴经尺泽处找到反应点弹拨，急性期效好、慢性期差，摸不到反应就不治)；同名经原络配穴(案80用大陵、内关、太冲、蠡沟)。",
+      "en": "Same-name has three uses: pairing he-sea points of the hand and foot same-name channels (Chize + Yinlingquan, the two taiyin channels cooperating to move qi and transform damp); the same-name corresponding-point method (a kind of contralateral needling for sinew disease, e.g. case 113 right medial knee pain, with a reaction found and plucked at left hand taiyin Chize; good in acute, poor in chronic, and not to be used if no reaction is felt); and same-name yuan-luo pairing (case 80: Daling, Neiguan, Taichong, Ligou).",
+      "cite": [
+        "C11",
+        "C12",
+        "C13",
+        "C14"
+      ]
+    },
+    {
+      "zh": "表里经用于“阴阳同调”：案7二诊用公孙配列缺，通过太阴络脉治与之相表里的足阳明胃经；咳嗽若察经时手太阴无异常而手阳明异常，就用手阳明的穴。他的准则是阴经善于补、阳经善于泻：案116用“阳病取阴”，在太阳病里取相表里的足少阴；案19察经只有阴经异常，但有阳经实象症状时“应加阳经穴”；案74先清泻厥阴经相表里的少阳经，再治本清厥阴之郁热。在选经一栏中，同时点名一对表里经的有31案，其中太阴+阳明22案。",
+      "en": "Exterior-interior is used to treat yin and yang together: in case 7 visit 2 Gongsun with Lieque treated the foot yangming stomach channel through the taiyin luo channels; in cough, if hand taiyin is normal but hand yangming abnormal on examination, hand yangming points are used. His rule is that yin channels tonify and yang channels drain: case 116 used \"treat yang disease through yin\", adding the paired foot shaoyin to a taiyang disease; in case 19 only yin channels showed abnormal but with excess-type yang symptoms he adds yang-channel points; case 74 first drained shaoyang, the exterior-interior of jueyin, then treated the root by clearing jueyin stagnant heat. In the channel-choice lines 31 cases name both members of an exterior-interior pair, 22 of them taiyin with yangming.",
+      "cite": [
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "C20"
+      ]
+    },
+    {
+      "zh": "相生相克经落在五输穴母子与五行关系上：尺泽为肺经子穴，“实则泻其子”故能治外邪客肺(案9)；尺泽为金经之水穴、复溜为水经之金穴，“金水相生”，常合用治过敏性疾病(案43)；案30热毒在太阴，按五输穴五行生克和“实则泻其子”取足太阴经金穴商丘，立刻见效；案54用“木克土”解释太阴与厥阴同病。",
+      "en": "Generating/controlling channels rest on the five-phase mother-child relations of the five-shu points: Chize is the child point of the lung channel and by \"drain the child in excess\" treats external pathogen in the lung (case 9); Chize is the water point of a metal channel and Fuliu the metal point of a water channel, \"metal and water generate each other\", often paired for allergic disease (case 43); in case 30 the heat toxin stayed in taiyin, so by five-shu generation-control and \"drain the child\" he took Shangqiu, the jing-metal point of the foot taiyin, with immediate effect; case 54 uses \"wood controls earth\" for combined taiyin and jueyin disease.",
+      "cite": [
+        "C21",
+        "C22",
+        "C23",
+        "C24"
+      ]
+    },
+    {
+      "zh": "奇经八脉主要以八脉交会穴、交会关系入选：内关与公孙同为八脉交会穴，分别通阴维脉与冲脉，案15选经为阴维脉、冲脉，案19阴维脉，案122“太阳经、奇经八脉”；案58辨为太阴、少阴为主并累及奇经八脉，选足太阴、冲脉、任脉。在91个选经栏里，督脉出现26次，任脉18次，冲、维、跷、带或泛称奇经的8案。",
+      "en": "Extraordinary vessels are mostly entered through the confluent points and crossing relations: Neiguan and Gongsun are both confluent points, linked to yinwei and chong; case 15 lists yinwei and chong, case 19 yinwei, case 122 \"taiyang and the extraordinary vessels\"; case 58 differentiated taiyin and shaoyin as main with extraordinary vessels involved and chose foot taiyin, chong and ren. In the 91 channel-choice lines du appears in 26, ren in 18, and chong, wei, qiao, dai or the general term in 8.",
+      "cite": [
+        "C25",
+        "C26"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "他点名的经脉：辨经(70案)、选经(91案)、察经(124案)中出现的案数",
+        "en": "Channels named: number of cases in differentiation (70), choice (91) and examination (124) lines"
+      },
+      "cols": [
+        {
+          "zh": "经脉",
+          "en": "Channel"
+        },
+        {
+          "zh": "辨经(案)",
+          "en": "Differentiation"
+        },
+        {
+          "zh": "选经(案)",
+          "en": "Choice"
+        },
+        {
+          "zh": "经络诊察(案)",
+          "en": "Examination"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "太阴经(手、足)",
+            "en": "Taiyin (hand, foot)"
+          },
+          "36",
+          "51",
+          "75"
+        ],
+        [
+          {
+            "zh": "阳明经",
+            "en": "Yangming"
+          },
+          "16",
+          "38",
+          "39"
+        ],
+        [
+          {
+            "zh": "太阳经",
+            "en": "Taiyang"
+          },
+          "24",
+          "32",
+          "50"
+        ],
+        [
+          {
+            "zh": "少阴经",
+            "en": "Shaoyin"
+          },
+          "17",
+          "27",
+          "39"
+        ],
+        [
+          {
+            "zh": "少阳经",
+            "en": "Shaoyang"
+          },
+          "16",
+          "26",
+          "41"
+        ],
+        [
+          {
+            "zh": "厥阴经",
+            "en": "Jueyin"
+          },
+          "16",
+          "20",
+          "38"
+        ],
+        [
+          {
+            "zh": "督脉",
+            "en": "Du"
+          },
+          "7",
+          "26",
+          "11"
+        ],
+        [
+          {
+            "zh": "任脉",
+            "en": "Ren"
+          },
+          "1",
+          "18",
+          "2"
+        ],
+        [
+          {
+            "zh": "冲脉",
+            "en": "Chong"
+          },
+          "2",
+          "5",
+          "0"
+        ],
+        [
+          {
+            "zh": "带脉",
+            "en": "Dai"
+          },
+          "2",
+          "0",
+          "0"
+        ],
+        [
+          {
+            "zh": "阴维脉",
+            "en": "Yinwei"
+          },
+          "0",
+          "3",
+          "—"
+        ],
+        [
+          {
+            "zh": "阴跷脉",
+            "en": "Yinqiao"
+          },
+          "0",
+          "1",
+          "—"
+        ],
+        [
+          {
+            "zh": "泛称“奇经八脉”",
+            "en": "The general term \"eight extraordinary vessels\""
+          },
+          "1",
+          "1",
+          "—"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "咳嗽七型：常见变动经脉与选经选穴(诊后絮语)",
+        "en": "The seven cough types: usual abnormal channels, channels and points (essay)"
+      },
+      "cols": [
+        {
+          "zh": "证型",
+          "en": "Type"
+        },
+        {
+          "zh": "常见变动经脉",
+          "en": "Usual abnormal channels"
+        },
+        {
+          "zh": "选经",
+          "en": "Channels chosen"
+        },
+        {
+          "zh": "选穴",
+          "en": "Points"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "风寒",
+            "en": "Wind-cold"
+          },
+          {
+            "zh": "督脉、太阴经、手阳明经",
+            "en": "Du, taiyin, hand yangming"
+          },
+          {
+            "zh": "督脉、手太阴经",
+            "en": "Du, hand taiyin"
+          },
+          {
+            "zh": "大椎、列缺",
+            "en": "Dazhui, Lieque"
+          }
+        ],
+        [
+          {
+            "zh": "风热",
+            "en": "Wind-heat"
+          },
+          {
+            "zh": "督脉、手太阴经、手阳明经",
+            "en": "Du, hand taiyin, hand yangming"
+          },
+          {
+            "zh": "督脉、手太阴经",
+            "en": "Du, hand taiyin"
+          },
+          {
+            "zh": "大椎(或陶道)、尺泽",
+            "en": "Dazhui (or Taodao), Chize"
+          }
+        ],
+        [
+          {
+            "zh": "燥热",
+            "en": "Dry-heat"
+          },
+          {
+            "zh": "手太阴经、手阳明经、手厥阴经",
+            "en": "Hand taiyin, hand yangming, hand jueyin"
+          },
+          {
+            "zh": "手太阴经、手厥阴经",
+            "en": "Hand taiyin, hand jueyin"
+          },
+          {
+            "zh": "孔最、(咳血多加)曲泽",
+            "en": "Kongzui, (with much blood) Quze"
+          }
+        ],
+        [
+          {
+            "zh": "湿痰",
+            "en": "Damp-phlegm"
+          },
+          {
+            "zh": "太阴经、阳明经、任脉",
+            "en": "Taiyin, yangming, ren"
+          },
+          {
+            "zh": "任脉、太阴经、阳明经",
+            "en": "Ren, taiyin, yangming"
+          },
+          {
+            "zh": "中脘、丰隆、列缺",
+            "en": "Zhongwan, Fenglong, Lieque"
+          }
+        ],
+        [
+          {
+            "zh": "肝火",
+            "en": "Liver fire"
+          },
+          {
+            "zh": "太阴经、厥阴经、少阳经",
+            "en": "Taiyin, jueyin, shaoyang"
+          },
+          {
+            "zh": "少阳经、手太阴经",
+            "en": "Shaoyang, hand taiyin"
+          },
+          {
+            "zh": "外关、足临泣、尺泽",
+            "en": "Waiguan, Zulinqi, Chize"
+          }
+        ],
+        [
+          {
+            "zh": "阴虚",
+            "en": "Yin deficiency"
+          },
+          {
+            "zh": "太阴经、厥阴经",
+            "en": "Taiyin, jueyin"
+          },
+          {
+            "zh": "手太阴经、足少阴经",
+            "en": "Hand taiyin, foot shaoyin"
+          },
+          {
+            "zh": "尺泽、鱼际、复溜",
+            "en": "Chize, Yuji, Fuliu"
+          }
+        ],
+        [
+          {
+            "zh": "气虚",
+            "en": "Qi deficiency"
+          },
+          {
+            "zh": "太阴经、少阴经、任脉",
+            "en": "Taiyin, shaoyin, ren"
+          },
+          {
+            "zh": "任脉、太阴经",
+            "en": "Ren, taiyin"
+          },
+          {
+            "zh": "太渊、太白、气海",
+            "en": "Taiyuan, Taibai, Qihai"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "五种选经法：书中例子",
+        "en": "The five ways of choosing channels: examples in the book"
+      },
+      "cols": [
+        {
+          "zh": "选经法",
+          "en": "Method"
+        },
+        {
+          "zh": "例",
+          "en": "Example"
+        },
+        {
+          "zh": "他的理由",
+          "en": "His reasoning"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "本经",
+            "en": "Own channel"
+          },
+          {
+            "zh": "单纯手太阴咳嗽：尺泽(实)、太渊/肺俞/中府(虚)；案71：太冲、蠡沟、曲泉",
+            "en": "Pure hand taiyin cough: Chize (excess), Taiyuan/Feishu/Zhongfu (deficiency); case 71: Taichong, Ligou, Ququan"
+          },
+          {
+            "zh": "合穴调本经气机；原穴补、络穴通络脉",
+            "en": "He points regulate the own channel's qi; yuan tonifies, luo opens the collaterals"
+          }
+        ],
+        [
+          {
+            "zh": "同名经",
+            "en": "Same-name"
+          },
+          {
+            "zh": "案20：尺泽+阴陵泉；案113：左尺泽弹拨治右膝内侧痛；案80：大陵、内关、太冲、蠡沟",
+            "en": "Case 20: Chize + Yinlingquan; case 113: plucking left Chize for right medial knee pain; case 80: Daling, Neiguan, Taichong, Ligou"
+          },
+          {
+            "zh": "手足同名经协同；对应部位有反应才取；急性期为宜",
+            "en": "The two same-name channels cooperate; use only when the corresponding site reacts; best in acute stage"
+          }
+        ],
+        [
+          {
+            "zh": "表里经",
+            "en": "Exterior-interior"
+          },
+          {
+            "zh": "案7：公孙+列缺治胃经；案116：太阳病加足少阴水泉；案74：先泻少阳再清厥阴",
+            "en": "Case 7: Gongsun + Lieque for the stomach channel; case 116: adding foot shaoyin Shuiquan to taiyang disease; case 74: drain shaoyang first, then clear jueyin"
+          },
+          {
+            "zh": "阴经善补、阳经善泻；虚实夹杂可阴阳表里同取",
+            "en": "Yin tonifies, yang drains; deficiency-excess mixtures may take both exterior and interior"
+          }
+        ],
+        [
+          {
+            "zh": "相生相克经",
+            "en": "Generating / controlling"
+          },
+          {
+            "zh": "案9：尺泽(子穴)；案43：尺泽+复溜；案30：商丘；案54：太阴+厥阴(木克土)",
+            "en": "Case 9: Chize (child point); case 43: Chize + Fuliu; case 30: Shangqiu; case 54: taiyin + jueyin (wood controls earth)"
+          },
+          {
+            "zh": "五输穴母子、实则泻其子、金水相生",
+            "en": "Five-shu mother-child, drain the child in excess, metal and water generate each other"
+          }
+        ],
+        [
+          {
+            "zh": "奇经八脉",
+            "en": "Extraordinary vessels"
+          },
+          {
+            "zh": "案15：阴维脉、冲脉(内关、公孙)；案58：冲脉、任脉(关元、维道、地机、公孙)；案122：奇经八脉(内关、公孙)",
+            "en": "Case 15: yinwei, chong (Neiguan, Gongsun); case 58: chong, ren (Guanyuan, Weidao, Diji, Gongsun); case 122: extraordinary vessels (Neiguan, Gongsun)"
+          },
+          {
+            "zh": "八脉交会穴通奇经，公孙通冲脉、内关通阴维",
+            "en": "Confluent points reach the extraordinary vessels; Gongsun to chong, Neiguan to yinwei"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "临床常用选择本经、同名经、表里经、相生相克经、奇经八脉等五种选经方法",
+      "src": "王居易针灸医案讲习录·医案导读 p.002"
+    },
+    {
+      "id": "C2",
+      "quote": "即将主症症候结构与异常经脉进行对接",
+      "src": "王居易针灸医案讲习录·医案导读 p.002"
+    },
+    {
+      "id": "C3",
+      "quote": "一般把头痛部位分为头双侧属少阳经，枕部属太阳经，额部属阳明经，头顶属太阳和厥阴经。头沉重属太阴经",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    },
+    {
+      "id": "C4",
+      "quote": "足心汗出一般为足少阴经与足太阳经的病变，手心汗出属手厥阴经郁热熏蒸的表现，背部出汗多属太阳经",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于汗的讨论 p.082"
+    },
+    {
+      "id": "C5",
+      "quote": "上眼脸与小趾皆属于足太阳经路线",
+      "src": "王居易针灸医案讲习录·案116·医案解读 p.206"
+    },
+    {
+      "id": "C6",
+      "quote": "咳嗽和相关经络之间的关系是根据经络诊察与经络辨证来对接的",
+      "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.017"
+    },
+    {
+      "id": "C7",
+      "quote": "以下仅为咳嗽的基本辨经思路，具体诊治必须根据患者个体经络改变以及症候的呈现来判断",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于咳嗽症候的讨论 p.019"
+    },
+    {
+      "id": "C8",
+      "quote": "案77虽然病在太阳经，但一开始治疗阳明经和少阳经。阳明经调理以后，太阳经头痛也会减轻",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    },
+    {
+      "id": "C9",
+      "quote": "单纯的手太阴肺经咳嗽，若有实象，如有黄痰、咽痛，取合穴尺泽",
+      "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.017"
+    },
+    {
+      "id": "C10",
+      "quote": "案71选了足厥阴经，取本经的原穴、络穴和合穴的配穴方法",
+      "src": "王居易针灸医案讲习录·案71·按语 p.130"
+    },
+    {
+      "id": "C11",
+      "quote": "手足太阴同名经的协同作用为行气化湿以便于给全身供应营养",
+      "src": "王居易针灸医案讲习录·案20·医案解读 p.037"
+    },
+    {
+      "id": "C12",
+      "quote": "同名经对应取穴法（缪刺的一种）为治疗经筋病的一个常用方法",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.195"
+    },
+    {
+      "id": "C13",
+      "quote": "注意同名经对应取穴法有一个条件，急性期效果较好，慢性期效果较差",
+      "src": "王居易针灸医案讲习录·案113·医案解读 p.191"
+    },
+    {
+      "id": "C14",
+      "quote": "选同名经原络配穴法（大陵、内关、太冲、鑫沟）",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    },
+    {
+      "id": "C15",
+      "quote": "治疗与足太阴相表里的足阳明胃经，表里经同治",
+      "src": "王居易针灸医案讲习录·案7·医案解读 p.006"
+    },
+    {
+      "id": "C16",
+      "quote": "有的时候经络诊察会发现手太阴经无异常，手阳明经反而异常。根据表里经的相关性，此时可以使用手阳明大肠经的穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.017"
+    },
+    {
+      "id": "C17",
+      "quote": "阴经善于补虚（阳经善于泻），故运用“阳病取阴”的选经方法",
+      "src": "王居易针灸医案讲习录·案116·医案解读 p.206"
+    },
+    {
+      "id": "C18",
+      "quote": "勿忘记，阳经善于泻，阴经善于补",
+      "src": "王居易针灸医案讲习录·案117·医案解读 p.208"
+    },
+    {
+      "id": "C19",
+      "quote": "因阳经偏于泻，应加阳经穴",
+      "src": "王居易针灸医案讲习录·案19·医案解读 p.035"
+    },
+    {
+      "id": "C20",
+      "quote": "初诊先清泻厥阴经相表里的少阳经，少阳经的症状减轻以后，开始治本，清厥阴之郁热",
+      "src": "王居易针灸医案讲习录·案74·医案解读 p.137"
+    },
+    {
+      "id": "C21",
+      "quote": "尺泽为金经之水穴，而复溜为水经之金穴，有“金水相生”的作用",
+      "src": "王居易针灸医案讲习录·案43·医案解读 p.084"
+    },
+    {
+      "id": "C22",
+      "quote": "尺泽为肺经子穴，根据“实则泻其子”",
+      "src": "王居易针灸医案讲习录·案9·医案解读 p.009"
+    },
+    {
+      "id": "C23",
+      "quote": "按照五输穴五行生克理论来调理，参照实则泻其子的原则，取足太阴经的经金穴商丘",
+      "src": "王居易针灸医案讲习录·案30·医案解读 p.057"
+    },
+    {
+      "id": "C24",
+      "quote": "脾阳虚，则开阖的平衡失调，木克土，导致太阴经运化失常，厥阴经疏泄失常",
+      "src": "王居易针灸医案讲习录·案54·医案解读 p.103"
+    },
+    {
+      "id": "C25",
+      "quote": "内关和公孙都为八脉交会穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于内关、公孙穴循摸的故事 p.027"
+    },
+    {
+      "id": "C26",
+      "quote": "太阴经、少阴经为主要病经，累及奇经八脉",
+      "src": "王居易针灸医案讲习录·案58 p.108"
+    },
+    {
+      "id": "C28",
+      "quote": "诊察相结合之后认为病在太阳经，故取太阳经",
+      "src": "王居易针灸医案讲习录·案116·医案解读 p.207"
+    },
+    {
+      "id": "C27",
+      "quote": "案78到81都表现为少阳经头痛，但是性质和治疗方法都不同",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    }
+  ],
+  "how_to_use": {
+    "zh": "看每案“辨经”“选经”两栏时，先问：症状里哪些线索指向哪条经，察经所见与症候对上了哪几条？再问所选的经属于五法中的哪一种（本经、同名、表里、相生相克、奇经）。表1的频次只说明他常点名哪些经，不是“某病取某经”的规则；同一病的选经因察经与症候而异（见 wjy-03）。",
+    "en": "In each case read the differentiation and choice lines by asking: which symptom clues point to which channel, and which channels did examination and symptoms match? Then ask which of the five ways the chosen channel belongs to. Table 1 shows only which channels he names most, not a \"this disease takes that channel\" rule; the same disease gets different channels according to examination and symptoms (see wjy-03)."
+  },
+  "caveats": {
+    "zh": "案数按案例栏目中出现经名的次数统计(手足同名经合并，不分手足)；OCR残缺的“阴经”“足阴”(及燥热型的“手阴经”)按厥阴计。辨经一栏只有70案、选经一栏91案有记载，其余案例没有写出该栏。咳嗽七型来自诊后絮语，是他的基本辨经思路而非固定分型。五种选经法的例子是按书中文字归类，个别案例兼用多法。",
+    "en": "Counts are numbers of cases naming a channel in the case fields (hand and foot same-name channels merged); garbled OCR \"阴经\" and \"足阴\" are read as jueyin. Only 70 cases record a differentiation line and 91 a choice line. The seven cough types come from an essay and are a basic route, not a fixed classification. The examples of the five methods are grouped by the book's wording, and some cases use several."
+  },
+  "see": {
+    "cases": [
+      "wjy-007",
+      "wjy-020",
+      "wjy-043",
+      "wjy-054",
+      "wjy-077",
+      "wjy-113",
+      "wjy-116"
+    ],
+    "points": [
+      "尺泽",
+      "阴陵泉",
+      "复溜",
+      "内关",
+      "公孙",
+      "太冲",
+      "曲泉",
+      "商丘",
+      "列缺",
+      "水泉"
+    ]
+  }
+}

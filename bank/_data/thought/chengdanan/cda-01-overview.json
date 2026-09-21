@@ -1,0 +1,143 @@
+{
+  "id": "cda-01-overview",
+  "doctor": "chengdanan",
+  "group": { "zh": "总纲", "en": "Overview" },
+  "order": 1,
+  "title": { "zh": "学术总纲：针灸科学化", "en": "Overview: Making Acupuncture Scientific" },
+  "summary": {
+    "zh": "承淡安在《针灸精华》(1951)中的立场很明确：响应“中医科学化”，放弃玄学传统，把针灸定位为“物理刺激疗法”，以科学病理诊断来确定治疗；全书用问答体、参考日本针灸书籍，不采录不科学的玄虚学说，旧病名仅附在新医病名之后。",
+    "en": "In Acupuncture Essence (1951) Cheng answers the call for 'scientising Chinese medicine': drop the metaphysical tradition, treat acupuncture as a physical-stimulation therapy, and fix treatment from scientific pathological diagnosis. The book is in Q&A form, draws on Japanese acupuncture books, excludes unscientific speculation, and keeps old TCM disease names only in parentheses."
+  },
+  "takeaways": [
+    {
+      "zh": "目的是“中医科学化”：放弃数千年玄学医学的传统，让祖国几千年的治疗经验“通过科学的形式”确定其实际效果，并从科学病理诊断中确定实际治疗。",
+      "en": "The aim is 'scientising' Chinese medicine: abandon the metaphysical medical tradition, let millennia of therapeutic experience be confirmed 'through scientific form', and fix the actual treatment from scientific pathological diagnosis.",
+      "cite": ["C1", "C2"]
+    },
+    {
+      "zh": "对针灸的定位：它是祖国独有发明的“物理刺激疗法”，属固有医学的一个重要部门；其价值在于应用范围广、疗效捷速而准确，除预防外主要用于对症治疗。",
+      "en": "Positioning: acupuncture-moxibustion is a 'physical stimulation therapy' uniquely invented in China, an important branch of native medicine; its worth lies in wide application and fast, accurate effect, chiefly for symptomatic treatment apart from prevention.",
+      "cite": ["C3", "C4"]
+    },
+    {
+      "zh": "改进的方向是“抛弃陈说，创造新知”：把含有玄学成分的针灸术改进为科学针灸，《针灸精华》自视为通向科学化的“津梁”，而不是终点。",
+      "en": "The direction is 'discard old doctrines, create new knowledge': turn acupuncture that carries metaphysical elements into scientific acupuncture; the book sees itself as a bridge, not a destination.",
+      "cite": ["C5", "C6"]
+    },
+    {
+      "zh": "取舍原则写在凡例里：针科、灸科的内容要“切合实际”，“不科学的玄虚学说，全不采录”。落到实处，如补泻迎随被明说“今已不讲”，补、泻改按刺激强弱与兴奋、制止来解释。",
+      "en": "The rule of selection is stated in the editorial notes: needling and moxa content must fit practice, and 'unscientific, abstruse doctrines are not adopted at all'. In practice, supplementing/draining-and-meeting/following is declared 'no longer discussed', and bu/xie are re-read as stimulation strength and excitation vs. inhibition.",
+      "cite": ["C7", "C8", "C9"]
+    },
+    {
+      "zh": "知识来源与写法：集历年心得，参考日本针灸书籍，结合多年临床；采问答体、行文力求简明，为的是让读者容易了解各科主要常识。",
+      "en": "Sources and style: his years of experience, Japanese acupuncture books, and long clinical practice, presented as questions and answers in deliberately brief prose so readers can grasp the main knowledge of each branch.",
+      "cite": ["C10", "C11", "C12"]
+    },
+    {
+      "zh": "对读者的桥梁设计：病理诊断治疗篇全部采用新医名词配合针灸治疗；为了照顾未参加过新医进修的中医同道，在新医病名之下注入中医病名。",
+      "en": "Bridge for readers: the pathology/treatment part uses new-medicine terms throughout, matched to acupuncture treatment; for TCM colleagues who have not had modern-medicine training, the traditional disease name is placed beneath each new name.",
+      "cite": ["C13"]
+    },
+    {
+      "zh": "科学化的前提是知识基础：针灸家不明人体构造与生理，一针一灸不仅无效还会致害，所以生理解剖被单独立为第一篇，且完全采用新学说编成；经穴学则从简，只记一二例，其余请参看《中国针灸学讲义》。",
+      "en": "Scientising presupposes basic knowledge: an acupuncturist ignorant of structure and physiology gets no effect and may do harm, so anatomy/physiology is placed first and compiled entirely from the new theories; points learning is kept short, with the rest deferred to his Lectures on Chinese Acupuncture.",
+      "cite": ["C14", "C15", "C16"]
+    },
+    {
+      "zh": "科学化也包括职业规范：消毒不可怠忽，不适应证及不明了的症状不随便施术，不用夸大广告以营利为目的。",
+      "en": "Scientising also covers professional conduct: never neglect sterilisation, do not treat non-indicated or unclear conditions at random, and do not use exaggerated advertising for profit.",
+      "cite": ["C17"]
+    }
+  ],
+  "sections": [
+    {
+      "h": { "zh": "写作背景与立场", "en": "Background and stance" },
+      "body": {
+        "zh": "《针灸精华》以1951年中国针灸学研究社出版的《针灸精华(即针灸医事常识问题第一二三辑合订本)》为底本，原在《针灸杂志》陆续发表。自序把全书放在中央号召“中医科学化”、各地设立新医进修班的背景里：中医工作者要“迎头赶上时代”，而针灸尚无这类科学问答的专著，所以他自任其事。全书六篇：生理解剖、消毒卫生、针科、灸科、经穴、病理诊断治疗。",
+        "en": "The book is based on the 1951 combined volume of the Q&A series on acupuncture practice knowledge, first serialised in the Acupuncture Journal. The preface places it in the campaign to 'scientise Chinese medicine' and the new-medicine refresher classes: TCM workers were to 'catch up with the times', and there was no scientific Q&A monograph on acupuncture, so he undertook one. It has six parts: anatomy/physiology, sterilisation/hygiene, needling, moxibustion, points, and pathology-diagnosis-treatment."
+      }
+    },
+    {
+      "h": { "zh": "他保留什么、放弃什么", "en": "What he keeps and what he drops" },
+      "body": {
+        "zh": "保留的是可用刺激、反射、诱导、神经与血液反应来说明的临床经验，如针刺的兴奋、镇静、诱导作用，灸的白细胞与免疫反应。放弃的是没有这种解释的玄虚学说；补泻迎随被列为古针之法并说明“今已不讲”，出针的旧式补泻只作为“旧式名”附在强、弱刺激法之后。旧名词并未被简单丢弃，而是被对译，见下表。",
+        "en": "He keeps clinical experience that can be explained by stimulation, reflex, induction, and nerve and blood responses: needling's excitatory, inhibitory and inducing effects, moxa's white-cell and immune responses. He drops abstruse doctrines with no such explanation: supplement/drain-meet-follow is listed as an old technique 'no longer discussed', and old bu/xie survive only as 'old names' after the strong and weak stimulation methods. Old terms are translated rather than simply thrown away (see table)."
+      }
+    },
+    {
+      "h": { "zh": "如何读这两本书", "en": "How the two books fit" },
+      "body": {
+        "zh": "《针灸精华》讲原理与常识(为什么、怎样做、何时不可做)；《针灸处方集》则按病列出处方。本模块只整理前者的基础观念；处方集与各系统治疗另有专章。",
+        "en": "Acupuncture Essence gives principles and practice knowledge (why, how, and when not); the Prescription Collection lists prescriptions by disease. This module covers only the foundations of the former; prescriptions and system-by-system treatment are handled elsewhere."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": { "zh": "《针灸精华》六篇结构", "en": "Six parts of Acupuncture Essence" },
+      "cols": [
+        { "zh": "篇", "en": "Part" },
+        { "zh": "起始页(印刷页)", "en": "Starts (printed p.)" },
+        { "zh": "内容", "en": "Content" }
+      ],
+      "rows": [
+        [{ "zh": "第一篇 生理解剖常识问题", "en": "1 Anatomy and physiology" }, "11", { "zh": "完全搜集新学说，按系统叙述，含骨骼、肌肉、循环……感觉器官", "en": "Compiled wholly from new theories, system by system" }],
+        [{ "zh": "第二篇 消毒卫生常识", "en": "2 Sterilisation and hygiene" }, "73", { "zh": "只选最普通、日常应用的题；手指消毒专为针灸医生而设", "en": "Only the commonest daily-use topics; finger sterilisation is aimed at acupuncturists" }],
+        [{ "zh": "第三篇 针科常识", "en": "3 Needling" }, "87", { "zh": "针具、刺法、手技、意外、生理作用、禁忌", "en": "Needles, insertion, techniques, accidents, physiological effects, contraindications" }],
+        [{ "zh": "第四篇 灸科常识", "en": "4 Moxibustion" }, "105", { "zh": "艾绒艾炷、灸法、作用、适应与禁忌", "en": "Moxa wool and cones, methods, effects, indications and contraindications" }],
+        [{ "zh": "第五篇 经穴常识", "en": "5 Points" }, "123", { "zh": "经穴定义、十四经、穴名、同身寸、禁穴、特殊穴；从简", "en": "Definition of meridian/point, fourteen meridians, names, cun, forbidden and special points; kept brief" }],
+        [{ "zh": "第六篇 病理诊断治疗常识", "en": "6 Pathology, diagnosis, treatment" }, "133", { "zh": "第三章总论(p.135)；第四章各论(p.142)：内、妇、眼、儿、外、传染病", "en": "Ch. 3 general introduction (p.135); Ch. 4 by disease (p.142): internal, gynaecology, eye, paediatrics, surgery, infectious" }]
+      ]
+    },
+    {
+      "title": { "zh": "旧说的科学化对译(书中所见)", "en": "How old ideas are re-labelled (as found in the book)" },
+      "cols": [
+        { "zh": "旧说", "en": "Old idea" },
+        { "zh": "他的说法", "en": "His rendering" },
+        { "zh": "出处(印刷页)", "en": "Where (printed p.)" }
+      ],
+      "rows": [
+        [{ "zh": "泻针", "en": "Draining needle" }, { "zh": "强刺激制止法或诱导法", "en": "Strong-stimulation inhibiting or inducing method" }, "针科 p.90"],
+        [{ "zh": "补法", "en": "Supplementing" }, { "zh": "轻刺激兴奋法", "en": "Light-stimulation exciting method" }, "针科 p.90"],
+        [{ "zh": "补泻迎随", "en": "Bu-xie ying-sui" }, { "zh": "古针运用之法，昔重今已不讲", "en": "An old technique once valued, now no longer discussed" }, "针科 p.91"],
+        [{ "zh": "得气、行气", "en": "De qi, moving qi" }, { "zh": "针之感通作用/针之响", "en": "The needle's sensory-conduction effect" }, "针科 p.97"],
+        [{ "zh": "晕针", "en": "Needle faint" }, { "zh": "急性脑贫血", "en": "Acute cerebral anaemia" }, "针科 p.95"],
+        [{ "zh": "经穴主治内脏疾患", "en": "Points treating visceral disease" }, { "zh": "多与黑特氏带(内脏知觉过敏带)一致", "en": "Mostly coincide with Head's zones (visceral hyperalgesia zones)" }, "灸科 p.116"],
+        [{ "zh": "病之阴阳", "en": "Yin-yang of disease" }, { "zh": "阳压/阴压；阳性(+)/阴性(−)", "en": "Arterial vs venous pressure; positive/negative" }, "病理 p.140"],
+        [{ "zh": "中医病名", "en": "TCM disease names" }, { "zh": "置于新医病名之下的括号内", "en": "Placed in parentheses under the new-medicine name" }, "凡例 p.5"]
+      ]
+    }
+  ],
+  "evidence": [
+    { "id": "C1", "quote": "放弃数千年玄学医学之传统，使祖国数千年之治疗经验，通过科学的形式而确定其实际的效果", "src": "针灸精华·自序 p.7" },
+    { "id": "C2", "quote": "从科学病理诊断中，确定实际治疗，达成中医科学化之任务", "src": "针灸精华·自序 p.7" },
+    { "id": "C3", "quote": "针灸医术，是祖国独有发明的物理刺激疗法，属于固有医学中之一重要部门", "src": "针灸精华·自序 p.7" },
+    { "id": "C4", "quote": "其应用范围的广大，治疗效果捷速而准确，是有它一定的成绩的", "src": "针灸精华·自序 p.7" },
+    { "id": "C5", "quote": "抛弃陈说，创造新知，成为适合新时代的科学针灸医学", "src": "针灸精华·自序 p.7" },
+    { "id": "C6", "quote": "俾含有玄学的针灸医术改进而成为科学针灸，这书或能起津梁作用", "src": "针灸精华·自序 p.7" },
+    { "id": "C7", "quote": "针科、灸科常识问题，大体切合实际", "src": "针灸精华·凡例六 p.5" },
+    { "id": "C8", "quote": "关于不科学的玄虚学说，全不采录", "src": "针灸精华·凡例六 p.5" },
+    { "id": "C9", "quote": "补泻迎随，为古针运用之法，昔之针医甚重视，今已不讲矣", "src": "针灸精华·第三篇 针科常识 p.91" },
+    { "id": "C10", "quote": "淡安本历年之心得，参考日本针灸书籍", "src": "针灸精华·自序 p.7" },
+    { "id": "C11", "quote": "本书采用问答方式编著，为使读者容易了解各科主要常识及作为参考起见，所以行文力求简明", "src": "针灸精华·凡例二 p.5" },
+    { "id": "C12", "quote": "结合其多年临床经验，介绍了针的名称与种类、针术沿革、刺针方式等内容", "src": "针灸精华·内容提要(出版方撰)" },
+    { "id": "C13", "quote": "在新医病名之下，注入中医病名", "src": "针灸精华·凡例八 p.5" },
+    { "id": "C14", "quote": "生理解剖常识问题篇完全搜集新学说编辑而成", "src": "针灸精华·凡例三 p.5" },
+    { "id": "C15", "quote": "针灸家于施术上必须修习生理解剖之学术", "src": "针灸精华·第三篇 针科常识 p.103" },
+    { "id": "C16", "quote": "经穴学的问题，全是千篇一律，假如采录，徒增篇幅，所以仅记一二例", "src": "针灸精华·凡例七 p.5" },
+    { "id": "C17", "quote": "不适应证及不明了之症状，不随便施术", "src": "针灸精华·第三篇 针科常识 p.104" }
+  ],
+  "how_to_use": {
+    "zh": "学他的方法，先问三件事：这个病属于什么病理过程(诊断)？针或灸要产生兴奋、镇静还是诱导(效用)？这种效用需要多大的刺激、多深的针、多大的炷(剂量)？凡是回答不了的“玄虚”说法，他的做法是不采录，而不是硬套。读他的书时，遇到旧名词先看他如何对译。",
+    "en": "To use his method, ask three things: what pathological process is this (diagnosis)? does the needle or moxa need to excite, inhibit or induce (effect)? and how strong a stimulus, how deep a needle, how large a cone (dose)? Where a doctrine cannot be answered in these terms, he leaves it out rather than forcing it. When reading, check first how he re-labels an old term."
+  },
+  "caveats": {
+    "zh": "书中大量使用民国时期的西医名词与译名(如偻麻质斯、黑特氏带、蛋白体疗法)，出版方为保存原貌一律未改，与今通行名称并不对应；书中引用的多是二三十年代日本学者的实验，其“科学”是当时的科学。",
+    "en": "The book uses many Republican-era Western terms and transliterations (e.g. rheumatism, Head's zones, protein therapy) which the publisher deliberately left unchanged and which do not map neatly onto current terminology; the experiments it cites are mostly 1920s-30s Japanese work, so its 'science' is that of its time."
+  },
+  "see": {
+    "notes": ["01 生理解剖常识 Anatomy and Physiology", "03 针科常识 Needling Science", "04 灸科常识 Moxibustion Science", "00 总论 General Introduction"],
+    "points": []
+  }
+}

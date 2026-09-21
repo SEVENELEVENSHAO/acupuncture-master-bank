@@ -1,0 +1,824 @@
+{
+  "id": "cda-09-stimulation-dosage",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "刺灸法",
+    "en": "Technique"
+  },
+  "order": 9,
+  "title": {
+    "zh": "刺激量的分级与选用：强、中、轻，皮肤针与灸",
+    "en": "Grading and Choosing the Stimulus Dose: Strong, Medium, Light, Skin-needle and Moxa"
+  },
+  "summary": {
+    "zh": "《针灸处方集》的每张处方都要交代刺激的“量”：强(亦称重)、中、轻三级针刺，再配皮肤针捶击、艾炷或艾条灸、留针、吸筒。大体是发作、急性炎症与四肢诱导穴用强刺激，慢性与神经病用中刺激，衰弱、强壮、久治用轻刺激加灸。",
+    "en": "In the formulary each prescription states its stimulus \"dose\": three needle grades (strong/heavy, medium, light) plus skin-needle tapping, moxa cones or sticks, retained needles and cupping. Broadly: strong for attacks, acute inflammation and distal induction points; medium for chronic and nerve disease; light plus moxa for weak, tonic or long-course cases."
+  },
+  "takeaways": [
+    {
+      "zh": "刺激量分三级，写在处方末尾：强(亦称“重”)刺激、中(等度)刺激、轻刺激。按对原书中文的重新统计(219 条)，提到强/重刺激 46 条、中刺激 83 条、轻刺激 42 条；同一病的急性与慢性常分给不同档，如扁桃腺炎急性“26号针作重刺激”、慢性“28号针作中等刺激”。",
+      "en": "Dose is graded in three steps stated at the end of each prescription: strong (also \"heavy\"), medium, light. A recount of the Chinese text (219 entries) finds strong/heavy in 46, medium in 83, light in 42; acute and chronic forms of one disease are often given different grades, e.g. tonsillitis: acute \"26-gauge, heavy\", chronic \"28-gauge, medium\".",
+      "cite": [
+        "C1",
+        "C2",
+        "C3"
+      ]
+    },
+    {
+      "zh": "强刺激用在“发作时”、出血时和急性炎症，并且常落在四肢手足穴，取“反射”或“诱导”之用：胃痉挛发作取足三里、公孙、厉兑强刺激作诱导缓解；急痫“四肢之穴作强刺激，其他作中刺激”；衄血尤以两肢之穴加强刺激；偏头痛“手足部诸穴，可用重刺激，为反射之目的”。",
+      "en": "Strong stimulation is for the moment of attack, for bleeding and acute inflammation, and it usually falls on limb points for \"reflex\" or \"inductive\" purposes: in gastric spasm Zusanli, Gongsun and Lidui are strongly needled to relieve by induction; in acute epilepsy the limb points get strong and the rest medium; in epistaxis the limb points are intensified; in migraine hand and foot points may take heavy stimulation \"for reflex\".",
+      "cite": [
+        "C4",
+        "C5",
+        "C6",
+        "C8"
+      ]
+    },
+    {
+      "zh": "中刺激是常规档：“每日或间日……中刺激”是神经痛、神经麻痹、神经痉挛与多种慢性内科病的通用写法，其中脑脊髓神经系病一章 74 条里有 42 条用到它；神经痛常在针后再加艾条灸。",
+      "en": "Medium stimulation is the default grade: \"daily or every other day ... medium stimulation\" is the stock phrase for neuralgias, nerve paralyses, nerve spasms and many chronic internal diseases; 42 of the 74 entries in the nervous-system chapter use it, and in neuralgia moxa-stick is often added after needling.",
+      "cite": [
+        "C9",
+        "C5"
+      ]
+    },
+    {
+      "zh": "轻刺激给衰弱者、慢性者、需要“强壮”者，且常“先轻刺激，后艾条灸”：慢性肾脏炎、脑贫血、胃溃疡、胃扩张、闭经等皆如此。肺结核最为谨慎：“重刺激手术，绝对避免”，背部轻刺、四肢中等，捻动不过1分钟，每次用穴四五个为宜。",
+      "en": "Light stimulation is for the weak, the chronic and those needing \"tonification\", and is often followed by moxa-stick: chronic nephritis, cerebral anaemia, gastric ulcer, gastric dilatation, amenorrhoea. Pulmonary tuberculosis is handled most cautiously: heavy stimulation \"absolutely avoided\", back points lightly, limb points medium, twirling under one minute, four or five points per visit.",
+      "cite": [
+        "C10",
+        "C11",
+        "C12"
+      ]
+    },
+    {
+      "zh": "同一病里，刺激量随病型、部位、阶段而变。偏头痛：交感神经麻痹型头部用轻刺激的兴奋法、不留针；痉挛型用中刺激加留针；手足穴重刺激为反射，中刺激并留针为诱导。麻痹狂：鸠尾、中脘、风府用28号针中刺激，其余穴用26号针强刺激。三叉神经麻痹：健侧中刺激、患侧轻刺激。",
+      "en": "Within one disease the dose varies with type, site and stage. Migraine: the sympathetic-paralytic type gets light \"excitatory\" stimulation on the head without retention; the spasmodic type medium stimulation with retention; hand/foot points heavy for reflex, medium with retention for induction. Mania: three points medium with 28-gauge, the rest strong with 26-gauge. Trigeminal paralysis: medium on the healthy side, light on the affected side.",
+      "cite": [
+        "C7",
+        "C6",
+        "C22",
+        "C23"
+      ]
+    },
+    {
+      "zh": "灸被当作“持久”与“强壮”的手段：慢性支气管炎“比较用灸法为宜，以其持久性较长”，支气管扩张“久灸较针效为强”；肺结核在针治已使热度盗汗消失、脉搏退到90以下后“可以改用灸治”。炷的大小与壮数随病而定，多为小炷三至七壮，脑溢血急救时关元可灸七至二十一壮以至百余壮。",
+      "en": "Moxa is used for endurance and tonification: chronic bronchitis \"moxa is preferable because it lasts longer\", bronchiectasis \"prolonged moxa is stronger than needling\"; in tuberculosis one may \"switch to moxa\" once needling has cleared fever and night sweats and the pulse is below 90. Cone size and count vary by disease, mostly small cones 3-7, but in cerebral haemorrhage first aid Guanyuan may take 7-21 cones or even over a hundred.",
+      "cite": [
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C28"
+      ]
+    },
+    {
+      "zh": "皮肤针(捶击)是轻柔、成片的补充手段：沿颈胸椎两侧、沿神经分布线、在穴之上下左右，每日1次；捶击的疏密有定规(“每相隔五分捶3下”“距离半寸击3下”)。多用于喉头病、心脏病、神经麻痹、小儿、佝偻病等体弱或需长期刺激者。",
+      "en": "Skin-needle tapping is a light, area-wide supplement: along the cervical and thoracic paravertebral lines, along nerve courses, or around points, once daily, with a set spacing (three taps every 5 fen, or every half cun). It is used for laryngeal and cardiac disease, nerve paralysis, children and rickets, i.e. weak patients or those needing long stimulation.",
+      "cite": [
+        "C17",
+        "C18",
+        "C19",
+        "C26"
+      ]
+    },
+    {
+      "zh": "针号与捻针时间只在少数条目明示：26/28/30号共见于 20 条。26号多配强(重)刺激或“浅刺略捻即出”(肺炎)，28号多配中、轻刺激但也有强刺激，30号仅一条“轻针”；捻针从“不超过1分钟”(肺结核)到“至少1分钟”(麻痹狂)、雀啄约3分钟(齿痛)，疟疾则要使酸感传至胸椎第六、七节再出针。",
+      "en": "Gauge and twirling time are stated in only a few entries: 26/28/30 gauge appear in 20. 26 goes mostly with strong/heavy stimulation or with \"shallow, brief twirl and out\" (pneumonias); 28 mostly with medium or light but also strong; 30 only once (\"light needling\"). Twirling ranges from under one minute (TB) to at least one minute (mania) and about three minutes of sparrow-pecking (toothache); for malaria the sensation must travel to T6-7 before withdrawal.",
+      "cite": [
+        "C20",
+        "C21",
+        "C22",
+        "C24",
+        "C25",
+        "C27"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "三级刺激与病情的对应",
+        "en": "How the three grades map onto the case"
+      },
+      "body": {
+        "zh": "他不给强、中、轻下数值定义，而是在处方里把“档”与“病情”配对：发作、急性、出血、疼痛剧烈、需要制止或诱导的，用强(重)刺激；日常的慢性炎症与神经病，用中刺激；体质衰弱、需要强壮、需要长期坚持的，用轻刺激，并常接艾条灸。这与总原理(见 cda-02)一致：强度决定方向，同一针可兴奋，可镇静，可诱导。同一条目里还常按穴位远近分档：肢端穴重，躯干穴轻或中(肺结核背部轻刺、四肢中等；胃溃疡出血时足三里、内庭、公孙用强刺激)。",
+        "en": "He gives no numeric definition of strong, medium or light; he pairs the grade with the clinical picture inside each prescription. Attacks, acute conditions, bleeding, severe pain and anything to be checked or drawn away get strong/heavy; routine chronic inflammation and nerve disease get medium; the weak, those needing tonification and long courses get light, often followed by moxa-stick. This fits his general principle (see cda-02): intensity decides direction, the same needle can excite, calm or induce. Within an entry the grade often also follows distance: distal points heavy, trunk points light or medium."
+      }
+    },
+    {
+      "h": {
+        "zh": "灸的“量”：炷、壮、条",
+        "en": "The moxa \"dose\": cone, count, stick"
+      },
+      "body": {
+        "zh": "灸的量用炷的大小和壮数表示：“△”形小艾炷三至七壮最常见；脚气用米粒大炷七至十壮，佝偻病用半粒米大炷三壮；痔脱肛、副鼻腔炎、衄血用中炷五至七壮；脑溢血关元用大炷七至二十一壮乃至百余壮，振颤麻痹的关元、命门“能作直接艾炷一二百壮之小炷更佳”。灸术另有两类：药艾条(书中多称“念盈药艾灸条”)与温灸器，用于要长期熏灸的慢性病；隔蒜片加麝香的灸法，用于脊髓病、胃癌、肠结核、子宫癌肿，并叮嘱从三炷起、有发热疲乏就减量(见 cda-11)。",
+        "en": "Moxa dose is given as cone size and count: small triangular cones, 3-7 each, are commonest; beri-beri uses rice-grain cones 7-10, rickets half-rice-grain cones 3; haemorrhoidal prolapse, sinusitis and epistaxis medium cones 5-7; in cerebral haemorrhage Guanyuan takes large cones 7-21 up to over a hundred, and in Parkinsonism Guanyuan and Mingmen take small direct cones \"one or two hundred, even better\". Two other forms exist: medicated moxa sticks (mostly his named \"Nianying\" stick) and the warm-moxa box, for chronic disease needing long warming; and garlic-slice moxa with musk, for spinal disease, stomach cancer, intestinal TB and uterine cancer, starting from three cones and reduced if fever or fatigue follows (see cda-11)."
+      }
+    },
+    {
+      "h": {
+        "zh": "针具、捻针与手法细节",
+        "en": "Gauge, twirling and hand technique"
+      },
+      "body": {
+        "zh": "针号只在 20 条里出现：26号多用于强刺激与肺炎的浅刺，28号多用于中、轻刺激，30号仅心脏瓣膜症的“轻针”。捻针时间是另一个“量”：肺病不超过1分钟，狂病至少1分钟并使之剧痛，齿痛的合谷雀啄约3分钟；留针从“数分钟”(齿痛合谷)到“十数分钟”(搐搦症)。这些都是条目里的零散指示，并不构成统一规程。",
+        "en": "Gauge appears in 20 entries: 26 mostly for strong stimulation and the shallow needling of pneumonia, 28 for medium and light, 30 only for the \"light needling\" of valvular heart disease. Twirling time is another dose: under a minute in lung disease, at least a minute and painful in mania, about three minutes of sparrow-pecking at Hegu for toothache; retention runs from a few minutes (Hegu, toothache) to a dozen (tetany). These are scattered instructions in individual entries, not a uniform protocol."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "技法、书中所述用途与常见病症",
+        "en": "Technique, what the text says it is for, typical conditions"
+      },
+      "cols": [
+        {
+          "zh": "技法",
+          "en": "Technique"
+        },
+        {
+          "zh": "书中所述用途/用法",
+          "en": "What the text says"
+        },
+        {
+          "zh": "常见病症(举例)",
+          "en": "Typical conditions"
+        },
+        {
+          "zh": "见于条数(对219条的重新统计)",
+          "en": "Entries (recount of 219)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "强(重)刺激",
+            "en": "Strong / heavy"
+          },
+          {
+            "zh": "发作时、出血时、急性炎症的消炎诱导；四肢手足穴取反射或诱导；肺病重刺激禁用",
+            "en": "Attacks, bleeding, acute inflammation (anti-inflammatory induction); limb points for reflex or induction; forbidden in TB"
+          },
+          {
+            "zh": "胃痉挛发作、急痫、脑充血、急性咽头炎、扁桃腺炎、肾盂炎、乳腺炎",
+            "en": "Gastric spasm attack, epilepsy, cerebral congestion, pharyngitis, tonsillitis, pyelitis, mastitis"
+          },
+          "46"
+        ],
+        [
+          {
+            "zh": "中(等度)刺激",
+            "en": "Medium"
+          },
+          {
+            "zh": "常规档，“每日或间日”；慢性炎症、神经痛/麻痹/痉挛，头部穴中刺激后再灸",
+            "en": "Default grade, daily or alternate days; chronic inflammation, neuralgia/paralysis/spasm; head points medium then moxa"
+          },
+          {
+            "zh": "神经痛、神经麻痹、颜面神经痉挛、慢性喉头炎、便秘、癫痫、头痛",
+            "en": "Neuralgia, nerve paralysis, facial spasm, chronic laryngitis, constipation, epilepsy, headache"
+          },
+          "83"
+        ],
+        [
+          {
+            "zh": "轻刺激",
+            "en": "Light"
+          },
+          {
+            "zh": "衰弱、慢性、需强壮者；“轻刺激之兴奋法”；常先轻刺激再艾条灸",
+            "en": "The weak, chronic, tonic cases; \"light excitatory method\"; often needle lightly then moxa-stick"
+          },
+          {
+            "zh": "慢性肾脏炎、脑贫血、胃溃疡、胃扩张、坐骨神经麻痹、神经衰弱、闭经",
+            "en": "Chronic nephritis, cerebral anaemia, gastric ulcer/dilatation, sciatic paralysis, neurasthenia, amenorrhoea"
+          },
+          "42"
+        ],
+        [
+          {
+            "zh": "皮肤针(捶击)",
+            "en": "Skin needle"
+          },
+          {
+            "zh": "沿椎旁或神经分布线、穴之上下左右轻捶，每日1次；小儿、体弱可代针",
+            "en": "Tapped along paravertebral lines, nerve courses or around points, daily; may replace needles in children and the weak"
+          },
+          {
+            "zh": "喉头病、心脏病、桡/正中/尺骨/坐骨神经麻痹、小儿麻痹、佝偻病",
+            "en": "Laryngeal and cardiac disease, radial/median/ulnar/sciatic paralysis, infantile paralysis, rickets"
+          },
+          "23"
+        ],
+        [
+          {
+            "zh": "浅刺",
+            "en": "Shallow"
+          },
+          {
+            "zh": "26号针浅刺略捻即出；小儿用28号短针浅针；腹腔穴浅刺轻针",
+            "en": "26-gauge shallow, brief twirl and out; 28-gauge short needle in children; abdominal points shallow and light"
+          },
+          {
+            "zh": "小叶性/格鲁布性肺炎、百日咳、小儿急痫、急性肠炎、急性胃炎(中脘)",
+            "en": "Broncho- and lobar pneumonia, whooping cough, infantile convulsion, acute enteritis, acute gastritis (Zhongwan)"
+          },
+          "11"
+        ],
+        [
+          {
+            "zh": "留针/置针",
+            "en": "Retention"
+          },
+          {
+            "zh": "痉挛、疼痛、呕吐；强刺激后留十数分钟；“中刺激并留针，为诱导之目的”",
+            "en": "Spasm, pain, vomiting; retained a dozen minutes after strong stimulation; \"medium with retention for induction\""
+          },
+          {
+            "zh": "颜面神经痉挛、搐搦症、舞蹈病、偏头痛、齿痛、子宫痉挛、妊娠呕吐",
+            "en": "Facial spasm, tetany, chorea, migraine, toothache, uterine spasm, hyperemesis"
+          },
+          "16"
+        ],
+        [
+          {
+            "zh": "吸筒",
+            "en": "Cupping"
+          },
+          {
+            "zh": "针后在患部或压痛点加用；集中于肩背腰肢的神经痛与麻痹",
+            "en": "Added after needling at the affected part or tender point; concentrated in neuralgia and paralysis of shoulder, back, waist, limb"
+          },
+          {
+            "zh": "颈膊/腰腹/股/坐骨神经痛、肩胛与腋窝神经麻痹、膝关节炎",
+            "en": "Brachial, lumbo-abdominal, femoral, sciatic neuralgia; scapular and axillary paralysis; knee arthritis"
+          },
+          "12"
+        ],
+        [
+          {
+            "zh": "艾炷灸(小/中/大炷，壮)",
+            "en": "Moxa cones"
+          },
+          {
+            "zh": "强壮、慢性、久治；小炷三至七壮最常见；急救可至数十、上百壮",
+            "en": "Tonic, chronic, long course; small cones 3-7 commonest; emergency up to dozens or hundreds"
+          },
+          {
+            "zh": "慢性支气管炎、喘息、肺气肿、贫血、遗尿、尿失禁、脑溢血急救",
+            "en": "Chronic bronchitis, asthma, emphysema, anaemia, enuresis, incontinence, first aid in apoplexy"
+          },
+          "50"
+        ],
+        [
+          {
+            "zh": "艾条、温灸器、温针",
+            "en": "Moxa stick / warm box / warmed needle"
+          },
+          {
+            "zh": "“每日用药艾条灸治”，针后加灸；温灸器与温针见于慢性胃炎、萎缩肾等",
+            "en": "\"Medicated moxa stick daily\", after needling; warm box or warmed needle in chronic gastritis, atrophic kidney"
+          },
+          {
+            "zh": "慢性胃炎、胃下垂、慢性肠炎、腹泻、慢性肾脏炎、肩凝、妇科慢性病",
+            "en": "Chronic gastritis, gastroptosis, chronic enteritis, diarrhoea, chronic nephritis, stiff shoulder, chronic gynaecological disease"
+          },
+          "66 (温针 4)"
+        ],
+        [
+          {
+            "zh": "隔蒜片(加麝香)或隔姜灸",
+            "en": "Garlic-slice (with musk) or ginger-slice moxa"
+          },
+          {
+            "zh": "脊椎上或病灶部，大炷、间数日一灸；隔姜灸用于面部瘫痪",
+            "en": "On the spine or lesion, large cones every few days; ginger-slice for facial palsy"
+          },
+          {
+            "zh": "胃癌、肠结核、脊髓炎/痨、压迫性脊髓炎、子宫癌肿、面神经与三叉神经麻痹",
+            "en": "Gastric cancer, intestinal TB, myelitis/tabes, compression myelitis, uterine cancer, facial and trigeminal palsy"
+          },
+          "8"
+        ],
+        [
+          {
+            "zh": "放血",
+            "en": "Bleeding"
+          },
+          {
+            "zh": "少商、商阳点刺出血；眼睑缘针尖点刺；旧时霍乱、鼠疫、麻风早期",
+            "en": "Pricking Shaoshang/Shangyang; eyelid margin; older practice in cholera, plague, early leprosy"
+          },
+          {
+            "zh": "急性喉头炎、急性咽头炎、眼睑缘炎、霍乱、鼠疫、麻风",
+            "en": "Acute laryngitis, pharyngitis, blepharitis, cholera, plague, leprosy"
+          },
+          "6"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "各系统所用刺激档(条数)",
+        "en": "Stimulus grade by system (number of entries)"
+      },
+      "cols": [
+        {
+          "zh": "系统",
+          "en": "System"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        },
+        {
+          "zh": "强/重刺激",
+          "en": "Strong"
+        },
+        {
+          "zh": "中刺激",
+          "en": "Medium"
+        },
+        {
+          "zh": "轻刺激",
+          "en": "Light"
+        },
+        {
+          "zh": "皮肤针",
+          "en": "Skin needle"
+        },
+        {
+          "zh": "灸",
+          "en": "Moxa"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "呼吸器病",
+            "en": "Respiratory"
+          },
+          "21",
+          "2",
+          "6",
+          "1",
+          "4",
+          "8"
+        ],
+        [
+          {
+            "zh": "循环器病",
+            "en": "Circulatory"
+          },
+          "11",
+          "1",
+          "3",
+          "2",
+          "4",
+          "5"
+        ],
+        [
+          {
+            "zh": "消化器病",
+            "en": "Digestive"
+          },
+          "45",
+          "15",
+          "12",
+          "10",
+          "2",
+          "18"
+        ],
+        [
+          {
+            "zh": "泌尿生殖器病",
+            "en": "Urogenital"
+          },
+          "17",
+          "8",
+          "2",
+          "6",
+          "0",
+          "12"
+        ],
+        [
+          {
+            "zh": "脑脊髓神经系病",
+            "en": "Nervous system"
+          },
+          "74",
+          "11",
+          "42",
+          "14",
+          "11",
+          "29"
+        ],
+        [
+          {
+            "zh": "妇人科病",
+            "en": "Gynaecology"
+          },
+          "16",
+          "5",
+          "8",
+          "5",
+          "0",
+          "12"
+        ],
+        [
+          {
+            "zh": "小儿科病",
+            "en": "Paediatrics"
+          },
+          "4",
+          "1",
+          "1",
+          "0",
+          "1",
+          "1"
+        ],
+        [
+          {
+            "zh": "内分泌障碍",
+            "en": "Endocrine"
+          },
+          "4",
+          "0",
+          "1",
+          "1",
+          "1",
+          "0"
+        ],
+        [
+          {
+            "zh": "新陈代谢病",
+            "en": "Metabolic"
+          },
+          "2",
+          "0",
+          "2",
+          "0",
+          "0",
+          "2"
+        ],
+        [
+          {
+            "zh": "五官器病",
+            "en": "ENT & eye"
+          },
+          "9",
+          "2",
+          "5",
+          "2",
+          "0",
+          "7"
+        ],
+        [
+          {
+            "zh": "传染病",
+            "en": "Infectious"
+          },
+          "16",
+          "1",
+          "1",
+          "1",
+          "0",
+          "6"
+        ],
+        [
+          {
+            "zh": "合计",
+            "en": "Total"
+          },
+          "219",
+          "46",
+          "83",
+          "42",
+          "23",
+          "100"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "明示针号的条目(共20条)与所配刺激",
+        "en": "Entries that state a gauge (20) and the grade they pair with"
+      },
+      "cols": [
+        {
+          "zh": "针号",
+          "en": "Gauge"
+        },
+        {
+          "zh": "配的刺激",
+          "en": "Paired with"
+        },
+        {
+          "zh": "条目",
+          "en": "Entries"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "26号",
+            "en": "26"
+          },
+          {
+            "zh": "强/重刺激 7 条",
+            "en": "Strong/heavy: 7"
+          },
+          {
+            "zh": "卡他性口腔炎、扁桃腺炎(急性)、耳下腺炎、急性咽头炎、肋膜炎、急性胃炎(四肢穴)、麻痹狂(四肢穴)",
+            "en": "Catarrhal stomatitis, tonsillitis (acute), parotitis, acute pharyngitis, pleurisy, acute gastritis (limb points), mania (limb points)"
+          }
+        ],
+        [
+          {
+            "zh": "26号",
+            "en": "26"
+          },
+          {
+            "zh": "浅刺、略捻即出 2 条",
+            "en": "Shallow, brief twirl: 2"
+          },
+          {
+            "zh": "小叶性肺炎、格鲁布性肺炎",
+            "en": "Broncho-pneumonia, lobar pneumonia"
+          }
+        ],
+        [
+          {
+            "zh": "26号",
+            "en": "26"
+          },
+          {
+            "zh": "中等度 2 条",
+            "en": "Medium: 2"
+          },
+          {
+            "zh": "卡他性食管炎、腹水(足部穴)",
+            "en": "Catarrhal oesophagitis, ascites (foot points)"
+          }
+        ],
+        [
+          {
+            "zh": "28号",
+            "en": "28"
+          },
+          {
+            "zh": "中等度/中刺激 5 条",
+            "en": "Medium: 5"
+          },
+          {
+            "zh": "心脏瓣膜症(浮肿时)、扁桃腺炎(慢性)、慢性喉头炎、麻痹狂(鸠尾等3穴)、百日咳(浅针)",
+            "en": "Valvular heart disease (oedema), tonsillitis (chronic), chronic laryngitis, mania (3 points), whooping cough (shallow)"
+          }
+        ],
+        [
+          {
+            "zh": "28号",
+            "en": "28"
+          },
+          {
+            "zh": "轻刺激 2 条",
+            "en": "Light: 2"
+          },
+          {
+            "zh": "心脏痉挛、食管麻痹",
+            "en": "Angina, oesophageal paralysis"
+          }
+        ],
+        [
+          {
+            "zh": "28号",
+            "en": "28"
+          },
+          {
+            "zh": "强刺激 3 条",
+            "en": "Strong: 3"
+          },
+          {
+            "zh": "急性心脏内膜炎、胃酸过多症、小儿急痫(短针浅针重刺激)",
+            "en": "Acute endocarditis, hyperacidity, infantile convulsion (short needle, shallow, heavy)"
+          }
+        ],
+        [
+          {
+            "zh": "28号",
+            "en": "28"
+          },
+          {
+            "zh": "未分档 1 条",
+            "en": "Grade not stated: 1"
+          },
+          {
+            "zh": "肩凝(温针灸)",
+            "en": "Stiff shoulder (warmed needle)"
+          }
+        ],
+        [
+          {
+            "zh": "30号",
+            "en": "30"
+          },
+          {
+            "zh": "轻针 1 条",
+            "en": "Light: 1"
+          },
+          {
+            "zh": "心脏瓣膜症(“加强心功能”)",
+            "en": "Valvular heart disease (\"to strengthen heart function\")"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "取穴：金津、玉液、廉泉、颊车、地仓、手三里、合谷、大陵、内庭。\n\n每日用26号针作重刺激。",
+      "src": "针灸处方集·第三章 消化器病·卡他性口腔炎 p.228"
+    },
+    {
+      "id": "C2",
+      "quote": "急性取穴：风池、天柱、大杼、尺泽、少商、商阳。每日1次，26号针作重刺激",
+      "src": "针灸处方集·第三章 消化器病·扁桃腺炎 p.229"
+    },
+    {
+      "id": "C3",
+      "quote": "慢性取穴：天柱、大杼、鱼际、液门。每日1次，28号针作中等刺激",
+      "src": "针灸处方集·第三章 消化器病·扁桃腺炎 p.229"
+    },
+    {
+      "id": "C4",
+      "quote": "在发作时，取足三里、公孙、厉兑，用强刺激，作诱导法缓解之",
+      "src": "针灸处方集·第三章 消化器病·胃痉挛 p.233"
+    },
+    {
+      "id": "C5",
+      "quote": "四肢之穴作强刺激，其他作中刺激。",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·急痫 p.262"
+    },
+    {
+      "id": "C6",
+      "quote": "手足部诸穴，可用重刺激，为反射之目的；中刺激并留针，为诱导之目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·偏头痛 p.264"
+    },
+    {
+      "id": "C7",
+      "quote": "如属交感神经麻痹性者，头部诸穴用轻刺激之兴奋法，不必留针；如属痉挛性者，用中刺激，复采用留针法",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·偏头痛 p.264"
+    },
+    {
+      "id": "C8",
+      "quote": "作强刺激之针治，尤以两肢之穴加强刺激",
+      "src": "针灸处方集·第十章 五官器病·衄血 p.279"
+    },
+    {
+      "id": "C9",
+      "quote": "每日轮换针治，作中刺激，针后再以艾条灸之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颈膊神经痛 p.251"
+    },
+    {
+      "id": "C10",
+      "quote": "重刺激手术，绝对避免。背部诸穴，概行轻刺，四肢诸穴，则用中等之刺激",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C11",
+      "quote": "捻动时间，概不超过1分钟。用穴每次不要超过8穴，多则易增加其疲倦，以四五穴为适当",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C12",
+      "quote": "每日轮换先予轻刺激，而后以药艾灸条灸治之",
+      "src": "针灸处方集·第四章 泌尿生殖器病·慢性肾脏炎 p.241"
+    },
+    {
+      "id": "C13",
+      "quote": "比较用灸法为宜，以其持久性较长，往往在灸愈之后，能经二三年不发",
+      "src": "针灸处方集·第一章 呼吸器病·慢性支气管炎 p.218"
+    },
+    {
+      "id": "C14",
+      "quote": "久灸较针效为强",
+      "src": "针灸处方集·第一章 呼吸器病·支气管扩张 p.218"
+    },
+    {
+      "id": "C15",
+      "quote": "肺病初期，或针治已将热度盗汗等重要症状消失，脉搏亦退到90至以下时，可以改用灸治",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C16",
+      "quote": "关元用大炷艾灸七至二十一壮，甚至百余壮，视其脉搏调整为止",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑溢血 p.246"
+    },
+    {
+      "id": "C17",
+      "quote": "捶击法：每相隔五分捶3下",
+      "src": "针灸处方集·第一章 呼吸器病·慢性喉头炎 p.215"
+    },
+    {
+      "id": "C18",
+      "quote": "前膊内侧正中线每日捶击1次，以距离半寸击3下为定则",
+      "src": "针灸处方集·第二章 循环器病·心脏痉挛(狭心症) p.224"
+    },
+    {
+      "id": "C19",
+      "quote": "并每日用皮肤针沿该神经分布线捶击1次",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·桡骨神经麻痹 p.256"
+    },
+    {
+      "id": "C20",
+      "quote": "宜以26号针浅刺略捻即出，往往不多时间，热度降低，神志安定",
+      "src": "针灸处方集·第一章 呼吸器病·小叶性肺炎 p.219"
+    },
+    {
+      "id": "C21",
+      "quote": "每日轮换用30号针轻针1次，加强心功能",
+      "src": "针灸处方集·第二章 循环器病·心脏瓣膜症 p.225"
+    },
+    {
+      "id": "C22",
+      "quote": "鸠尾、中脘、风府，用28号针作中刺激，其他诸穴用26号针作强刺激",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·麻痹狂 p.248"
+    },
+    {
+      "id": "C23",
+      "quote": "健侧用中刺激，患侧用轻刺激，并用隔姜灸治法，或用艾条灸治之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·三叉神经麻痹 p.255"
+    },
+    {
+      "id": "C24",
+      "quote": "两合谷下针后，作或轻或重之雀啄术约3分钟",
+      "src": "针灸处方集·第三章 消化器病·齿痛 p.230"
+    },
+    {
+      "id": "C25",
+      "quote": "统用强刺激后，予以留针十数分钟之处置",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·搐搦症 p.263"
+    },
+    {
+      "id": "C26",
+      "quote": "每日于上列各穴之上下，用皮肤针捶击3下，用半粒米大之艾炷，各灸三壮",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·佝偻病 p.267"
+    },
+    {
+      "id": "C27",
+      "quote": "往往只取陶道一穴，用中刺激，使其酸感传达至第六、第七胸椎处，而后出针",
+      "src": "针灸处方集·第十一章 传染病·疟疾 p.283"
+    },
+    {
+      "id": "C28",
+      "quote": "初灸三炷，多则发热体疲；如无反应，可加为五炷",
+      "src": "针灸处方集·第六章 妇人科病·子宫癌肿 p.269"
+    }
+  ],
+  "how_to_use": {
+    "zh": "读一张处方时，先看末尾的“档”：强刺激通常意味着发作、急性、肢端反射或诱导；中刺激是日常治疗；轻刺激加灸意味着慢性、衰弱、要长期强壮。再看针号、捻针时间与留针是否有交代。这些只是他在条目里的做法，不是统一标准；与总原理见 cda-02，针具与手法见 cda-03，疗程与轮换见 cda-11。",
+    "en": "Read the grade at the end of a prescription first: strong usually means an attack, an acute state, or distal reflex or induction; medium is routine care; light plus moxa means chronic, weak, long tonic course. Then check gauge, twirling time and retention if given. These are his practices within entries, not a uniform standard; principle in cda-02, technique in cda-03, course and rotation in cda-11."
+  },
+  "caveats": {
+    "zh": "“强、中、轻”“26/28/30号”是民国针具与用语，书中未给数值定义；条数为对原书中文的重新统计(机器技法标签对第六至第十一章的英文化条目漏标较多，故未采用)，“重刺激”与“强刺激”按同义合并，肺结核的“重刺激手术，绝对避免”不计入强刺激。",
+    "en": "Strong/medium/light and 26/28/30 gauges are Republican-era terms with no numeric definition in the book. Counts are a recount of the Chinese text; the bank machine technique tags under-count chapters 6-11 (stored in English gloss) and were not used. \"Heavy\" and \"strong\" are merged as synonyms; the TB warning against heavy stimulation is not counted as strong."
+  },
+  "see": {
+    "notes": [
+      "Tonsillitis (乳蛾、喉蛾) 扁桃腺炎",
+      "Gastrospasm (心痛、肝气痛) 胃痉挛",
+      "Acute Convulsions - Eclampsia (Zixian) 急痫",
+      "Migraine 偏头痛",
+      "Pulmonary Tuberculosis (痨瘵、传尸、肺痨) 肺结核",
+      "Chronic Nephritis (浮肿) 慢性肾脏炎",
+      "Chronic Bronchitis (老咳、痰饮咳嗽) 慢性支气管炎",
+      "Chronic Laryngitis (阴虚喉痛) 慢性喉头炎"
+    ],
+    "points": [
+      "足三里",
+      "公孙",
+      "厉兑",
+      "风池",
+      "关元",
+      "肺俞",
+      "大椎",
+      "合谷",
+      "陶道"
+    ],
+    "rx": [
+      "cda-rx-036",
+      "cda-rx-050",
+      "cda-rx-152",
+      "cda-rx-160",
+      "cda-rx-017",
+      "cda-rx-079",
+      "cda-rx-010",
+      "cda-rx-002",
+      "cda-rx-119",
+      "cda-rx-100"
+    ]
+  }
+}

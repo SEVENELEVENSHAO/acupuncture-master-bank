@@ -1,0 +1,790 @@
+{
+  "id": "cda-08-pathology-diagnosis",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "病理诊断",
+    "en": "Diagnosis"
+  },
+  "order": 8,
+  "title": {
+    "zh": "病理诊断观",
+    "en": "His View of Pathology and Diagnosis"
+  },
+  "summary": {
+    "zh": "出发点是“从科学病理诊断中确定实际治疗”：总论给出现代病理词汇，各论按原因、证候、鉴别、治疗展开；病名用新医名词、旧名括注；阴阳改按阳压阴压与阳性阴性讲。",
+    "en": "Start from fixing treatment by scientific pathological diagnosis: the general chapter supplies modern pathology terms, and each disease follows cause, signs, differentiation, treatment; new names with old names in parentheses; yin-yang re-read as arterial/venous pressure and positive/negative."
+  },
+  "takeaways": [
+    {
+      "zh": "诊断先于治疗，并决定治疗：全书的目标是从科学病理诊断中确定实际治疗；针前必须先诊断此病是否适用针治，再由病症预定经穴，由体质预定手技。病理诊断治疗篇的所有病都用新医名词，与针灸治疗配合。",
+      "en": "Diagnosis precedes and determines treatment: the book's aim is to fix the actual treatment from scientific pathological diagnosis; before needling one must diagnose whether the disease suits it, then fix points from the disease and technique from the constitution. All diseases in the pathology part use new-medicine terms matched to acupuncture treatment.",
+      "cite": [
+        "C1",
+        "C2",
+        "C3"
+      ]
+    },
+    {
+      "zh": "区分“证候”与“病”：证候是人体发生异状的生活现象，有自觉的(头痛、眩晕)与他觉的(发热、尿蛋白)；有的证候是指定不变的，例如霍乱必有米泔汁样便、大叶肺炎必有锈色痰，凭它即知其病。",
+      "en": "He separates 'sign/symptom' from 'disease': a zhenghou is an abnormal living phenomenon, subjective (headache, dizziness) or objective (fever, urinary protein); some are fixed and pathognomonic, e.g. cholera always gives rice-water stool and lobar pneumonia rusty sputum, from which the disease is known.",
+      "cite": [
+        "C4",
+        "C5"
+      ]
+    },
+    {
+      "zh": "疾病的基本二分法：功能的疾患是从解剖上不能发现病变的(癫痫、歇斯底里、神经痛之类)，器质的疾患是脏器或组织发生变化的(炎症性疾患、肿疡)；其余分类还有急性与慢性(以四周内为急性)、遗传与传染、先天与后天、流行与地方。这些分类最终服务于判断针灸是否适用。",
+      "en": "The basic dichotomy: functional disease shows no lesion anatomically (epilepsy, hysteria, neuralgia) and organic disease has changed organs or tissues (inflammatory disease, tumours); further pairs are acute vs chronic (acute within about four weeks), hereditary vs infectious, congenital vs acquired, epidemic vs endemic. These classifications ultimately serve the judgement of whether acupuncture suits.",
+      "cite": [
+        "C6",
+        "C7",
+        "C8"
+      ]
+    },
+    {
+      "zh": "总论是一套病理“词汇表”：炎症(发赤、肿胀、疼痛、灼热、官能障碍五征，分渗出性、变性、增殖性)、退行性病变(萎缩、变性、坏死)、局所坏死的五种成因、水肿与浮肿之别、出血的种类、免疫与过敏症与特异质、代偿、化脓机转、溃疡与肿疡。用它们，针灸的作用与危险才说得清。",
+      "en": "The general chapter is a pathology 'glossary': inflammation (redness, swelling, pain, heat, functional disturbance; exudative, degenerative, proliferative), degeneration (atrophy, change, necrosis), five causes of local necrosis, oedema vs swelling, kinds of bleeding, immunity, allergy and idiosyncrasy, compensation, suppuration, ulcer and tumour. With these, the effects and dangers of needle and moxa can be spoken about clearly.",
+      "cite": [
+        "C9",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C14"
+      ]
+    },
+    {
+      "zh": "病变性质是通向治法的枢纽：神经功能失其常度，运动神经亢进则为痉挛、减弱则成麻痹，知觉神经亢进则为知觉过敏、减弱则为麻木；对应针刺，衰弱者用兴奋术，痉挛用制止术，充血则用诱导。",
+      "en": "The nature of the change is the hinge to the method: when nerve function loses its norm, motor overactivity is spasm and weakness paralysis, sensory overactivity is hyperaesthesia and weakness numbness; correspondingly in needling, weakness gets excitation, spasm gets inhibition, and congestion gets induction.",
+      "cite": [
+        "C15",
+        "C16",
+        "C17"
+      ]
+    },
+    {
+      "zh": "阴阳被重新定义：他承认中医“于病必分阴阳”(如天日为阳、地月为阴，荣属阴、卫属阳)，但在科学昌明之后，改以动脉血运行力为阳压、静脉血环流为阴压，神经痛为阳、炎症痛为阴；病理诊断上另有阳性(+)与阴性之分。",
+      "en": "Yin-yang is redefined: he acknowledges that Chinese medicine 'always divides disease into yin and yang' (sun and sky yang, earth and moon yin, nutritive qi yin, defensive qi yang), but with the advance of science it becomes arterial propulsion as 'yang pressure' and venous return as 'yin pressure', neuralgic pain as yang and inflammatory pain as yin; diagnostically there is also positive and negative.",
+      "cite": [
+        "C18"
+      ]
+    },
+    {
+      "zh": "鉴别诊断用对照条目：神经痛沿神经径路作间歇性痛、有压痛点、按压觉轻快，神经炎则痛持续、按压更甚、伴红肿灼热与功能障碍；肋间神经痛有压痛点、痛有发作性、发带状匐行疹(疱疹样)，肋间肌风湿则无压痛点、痛游走、天气不良加重。鉴别的目的是决定能否针、怎么针，如腰痛中适于针治的是无机质变化者。",
+      "en": "Differential diagnosis uses paired contrasts: neuralgia gives intermittent pain along a nerve with tender points and relief on pressure, whereas neuritis is continuous, worse on pressure, with redness, swelling, heat and functional disturbance; intercostal neuralgia has tender points, paroxysmal pain and a band-like creeping eruption (zoster-like), intercostal muscle rheumatism has none, wanders and worsens in bad weather. The aim is to decide whether and how to needle: among lumbar pains, those suited are without organic change.",
+      "cite": [
+        "C19",
+        "C20",
+        "C21"
+      ]
+    },
+    {
+      "zh": "治疗目标由诊断写成一句话：坐骨神经痛“以镇痛为目的，行制止之针法”，取患侧、视痛点所及取穴；指端知觉异常症用轻刺激法且必须继续针治；偏瘫与截瘫先分清病因在脑还是在脊髓。旧中医病名则括注在新病名之后，如乳腺神经痛(乳核痛)，好让未经新医进修的中医读者对得上号。",
+      "en": "Diagnosis yields a one-line aim: sciatica is treated 'for pain relief with an inhibiting needling method', on the affected side, points chosen by the reach of the tender spots; acral paraesthesia gets light stimulation and must be continued; hemiplegia and paraplegia are first sorted by whether the cause lies in brain or spinal cord. The old TCM name follows in parentheses after the new one, e.g. mammary neuralgia (breast-nodule pain), so that TCM readers without new-medicine training can match them.",
+      "cite": [
+        "C22",
+        "C23",
+        "C24",
+        "C25",
+        "C1"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "总论在全书中的位置",
+        "en": "Role of the general chapter"
+      },
+      "body": {
+        "zh": "第六篇第三章“总论”(印刷页135–141)基本不谈针灸操作，主要谈病理(仅在末尾点出两个治疗神经丛)：先是免疫学的几个名词(凝集素、抗毒素、沉降素、噬菌素、免疫调理素)，再是火伤、郁血与充血、退行性病变、证候、炎症、水肿、免疫、坏死、变性、过敏症、出血、遗传与传染、急慢性、代偿、化脓、肿疡、阴阳，最后是太阳丛、下腹神经丛与偏瘫截瘫。前几篇讲针与灸的作用时用到的血管、神经、白细胞、免疫，在这里得到定义。",
+        "en": "Chapter three of part six (printed pp.135-141) says almost nothing about needling technique, mostly pathology (only at the end does it name two treatment plexuses): first a few immunological terms (agglutinin, antitoxin, precipitin, phagocytosis-promoting substance, opsonin), then burns, congestion vs hyperaemia, degeneration, signs, inflammation, oedema, immunity, necrosis, change, allergy, bleeding, heredity vs infection, acute vs chronic, compensation, suppuration, tumour, yin-yang, and finally the solar plexus, hypogastric plexus, hemiplegia and paraplegia. The vessels, nerves, white cells and immunity used in earlier parts to explain needle and moxa are defined here."
+      }
+    },
+    {
+      "h": {
+        "zh": "两个被点名的治疗神经丛",
+        "en": "Two named treatment plexuses"
+      },
+      "body": {
+        "zh": "总论还给出两个治疗的解剖靶点：太阳丛(内脏动脉轴丛)，凡腹部内脏的重要疾患，多以此神经为目的施针，于腰椎上部向内上方深刺，可奏伟大之效；下腹神经丛围绕腹部动脉，延入骨盆，施灸最适于腹部内脏疾患，尤其骨盆内的生殖器与泌尿器疾患。这是他把“病变部位”落实为“刺激部位”的一个例子。",
+        "en": "The chapter also names two anatomical targets: the solar plexus (coeliac plexus), where for important abdominal visceral disease needling is aimed at this nerve, deep and inward-upward from the upper lumbar region, with 'great effect'; and the hypogastric plexus around the abdominal arteries and into the pelvis, best used for moxa in abdominal visceral disease, especially pelvic genital and urinary disease. This is an example of turning 'site of pathology' into 'site of stimulation'."
+      }
+    },
+    {
+      "h": {
+        "zh": "各论怎样写一个病",
+        "en": "How a disease is written up"
+      },
+      "body": {
+        "zh": "以神经痛类为例：先给病名(旧名括注)，再讲原因(受冷、感冒、外伤、过劳、梅毒等)，证候(疼痛部位、性质、时间、压痛点)，与相近病鉴别(表格式条目)，最后是治疗：先定治疗目的(镇痛、制止)，再列取穴，有时补充刺激强度与时间，例如肋间神经痛取患侧背椎旁穴，行雀啄式或旋捻式的中等刺激，时间以较长为佳(印刷页144–145)。具体的病与穴属于处方类内容，本模块不展开。",
+        "en": "Taking the neuralgias as an example: the disease name first (old name in parentheses), then causes (cold, chill, injury, overwork, syphilis and so on), signs (site, nature and timing of pain, tender points), differentiation from similar diseases (in contrast lists), and finally treatment: the aim (pain relief, inhibition) is fixed first, then points listed, sometimes with strength and duration, e.g. for intercostal neuralgia points beside the vertebrae on the affected side with medium sparrow-pecking or twirling, preferably prolonged (printed pp.144-145). Disease- and point-level detail belongs to the prescription material and is not expanded here."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "疾病分类对照(总论)",
+        "en": "Disease classifications (general chapter)"
+      },
+      "cols": [
+        {
+          "zh": "概念对",
+          "en": "Pair"
+        },
+        {
+          "zh": "他的定义",
+          "en": "His definition"
+        },
+        {
+          "zh": "印刷页",
+          "en": "Printed p."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "证候：自觉的 / 他觉的",
+            "en": "Signs: subjective / objective"
+          },
+          {
+            "zh": "自觉如头痛、眩晕；他觉如发热、尿蛋白；有指定不变的证候(霍乱米泔汁样便、大叶肺炎锈色痰)",
+            "en": "Subjective: headache, dizziness; objective: fever, urinary protein; some fixed signs (cholera rice-water stool, lobar pneumonia rusty sputum)"
+          },
+          "136-137"
+        ],
+        [
+          {
+            "zh": "功能的疾患 / 器质的疾患",
+            "en": "Functional / organic disease"
+          },
+          {
+            "zh": "解剖上不能发见者为功能的(癫痫、歇斯底里、神经痛)；脏器或组织发生变化者为器质的(炎症、肿疡)",
+            "en": "No anatomical lesion: functional (epilepsy, hysteria, neuralgia); changed organs or tissue: organic (inflammation, tumour)"
+          },
+          "137"
+        ],
+        [
+          {
+            "zh": "急性病 / 慢性病",
+            "en": "Acute / chronic"
+          },
+          {
+            "zh": "急性：原因一时性、发病急、大概4周以内；慢性：原因持续、发病缓、经过长，多由急性移行而来",
+            "en": "Acute: transient cause, sudden onset, about four weeks; chronic: persistent cause, slow onset, long course, often from acute"
+          },
+          "139"
+        ],
+        [
+          {
+            "zh": "遗传病 / 传染病",
+            "en": "Hereditary / infectious"
+          },
+          {
+            "zh": "遗传：精卵结合时传入、出生后发病(癫痫、精神病、梅毒)；传染：由霉菌等下等生物经皮肤、消化器、呼吸器侵入繁殖(赤痢、霍乱、鼠疫)",
+            "en": "Hereditary: passed at conception, appears after birth (epilepsy, insanity, syphilis); infectious: lower organisms enter by skin, gut or airway and multiply (dysentery, cholera, plague)"
+          },
+          "139"
+        ],
+        [
+          {
+            "zh": "先天性 / 后天性",
+            "en": "Congenital / acquired"
+          },
+          {
+            "zh": "先天：在母体时已有，出生后成畸形；后天：出生后发生",
+            "en": "Congenital: present in the womb, deformity after birth; acquired: arising after birth"
+          },
+          "139"
+        ],
+        [
+          {
+            "zh": "流行病 / 地方病",
+            "en": "Epidemic / endemic"
+          },
+          {
+            "zh": "流行：广泛地区(赤痢、霍乱)；地方：只限一地(瘴疟)",
+            "en": "Epidemic: wide area (dysentery, cholera); endemic: one locality (malaria)"
+          },
+          "139"
+        ],
+        [
+          {
+            "zh": "水肿 / 浮肿",
+            "en": "Effusion / swelling (oedema)"
+          },
+          {
+            "zh": "水肿：体腔内浆液潴留超过生理(心囊腔、腹腔等)；浮肿：浆液广泛渗出于组织间隙与皮肤松组织",
+            "en": "Effusion: serous fluid in a body cavity beyond physiological (pericardium, abdomen); swelling: serous fluid diffusely in tissue spaces and loose skin"
+          },
+          "137-138"
+        ],
+        [
+          {
+            "zh": "咯血 / 吐血",
+            "en": "Haemoptysis / haematemesis"
+          },
+          {
+            "zh": "咯血：肺出血经咳嗽咯出，鲜红；吐血：胃出血吐出，暗赤至赤褐",
+            "en": "Haemoptysis: lung blood coughed up, bright red; haematemesis: stomach blood vomited, dark red to brown"
+          },
+          "139"
+        ],
+        [
+          {
+            "zh": "静脉郁血 / 动脉充血",
+            "en": "Venous congestion / arterial hyperaemia"
+          },
+          {
+            "zh": "郁血：暗青色、冷感，久则水分渗出成浮肿；充血：赤色、细血管可见、温度上升",
+            "en": "Congestion: dark blue, cold, fluid seeps out into swelling if long; hyperaemia: red, small vessels visible, warmer"
+          },
+          "136"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "病理过程与它在针灸书中的用处",
+        "en": "Pathological processes and where they are used elsewhere in the book"
+      },
+      "cols": [
+        {
+          "zh": "过程",
+          "en": "Process"
+        },
+        {
+          "zh": "总论要点",
+          "en": "General-chapter point"
+        },
+        {
+          "zh": "在针灸论述中的对应(印刷页)",
+          "en": "Counterpart in needle/moxa discussion (printed p.)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "炎症",
+            "en": "Inflammation"
+          },
+          {
+            "zh": "组织因刺激而发赤、肿胀、疼痛、灼热、官能障碍；分渗出性、变性、增殖性；按渗出物分浆液性、纤维素性、加答儿性、化脓性、出血性",
+            "en": "Redness, swelling, pain, heat, functional disturbance; exudative, degenerative, proliferative; by exudate serous, fibrinous, catarrhal, purulent, haemorrhagic"
+          },
+          {
+            "zh": "炎症部不可直接刺针(p.99)；急性炎症禁灸(p.119)",
+            "en": "No direct needling of inflamed parts (p.99); acute inflammation not moxaed (p.119)"
+          }
+        ],
+        [
+          {
+            "zh": "退行性病变",
+            "en": "Degeneration"
+          },
+          {
+            "zh": "物质代谢障碍使细胞组织生活微弱或停止，形态变化为萎缩、变性、坏死；萎缩有压迫性、废用性、营养障碍性、神经性、脏器相互关系障碍性",
+            "en": "Metabolic failure weakens or stops cell and tissue life, with atrophy, change and necrosis; atrophy may be pressure, disuse, nutritional, neurogenic or inter-organ"
+          },
+          {
+            "zh": "坏疽、萎缩、变性、肥大等机质变化禁灸(p.114)",
+            "en": "Organic change such as gangrene, atrophy, degeneration, hypertrophy: no moxa (p.114)"
+          }
+        ],
+        [
+          {
+            "zh": "局所坏死",
+            "en": "Local necrosis"
+          },
+          {
+            "zh": "五种成因：器械外伤、化学刺激、温热(火伤、冻疮)、中枢或末梢神经障碍、循环障碍",
+            "en": "Five causes: mechanical injury, chemical irritant, heat (burn, frostbite), central or peripheral nerve failure, circulatory failure"
+          },
+          {
+            "zh": "火伤四度(红斑、水疱、局所坏死、炭化)与灸的火伤程序同为四度(p.108, p.136)",
+            "en": "The four burn degrees (erythema, blister, local necrosis, charring) parallel the four degrees of moxa burn (p.108, p.136)"
+          }
+        ],
+        [
+          {
+            "zh": "免疫",
+            "en": "Immunity"
+          },
+          {
+            "zh": "身体组织抵抗有害作用、对传染病成为不感受性；有先天与后天；并列凝集素、抗毒素、沉降素、噬菌素、免疫调理素",
+            "en": "Tissue resists harmful agents, non-susceptibility to infection; congenital and acquired; agglutinin, antitoxin, precipitin, phagocytosis-promoting substance, opsonin"
+          },
+          {
+            "zh": "针灸使白细胞与免疫物增加(p.101, p.112)",
+            "en": "Needle and moxa raise white cells and immune substances (p.101, p.112)"
+          }
+        ],
+        [
+          {
+            "zh": "化脓、溃疡",
+            "en": "Suppuration, ulcer"
+          },
+          {
+            "zh": "化脓菌侵创口，白细胞渗出吞噬，受菌之化学分泌物麻痹而死，死亡白细胞成脓汁；溃疡多为化脓之结果",
+            "en": "Pyogenic bacteria enter the wound, white cells exude and phagocytose, are paralysed by bacterial secretions and die as pus; ulcer usually follows suppuration"
+          },
+          {
+            "zh": "灸后化脓与其预防(p.109, p.84)",
+            "en": "Suppuration after moxa and its prevention (p.109, p.84)"
+          }
+        ],
+        [
+          {
+            "zh": "出血",
+            "en": "Haemorrhage"
+          },
+          {
+            "zh": "血液全成分出于血管系之外；有破裂性与滤出性，外出血与内出血；外出血有衄血、咯血、吐血、子宫出血、血尿等",
+            "en": "Whole blood leaves the vessels; rupture or filtration type, external or internal; external includes nosebleed, haemoptysis, haematemesis, uterine bleeding, haematuria"
+          },
+          {
+            "zh": "刺伤血管则溢血、皮下青紫(p.98)；咯血灸取四肢穴(p.115)",
+            "en": "Needling a vessel gives bleeding and bruising (p.98); haemoptysis moxa at limb points (p.115)"
+          }
+        ],
+        [
+          {
+            "zh": "代偿机",
+            "en": "Compensation"
+          },
+          {
+            "zh": "一器官功能变调时，相关器官或组织自动变化以调节；有生理的(劳动者心脏较大)与病理的(瓣膜病心肌肥大、一侧肾功能不全另侧肥大)",
+            "en": "When one organ's function is disturbed, related organs or tissues change to compensate; physiological (larger heart in labourers) and pathological (valve disease, one kidney failing the other enlarges)"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "过敏症、特异质",
+            "en": "Allergy, idiosyncrasy"
+          },
+          {
+            "zh": "过敏症：异种蛋白再次注入引发中毒或传染病样症状；特异质：通常健康人对某物有特殊反应(嗅漆气生漆疮)",
+            "en": "Allergy: repeated foreign protein injection gives poisoning or infection-like signs; idiosyncrasy: an ordinarily healthy person reacts specially to something (lacquer smell causing lacquer sores)"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "肿疡",
+            "en": "Tumour"
+          },
+          {
+            "zh": "新生变化、功能异常亢进而增殖；有纤维肿、脂肪肿、血管肿、骨肿、软骨肿、上皮肿、腺肿、肌肿、神经肿、肉肿、癌肿、囊肿等；肉肿与癌肿多为恶性",
+            "en": "New growth from abnormal overactivity, proliferating; fibroma, lipoma, angioma, osteoma, chondroma, epithelioma, adenoma, myoma, neuroma, sarcoma, cancer, cyst; sarcoma and cancer mostly malignant"
+          },
+          {
+            "zh": "肿疡不可针(p.99)，不可灸(p.119)",
+            "en": "Not to be needled (p.99) or moxaed (p.119)"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "诊断线索到针灸取向",
+        "en": "From diagnostic clue to acupuncture orientation"
+      },
+      "cols": [
+        {
+          "zh": "病变性质",
+          "en": "Nature of change"
+        },
+        {
+          "zh": "诊断线索",
+          "en": "Diagnostic clue"
+        },
+        {
+          "zh": "针灸取向",
+          "en": "Orientation"
+        },
+        {
+          "zh": "出处(印刷页)",
+          "en": "Where (printed p.)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "神经功能亢进",
+            "en": "Nerve overactivity"
+          },
+          {
+            "zh": "运动神经亢进=痉挛；知觉神经亢进=知觉过敏；神经痛沿神经径路间歇性痛，有压痛点，按压轻快",
+            "en": "Motor overactivity = spasm; sensory overactivity = hyperaesthesia; neuralgia is intermittent along the nerve, tender points, relief on pressure"
+          },
+          {
+            "zh": "制止(镇静)术；坐骨神经痛「以镇痛为目的，行制止之针法」",
+            "en": "Inhibiting (calming) technique; sciatica 'aimed at pain relief with an inhibiting method'"
+          },
+          "141, 142, 102, 143"
+        ],
+        [
+          {
+            "zh": "神经功能减弱",
+            "en": "Nerve weakness"
+          },
+          {
+            "zh": "运动神经减弱=麻痹；知觉神经减弱=麻木；细胞组织与神经功能衰弱",
+            "en": "Motor weakness = paralysis; sensory weakness = numbness; weak cells, tissues and nerves"
+          },
+          {
+            "zh": "兴奋术；指端知觉异常症用轻刺激法并持续针治",
+            "en": "Excitation; acral paraesthesia gets light stimulation, continued"
+          },
+          "141, 102, 144"
+        ],
+        [
+          {
+            "zh": "血行分布异常",
+            "en": "Abnormal blood distribution"
+          },
+          {
+            "zh": "郁血(暗青、冷)与充血(赤、热)",
+            "en": "Congestion (dark blue, cold) and hyperaemia (red, warm)"
+          },
+          {
+            "zh": "诱导：在远隔部位刺激，引血他去",
+            "en": "Induction: stimulate remotely to draw blood away"
+          },
+          "136, 101, 116"
+        ],
+        [
+          {
+            "zh": "炎症性/器质性变化",
+            "en": "Inflammatory or organic change"
+          },
+          {
+            "zh": "红、肿、痛、热、功能障碍；神经炎痛持续、按压更甚",
+            "en": "Redness, swelling, pain, heat, disturbed function; neuritis pain continuous and worse on pressure"
+          },
+          {
+            "zh": "不直接刺针；急性炎症禁灸；腰痛中适于针治者为无机质变化者",
+            "en": "No direct needling; no moxa in acute inflammation; among lumbar pains, those without organic change suit needling"
+          },
+          "137, 142, 99, 119, 145"
+        ],
+        [
+          {
+            "zh": "偏瘫、截瘫",
+            "en": "Hemiplegia, paraplegia"
+          },
+          {
+            "zh": "偏瘫：半身不遂，原因在脑；截瘫：半截身体麻痹，多下肢，原因在脊髓",
+            "en": "Hemiplegia: half-body paralysis, cause in the brain; paraplegia: lower-body paralysis, mostly legs, cause in the spinal cord"
+          },
+          {
+            "zh": "先分清病因在脑还是脊髓",
+            "en": "First sort out whether the cause is in brain or cord"
+          },
+          "141"
+        ],
+        [
+          {
+            "zh": "腹部内脏重要疾患",
+            "en": "Important abdominal visceral disease"
+          },
+          {
+            "zh": "属太阳丛(内脏动脉轴丛)范围",
+            "en": "In the area of the solar plexus (coeliac plexus)"
+          },
+          {
+            "zh": "以此神经为目的，腰椎上部向内上方深刺",
+            "en": "Aim at this nerve, deep inward-upward insertion at the upper lumbar region"
+          },
+          "141"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "新病名与括注的旧病名(书中标题所见)",
+        "en": "New disease names with old names in parentheses (as in the headings)"
+      },
+      "cols": [
+        {
+          "zh": "新医病名",
+          "en": "New-medicine name"
+        },
+        {
+          "zh": "括注旧名",
+          "en": "Old name"
+        },
+        {
+          "zh": "印刷页",
+          "en": "Printed p."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "坐骨神经痛",
+            "en": "Sciatica"
+          },
+          {
+            "zh": "腰腿痛",
+            "en": "Lumbar-leg pain"
+          },
+          "143"
+        ],
+        [
+          {
+            "zh": "指端知觉异常症",
+            "en": "Acral paraesthesia"
+          },
+          {
+            "zh": "指端麻胀灼热",
+            "en": "Fingertip numbness, distension, burning"
+          },
+          "143"
+        ],
+        [
+          {
+            "zh": "乳腺神经痛",
+            "en": "Mammary neuralgia"
+          },
+          {
+            "zh": "乳核痛",
+            "en": "Breast-nodule pain"
+          },
+          "144"
+        ],
+        [
+          {
+            "zh": "后头神经痛",
+            "en": "Occipital neuralgia"
+          },
+          {
+            "zh": "后头昏",
+            "en": "Occipital dizziness"
+          },
+          "144"
+        ],
+        [
+          {
+            "zh": "肋间神经痛",
+            "en": "Intercostal neuralgia"
+          },
+          {
+            "zh": "胁肋痛",
+            "en": "Rib-side pain"
+          },
+          "144"
+        ],
+        [
+          {
+            "zh": "肋间肌偻麻质斯",
+            "en": "Intercostal muscle rheumatism"
+          },
+          {
+            "zh": "湿痰着痹",
+            "en": "Damp-phlegm fixed bi"
+          },
+          "144"
+        ],
+        [
+          {
+            "zh": "肋膜炎",
+            "en": "Pleurisy"
+          },
+          {
+            "zh": "胁肋肿痛",
+            "en": "Rib-side swelling and pain"
+          },
+          "145"
+        ],
+        [
+          {
+            "zh": "腰腹神经痛",
+            "en": "Lumbo-abdominal neuralgia"
+          },
+          {
+            "zh": "腰腹痛",
+            "en": "Lumbar-abdominal pain"
+          },
+          "145"
+        ],
+        [
+          {
+            "zh": "股神经痛",
+            "en": "Femoral neuralgia"
+          },
+          {
+            "zh": "风湿腿痛",
+            "en": "Rheumatic leg pain"
+          },
+          "145"
+        ],
+        [
+          {
+            "zh": "偏头痛",
+            "en": "Migraine"
+          },
+          {
+            "zh": "肝阳偏头痛",
+            "en": "Liver-yang migraine"
+          },
+          "146"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "病理诊断治疗问题，全部采用新医名词，配合针灸治疗",
+      "src": "针灸精华·凡例八 p.5"
+    },
+    {
+      "id": "C2",
+      "quote": "从科学病理诊断中，确定实际治疗，达成中医科学化之任务",
+      "src": "针灸精华·自序 p.7"
+    },
+    {
+      "id": "C3",
+      "quote": "从其病症上预定应取之经穴",
+      "src": "针灸精华·第三篇 针科常识 p.94"
+    },
+    {
+      "id": "C4",
+      "quote": "人体发生异状之生活现象，即为疾病之现象，有自觉的或他觉的，发现变化之谓，此变化现象，称为证候",
+      "src": "针灸精华·第六篇 总论 p.136"
+    },
+    {
+      "id": "C5",
+      "quote": "如霍乱必为米泔汁之便，大叶肺炎必有锈色痰等，因其所现证候，即知其所患之病症",
+      "src": "针灸精华·第六篇 总论 p.137"
+    },
+    {
+      "id": "C6",
+      "quote": "凡从解剖上不能发见其疾患，即称功能的疾患",
+      "src": "针灸精华·第六篇 总论 p.137"
+    },
+    {
+      "id": "C7",
+      "quote": "从脏器，或各种组织发生变化，所发现之疾患，称器质之疾患，如炎症性疾患、肿疡等",
+      "src": "针灸精华·第六篇 总论 p.137"
+    },
+    {
+      "id": "C8",
+      "quote": "急性病者，其原因为一时性，其发病亦极急激，发病经过亦快，大概有4周以内之病程经过",
+      "src": "针灸精华·第六篇 总论 p.139"
+    },
+    {
+      "id": "C9",
+      "quote": "炎症者，组织因刺激而发现——发赤、肿胀、疼痛、灼热、官能障碍诸证候",
+      "src": "针灸精华·第六篇 总论 p.137"
+    },
+    {
+      "id": "C10",
+      "quote": "物质代谢发生障碍之结果，使细胞、组织器官等之生活，呈微弱现象，或竟停止",
+      "src": "针灸精华·第六篇 总论 p.136"
+    },
+    {
+      "id": "C11",
+      "quote": "由于温热之作用者，如火伤、冻疮之损伤",
+      "src": "针灸精华·第六篇 总论 p.138"
+    },
+    {
+      "id": "C12",
+      "quote": "但吾人身体之组织，能抵抗此类有害之作用，不致发生疾病之性能",
+      "src": "针灸精华·第六篇 总论 p.137"
+    },
+    {
+      "id": "C13",
+      "quote": "身体一部之器官，甚至组织，发生功能变调之时，必有与彼有关之器官或组织，为种种的变化，自动的调节其功能变调，此名代偿机",
+      "src": "针灸精华·第六篇 总论 p.139"
+    },
+    {
+      "id": "C14",
+      "quote": "此死亡之白细胞即为脓汁，此种之机转，称曰化脓作用",
+      "src": "针灸精华·第六篇 总论 p.140"
+    },
+    {
+      "id": "C15",
+      "quote": "运动性神经发生亢进则为痉挛，若为减弱则成麻痹，知觉性神经发生亢进，则为知觉过敏，减弱则为麻木",
+      "src": "针灸精华·第六篇 总论 p.141"
+    },
+    {
+      "id": "C16",
+      "quote": "凡细胞组织，及神经功能之衰弱者，则应用兴奋术",
+      "src": "针灸精华·第三篇 针科常识 p.102"
+    },
+    {
+      "id": "C17",
+      "quote": "针治法以缓解痉挛为目的，从发生痉挛之局部，及于其运动神经之起根处施行制止术之刺激",
+      "src": "针灸精华·第三篇 针科常识 p.102"
+    },
+    {
+      "id": "C18",
+      "quote": "以动脉血之运行力名阳压，静脉血之环流名阴压，如神经痛谓阳，炎症痛谓阴等",
+      "src": "针灸精华·第六篇 总论 p.140"
+    },
+    {
+      "id": "C19",
+      "quote": "神经痛者：沿神经之径路，发间歇性之疼痛，不论体之内外，若按压之，有压痛点，感到轻快",
+      "src": "针灸精华·第六篇 各论 p.142"
+    },
+    {
+      "id": "C20",
+      "quote": "神经炎者：其痛持续不已，若按压之，则痛更甚，无一定之压痛点",
+      "src": "针灸精华·第六篇 各论 p.142"
+    },
+    {
+      "id": "C21",
+      "quote": "其中适于针治之腰痛，为神经痛、肠疝痛、偻麻质斯、月经痛、副睾丸炎，或起因于下腹内脏疾患，而无机质变化之疾病",
+      "src": "针灸精华·第六篇 各论 p.145"
+    },
+    {
+      "id": "C22",
+      "quote": "本病之治疗，以镇痛为目的，行制止之针法，取穴则于患侧，视其痛点之所及，而定穴下针",
+      "src": "针灸精华·第六篇 各论 p.143"
+    },
+    {
+      "id": "C23",
+      "quote": "取穴大杼、曲池、间使、后溪、合谷等穴用轻刺激法，必须继续针治乃效",
+      "src": "针灸精华·第六篇 各论 p.144"
+    },
+    {
+      "id": "C24",
+      "quote": "偏瘫者即半身不遂，亦名偏废，其原因在脑",
+      "src": "针灸精华·第六篇 总论 p.141"
+    },
+    {
+      "id": "C25",
+      "quote": "即为神经痛性结节，旧医名乳核痛",
+      "src": "针灸精华·第六篇 各论 p.144"
+    }
+  ],
+  "how_to_use": {
+    "zh": "学他的诊断观：不要从“证型”出发，而是问这是功能的还是器质的、急性还是慢性、神经功能亢进还是减弱、有无炎症或肿疡；再把结论翻译成针灸语言(制止、兴奋、诱导；能否直接刺；刺激强弱与时间)。读旧名词与新名词时，用括注互相对照。",
+    "en": "To adopt his diagnostic view, do not begin from a pattern type but ask whether the disease is functional or organic, acute or chronic, nerve overactive or weak, and whether inflammation or tumour is present; then translate the conclusion into acupuncture language (inhibit, excite, induce; whether direct needling is allowed; strength and duration). Cross-check old and new names through the parenthetical notes."
+  },
+  "caveats": {
+    "zh": "这一篇几乎全是民国时期的西医病理与病名，出版方为存原貌未改：如以“霉菌”指化脓细菌、“偻麻质斯”指风湿、“肋膜炎”指胸膜炎；过敏症一节书中自称“尚有不明之处者甚多”；阳性、阴性的符号(+、−)在OCR中有损；免疫、神经、内分泌的解释多已修订。“阴阳”的科学化解释只是他对旧概念的一种对译。",
+    "en": "This part is almost entirely Republican-era Western pathology and disease naming, left unrevised by the publisher: e.g. 'mould' for pyogenic bacteria, 'rheumatism' transliterated, 'rib membrane inflammation' for pleurisy; the allergy section itself says much remains unclear; the positive and negative signs are damaged in the OCR; explanations of immunity, nerves and endocrines have largely been revised. His scientific re-reading of yin-yang is one translation of an old concept."
+  },
+  "see": {
+    "notes": [
+      "00 总论 General Introduction",
+      "01 内科病类 Internal Medicine"
+    ],
+    "points": [
+      "大杼",
+      "曲池",
+      "间使",
+      "后溪",
+      "合谷",
+      "肩井",
+      "尺泽",
+      "心俞",
+      "厥阴俞"
+    ]
+  }
+}

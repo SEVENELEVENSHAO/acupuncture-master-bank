@@ -1,0 +1,591 @@
+{
+  "id": "cda-12-respiratory",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 12,
+  "title": {
+    "zh": "呼吸器病：消炎、强壮肺组织与灸的持久作用",
+    "en": "Respiratory Diseases: Anti-inflammation, Strengthening the Lung, and Sustained Moxa"
+  },
+  "summary": {
+    "zh": "呼吸器病他分两路：急性炎症(喉头炎、气管炎、支气管炎)以反射、诱导旺盛血行、消炎发汗为目的，取风池、大杼、风门、肺俞等颈背穴配尺泽、合谷、外关；慢性病(慢性支气管炎、支气管扩张、肺气肿、喘息、肺结核)则以“加强肺组织细胞之功能”为目的，多灸、久治，并强调摄生。肺炎只作辅助，肺脓疡、声门水肿、气胸等明言非针灸适应证。",
+    "en": "He splits respiratory disease in two. Acute inflammations (laryngitis, tracheitis, bronchitis) are treated by reflex and induction to boost circulation, reduce inflammation and induce sweat, on neck-and-back points with Chize, Hegu, Waiguan. Chronic disease (chronic bronchitis, bronchiectasis, emphysema, asthma, tuberculosis) aims to strengthen lung tissue, mostly with prolonged moxa and stress on hygiene. Pneumonia is adjunct only; lung abscess, glottic oedema and pneumothorax are declared not for acupuncture."
+  },
+  "takeaways": [
+    {
+      "zh": "急性炎症的目的写得很明确：以反射与诱导旺盛局部或全身血行、消炎，气管炎、急性支气管炎再加“发汗”。喉头炎取风池、液门、鱼际为主，重者加肺俞、手三里、少商刺出血；支气管炎则日针1次，针后频饮热开水以求出汗。",
+      "en": "For acute inflammation his stated aim is boosting local or whole-body circulation by reflex and induction and reducing inflammation, with sweating added for tracheitis and acute bronchitis. Laryngitis: Fengchi, Yemen, Yuji, plus Feishu, Shousanli and Shaoshang bleeding when severe; bronchitis: needle daily and drink hot water afterwards to sweat.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "慢性病的目的换成“强壮”：加强肺部组织细胞的功能、旺盛血行、增加营养吸收(慢性支气管炎、支气管扩张)，或促进肺组织新陈代谢以回复呼吸功能(肺气肿)，喉头结核同样以“加强肺脏与喉头组织之细胞活力……增加抗力”为目的。",
+      "en": "For chronic disease the aim becomes strengthening: raise the function of lung tissue cells, circulation and nutrient absorption (chronic bronchitis, bronchiectasis), or promote lung metabolism to regain respiratory function (emphysema); laryngeal tuberculosis is likewise aimed at cell vitality, blood flow and resistance.",
+      "cite": [
+        "E4",
+        "E5",
+        "E6"
+      ]
+    },
+    {
+      "zh": "取穴的骨架：颈背上部(风池、风门、大杼、身柱、肩井)与肺俞是核心——21条中肺俞出现于15条(在16条列有穴位者中)；上肢配尺泽、太渊、合谷、外关；久病咳痰者另取中脘、足三里、丰隆以助消化营养。肺结核明言“食欲不振者，每次针治时，中脘、三里必不可少”。",
+      "en": "The skeleton of point choice is upper neck and back (Fengchi, Fengmen, Dazhu, Shenzhu, Jianjing) with Feishu, which appears in 15 of the 16 entries that list points; arm points Chize, Taiyuan, Hegu, Waiguan; and Zhongwan, Zusanli, Fenglong for long-standing cough and phlegm. For tuberculosis he says Zhongwan and Zusanli are indispensable at every visit when appetite is poor.",
+      "cite": [
+        "E7"
+      ]
+    },
+    {
+      "zh": "针与灸的分工：急性期用针，慢性期靠灸。他说慢性支气管炎“比较用灸法为宜，以其持久性较长”，可灸愈后二三年不发；支气管扩张“久灸较针效为强”；喘息发作时针、停止后用小艾炷灸二三个月；肺结核则针治使热度、盗汗消失、脉搏退到90至以下后才改灸。全章有8条提到灸法。",
+      "en": "Division of labour: needle for the acute phase, moxa for the chronic. Chronic bronchitis is better moxaed for its lasting effect (sometimes no relapse for two or three years); bronchiectasis responds more to prolonged moxa than needle; in asthma needle at the attack then small cones for two or three months; in tuberculosis moxa replaces needle once fever, night sweats and pulse >90 have settled. Eight entries mention moxa.",
+      "cite": [
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "刺激量因病而异：肺结核体弱神经过敏，“重刺激手术，绝对避免”，背部轻刺、四肢中等，每次不超过8穴；肺炎用26号针浅刺略捻即出；慢性喉头炎、慢支、肺气肿用中刺激(共5条)，而声门痉挛发作时、肋膜炎用强刺激(各1条)；皮肤针用于慢性喉头炎、声门痉挛与水胸。",
+      "en": "Dose varies with the disease. In frail, nervous tuberculosis patients heavy stimulation is absolutely avoided (light on the back, moderate on the limbs, no more than 8 points a visit); pneumonia gets a No. 26 needle inserted shallowly and withdrawn after a light twist. Moderate stimulation is named in five entries; strong stimulation only at a glottic spasm attack and in pleurisy; the skin needle appears in chronic laryngitis, glottic spasm and hydrothorax.",
+      "cite": [
+        "E11",
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "zh": "他为针灸划定了边界：肺炎的主要治疗“应由医家用消炎、灭菌之药物”，针灸作辅助；喉头癌、声门水肿、肺脓疡、气胸明言非针灸适应证，肺水肿“不适应用针灸”(数据库把它标作yes，应以原文为准)；肋膜炎中化脓性、出血性、腐败性者亦非适应证；肺结核到二期“必助以药物”。",
+      "en": "He fences off acupuncture: for pneumonia the main treatment belongs to a doctor using anti-inflammatory, germicidal drugs and needling is an adjunct; laryngeal cancer, glottic oedema, lung abscess and pneumothorax are stated not indicated, pulmonary oedema is \"not suited\" (the database tags it yes; the text governs), and purulent, haemorrhagic or putrid pleurisy is excluded. Second-stage tuberculosis must have drugs added.",
+      "cite": [
+        "E14",
+        "E15",
+        "E16",
+        "E17"
+      ]
+    },
+    {
+      "zh": "肺结核是本章最详细的一条：先解除忧虑，休养营养为主；症状有先后——盗汗发热者以止盗汗为主，发热咯血者先解热，咯血咳嗽者先止血，感冒者先治感冒；不可求速效，不宜每日多穴，好转后隔三四日1次，症状全消后每周1次，钙化后续针二三个月。他明言“肺病以摄生重于治疗”。",
+      "en": "Tuberculosis is the most detailed entry: relieve worry first, rest and nutrition come first; symptoms are ranked (night sweats before fever, fever before haemoptysis, haemoptysis before cough, a cold first); no hope of quick results, no daily multi-point treatment; spaced to every third or fourth day, weekly after symptoms clear, and two to three further months after calcification. \"Hygiene outweighs treatment.\"",
+      "cite": [
+        "E18",
+        "E19",
+        "E20",
+        "E21"
+      ]
+    },
+    {
+      "zh": "预后态度是分级并附危险信号：喉头炎、气管炎、支气管炎多“良”；慢性喉头炎“不易全治”，肺气肿“完全根治则难”；肺炎见高热、皮肤青紫、鼻翼煽动、鼻色淡白多数不治，热退而泄泻、食欲不振、鼻翼煽动者亦不治；肺结核后期多不良。",
+      "en": "Prognosis is graded and comes with danger signs: laryngitis, tracheitis and bronchitis mostly good; chronic laryngitis \"not easily cured\", emphysema hard to cure completely; in pneumonia high fever with cyanosis, flaring nostrils and a pale nose is mostly fatal, as is falling fever with diarrhoea, poor appetite and flaring nostrils; late tuberculosis mostly poor.",
+      "cite": [
+        "E22",
+        "E23",
+        "E24",
+        "E25"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "呼吸器病：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Respiratory: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "急性喉头炎",
+            "en": "Acute laryngitis"
+          },
+          {
+            "zh": "反射、诱导旺盛喉头血行，解除炎肿",
+            "en": "Reflex and induction; boost blood flow, relieve swelling"
+          },
+          "风池、液门、鱼际；重者加肺俞、手三里、少商",
+          {
+            "zh": "每日1次，二三次；少商刺出血",
+            "en": "Daily, 2–3 sessions; Shaoshang bled"
+          },
+          {
+            "zh": "大多良好",
+            "en": "Mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "慢性喉头炎",
+            "en": "Chronic laryngitis"
+          },
+          {
+            "zh": "反射针法，恢复黏膜、消炎",
+            "en": "Reflex needling; mucosal recovery, anti-inflammation"
+          },
+          "天柱、肩井、天突、肺俞、液门、鱼际等两组轮换",
+          {
+            "zh": "中刺激，持续1个月以上；或皮肤针捶击颈胸椎旁",
+            "en": "Moderate; over one month; or skin needle beside cervical-thoracic spine"
+          },
+          {
+            "zh": "不易全治",
+            "en": "Not easily cured"
+          }
+        ],
+        [
+          {
+            "zh": "声门痉挛",
+            "en": "Glottic spasm"
+          },
+          {
+            "zh": "反射刺激喉神经，以镇静为主",
+            "en": "Reflex to laryngeal nerves; calming"
+          },
+          "中脘、气海、足三里、少商、中冲、合谷、隐白、至阴",
+          {
+            "zh": "发作时强刺激；平时皮肤针或小艾炷灸强壮",
+            "en": "Strong at attack; skin needle or small moxa between attacks"
+          },
+          {
+            "zh": "瘦弱太甚、时常发作多不良",
+            "en": "Poor if very frail and frequent"
+          }
+        ],
+        [
+          {
+            "zh": "急性支气管炎",
+            "en": "Acute bronchitis"
+          },
+          {
+            "zh": "消炎、诱导、发汗",
+            "en": "Anti-inflammation, induction, sweating"
+          },
+          "风池、身柱、风门、外关、经渠；寒热解后风门或肺俞、尺泽、合谷",
+          {
+            "zh": "日针1次，连针数日；重者助药",
+            "en": "Daily for several days; drugs if severe"
+          },
+          {
+            "zh": "良",
+            "en": "Good"
+          }
+        ],
+        [
+          {
+            "zh": "慢性支气管炎",
+            "en": "Chronic bronchitis"
+          },
+          {
+            "zh": "加强肺组织功能，旺盛血行、营养吸收",
+            "en": "Strengthen lung tissue, circulation, nutrition"
+          },
+          "针：肺俞、天突、中脘、俞府、尺泽、足三里；灸：身柱、肺俞、灵台、天突、膻中、脾俞、中脘、足三里、丰隆",
+          {
+            "zh": "中刺激；灸小炷5–7壮，宜灸",
+            "en": "Moderate needling; small cones 5–7, moxa preferred"
+          },
+          {
+            "zh": "无生命危险，久治乃效",
+            "en": "No danger to life; slow benefit"
+          }
+        ],
+        [
+          {
+            "zh": "支气管喘息",
+            "en": "Bronchial asthma"
+          },
+          {
+            "zh": "反射、诱导，平衡副交感与交感，旺盛血行",
+            "en": "Reflex and induction; balance parasympathetic and sympathetic"
+          },
+          "肺俞、督俞、天突、膻中、中脘、气海、足三里；停发后灸肺俞、督俞、身柱、灵台、气海、足三里",
+          {
+            "zh": "发作期每日针；停发1周后小艾炷灸二三个月",
+            "en": "Daily needling; moxa 2–3 months from a week after attacks stop"
+          },
+          {
+            "zh": "长时期灸治有良效",
+            "en": "Long moxa gives good result"
+          }
+        ],
+        [
+          {
+            "zh": "小叶性肺炎",
+            "en": "Lobular pneumonia"
+          },
+          {
+            "zh": "辅助药物，消炎诱导",
+            "en": "Adjunct to drugs; anti-inflammation, induction"
+          },
+          "风池、大杼、身柱、肺俞、膈俞、曲池、合谷、足三里、内庭",
+          {
+            "zh": "26号针浅刺略捻即出",
+            "en": "No. 26 needle, shallow, light twist, out"
+          },
+          {
+            "zh": "续发或并发者较危险；高热青紫、鼻翼煽动者多不治",
+            "en": "Secondary/complicated riskier; cyanosis, flaring nostrils mostly fatal"
+          }
+        ],
+        [
+          {
+            "zh": "肺气肿",
+            "en": "Emphysema"
+          },
+          {
+            "zh": "促进肺组织新陈代谢，回复呼吸功能",
+            "en": "Promote lung metabolism; regain respiratory function"
+          },
+          "肺俞、心俞、魄户、尺泽、中脘、足三里、三阴交；灸肺俞、魄户、督俞、膏肓、肾俞、阳关",
+          {
+            "zh": "中刺激；灸5–7壮持续三数月",
+            "en": "Moderate; moxa 5–7 cones for several months"
+          },
+          {
+            "zh": "无生命危险，完全根治则难",
+            "en": "Not fatal; complete cure hard"
+          }
+        ],
+        [
+          {
+            "zh": "肺结核",
+            "en": "Pulmonary tuberculosis"
+          },
+          {
+            "zh": "调节肺脏神经与中枢，助消化以增营养、抗体",
+            "en": "Self-regulation via lung nerves; better digestion, nutrition, antibodies"
+          },
+          "咳：肺俞、督俞、膏肓、尺泽、太渊；热：大椎、身柱、厥阴俞；盗汗：阴郄、后溪；食欲差：中脘、足三里",
+          {
+            "zh": "背部轻刺、四肢中刺激；每次不过8穴(宜四五穴)；症状消失后改小艾炷灸",
+            "en": "Light on the back, moderate on limbs; ≤8 (ideally 4–5) points; small moxa once symptoms settle"
+          },
+          {
+            "zh": "初期良；二期助药；后期多不良(原书此条无独立预后字段)",
+            "en": "Early good; second stage needs drugs; late mostly poor"
+          }
+        ],
+        [
+          {
+            "zh": "肋膜炎(有条件)",
+            "en": "Pleurisy (conditional)"
+          },
+          {
+            "zh": "传导刺激于肋部神经，消炎解痛，吸收渗出物",
+            "en": "Stimulate intercostal nerves; anti-inflammation, analgesia, absorb exudate"
+          },
+          "风池、风门、陶道、尺泽、外关、合谷、阳陵泉；干性加身柱、厥阴俞、痛点肋间",
+          {
+            "zh": "26号针强刺激日1次；慢性转灸小炷；化脓性等非适应证",
+            "en": "No. 26 needle strong daily; chronic → small moxa; purulent etc. excluded"
+          },
+          {
+            "zh": "干性、浆液性大都良好；余多不良",
+            "en": "Dry/serous mostly good; others mostly poor"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "他明言不宜针灸的呼吸器病",
+        "en": "Respiratory conditions he declares outside acupuncture"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "原书结论",
+          "en": "His statement"
+        },
+        {
+          "zh": "他指的去处",
+          "en": "Where he sends it"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "喉头癌",
+            "en": "Laryngeal cancer"
+          },
+          {
+            "zh": "非针灸治疗之适应证",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "专科治疗，注意营养",
+            "en": "Specialist; nutrition"
+          },
+          {
+            "zh": "不良",
+            "en": "Poor"
+          }
+        ],
+        [
+          {
+            "zh": "声门水肿",
+            "en": "Glottic oedema"
+          },
+          {
+            "zh": "危险殊甚，非针灸适应证",
+            "en": "Very dangerous; not indicated"
+          },
+          {
+            "zh": "适当药物急救",
+            "en": "Emergency drugs"
+          },
+          {
+            "zh": "早治能效，迟则不治",
+            "en": "Early drug treatment works; late is fatal"
+          }
+        ],
+        [
+          {
+            "zh": "肺水肿",
+            "en": "Pulmonary oedema"
+          },
+          {
+            "zh": "不适应用针灸",
+            "en": "Not suited to acupuncture"
+          },
+          {
+            "zh": "急送专医；他附牛黄夺命散",
+            "en": "Urgently to a specialist; he adds Niuhuang Duoming San"
+          },
+          {
+            "zh": "起病即治可能挽救",
+            "en": "May be saved if treated at onset"
+          }
+        ],
+        [
+          {
+            "zh": "肺脓疡与肺坏疽",
+            "en": "Lung abscess and gangrene"
+          },
+          {
+            "zh": "不适用针灸治疗",
+            "en": "Not suited"
+          },
+          {
+            "zh": "争取时间，专家用药",
+            "en": "Drugs by a specialist, without delay"
+          },
+          {
+            "zh": "疗法适宜者良",
+            "en": "Good if treated appropriately"
+          }
+        ],
+        [
+          {
+            "zh": "气胸",
+            "en": "Pneumothorax"
+          },
+          {
+            "zh": "不适用针灸",
+            "en": "Not suited"
+          },
+          {
+            "zh": "专医诊治，穿刺手术",
+            "en": "Specialist; aspiration"
+          },
+          {
+            "zh": "不定，有危险性者多",
+            "en": "Uncertain; often dangerous"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "以反射法及诱导法，旺盛喉头之血行，解除其喉头炎肿为目的",
+      "src": "针灸处方集·第一章 呼吸器病·急性喉头炎 p.215"
+    },
+    {
+      "id": "E2",
+      "quote": "以旺盛全身之血行得有汗液为目的",
+      "src": "针灸处方集·第一章 呼吸器病·气管炎 p.217"
+    },
+    {
+      "id": "E3",
+      "quote": "以消炎诱导发汗为目的",
+      "src": "针灸处方集·第一章 呼吸器病·急性支气管炎 p.217"
+    },
+    {
+      "id": "E4",
+      "quote": "以加强肺部组织细胞之功能，及旺盛血行增加营养吸收以达强壮肺组织为目的",
+      "src": "针灸处方集·第一章 呼吸器病·慢性支气管炎 p.218"
+    },
+    {
+      "id": "E5",
+      "quote": "促进肺组织之新陈代谢，以图呼吸功能之回复为目的",
+      "src": "针灸处方集·第一章 呼吸器病·肺气肿 p.220"
+    },
+    {
+      "id": "E6",
+      "quote": "以加强肺脏与喉头组织之细胞活力，旺盛血行及增加抗力为针治灸治之目的",
+      "src": "针灸处方集·第一章 呼吸器病·喉头结核 p.216"
+    },
+    {
+      "id": "E7",
+      "quote": "食欲不振者，每次针治时，中脘、三里必不可少",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "E8",
+      "quote": "比较用灸法为宜，以其持久性较长，往往在灸愈之后，能经二三年不发",
+      "src": "针灸处方集·第一章 呼吸器病·慢性支气管炎 p.218"
+    },
+    {
+      "id": "E9",
+      "quote": "久灸较针效为强",
+      "src": "针灸处方集·第一章 呼吸器病·支气管扩张 p.218"
+    },
+    {
+      "id": "E10",
+      "quote": "肺病初期，或针治已将热度盗汗等重要症状消失，脉搏亦退到90至以下时，可以改用灸治",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "E11",
+      "quote": "重刺激手术，绝对避免。背部诸穴，概行轻刺，四肢诸穴，则用中等之刺激",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "E12",
+      "quote": "宜以26号针浅刺略捻即出",
+      "src": "针灸处方集·第一章 呼吸器病·小叶性肺炎 p.219"
+    },
+    {
+      "id": "E13",
+      "quote": "在发作时，取上穴用强刺激针法。平时常用皮肤针或小艾炷灸",
+      "src": "针灸处方集·第一章 呼吸器病·声门痉挛 p.217"
+    },
+    {
+      "id": "E14",
+      "quote": "本病之主要治疗，应由医家用消炎、灭菌之药物诊治，在针治上则作辅助",
+      "src": "针灸处方集·第一章 呼吸器病·小叶性肺炎 p.219"
+    },
+    {
+      "id": "E15",
+      "quote": "必须有适当之药物急救，方能解除其危险性，非针灸术之适应证",
+      "src": "针灸处方集·第一章 呼吸器病·声门水肿 p.217"
+    },
+    {
+      "id": "E16",
+      "quote": "本病必争取时间由专家用药物治疗，不适用针灸治疗",
+      "src": "针灸处方集·第一章 呼吸器病·肺脓疡与肺坏疽 p.221"
+    },
+    {
+      "id": "E17",
+      "quote": "本病不适应用针灸，应急速送专医治疗",
+      "src": "针灸处方集·第一章 呼吸器病·肺水肿 p.219"
+    },
+    {
+      "id": "E18",
+      "quote": "有盗汗发热者，以止盗汗为主，解热辅之。有发热咯血者，以解热为先，止血辅之",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "E19",
+      "quote": "肺病之于针治，医者与病家，绝不可存速效之心",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "E20",
+      "quote": "经X线检查已钙化后，续针二三个月(每周针1次)乃可停止",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "E21",
+      "quote": "肺病以摄生重于治疗",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "E22",
+      "quote": "凡有高热，皮肤青紫，鼻翼煽动，鼻色淡白者，多数不治",
+      "src": "针灸处方集·第一章 呼吸器病·小叶性肺炎 p.219"
+    },
+    {
+      "id": "E23",
+      "quote": "不易全治",
+      "src": "针灸处方集·第一章 呼吸器病·慢性喉头炎 p.216"
+    },
+    {
+      "id": "E24",
+      "quote": "生命上不致危险，完全根治则难",
+      "src": "针灸处方集·第一章 呼吸器病·肺气肿 p.220"
+    },
+    {
+      "id": "E25",
+      "quote": "后期多不良",
+      "src": "针灸处方集·第一章 呼吸器病·喉头结核 p.216"
+    }
+  ],
+  "caveats": {
+    "zh": "病名与病理为民国时期的西医概念(如格鲁布性肺炎、肋膜炎、肺结核“传尸”)，机理表述沿用“反射”“诱导”“神经”。肺结核、肺炎等在今日有抗生素与抗结核药，他当时明言药物为主、针灸辅助，不能当作独立疗法。“肺水肿”一条在结构化数据中被标为适应证，而原文明言不适应用针灸，此处以原文为准。",
+    "en": "Disease names and pathology are Republican-era Western concepts (croupous pneumonia, pleurisy, tuberculosis), with mechanisms stated as reflex, induction and nerves. Antibiotics and antituberculous drugs now exist; he already treats drugs as primary and acupuncture as adjunct, so this is not a stand-alone therapy. The pulmonary oedema entry is tagged as indicated in the structured data although the text says acupuncture is unsuitable; the text governs here."
+  },
+  "see": {
+    "points": [
+      "肺俞",
+      "身柱",
+      "风池",
+      "风门",
+      "天突",
+      "尺泽",
+      "中脘",
+      "足三里",
+      "丰隆"
+    ],
+    "rx": [
+      "cda-rx-001",
+      "cda-rx-002",
+      "cda-rx-004",
+      "cda-rx-006",
+      "cda-rx-007",
+      "cda-rx-009",
+      "cda-rx-010",
+      "cda-rx-012",
+      "cda-rx-013",
+      "cda-rx-015",
+      "cda-rx-016",
+      "cda-rx-017",
+      "cda-rx-018",
+      "cda-rx-019",
+      "cda-rx-020"
+    ]
+  }
+}

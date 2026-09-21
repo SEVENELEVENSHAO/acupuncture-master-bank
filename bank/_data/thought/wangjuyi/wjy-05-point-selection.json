@@ -1,0 +1,856 @@
+{
+  "id": "wjy-05-point-selection",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "取穴",
+    "en": "Points"
+  },
+  "order": 5,
+  "title": {
+    "zh": "选穴与循摸：少而精、特定穴为主，摸准再针，追求每针感传，以及他描述的特殊穴",
+    "en": "Point Choice and Palpation: Few and Refined, Mainly Specific Points, Find the Point by Touch, Propagated De-qi on Every Needle, and His Special Points"
+  },
+  "summary": {
+    "zh": "选穴上他遵循“少而精”，以特定穴为主配伍；关键是下针前循摸：穴位会移位，要摸到缝隙、气感和病人的异常感觉才进针，并要求每针都有感传。书中还详写了几个他发现或特别用法的穴：左通天、前顶、后顶、眉冲。",
+    "en": "He follows \"few and refined\", combining mainly specific points; the key is palpating before needling: points shift, so he needs a gap, a felt qi and an abnormal sensation in the patient before inserting, and wants every needle to propagate. The book also describes several points he found or uses in a special way: Left Tongtian, Qianding, Houding and Meichong."
+  },
+  "takeaways": [
+    {
+      "zh": "“少而精”：他遵循这一配穴原则，以特定穴为主；取穴精少但必须循摸准确才进针。案例里第一诊列出的穴平均不到4个(116案，中位数4，107案不超过5个)，按通行的特定穴分类，约七成是特定穴，其中五输穴最多。过多或不适当的针灸会使各穴功能互相干扰，眉冲、郄门两穴使剧烈心痛在进针二十秒左右消失，都是这一取向的例子。",
+      "en": "\"Few and refined\": he follows this principle and combines mainly specific points, choosing few but needling only after exact palpation. The first-visit lists average under 4 points (116 cases, median 4, 107 with at most 5), and by the usual classification about seven in ten are specific points, five-shu points most of all. He says too many or ill-fitted needlings make the points interfere with one another; Meichong and Ximen alone ended a severe cardiac pain about twenty seconds after insertion, both examples of this approach.",
+      "cite": [
+        "C1",
+        "C2",
+        "C34",
+        "C35"
+      ]
+    },
+    {
+      "zh": "特定穴各有道理：合穴“主逆气而泄”，能调整本经气机降逆，所以消化系统病症不能缺合穴，足三里就是胃经合穴又是下合穴；募穴帮助脏腑排除本脏的堆积代谢物；原穴补益本经经气，络穴使经气布化到本经各络脉。",
+      "en": "Specific points each have a rationale: he-sea points \"govern counter-flow and diarrhoea\" and regulate the own channel's qi and its descent, so digestive disease should not lack a he point (Zusanli is stomach he-sea and lower he-sea); mu points help the organ clear its own accumulated metabolites; yuan points tonify the own channel's qi and luo points spread that qi into its collaterals.",
+      "cite": [
+        "C31",
+        "C32",
+        "C33"
+      ]
+    },
+    {
+      "zh": "每个穴都先“循摸”，且花时间：他花大约半年才认识内关，位置在腕横纹上约2寸处横过两肌腱的静脉上缘；照海的口诀是“上有骨，下有肉，前后有筋”；三阴交在内踝上第三个肉节的上缘；足三里应在胫骨粗隆下缘外侧、胫骨前肌与趾长伸肌之间，取不准会明显影响针感与疗效。",
+      "en": "Every point is palpated first, and it takes time: he took about half a year to know Neiguan, which lies at the upper edge of the vein crossing both tendons about 2 cun above the wrist crease; Zhaohai is found by \"bone above, flesh below, sinews front and back\"; Sanyinjiao at the upper edge of the third flesh-segment above the medial malleolus; Zusanli below the tibial tuberosity on the outer side between tibialis anterior and extensor digitorum longus, and if it is not exact the needling sensation and effect suffer clearly.",
+      "cite": [
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "zh": "穴位置会变，所以骨度只是大概：他批评后人只强调“度量”而忽略《灵枢》“切循”二字。穴移位可能是先天的(常见于双侧)，也可能是病理造成；有些“经外穴”很可能是被移动的经穴；只有用自己的手指摸到，才能确定穴位。",
+      "en": "Points shift, so bone-proportional measurement gives only an approximate place: he criticises later physicians for stressing \"measuring\" and neglecting the \"tracing by touch\" of the Lingshu. Displacement may be congenital (often bilateral) or pathological; some \"extra points\" are probably displaced regular points; only touch with one's own finger fixes the point.",
+      "cite": [
+        "C8",
+        "C9",
+        "C10"
+      ]
+    },
+    {
+      "zh": "得气与感传是疗效的条件：他提出四个要求——位置要准，穴在缝隙里摸得越准越好，否则没有针感就没有理想疗效；要找对症候有明显反应的穴(酸痛、结节、或按后症状变化)；深度要用提插找到，因人因时因穴而异；针感的方向与长度，传得越远效果越好。例如足三里针感可沿经直到外踝，常传到足背或大趾；案42神门、太溪的针感传到手指、脚趾。",
+      "en": "De-qi and propagation condition the result: he gives four requirements: the location must be exact, since a point sits in a gap and the more exactly it is found the better, otherwise there is no sensation and no ideal effect; choose points that react to the symptom (sore, nodular, or changing the symptom on pressure); depth must be found by lifting and thrusting and differs by person, time and point; the direction and length of the sensation, the longer it travels the better. Zusanli's sensation can run along the channel to the outer ankle, often to the instep or big toe; in case 42 Shenmen and Taixi propagated to fingers and toes.",
+      "cite": [
+        "C11",
+        "C12",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C17"
+      ]
+    },
+    {
+      "zh": "左通天与眉冲来自察经的发现：久咳不愈者若左通天(或其周围)指下松软僵硬或按之酸痛，用它治久咳，他一度称为“咳点”，针4至5次能愈；经典没有记载通天治咳，他是从经络理论和察经反应用出来的；定位在前顶与百会之间旁开约1.5寸、冠状缝后，要仔细循摸。右眉冲则在一次经络诊察中发现能止尿路结石痛，后来发现也能缓解某些心绞痛，为何只是右侧还需研究。",
+      "en": "Left Tongtian and Meichong come from findings during examination: in stubborn cough if Left Tongtian (or the area around it) feels soft or stiff under the finger or is sore on pressure, he uses it, once calling it the \"cough point\", and 4-5 needlings could cure; the classics do not record Tongtian for cough, he arrived at it through channel theory and examination reactions; its position is about 1.5 cun lateral between Qianding and Baihui, behind the coronal suture, found by careful palpation. Right Meichong was found in one examination to stop urinary-stone pain and later also to relieve some angina; why only the right side needs further study.",
+      "cite": [
+        "C18",
+        "C19",
+        "C20",
+        "C21",
+        "C22"
+      ]
+    },
+    {
+      "zh": "前顶、百会、后顶三穴各有分工：前顶与百会都能升清，前顶还能补气清热、升清降浊(排代谢物)，曾一针搓针治好严重带状疱疹并让患者即刻能走路，也用于中风后头脑昏沉、记忆差；百会益气升阳，治内脏下垂、阳气下陷；后顶治肌腱韧带等经筋病及督脉与项背腰肢。前顶的位置是从囟会往后循摸出矢状缝上的凹陷。",
+      "en": "Qianding, Baihui and Houding have distinct roles: Qianding and Baihui both lift the clear, Qianding also tonifies qi, clears heat and \"lifts clear and lowers turbid\" (clears metabolic waste); one rubbed needle at it cured a severe herpes zoster so the patient could walk at once, and he uses it for post-stroke muddled head and poor memory; Baihui lifts yang qi and treats organ prolapse and yang collapse; Houding treats tendon and ligament disorders, sinew-channel disease and the du channel, neck, back, waist and limbs. Qianding is found by feeling from Xinhui backward for the hollow in the sagittal suture.",
+      "cite": [
+        "C23",
+        "C24",
+        "C25",
+        "C26",
+        "C27",
+        "C36",
+        "C37"
+      ]
+    },
+    {
+      "zh": "头部穴要用搓针法才易得气，深度到骨膜上、筋膜下，不能太浅；后顶搓针时医生要求患者配合直腰、挺胸、头上顶等动作，有时留针4至8小时。但他明说后顶“不是万能穴”，颈椎错位、椎管狭窄等慢性病只能缓解一时，不能治本。",
+      "en": "Head points need the rubbing-needle method to get de-qi, with the needle tip between periosteum and fascia, not too shallow; when rubbing Houding he asks the patient to straighten the back, lift the chest and push the head upward, sometimes retaining the needle for 4-8 hours. But he says outright that Houding is \"not a universal point\": chronic cervical malposition or spinal stenosis is only eased for a time, not cured.",
+      "cite": [
+        "C28",
+        "C29",
+        "C30"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "他用得最多的穴：出现案数与他在解读中说的用途",
+        "en": "His most used points: number of cases and what the commentaries say they are for"
+      },
+      "cols": [
+        {
+          "zh": "穴",
+          "en": "Point"
+        },
+        {
+          "zh": "案数(全部诊次/第一诊)",
+          "en": "Cases (all visits / first visit)"
+        },
+        {
+          "zh": "他在医案解读中说它用来做什么",
+          "en": "What he says it is for"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "足三里",
+            "en": "Zusanli"
+          },
+          "40 / 19",
+          {
+            "zh": "肚腹总穴、水谷之海，足阳明合穴，调阳明气机，温阳益气、健脾和胃(案16)；又用以补虚、强壮阳气",
+            "en": "Total belly point, sea of grain and water, stomach he-sea point, regulates yangming qi, warms yang, strengthens spleen and stomach (case 16); also to tonify and strengthen yang"
+          }
+        ],
+        [
+          {
+            "zh": "尺泽",
+            "en": "Chize"
+          },
+          "39 / 29",
+          {
+            "zh": "肺经合穴、子穴，肺气肃降障碍的咳嗽，清肺宣肺；与阴陵泉相配调太阴气机、化湿(案1、9)",
+            "en": "Lung he-sea and child point, for cough from failed lung descent, clears and diffuses the lung; with Yinlingquan regulates taiyin qi and transforms damp (cases 1, 9)"
+          }
+        ],
+        [
+          {
+            "zh": "阴陵泉",
+            "en": "Yinlingquan"
+          },
+          "36 / 21",
+          {
+            "zh": "足太阴合穴，调气机、化痰、利尿化湿；加强尺泽的作用(案1、3、14)",
+            "en": "Foot taiyin he-sea point; regulates qi, resolves phlegm, promotes urination and resolves damp; reinforces Chize (cases 1, 3, 14)"
+          }
+        ],
+        [
+          {
+            "zh": "太白",
+            "en": "Taibai"
+          },
+          "25 / 10",
+          {
+            "zh": "足太阴原穴，温补脾气；与太渊补手足太阴、补脾益肺，治肿胀、慢性便溏、慢性咳嗽(案14、17)",
+            "en": "Foot taiyin yuan point, warms and tonifies spleen qi; with Taiyuan tonifies both taiyin channels, spleen and lung, for swelling, chronic loose stool and chronic cough (cases 14, 17)"
+          }
+        ],
+        [
+          {
+            "zh": "复溜",
+            "en": "Fuliu"
+          },
+          "24 / 10",
+          {
+            "zh": "肾经母穴，滋阴；配尺泽育阴调肺，用于肺肾阴虚的慢性呼吸系病；与阴郄配治盗汗(案9、39)",
+            "en": "Kidney mother point, nourishes yin; with Chize nourishes yin and regulates the lung in lung-kidney yin deficiency; with Yinxi for night sweats (cases 9, 39)"
+          }
+        ],
+        [
+          {
+            "zh": "天柱",
+            "en": "Tianzhu"
+          },
+          "22 / 4",
+          {
+            "zh": "升阳，调节脑部供血(案35)；太阳经筋结于头后部，主治包括腰痛(案99)",
+            "en": "Lifts yang and regulates cerebral blood supply (case 35); the taiyang sinew channel ties at the back of the head, so it treats even low-back pain (case 99)"
+          }
+        ],
+        [
+          {
+            "zh": "三阴交",
+            "en": "Sanyinjiao"
+          },
+          "22 / 5",
+          {
+            "zh": "足三阴交会，养血活血；神门配三阴交治心脾两虚的怔忡、惊悸、失眠；关元配三阴交治更年期，只适于慢性病(案38)",
+            "en": "Meeting point of the three foot yin channels, nourishes and moves blood; with Shenmen for heart-spleen deficiency palpitation, fright and insomnia; with Guanyuan for menopause, only in chronic disease (case 38)"
+          }
+        ],
+        [
+          {
+            "zh": "公孙",
+            "en": "Gongsun"
+          },
+          "21 / 11",
+          {
+            "zh": "脾络穴，通冲脉，降逆气、祛湿利水；配内关理气降逆，治心悸、胸闷、胸腹胀满(案15)",
+            "en": "Spleen luo point linked to chong, lowers counter-flow qi, dispels damp; with Neiguan regulates qi and lowers counter-flow for palpitation, chest oppression, fullness (case 15)"
+          }
+        ],
+        [
+          {
+            "zh": "太冲",
+            "en": "Taichong"
+          },
+          "21 / 10",
+          {
+            "zh": "足厥阴原穴，温养阴血，治血虚面麻、手指麻(案33)；与合谷为“四关”，散外风息内风(诊后絮语)",
+            "en": "Foot jueyin yuan point, warms and nourishes yin blood, for blood-deficient numbness of face and fingers (case 33); with Hegu as the \"four gates\" scatters external and calms internal wind (essay)"
+          }
+        ],
+        [
+          {
+            "zh": "照海",
+            "en": "Zhaohai"
+          },
+          "20 / 8",
+          {
+            "zh": "通阴跷脉，安眠、镇静、滋阴；咽痛、咳嗽、胸满；配大陵治失眠烦躁(案5、6、10)",
+            "en": "Linked to yinqiao; calms sleep, sedates, nourishes yin; sore throat, cough, chest fullness; with Daling for insomnia and irritability (cases 5, 6, 10)"
+          }
+        ],
+        [
+          {
+            "zh": "列缺",
+            "en": "Lieque"
+          },
+          "19 / 6",
+          {
+            "zh": "肺络穴，止咳解表，常用于外感咳嗽；配照海滋阴利咽(案9、5)",
+            "en": "Lung luo point, stops cough and releases the exterior, used for external-contraction cough; with Zhaohai nourishes yin and benefits the throat (cases 9, 5)"
+          }
+        ],
+        [
+          {
+            "zh": "阳陵泉",
+            "en": "Yanglingquan"
+          },
+          "19 / 12",
+          {
+            "zh": "少阳合穴，“气机枢转”，疏泄少阳；治腹胀、嗳气、泛酸(案20、21)",
+            "en": "Shaoyang he-sea point, \"pivot of qi movement\", drains shaoyang; for bloating, belching, acid regurgitation (cases 20, 21)"
+          }
+        ],
+        [
+          {
+            "zh": "风池",
+            "en": "Fengchi"
+          },
+          "19 / 3",
+          {
+            "zh": "息风，调节本经气血流动(案76)；眼病有三个针刺方向；乳突疼痛常见于此(案33)",
+            "en": "Calms wind, regulates the own channel's qi and blood flow (case 76); three needle directions for eye disease; mastoid pain is often found here (case 33)"
+          }
+        ],
+        [
+          {
+            "zh": "大椎",
+            "en": "Dazhui"
+          },
+          "18 / 9",
+          {
+            "zh": "风寒咳嗽悬灸15~20分钟，风热咳嗽点刺；得气热感，益气升阳，不留针(诊后絮语)",
+            "en": "Hanging moxa 15-20 min in wind-cold cough, pricking in wind-heat cough; heat de-qi, raises yang, not retained (essay)"
+          }
+        ],
+        [
+          {
+            "zh": "关元",
+            "en": "Guanyuan"
+          },
+          "18 / 8",
+          {
+            "zh": "补下元之气(案27)；配三阴交治更年期(案38)；温阳行气(案48)",
+            "en": "Tonifies lower source qi (case 27); with Sanyinjiao for menopause (case 38); warms yang and moves qi (case 48)"
+          }
+        ],
+        [
+          {
+            "zh": "手三里",
+            "en": "Shousanli"
+          },
+          "17 / 7",
+          {
+            "zh": "阳明经补虚；配足三里温补脾胃(案32、40)",
+            "en": "Tonifies via yangming; with Zusanli warms and tonifies spleen and stomach (cases 32, 40)"
+          }
+        ],
+        [
+          {
+            "zh": "后顶",
+            "en": "Houding"
+          },
+          "17 / 14",
+          {
+            "zh": "经筋病：肌腱、韧带、督脉及项背腰肢；搓针；多见于腰痛案(案87–97)",
+            "en": "Sinew-channel disease: tendon, ligament, du channel, neck, back, waist and limbs; rubbing needle; mostly in low-back pain cases (cases 87-97)"
+          }
+        ],
+        [
+          {
+            "zh": "内关",
+            "en": "Neiguan"
+          },
+          "16 / 6",
+          {
+            "zh": "厥阴络穴，通阴维，通络理气安神；配公孙(案15、19)",
+            "en": "Jueyin luo point linked to yinwei; opens collaterals, regulates qi, calms spirit; with Gongsun (cases 15, 19)"
+          }
+        ],
+        [
+          {
+            "zh": "中脘",
+            "en": "Zhongwan"
+          },
+          "15 / 5",
+          {
+            "zh": "胃募、腑会，排除胃的代谢物，偏泻；建里偏补；上脘还是中脘，最终据察经所见的压痛等(案16、17)",
+            "en": "Stomach mu and fu-gathering point, clears stomach waste, leans to draining; Jianli leans to tonifying; Shangwan or Zhongwan is finally decided by examination findings such as tenderness (cases 16, 17)"
+          }
+        ],
+        [
+          {
+            "zh": "太溪",
+            "en": "Taixi"
+          },
+          "14 / 6",
+          {
+            "zh": "肾原穴，补肾阳(案12)；与神门为手足少阴同名经原穴，温补心肾阳气(案42)",
+            "en": "Kidney yuan point, tonifies kidney yang (case 12); with Shenmen as the same-name yuan points of shaoyin, warms heart and kidney yang (case 42)"
+          }
+        ],
+        [
+          {
+            "zh": "太渊",
+            "en": "Taiyuan"
+          },
+          "13 / 4",
+          {
+            "zh": "肺原穴，调气温阳；与太白补太阴(案14)",
+            "en": "Lung yuan point, regulates qi and warms yang; with Taibai tonifies taiyin (case 14)"
+          }
+        ],
+        [
+          {
+            "zh": "合谷",
+            "en": "Hegu"
+          },
+          "13 / 6",
+          {
+            "zh": "手阳明原穴，阳明多气多血，行气作用强，温阳解表、温阳益气；配太冲为四关(案33、诊后絮语)",
+            "en": "Hand yangming yuan point, yangming rich in qi and blood, strong at moving qi, warms yang and releases the exterior; with Taichong the four gates (case 33, essay)"
+          }
+        ],
+        [
+          {
+            "zh": "外关",
+            "en": "Waiguan"
+          },
+          "13 / 9",
+          {
+            "zh": "手少阳络穴，通阳维，清热解毒、通络行气开窍；带状疱疹、面瘫、络脉病(案28、34、45)",
+            "en": "Hand shaoyang luo point linked to yangwei; clears heat, detoxifies, opens collaterals, moves qi, opens orifices; herpes zoster, facial palsy, collateral disease (cases 28, 34, 45)"
+          }
+        ],
+        [
+          {
+            "zh": "大陵",
+            "en": "Daling"
+          },
+          "12 / 6",
+          {
+            "zh": "手厥阴原穴，清郁热、和阴血；配行间清厥阴郁热、配照海治失眠(案10、失眠讨论)",
+            "en": "Hand jueyin yuan point, clears stagnant heat and harmonises yin blood; with Xingjian clears jueyin stagnant heat, with Zhaohai treats insomnia (case 10, insomnia essay)"
+          }
+        ],
+        [
+          {
+            "zh": "腕骨",
+            "en": "Wangu"
+          },
+          "12 / 4",
+          {
+            "zh": "手太阳原穴，温养、温通太阳经；配合谷促进两经原气运行(案33、76)",
+            "en": "Hand taiyang yuan point, warms and opens the taiyang channel; with Hegu drives the source qi of both channels (cases 33, 76)"
+          }
+        ],
+        [
+          {
+            "zh": "曲泉",
+            "en": "Ququan"
+          },
+          "12 / 8",
+          {
+            "zh": "足厥阴合穴，调本经气机；太冲配曲泉治本(案51、55)",
+            "en": "Foot jueyin he-sea point, regulates the own channel's qi; with Taichong treats the root (cases 51, 55)"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "他描述的特殊穴：位置、用途与注意",
+        "en": "Special points as he describes them: position, use, cautions"
+      },
+      "cols": [
+        {
+          "zh": "穴",
+          "en": "Point"
+        },
+        {
+          "zh": "循摸定位(原文所述)",
+          "en": "Position by palpation (as he says)"
+        },
+        {
+          "zh": "用途(原文所述)",
+          "en": "Use (as he says)"
+        },
+        {
+          "zh": "注意/出处",
+          "en": "Notes / source"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "左通天",
+            "en": "Left Tongtian"
+          },
+          {
+            "zh": "前顶与百会之间旁开1.5寸左右，冠状缝后面，需仔细循摸",
+            "en": "About 1.5 cun lateral between Qianding and Baihui, behind the coronal suture, found by careful palpation"
+          },
+          {
+            "zh": "久咳不愈、剧烈咳嗽、甚至不能睡；慢性气管炎以咳为主；有人腰痛尿频者此处也有反应",
+            "en": "Stubborn severe cough, even sleeplessness; chronic tracheitis with cough as main sign; some low-back pain and frequent urination patients also react here"
+          },
+          {
+            "zh": "指下松软/僵硬或按之酸痛才用，搓针法；经典未载。诊后絮语(久咳两组腧穴)、案6、案8",
+            "en": "Only when it feels soft/stiff or sore; rubbing needle; not recorded in classics. Essay on two point groups for chronic cough; cases 6, 8"
+          }
+        ],
+        [
+          {
+            "zh": "眉冲",
+            "en": "Meichong"
+          },
+          {
+            "zh": "足太阳经穴，头皮下；酸痛、指下摸到异常感",
+            "en": "Foot taiyang point on the scalp; sore and abnormal under the finger"
+          },
+          {
+            "zh": "右眉冲止尿路结石痛，也可缓解某些心绞痛",
+            "en": "Right Meichong stops urinary-stone pain and can relieve some angina"
+          },
+          {
+            "zh": "搓针法，头皮下组织液少，用搓针取较强针感；为何仅右侧待研究。诊后絮语(眉冲的故事)",
+            "en": "Rubbing needle, since scalp tissue fluid is scanty; why only the right needs study. Essay on Meichong"
+          }
+        ],
+        [
+          {
+            "zh": "前顶",
+            "en": "Qianding"
+          },
+          {
+            "zh": "囟会往后循摸，矢状缝上的凹陷处，距离因人而异",
+            "en": "Feel backward from Xinhui for the hollow in the sagittal suture; distance varies by person"
+          },
+          {
+            "zh": "升清降浊，补气清热；虚型带状疱疹、眩晕、头痛、中风后头昏沉记忆差",
+            "en": "Lifts clear, lowers turbid, tonifies qi, clears heat; deficiency-type herpes zoster, vertigo, headache, post-stroke muddled head and poor memory"
+          },
+          {
+            "zh": "搓针；案29、案117、案123。诊后絮语(前顶的清热解毒作用)",
+            "en": "Rubbing needle; cases 29, 117, 123. Essay on Qianding's clearing heat and toxin"
+          }
+        ],
+        [
+          {
+            "zh": "后顶",
+            "en": "Houding"
+          },
+          {
+            "zh": "枕骨粗隆往上：脑户，再上约1.5寸强间，再上约1.5寸后顶，位于人字缝起点；用心摸凹陷",
+            "en": "From the occipital protuberance up: Naohu, then 1.5 cun up Qiangjian, another 1.5 cun Houding at the start of the lambdoid suture; feel for the hollow"
+          },
+          {
+            "zh": "皮肉脉筋骨的错位、痉挛：落枕、颈椎病、椎间盘突出、腰肌劳损、急性扭伤等",
+            "en": "Displacement or spasm of skin, flesh, vessel, sinew, bone: stiff neck, cervical spondylosis, disc herniation, lumbar strain, acute sprain"
+          },
+          {
+            "zh": "1寸半针从后顶平刺往下约1寸，搓针并配合动作；孕妇及颈胸腰椎术后禁用。诊后絮语(后顶搓针法)",
+            "en": "A 1.5-cun needle inserted horizontally downward about 1 cun with rubbing and movements; not for pregnant women or after neck/chest/lumbar spine surgery. Essay on rubbing-needle at Houding"
+          }
+        ],
+        [
+          {
+            "zh": "隐白 / 大敦",
+            "en": "Yinbai / Dadun"
+          },
+          {
+            "zh": "两井穴距离最大1寸",
+            "en": "Two jing-well points at most 1 cun apart"
+          },
+          {
+            "zh": "大敦善治崩中，隐白善治漏下",
+            "en": "Dadun for profuse flooding, Yinbai for prolonged spotting"
+          },
+          {
+            "zh": "灸；两穴一起灸反而效果不好。诊后絮语(崩漏)、案50–52",
+            "en": "Moxa; using both together works worse. Essay on flooding and spotting; cases 50-52"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "循摸定位：他与教材写法的差别",
+        "en": "Locating by palpation: how his method differs from textbook wording"
+      },
+      "cols": [
+        {
+          "zh": "穴",
+          "en": "Point"
+        },
+        {
+          "zh": "他引述的通行写法",
+          "en": "The usual description he cites"
+        },
+        {
+          "zh": "他的循摸法",
+          "en": "His palpation method"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "内关",
+            "en": "Neiguan"
+          },
+          {
+            "zh": "腕横纹上2寸，两筋间",
+            "en": "2 cun above the wrist crease, between the tendons"
+          },
+          {
+            "zh": "先找掌长肌腱与桡侧腕屈肌腱之间，约2寸处有静脉横过，内关在静脉上缘；静脉不明显则从大陵上推到第一个凹陷",
+            "en": "Between palmaris longus and flexor carpi radialis tendons; a vein crosses at about 2 cun and Neiguan lies at its upper edge; if the vein is faint, push up from Daling to the first hollow"
+          }
+        ],
+        [
+          {
+            "zh": "照海",
+            "en": "Zhaohai"
+          },
+          {
+            "zh": "内踝高点正下缘凹陷处；内踝下缘下0.4寸",
+            "en": "Hollow directly below the malleolar tip; 0.4 cun below the malleolar edge"
+          },
+          {
+            "zh": "从内踝高点下画竖线，从舟骨粗隆下缘(然谷)向后画横线，交点按压，前后摸出两条筋，穴在其间：上有骨、下有肉、前后有筋",
+            "en": "Draw a vertical line down from the malleolar tip and a horizontal line back from below the navicular tuberosity (Rangu); press at the crossing, find two tendons front and back, the point lies between: bone above, flesh below, sinews either side"
+          }
+        ],
+        [
+          {
+            "zh": "三阴交",
+            "en": "Sanyinjiao"
+          },
+          {
+            "zh": "踝骨上3寸，胫骨后缘",
+            "en": "3 cun above the ankle bone, at the posterior tibial border"
+          },
+          {
+            "zh": "循摸到内踝上第三个肉节的上缘",
+            "en": "Palpate to the upper edge of the third flesh-segment above the medial malleolus"
+          }
+        ],
+        [
+          {
+            "zh": "足三里",
+            "en": "Zusanli"
+          },
+          {
+            "zh": "犊鼻下三寸，离胫骨外缘一横指",
+            "en": "3 cun below Dubi, one finger-breadth from the tibial edge"
+          },
+          {
+            "zh": "胫骨粗隆下缘外侧，胫骨前肌与趾长伸肌之间；离胫骨的距离因肌肉宽窄而异；针感沿经下行",
+            "en": "Lateral to the lower edge of the tibial tuberosity, between tibialis anterior and extensor digitorum longus; the distance from the tibia varies with muscle width; the sensation runs down the channel"
+          }
+        ],
+        [
+          {
+            "zh": "列缺",
+            "en": "Lieque"
+          },
+          {
+            "zh": "“以手交叉取食指尽处”，后人误认在手阳明经",
+            "en": "The \"hands crossed, where the index finger ends\" method, mistaken by later people as on hand yangming"
+          },
+          {
+            "zh": "从太渊的缝隙沿手太阴经向肘方向慢慢推，用心摸到骨上的凹陷点",
+            "en": "Push slowly along the hand taiyin channel from the Taiyuan gap toward the elbow, feeling with the mind as well as the finger, to the hollow on the bone"
+          }
+        ],
+        [
+          {
+            "zh": "蠡沟",
+            "en": "Ligou"
+          },
+          {
+            "zh": "内踝上5寸，传统取在胫骨面",
+            "en": "5 cun above the malleolus, traditionally on the tibial surface"
+          },
+          {
+            "zh": "从太溪沿胫骨边缘往上推，第5个肉节凹陷处(原文写作“沟”)",
+            "en": "Push up from Taixi along the tibial edge to the hollow at the fifth flesh-segment (written \"沟\" in the OCR text)"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "王居易教授临床遵循“少而精”的配穴原则，以特定穴为主进行配伍",
+      "src": "王居易针灸医案讲习录·医案导读 p.002"
+    },
+    {
+      "id": "C2",
+      "quote": "临床取穴精少，但须循摸准确方可进针，同时对针灸得气要求甚高，必要每针皆有感传",
+      "src": "王居易针灸医案讲习录·医案导读 p.002"
+    },
+    {
+      "id": "C3",
+      "quote": "但认识穴位，必须循摸审视，我大概用了半年才认识内关穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于内关、公孙穴循摸的故事 p.028"
+    },
+    {
+      "id": "C4",
+      "quote": "内关位于此静脉的上缘",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于内关、公孙穴循摸的故事 p.028"
+    },
+    {
+      "id": "C5",
+      "quote": "这样寻找照海穴时一定要记住，“上有骨，下有肉，前后有筋”",
+      "src": "王居易针灸医案讲习录·诊后絮语·照海、三阴交的取穴方法 p.052"
+    },
+    {
+      "id": "C6",
+      "quote": "笔者认为三阴交在取穴时应循摸到内踝上第三个肉节的上缘",
+      "src": "王居易针灸医案讲习录·诊后絮语·照海、三阴交的取穴方法 p.053"
+    },
+    {
+      "id": "C7",
+      "quote": "足三里应在胫骨粗隆下缘外侧，在胫骨前肌与趾长伸肌之间取之",
+      "src": "王居易针灸医案讲习录·诊后絮语·足三里的取穴方法 p.045"
+    },
+    {
+      "id": "C8",
+      "quote": "后人只强调“度量”（骨度法）忽略了“切循”二字",
+      "src": "王居易针灸医案讲习录·案16·按语 p.033"
+    },
+    {
+      "id": "C9",
+      "quote": "医生只有通过循摸才能确定穴的位置，否则针刺无效",
+      "src": "王居易针灸医案讲习录·诊后絮语·以摸为准，认识腧穴移位的现象 p.200"
+    },
+    {
+      "id": "C10",
+      "quote": "实际上有些“经外穴”很可能是被移动的经穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·以摸为准，认识腧穴移位的现象 p.200"
+    },
+    {
+      "id": "C11",
+      "quote": "穴皆在缝隙里，摸得越准，疗效越好",
+      "src": "王居易针灸医案讲习录·诊后絮语·针感的要求 p.072"
+    },
+    {
+      "id": "C12",
+      "quote": "因为不会有针感，无针感就无理想疗效",
+      "src": "王居易针灸医案讲习录·诊后絮语·针感的要求 p.072"
+    },
+    {
+      "id": "C13",
+      "quote": "取有这些反应的穴位往往能取得良好的疗效，甚至当时就会出现症状改善或消失的效果",
+      "src": "王居易针灸医案讲习录·诊后絮语·针感的要求 p.072"
+    },
+    {
+      "id": "C14",
+      "quote": "某一个穴的得气深度都不同",
+      "src": "王居易针灸医案讲习录·诊后絮语·针感的要求 p.072"
+    },
+    {
+      "id": "C15",
+      "quote": "针感传导的距离越长效果越好",
+      "src": "王居易针灸医案讲习录·诊后絮语·针感的要求 p.073"
+    },
+    {
+      "id": "C16",
+      "quote": "能感觉针感往下循经直到外踝关节，在临床治疗中针感常传至足背或足大趾尖部",
+      "src": "王居易针灸医案讲习录·诊后絮语·足三里的取穴方法 p.045"
+    },
+    {
+      "id": "C17",
+      "quote": "针刺神门、太溪针感传至手指、脚趾",
+      "src": "王居易针灸医案讲习录·案42 p.080"
+    },
+    {
+      "id": "C18",
+      "quote": "所以左通天的定位大概是在前顶和百会之间旁开1.5寸左右，在冠状缝的后面",
+      "src": "王居易针灸医案讲习录·诊后絮语·治疗久咳不愈的两组腧穴 p.021"
+    },
+    {
+      "id": "C19",
+      "quote": "有一段时间把左通天称为“咳点”，以本穴为主配伍其他穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·治疗久咳不愈的两组腧穴 p.021"
+    },
+    {
+      "id": "C20",
+      "quote": "虽然中医经典未记载通天能治疗咳嗽，但笔者通过经络理论和经络诊察反应，已用通天治疗不少例干咳，取得良好疗效",
+      "src": "王居易针灸医案讲习录·诊后絮语·治疗久咳不愈的两组腧穴 p.021"
+    },
+    {
+      "id": "C21",
+      "quote": "一为眉冲对某些心绞痛有良好止痛缓解的作用",
+      "src": "王居易针灸医案讲习录·诊后絮语·从一个病历讲起——关于眉冲的故事 p.029"
+    },
+    {
+      "id": "C22",
+      "quote": "右侧眉冲不仅能止尿道结石（包括肾结石）引起的疼痛，也能止心绞痛，但为什么仅仅是右侧，还需要进一步的研究和思考",
+      "src": "王居易针灸医案讲习录·诊后絮语·从一个病历讲起——关于眉冲的故事 p.030"
+    },
+    {
+      "id": "C23",
+      "quote": "单针刺前顶穴，做搓针法之后疼痛明显减轻，即刻能正常走路",
+      "src": "王居易针灸医案讲习录·诊后絮语·怎样发现了前顶的清热解毒作用 p.070"
+    },
+    {
+      "id": "C24",
+      "quote": "前顶与百会皆能升清，但前顶亦能补气清热",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶、百会、前顶三个腧穴的比较 p.070"
+    },
+    {
+      "id": "C25",
+      "quote": "前顶有升清降浊的作用。升清指提升阳气；降浊指排除代谢物（废物）",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶、百会、前顶三个腧穴的比较 p.071"
+    },
+    {
+      "id": "C26",
+      "quote": "后顶穴主要治疗肌腱和韧带的病变",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶、百会、前顶三个腧穴的比较 p.071"
+    },
+    {
+      "id": "C27",
+      "quote": "卤会往后循摸出失状缝上的凹陷处，离卤会的具体距离根据个人的解部有差异",
+      "src": "王居易针灸医案讲习录·诊后絮语·前顶穴的取穴方法 p.070"
+    },
+    {
+      "id": "C28",
+      "quote": "所以针刺头皮时必须用“搓针”的手法，而且针刺的深度要合适，针尖应到骨膜上、筋膜下的层次，不能太浅",
+      "src": "王居易针灸医案讲习录·诊后絮语·头部解剖结构与针刺疗效的关系 p.072"
+    },
+    {
+      "id": "C29",
+      "quote": "不是所有的颈背部的病变都能用后顶搓针法治好",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.199"
+    },
+    {
+      "id": "C30",
+      "quote": "反复搓针的同时，医生应要求患者渐次做以下动作：直腰；挺胸；头向上顶",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.197"
+    },
+    {
+      "id": "C31",
+      "quote": "《难经·六十八难》日：“合主逆气而泄。”确认诸合穴能调整气机降逆",
+      "src": "王居易针灸医案讲习录·诊后絮语·消化系统疾病选穴体会 p.044"
+    },
+    {
+      "id": "C32",
+      "quote": "募穴能帮助脏腑排除本脏腑的堆积物（代谢物）以便于其功能恢复",
+      "src": "王居易针灸医案讲习录·诊后絮语·消化系统疾病选穴体会 p.044"
+    },
+    {
+      "id": "C33",
+      "quote": "原穴补益本经的经气，络穴使其经气布化于本经的各个络脉",
+      "src": "王居易针灸医案讲习录·案80·医案解读 p.151"
+    },
+    {
+      "id": "C34",
+      "quote": "单取眉冲、都门二穴，穴少功专，故取得了较好的效果",
+      "src": "王居易针灸医案讲习录·诊后絮语·从一个病历讲起——关于眉冲的故事 p.030"
+    },
+    {
+      "id": "C36",
+      "quote": "而百会对内脏有益气升阳的功能，能治疗内脏下垂，阳气下陷",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶、百会、前顶三个腧穴的比较 p.071"
+    },
+    {
+      "id": "C37",
+      "quote": "笔者治疗过很多例中风后遗症引起的头部血液供应不足，头昏昏沉沉，记忆力差，甚至识别能力很低，治疗时常用前顶来升清降浊",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶、百会、前顶三个腧穴的比较 p.071"
+    },
+    {
+      "id": "C35",
+      "quote": "过多或不适当的针灸会使各穴功能互相干扰",
+      "src": "王居易针灸医案讲习录·诊后絮语·隐白与大敦的特殊功能 p.113"
+    }
+  ],
+  "how_to_use": {
+    "zh": "读案时先数一数第一诊用了几个穴、各是哪类特定穴，再读他为每个穴写的一句话理由——那句话通常来自察经所见或该穴的特定属性(合、原、络、募、交会)，而不是“主治”清单。表1只是他常用穴的用途摘要，不是配方；头部特殊穴的用法见表2，注意他强调的前提是“摸到反应”。手法细节见 wjy-06。",
+    "en": "When reading a case count how many points the first visit used and what kind of specific points they are, then read his one-line reason for each: it usually comes from the examination finding or the point's specific character (he-sea, yuan, luo, mu, confluent) rather than from an indication list. Table 1 summarises what he says of common points and is not a formula; the special head points are in table 2, with the precondition he insists on, that a reaction is felt. Technique detail: wjy-06."
+  },
+  "caveats": {
+    "zh": "案数按第一诊“选穴”一栏与各复诊行中出现的穴名统计(排除中药行)，部分选穴行被OCR截断，故为下限；“特定穴”比例按通行的特定穴分类(五输、原、络、郄、募、背俞、八脉交会、下合)由本库计算，不是他自己的说法。左通天、前顶、后顶、眉冲的功用是他自己的临床所见，他在书中说理论认识尚属初步。",
+    "en": "Case counts use point names in the first-visit \"points\" line and later-visit lines (herb lines excluded); some point lines are cut by OCR, so counts are lower bounds. The specific-point share uses the usual categories (five-shu, yuan, luo, xi-cleft, mu, back-shu, confluent, lower he) and was computed for this bank, not stated by him. The uses of Left Tongtian, Qianding, Houding and Meichong are his own clinical findings, and he says his theoretical understanding of them is still preliminary."
+  },
+  "see": {
+    "cases": [
+      "wjy-006",
+      "wjy-008",
+      "wjy-016",
+      "wjy-029",
+      "wjy-089",
+      "wjy-117",
+      "wjy-123"
+    ],
+    "points": [
+      "通天",
+      "前顶",
+      "后顶",
+      "眉冲",
+      "内关",
+      "照海",
+      "三阴交",
+      "足三里",
+      "列缺",
+      "隐白",
+      "大敦",
+      "百会"
+    ]
+  }
+}

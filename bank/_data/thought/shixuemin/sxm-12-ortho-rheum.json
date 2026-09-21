@@ -1,0 +1,632 @@
+{
+  "id": "sxm-12-ortho-rheum",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 12,
+  "title": {
+    "zh": "骨伤风湿免疫科：不通则痛，局部与远端配穴，刺络拔罐为标志，痹证针灸刺络并用，类风湿与强脊只作辅助",
+    "en": "Orthopaedics, Rheumatology and Immunology: Pain from Blockage, Local plus Distal Points, Bleeding-Cupping as Signature, Needle-Moxa-Bleeding Together for Bi, Only Adjunctive in RA and AS"
+  },
+  "summary": {
+    "zh": "骨伤风湿类病他统一以“不通则痛”立论，治则集中在通络、活血、止痛、祛风散寒除湿(71例医案中含“通络”者39例、“活血/化瘀”33例)，慢性退变病另加补肾。取穴是局部阿是穴、夹脊加循经远端(委中、后溪、阳陵泉)，用手法量学要求“针感到位”。最有代表性的技术是三棱针点刺加闪火拔罐(急性剧痛出血3~5ml)，痹证则主张“针、灸、刺络三者并用”，热痹也可灸。对类风湿关节炎、强直性脊柱炎他明说“尚不能根治”，针灸只是辅助。",
+    "en": "For bone, joint and rheumatic disease he reasons uniformly from \"blockage causes pain\"; principles cluster on unblocking the network, activating blood, stopping pain, dispelling wind-cold-damp (of 71 cases, 39 state unblocking the network, 33 activating blood or resolving stasis), with kidney tonification added for chronic degeneration. Points are local ashi and Jiaji plus distal channel points (Weizhong, Houxi, Yanglingquan), with quantified manipulation demanding that the needle sensation arrives. The signature technique is three-edged needle pricking with fire-cupping (3-5 ml per site in acute severe pain); for bi he advocates \"needle, moxa and bleeding together\", moxa even in heat bi. For rheumatoid arthritis and ankylosing spondylitis he says plainly \"not yet radically curable\", acupuncture being adjunctive."
+  },
+  "takeaways": [
+    {
+      "zh": "病机大多归到“不通则痛”，并按经络定位：臂丛神经痛“属于经筋发病”，多相当于手太阳小肠经的是动病；落枕责之手三阳与足少阳筋络；坐骨神经痛“注重经气闭阻”，取太阳、少阳所过处。医案里治则最常出现“通络/疏通经络”(68例有治则的医案中39例)、“活血/化瘀”(33)、“止痛”(27)、“祛风散寒除湿”(26)，补肾益气类只有12例。",
+      "en": "Mechanism is mostly \"blockage causes pain\", located by channel: brachial plexus neuralgia \"belongs to sinew disease\", roughly the be-moved disease of the hand taiyang small-intestine channel; stiff neck is tied to the hand three yang and foot shaoyang sinews; sciatica \"stresses blocked channel qi\", needled where taiyang and shaoyang pass. In the cases the principle most often reads unblocking the network (39 of 68 cases with a stated principle), activating blood or resolving stasis (33), stopping pain (27), dispelling wind-cold-damp (26); only 12 lean on tonifying kidney or qi.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "刺络拔罐是这一科的标志：坐骨神经痛“用三棱针点刺3~5点、闪火法拔大号罐，每部位出血3~5ml，留罐5~10min，用于疼痛急性发作”，并解释为“血出邪尽、血气复行”；类似的刺络还用于肩周炎、臂丛神经痛(痛点)、肱骨外上髁炎(“不论新病宿瘀”)、腰痛、落枕、退行性脊柱炎。11条全集处方中有9条含刺络放血；71例医案里刺络/放血/点刺12例、拔罐17例。",
+      "en": "Bleeding-cupping is the signature of this specialty. Sciatica: three-edged needle pricking 3-5 spots, fire-cupping with a large jar, 3-5 ml of blood per site, retained 5-10 min, \"for acute attack of pain\", explained as \"blood out, evil out, qi and blood move again\". The same bleeding is used in frozen shoulder, brachial plexus neuralgia (at the tender point), tennis elbow (\"new disease or old stasis alike\"), lumbago, stiff neck and degenerative spondylitis. Nine of the 11 complete-collection entries include bleeding; among 71 cases 12 mention bleeding or pricking and 17 cupping.",
+      "cite": [
+        "E4",
+        "E5",
+        "E6"
+      ]
+    },
+    {
+      "zh": "取穴讲“近刺与循经远刺相结合”：腰痛“远端尤以委中为重”，退行性脊柱炎引“腰背委中求”，后溪与腰腿点要边针边活动腰部；坐骨神经痛大肠俞针感须“麻电感到达足趾”，臂丛神经痛要“针感到位，手法达到量学要求，使气至病所”。剧痛时借用神经科的手法：水沟“全身止痛穴”重雀啄，或加人中、内关。医案中委中20例、环跳20例、阳陵泉19例、夹脊26例。",
+      "en": "Point selection combines \"near needling with distal needling along the channel\": in lumbago \"the distal point above all is Weizhong\", degenerative spondylitis cites \"seek Weizhong for back and lumbar pain\", Houxi and the lumbar-leg point are needled while the patient moves the waist; in sciatica Dachangshu must give an electric sensation reaching the toes, in brachial plexus neuralgia \"sensation must arrive, manipulation must meet the quantified requirement, so qi reaches the disease site\". In severe pain he borrows neurological technique: Shuigou, the \"whole-body analgesic point\", with strong pecking, or Renzhong and Neiguan added. In the cases Weizhong 20, Huantiao 20, Yanglingquan 19, Jiaji 26.",
+      "cite": [
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "颈与肩臂病各有固定小方：颈椎病取风池、完骨、天柱(施捻转补法“补益脑髓”)加颈椎夹脊，治则“活血通络、祛风止痛”；落枕取落枕穴、悬钟、后溪加阿是穴刺络拔罐，多1~3次痊愈，且提醒中老年人反复落枕“应考虑颈椎病”；肩周炎用“七星台”肩贞至肩外俞诸穴与条口透承山，并加痛点刺络拔罐。",
+      "en": "Neck and shoulder-arm disease each get a fixed small formula. Cervical spondylosis: Fengchi, Wangu, Tianzhu (twirling tonification, \"replenish brain marrow\") plus cervical Jiaji, principle \"activate blood, unblock the network, dispel wind, stop pain\". Stiff neck: Luozhen, Xuanzhong, Houxi plus bleeding-cupping at the ashi point, mostly cured in 1-3 sessions, with a warning that repeated stiff neck in the middle-aged \"should make one think of cervical spondylosis\". Frozen shoulder: the \"Seven Star Platform\" points Jianzhen to Jianwaishu and Tiaokou through to Chengshan, with bleeding-cupping at the tender point.",
+      "cite": [
+        "E11",
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "zh": "痹证的主张是“三法并用”：针以疏理经气，灸以“温散寒邪、通经活络”，刺络以“活血化瘀、逐邪散痹”，“三者并用疗效最佳”；他还认为灸法“以通经活络为主要的功效”，故热痹也可灸，只需增加泻热穴并加强泻法。类风湿关节炎治则“祛风除湿、活血通络”，主穴风池、曲池、血海、合谷、太冲(上下、阴阳相配)，再按下颌、颈胸椎、腰椎、肩、肘、腕、掌指、骶髂、髋、膝、踝、跖趾各关节加局部穴，另有关节压痛点刺络与耳针，每日针灸2次，14日为1个疗程。",
+      "en": "His stance on bi is \"three methods together\": needling to regulate channel qi, moxa to \"warm and scatter cold, unblock the channels\", bleeding to \"activate blood, resolve stasis, expel evil, disperse bi\"; \"used together they work best\". He holds that moxa works mainly by \"unblocking the channels\", so heat bi may also be moxaed provided heat-draining points are added and reducing manipulation is strengthened. Rheumatoid arthritis: \"dispel wind, drain damp, activate blood, unblock the network\"; main points Fengchi, Quchi, Xuehai, Hegu, Taichong (yin-yang, up-down pairing), then local points by joint from the jaw and cervical-thoracic spine to metatarsophalangeal joints, plus bleeding at tender points near joints and auricular points; needling twice daily, 14 days a course.",
+      "cite": [
+        "E14",
+        "E15",
+        "E16",
+        "E17"
+      ]
+    },
+    {
+      "zh": "慢性退变与脊柱病加补肾、督脉：腰痛治则“滋补肝肾、舒筋活络、强壮筋骨”，以肾与膀胱经局部及远端穴为主；强直性脊柱炎“补肾强督、祛邪通络”，取夹脊、肾俞、命门、腰阳关、委中，另温针灸督脉大椎、筋缩、至阳、命门、腰阳关、长强，大椎叩刺放血；膝骨关节炎“行气活血、疏通经络”，配阴谷、血海、阳陵泉、梁丘与肾俞、脾俞温针灸。",
+      "en": "Chronic degeneration and spinal disease add kidney and du-channel tonification. Lumbago: \"nourish liver and kidney, relax sinews, unblock the network, strengthen sinew and bone\", chiefly local and distal points on the kidney and bladder channels. Ankylosing spondylitis: \"tonify the kidney, strengthen the du channel, expel evil, unblock the network\": Jiaji, Shenshu, Mingmen, Yaoyangguan, Weizhong, plus warmed-needle moxa on du points Dazhui, Jinsuo, Zhiyang, Mingmen, Yaoyangguan, Changqiang, with pricking-bleeding at Dazhui. Knee osteoarthritis: \"move qi, activate blood, unblock the channels\", Yingu, Xuehai, Yanglingquan, Liangqiu, with warmed needle at Shenshu and Pishu.",
+      "cite": [
+        "E18",
+        "E19",
+        "E20"
+      ]
+    },
+    {
+      "zh": "疗程按急慢分期：坐骨神经痛急性期(10日内)刺络每日1次、其他针法每日2次，“15日以内不可间断治疗”，稳定期(10~45日)隔日刺络，疗程1~3个月，后遗症期疗程延长。强直性脊柱炎温针灸每日1次，30日为1个疗程。",
+      "en": "Course follows acute and chronic stages. Sciatica acute stage (within 10 days): bleeding once daily, other needling twice daily, \"no interruption within 15 days\"; stable stage (days 10-45): bleeding every other day, 1-3 months; sequelae stage (beyond 45 days): longer. Ankylosing spondylitis warmed-needle moxa is once daily, 30 days a course.",
+      "cite": [
+        "E5",
+        "E21"
+      ]
+    },
+    {
+      "zh": "预后分“可治愈”与“只能辅助”：落枕1~3次痊愈，腰扭伤早期多一次治愈，坐骨神经痛“是针灸的最佳适应证”，膝骨关节炎“单独应用即可发挥有效治疗作用”；但神经根型颈椎病出现肌萎缩治疗效果较差，类风湿关节炎“尚不能被根治”，针灸只是辅助，强直性脊柱炎要与药物配合并重视功能锻炼。",
+      "en": "Prognosis divides into \"curable\" and \"only adjunctive\": stiff neck cured in 1-3 sessions, acute lumbar sprain mostly with one early session; sciatica is \"the best indication for acupuncture\", knee osteoarthritis \"can be treated effectively with acupuncture alone\". But cervical spondylotic radiculopathy with muscle atrophy responds poorly, rheumatoid arthritis \"cannot yet be radically cured\" and acupuncture is only adjunctive, and ankylosing spondylitis needs drugs together with functional exercise.",
+      "cite": [
+        "E27",
+        "E28",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "骨伤风湿免疫科：病 → 治则 → 要穴 → 技术 → 预后",
+        "en": "Orthopaedics-rheumatology: disease → principle → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "治则",
+          "en": "Principle"
+        },
+        {
+          "zh": "要穴",
+          "en": "Key points"
+        },
+        {
+          "zh": "技术",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后备注",
+          "en": "Prognosis note"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "颈椎病",
+            "en": "Cervical spondylosis"
+          },
+          {
+            "zh": "活血通络、祛风止痛",
+            "en": "Activate blood, unblock network, dispel wind, stop pain"
+          },
+          "风池、完骨、天柱、颈椎夹脊",
+          {
+            "zh": "捻转补法，可加电针",
+            "en": "Twirling tonification; electro-acupuncture optional"
+          },
+          {
+            "zh": "一般较好；神经根型肌萎缩较差",
+            "en": "Generally good; radicular type with atrophy poorer"
+          }
+        ],
+        [
+          {
+            "zh": "落枕",
+            "en": "Stiff neck"
+          },
+          {
+            "zh": "舒筋通络、活血止痛",
+            "en": "Relax sinews, unblock network, activate blood, stop pain"
+          },
+          "落枕穴、阿是穴、风池、颈椎夹脊、悬钟、后溪",
+          {
+            "zh": "阿是穴刺络拔罐；针后可配推拿、热敷",
+            "en": "Bleeding-cupping at ashi; massage and heat afterwards"
+          },
+          {
+            "zh": "1~3次痊愈",
+            "en": "Cured in 1-3 sessions"
+          }
+        ],
+        [
+          {
+            "zh": "退行性脊柱炎",
+            "en": "Degenerative spondylitis"
+          },
+          {
+            "zh": "祛邪通络、通调督脉与膀胱经气",
+            "en": "Expel evil, unblock network, regulate du and bladder channel qi"
+          },
+          "肾俞、大肠俞、腰阳关、委中、养老、水沟；环跳、阳陵泉刺络",
+          {
+            "zh": "水沟重雀啄止剧痛；刺络拔罐",
+            "en": "Strong pecking at Shuigou; bleeding-cupping"
+          },
+          {
+            "zh": "良好，有效缓解疼痛",
+            "en": "Good; relieves pain"
+          }
+        ],
+        [
+          {
+            "zh": "臂丛神经痛",
+            "en": "Brachial plexus neuralgia"
+          },
+          {
+            "zh": "行气散瘀、通经止痛",
+            "en": "Move qi, disperse stasis, unblock channel, stop pain"
+          },
+          "极泉、后溪、外关、肩外俞、肩中俞、天宗、曲垣、秉风、肩贞、痛点",
+          {
+            "zh": "痛点刺络拔罐；针感到位、量学要求",
+            "en": "Bleeding-cupping at tender point; sensation must arrive"
+          },
+          {
+            "zh": "原发性良好；继发者看原发病",
+            "en": "Primary good; secondary depends on cause"
+          }
+        ],
+        [
+          {
+            "zh": "肩关节周围炎",
+            "en": "Frozen shoulder"
+          },
+          {
+            "zh": "活血祛瘀、通络止痛",
+            "en": "Activate blood, dispel stasis, unblock network, stop pain"
+          },
+          "肩贞至肩外俞“七星台”、天宗、曲垣、条口透承山",
+          {
+            "zh": "患侧肩部刺络拔罐；条口透承山",
+            "en": "Bleeding-cupping on the shoulder; Tiaokou through Chengshan"
+          },
+          {
+            "zh": "良好；受凉劳累易复发",
+            "en": "Good; relapses with cold or strain"
+          }
+        ],
+        [
+          {
+            "zh": "肱骨外上髁炎",
+            "en": "Tennis elbow"
+          },
+          {
+            "zh": "舒筋活血、通络止痛",
+            "en": "Relax sinews, activate blood, unblock network, stop pain"
+          },
+          "曲池、手三里、合谷、阿是穴",
+          {
+            "zh": "阿是穴针灸并用、刺络拔罐",
+            "en": "Needle and moxa at ashi; bleeding-cupping"
+          },
+          {
+            "zh": "一般良好；延误可致关节僵硬",
+            "en": "Generally good; delay may stiffen the joint"
+          }
+        ],
+        [
+          {
+            "zh": "腰痛",
+            "en": "Lumbago"
+          },
+          {
+            "zh": "滋补肝肾、舒筋活络、强壮筋骨",
+            "en": "Nourish liver-kidney, relax sinews, strengthen sinew and bone"
+          },
+          "肾俞、关元俞、膀胱俞、委中、后溪、阿是穴；剧痛加人中、内关",
+          {
+            "zh": "近刺加循经远刺；痛点刺络拔罐",
+            "en": "Near plus distal needling; bleeding-cupping at tender point"
+          },
+          {
+            "zh": "腰扭伤早期多一次治愈",
+            "en": "Early sprain often cured in one session"
+          }
+        ],
+        [
+          {
+            "zh": "坐骨神经痛",
+            "en": "Sciatica"
+          },
+          {
+            "zh": "活血止痛、疏通经络",
+            "en": "Activate blood, stop pain, unblock channels"
+          },
+          "大肠俞、环跳、委中、阳陵泉、风市、飞扬、昆仑、承山",
+          {
+            "zh": "刺络拔罐出血3~5ml；针感达足趾；温针",
+            "en": "Bleeding-cupping 3-5 ml; sensation to toes; warmed needle"
+          },
+          {
+            "zh": "良好；“针灸最佳适应证”",
+            "en": "Good; \"best indication\""
+          }
+        ],
+        [
+          {
+            "zh": "膝关节骨性关节炎",
+            "en": "Knee osteoarthritis"
+          },
+          {
+            "zh": "行气活血、疏通经络",
+            "en": "Move qi, activate blood, unblock channels"
+          },
+          "阴谷、阳陵泉、阴陵泉、梁丘、膝阳关、膝眼；温针肾俞、脾俞、血海",
+          {
+            "zh": "耳针肝肾、梅花针、温针灸",
+            "en": "Auricular liver-kidney, plum-blossom needle, warmed needle"
+          },
+          {
+            "zh": "单用即有效，延缓病情",
+            "en": "Effective alone; slows progress"
+          }
+        ],
+        [
+          {
+            "zh": "类风湿关节炎",
+            "en": "Rheumatoid arthritis"
+          },
+          {
+            "zh": "祛风除湿、活血通络",
+            "en": "Dispel wind, drain damp, activate blood, unblock network"
+          },
+          "风池、曲池、血海、合谷、太冲；按关节加局部穴",
+          {
+            "zh": "关节压痛点刺络；耳针；每日2次，14日1疗程",
+            "en": "Bleeding at tender points; auricular; twice daily, 14-day course"
+          },
+          {
+            "zh": "尚不能根治；针灸为辅助",
+            "en": "Not radically curable; adjunctive"
+          }
+        ],
+        [
+          {
+            "zh": "强直性脊柱炎",
+            "en": "Ankylosing spondylitis"
+          },
+          {
+            "zh": "补肾强督、祛邪通络",
+            "en": "Tonify kidney, strengthen du channel, expel evil, unblock network"
+          },
+          "肾俞、命门、腰阳关、夹脊、委中；大椎、筋缩、至阳、长强",
+          {
+            "zh": "温针灸督脉，大椎叩刺放血；每日1次30日1疗程",
+            "en": "Warmed needle on du points; pricking-bleeding at Dazhui; daily, 30-day course"
+          },
+          {
+            "zh": "无根治法；辅助并配合药物、锻炼",
+            "en": "No radical cure; adjunct with drugs and exercise"
+          }
+        ],
+        [
+          {
+            "zh": "痹证(实用针灸学)",
+            "en": "Bi syndrome (practical text)"
+          },
+          {
+            "zh": "以通为主，辅以扶正祛邪",
+            "en": "Mainly unblock, aided by supporting the right and expelling evil"
+          },
+          "按关节部位选穴(医案中膝眼、阳陵泉、合谷、曲池、鹤顶、三阴交、大椎较多)",
+          {
+            "zh": "针、灸、刺络并用；热痹也可灸",
+            "en": "Needle, moxa and bleeding together; moxa for heat bi too"
+          },
+          {
+            "zh": "实证较好，顽痹、虚证较差",
+            "en": "Excess pattern better; stubborn or deficient worse"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "71例骨伤风湿类医案中的治则与技术计数(68例写有治则)",
+        "en": "Principle and technique counts across 71 orthopaedic-rheumatic cases (68 state a principle)"
+      },
+      "cols": [
+        {
+          "zh": "类别",
+          "en": "Kind"
+        },
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "例数",
+          "en": "Cases"
+        }
+      ],
+      "rows": [
+        [
+          "治则",
+          "含通络/经络/经脉",
+          "39"
+        ],
+        [
+          "治则",
+          "含活血/化瘀",
+          "33"
+        ],
+        [
+          "治则",
+          "含止痛",
+          "27"
+        ],
+        [
+          "治则",
+          "含祛风/散寒/除湿/疏风",
+          "26"
+        ],
+        [
+          "治则",
+          "含补肾/肝肾/益气/补益",
+          "12"
+        ],
+        [
+          "技术",
+          "夹脊(选穴含夹脊)",
+          "26"
+        ],
+        [
+          "技术",
+          "拔罐",
+          "17"
+        ],
+        [
+          "技术",
+          "灸(含温针)",
+          "15"
+        ],
+        [
+          "技术",
+          "刺络/放血/点刺/三棱针",
+          "12"
+        ],
+        [
+          "技术",
+          "透刺",
+          "7"
+        ],
+        [
+          "穴",
+          "委中",
+          "20"
+        ],
+        [
+          "穴",
+          "环跳",
+          "20"
+        ],
+        [
+          "穴",
+          "阳陵泉",
+          "19"
+        ],
+        [
+          "穴",
+          "阿是穴",
+          "10"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "可见臂丛神经痛属于经筋发病",
+      "src": "石学敏针灸全集·治疗各论·臂丛神经痛 p.500"
+    },
+    {
+      "id": "E2",
+      "quote": "注重经气闭阻而致病的理论，采取针刺配合刺络拔罐的方法",
+      "src": "石学敏针灸全集·治疗各论·坐骨神经痛 p.510"
+    },
+    {
+      "id": "E3",
+      "quote": "手三阳和足少阳筋络受损，气血阻滞，为该病的主要病机",
+      "src": "石学敏针灸全集·治疗各论·落枕 p.498"
+    },
+    {
+      "id": "E4",
+      "quote": "令每个部位出血3~5ml，留罐时间为5~10min，用于疼痛急性发作",
+      "src": "石学敏针灸全集·治疗各论·坐骨神经痛 p.511"
+    },
+    {
+      "id": "E5",
+      "quote": "刺络每日1次，其他针法每日2次，15日以内不可间断治疗",
+      "src": "石学敏针灸全集·治疗各论·坐骨神经痛 p.511"
+    },
+    {
+      "id": "E6",
+      "quote": "不论是新病、宿瘀，都能达到活血通络、祛瘀生新之效用",
+      "src": "石学敏针灸全集·治疗各论·肱骨外上髁炎 p.503"
+    },
+    {
+      "id": "E7",
+      "quote": "临床以近刺和循经远刺相结合的原则选穴",
+      "src": "石学敏针灸全集·治疗各论·腰痛 p.505"
+    },
+    {
+      "id": "E8",
+      "quote": "水沟有“全身止痛穴”之说，对强烈疼痛，重雀啄有迅速止痛之效",
+      "src": "石学敏针灸全集·治疗各论·退行性脊柱炎 p.499"
+    },
+    {
+      "id": "E9",
+      "quote": "该疗法实施中务求针感到位，手法达到量学要求，使气至病所，经络得通，止痛乃效",
+      "src": "石学敏针灸全集·治疗各论·臂丛神经痛 p.501"
+    },
+    {
+      "id": "E10",
+      "quote": "剧痛难忍时可加人中、内关醒脑开窍，镇痛效果佳",
+      "src": "石学敏针灸全集·治疗各论·腰痛 p.505"
+    },
+    {
+      "id": "E11",
+      "quote": "石学敏院士以“活血通络、祛风止痛”为治疗原则治疗颈椎病",
+      "src": "石学敏针灸全集·治疗各论·颈椎病 p.496"
+    },
+    {
+      "id": "E12",
+      "quote": "针灸治疗落枕，多可1次见效",
+      "src": "石学敏针灸全集·治疗各论·落枕 p.498"
+    },
+    {
+      "id": "E13",
+      "quote": "肩贞至肩外俞七穴，为手太阳小肠经穴，又名“七星台”",
+      "src": "石学敏针灸全集·治疗各论·肩关节周围炎 p.502"
+    },
+    {
+      "id": "E14",
+      "quote": "灸疗以温散寒邪，通经活络为主；刺络以活血化瘀，逐邪散痹为主，所以三者并用疗效最佳",
+      "src": "石学敏实用针灸学·痹证 p.347"
+    },
+    {
+      "id": "E15",
+      "quote": "所以，临床中热痹也同样可以应用灸疗",
+      "src": "石学敏实用针灸学·痹证 p.347"
+    },
+    {
+      "id": "E16",
+      "quote": "在疼痛严重的关节周围，施以刺络法，收效极佳",
+      "src": "石学敏实用针灸学·痹证 p.345"
+    },
+    {
+      "id": "E17",
+      "quote": "每日针灸2次，上下午各1次，14日为1个疗程",
+      "src": "石学敏针灸全集·治疗各论·类风湿关节炎 p.517"
+    },
+    {
+      "id": "E18",
+      "quote": "补肾强督、祛邪通络",
+      "src": "石学敏针灸全集·治疗各论·强直性脊柱炎 p.518"
+    },
+    {
+      "id": "E19",
+      "quote": "大椎叩刺放血",
+      "src": "石学敏针灸全集·治疗各论·强直性脊柱炎 p.518"
+    },
+    {
+      "id": "E20",
+      "quote": "远端尤以委中为重",
+      "src": "石学敏针灸全集·治疗各论·腰痛 p.508"
+    },
+    {
+      "id": "E21",
+      "quote": "（2）温针灸法：每日1次，每次30min，30日为1个疗程",
+      "src": "石学敏针灸全集·治疗各论·强直性脊柱炎 p.519"
+    },
+    {
+      "id": "E22",
+      "quote": "坐骨神经痛是针灸的最佳适应证",
+      "src": "石学敏针灸全集·治疗各论·坐骨神经痛 p.511"
+    },
+    {
+      "id": "E23",
+      "quote": "针灸治疗骨性关节炎，单独应用即可发挥有效治疗作用",
+      "src": "石学敏针灸全集·治疗各论·膝关节骨性关节炎 p.514"
+    },
+    {
+      "id": "E24",
+      "quote": "神经根型颈椎病如出现肌肉萎缩治疗效果较差",
+      "src": "石学敏针灸全集·治疗各论·颈椎病 p.497"
+    },
+    {
+      "id": "E25",
+      "quote": "目前尚不能被根治",
+      "src": "石学敏针灸全集·治疗各论·类风湿关节炎 p.517"
+    },
+    {
+      "id": "E26",
+      "quote": "与药物配合治疗可达到最佳疗效",
+      "src": "石学敏针灸全集·治疗各论·强直性脊柱炎 p.519"
+    },
+    {
+      "id": "E27",
+      "quote": "多数患者针刺治疗可1~3次痊愈",
+      "src": "石学敏针灸全集·治疗各论·落枕 p.498"
+    },
+    {
+      "id": "E28",
+      "quote": "腰扭伤当日或早期针刺治疗多可一次治愈",
+      "src": "石学敏针灸全集·治疗各论·腰痛 p.505"
+    }
+  ],
+  "caveats": {
+    "zh": "两本书同一病名并存(全集的“肩关节周围炎”与实用针灸学的“肩凝症”等)，本指南以全集为主、实用针灸学作旁证，并已合并计数。医案中“夹脊”“阿是穴”按原文点名统计。“七星台”为原文对肩贞至肩外俞七穴的称呼。药物治疗、手术等内容属原书西医部分，不代表针灸主张。",
+    "en": "The two books carry parallel names for the same disease (frozen shoulder in the complete collection, \"shoulder-congealing\" in the practical text); this guide leads with the complete collection and uses the practical text as corroboration. Case tallies count \"Jiaji\" and \"ashi point\" as named in the text. \"Seven Star Platform\" is the book's name for the seven points Jianzhen to Jianwaishu. Drug and surgical content belongs to the book's Western-medicine passages, not to his acupuncture stance."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-026",
+      "sxm-rx-027",
+      "sxm-rx-028",
+      "sxm-rx-029",
+      "sxm-rx-030",
+      "sxm-rx-031",
+      "sxm-rx-032",
+      "sxm-rx-033",
+      "sxm-rx-034",
+      "sxm-rx-035",
+      "sxm-rx-036",
+      "sxm-rx-108"
+    ],
+    "cases": [
+      "sxm-330",
+      "sxm-345",
+      "sxm-350",
+      "sxm-363",
+      "sxm-380",
+      "sxm-396"
+    ],
+    "points": [
+      "委中",
+      "环跳",
+      "阳陵泉",
+      "风池",
+      "完骨",
+      "天柱",
+      "曲池",
+      "合谷",
+      "外关",
+      "大肠俞",
+      "肾俞",
+      "后溪"
+    ]
+  }
+}

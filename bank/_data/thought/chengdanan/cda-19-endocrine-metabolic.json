@@ -1,0 +1,438 @@
+{
+  "id": "cda-19-endocrine-metabolic",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 19,
+  "title": {
+    "zh": "内分泌与新陈代谢：调腺体功能、背俞与关元灸，重症归专医",
+    "en": "Endocrine and Metabolic Disease: Regulating Gland Function, Back-shu with Guanyuan Moxa, Severe Cases to a Specialist"
+  },
+  "summary": {
+    "zh": "这两章只有6条(内分泌4、新陈代谢2)，是全书最薄的一块，所以他的思路要看目的句与转诊。甲状腺病同一套穴位，亢进者中刺激加皮肤针“抑制分泌”，减退者改轻度刺激；爱迪生氏病要“刺激肾上腺”，独有深针二寸的进针深度；糖尿病、尿崩症以三焦俞、肾俞等背俞加关元、命门日灸，间日中刺激，但明写“专医用药物治疗为主，针术为辅”；指端肥厚症则直言非适应证。",
+    "en": "These two chapters hold only 6 entries (4 endocrine, 2 metabolic), the thinnest block of the book, so his thinking has to be read from the aim lines and the referrals. In thyroid disease the same points serve both ways: the overactive gland gets moderate stimulation plus skin needle to suppress secretion, the underactive gland light stimulation. Addison disease is to have the adrenals stimulated, the only entry with a stated insertion depth of two cun. Diabetes and diabetes insipidus use back-shu such as Sanjiaoshu and Shenshu plus daily Guanyuan or Mingmen moxa with alternate-day moderate needling, but he writes that a specialist's drugs come first and needling is auxiliary; acromegaly is plainly not indicated."
+  },
+  "takeaways": [
+    {
+      "zh": "他把内分泌病当作腺体功能的亢进或减退来处理，与他的神经逻辑同构。甲状腺肥大以“镇静颈交感神经之功能，抑制甲状腺之分泌过多，刺激生殖腺传达反射”为目的；黏液水肿则“与甲状腺肥大之取穴相同，而予轻度刺激”，病理篇写明其目的是“旺盛甲状腺之功能”。即同一组穴位，靠刺激量与目的转向：亢进取镇静，减退取兴奋。",
+      "en": "He treats endocrine disease as gland function too high or too low, the same structure as his nerve logic. Goiter aims to calm cervical sympathetic function, suppress excess thyroid secretion and stimulate a reflex to the gonads; myxoedema uses the same points with light stimulation, and the pathology book states its aim as raising thyroid function. The same point set is turned around by dose and aim: calm for overactivity, rouse for underactivity.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "甲状腺肥大的手法很具体：两组穴(风池、大椎、大杼、天突、水突、命门、中渚；天柱、身柱、风门、廉泉、人迎、阳关、带脉)每日轮换用中刺激，“并于项部及肩胛部用皮肤针”。病理篇更简单，只说“风池、肩井、身柱等穴直接制止甲状腺功能之异常亢进”。预后取决于早晚：“初起，即予适当之治疗，可望收效；重症多不良”。",
+      "en": "The goiter technique is concrete: two groups (Fengchi, Dazhui, Dazhu, Tiantu, Shuitu, Mingmen, Zhongzhu; Tianzhu, Shenzhu, Fengmen, Lianquan, Renying, Yangguan, Daimai) alternated daily with moderate stimulation, skin needle over the nape and scapular region. The pathology book is simpler: Fengchi, Jianjing, Shenzhu and others directly check abnormal overactivity of the gland. Prognosis depends on timing: good results are hoped for if treated at onset, severe cases are mostly poor.",
+      "cite": [
+        "E4",
+        "E5",
+        "E6"
+      ]
+    },
+    {
+      "zh": "爱迪生氏病是这六条里唯一直接“作刺激肾上腺治疗”的，也是唯一写明进针深度的：三焦俞、肾俞“作深针二寸左右”，脊中、悬枢三至五分，天枢、腹结五分，没有刺激强度、灸或调护、预后。病理篇对内脏的一般原则解释了这种深刺：腹部内脏重要疾患以太阳丛为目的，“在腰椎之上部，若向内上方深入刺针，可奏伟大之效果”。",
+      "en": "Addison disease is the one entry whose stated aim is direct adrenal stimulation, and the only one giving insertion depths: Sanjiaoshu and Shenshu about two cun deep, Jizhong and Xuanshu three to five fen, Tianshu and Fujie five fen, with no intensity, moxa, care or prognosis given. The pathology book's general rule for internal organs explains the deep needling: serious abdominal-organ disease targets the solar plexus, and deep needling inward and upward at the upper lumbar spine is said to give a great effect.",
+      "cite": [
+        "E7",
+        "E8",
+        "E9"
+      ]
+    },
+    {
+      "zh": "糖尿病的目的在处方集写“用反射诱导调整肝脏、脾脏之功能”，病理篇写“刺激胰脏之荷尔蒙分泌旺盛，调整糖之新陈代谢趋于正常”，两处的靶器官不同，取穴也不同：处方集列肺俞、肝俞、脾俞、肾俞等11穴(六条中单组最长)，病理篇“以脾俞、三焦俞、肝俞为主”。手法是间日中刺激，命门与关元“日用艾条灸治”。",
+      "en": "For diabetes the prescriptions book aims at regulating liver and spleen function by reflex and induction, while the pathology book aims at stimulating pancreatic hormone secretion to normalise sugar metabolism; the target organ differs and so do the points: 11 points including Feishu, Ganshu, Pishu, Shenshu in the prescriptions book (the longest single group of the six), and Pishu, Sanjiaoshu, Ganshu chiefly in the pathology book. The method is moderate needling on alternate days with Mingmen and Guanyuan moxaed daily by moxa stick.",
+      "cite": [
+        "E10",
+        "E11",
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "zh": "两条新陈代谢病的结构一致：间日中刺激，加每日艾条灸(糖尿病灸命门、关元；尿崩症“并日用艾条灸治”)，且都要专医：糖尿病“应由专医用药物治疗为主，针术为辅”，尿崩症“并由专医作药物治疗”，并配饮食(减盐、减蛋白质)。尿崩症以“调整肾功能”为目的，取三焦俞、肾俞、气海俞、关元四穴，预后“多良；但收效殊缓”，糖尿病则“轻症得愈，重者每陷于昏睡而亡”。",
+      "en": "The two metabolic entries share a structure: moderate needling on alternate days plus daily moxa stick (Mingmen and Guanyuan in diabetes; daily moxa in diabetes insipidus), and both are handed to a specialist: diabetes is primarily drug treatment with acupuncture as an aid, diabetes insipidus is given drugs by a specialist alongside a diet with less salt and less protein. Diabetes insipidus aims to regulate kidney function with four points, Sanjiaoshu, Shenshu, Qihaishu, Guanyuan, prognosis mostly good but especially slow; mild diabetes can be cured, severe cases often sink into coma and die.",
+      "cite": [
+        "E11",
+        "E12",
+        "E14",
+        "E15",
+        "E16",
+        "E13"
+      ]
+    },
+    {
+      "zh": "范围界线画得很窄：指端肥厚症“本病非针灸之适应证，现时亦无相当之效方，但以经过缓慢，无生命危险”，不给穴；黏液水肿“并由专医用药剂治疗”；糖尿病、尿崩症以药物为主。六条中4条(黏液水肿、指端肥厚、糖尿病、尿崩症)或非适应证或归专医，只有甲状腺肥大与爱迪生氏病由针灸独立处理，其中爱迪生氏病仅一行穴位，没有任何疗效判断。",
+      "en": "The scope is drawn narrowly: acromegaly is stated not to be an indication for acupuncture, with no effective prescription at present, though its slow course carries no danger to life, and no points are given; myxoedema is treated with a specialist's drugs; diabetes and diabetes insipidus are drug-led. Four of the six (myxoedema, acromegaly, diabetes, diabetes insipidus) are either non-indications or referred; only goiter and Addison disease are handled by acupuncture alone, and Addison disease has a single line of points and no judgment of results.",
+      "cite": [
+        "E2",
+        "E17",
+        "E12",
+        "E16"
+      ]
+    },
+    {
+      "zh": "与“新陈代谢”相关的还有痛风：病理篇称之为“新陈代谢障碍之慢性疾患”，治法“以镇痛与促进尿酸之吸收为目的，于痛部之上下采取穴位，无一定之治穴”；在处方集里它归入运动器病的尿酸关节炎。同一病在病理篇与处方集里的归类不同，处方集的新陈代谢病章只收糖尿病与尿崩症。",
+      "en": "Gout is also linked to metabolism: the pathology book calls it a chronic disorder of metabolism, treated to relieve pain and promote absorption of uric acid, choosing points above and below the painful part with no fixed treatment point; in the prescriptions book it sits in the locomotor chapter as uric-acid arthritis. The same disease is classed differently in the two books, and the metabolic chapter of the prescriptions book holds only diabetes and diabetes insipidus.",
+      "cite": [
+        "E18",
+        "E19"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "内分泌与新陈代谢：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Endocrine and metabolic: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "甲状腺肥大(瘿气)",
+            "en": "Goiter"
+          },
+          {
+            "zh": "镇静颈交感神经，抑制甲状腺分泌，刺激生殖腺反射",
+            "en": "Calm cervical sympathetic, suppress thyroid secretion, reflex to gonads"
+          },
+          "风池、大椎、大杼、天突、水突、命门、中渚；天柱、身柱、风门、廉泉、人迎、阳关、带脉",
+          {
+            "zh": "每日轮换中刺激；项部、肩胛部皮肤针",
+            "en": "Moderate, groups alternated daily; skin needle on nape and scapula"
+          },
+          {
+            "zh": "初起治疗可望收效；重症多不良",
+            "en": "Hopeful if treated early; severe mostly poor"
+          }
+        ],
+        [
+          {
+            "zh": "黏液水肿",
+            "en": "Myxoedema"
+          },
+          {
+            "zh": "取穴同甲状腺肥大；病理篇：旺盛甲状腺功能",
+            "en": "Same points as goiter; pathology book: raise thyroid function"
+          },
+          {
+            "zh": "同甲状腺肥大",
+            "en": "As goiter"
+          },
+          {
+            "zh": "轻度刺激；专医用药剂",
+            "en": "Light stimulation; specialist drugs"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "指端肥厚症",
+            "en": "Acromegaly"
+          },
+          {
+            "zh": "非针灸适应证，亦无相当效方",
+            "en": "Not an indication, no effective prescription"
+          },
+          {
+            "zh": "不列穴",
+            "en": "No points"
+          },
+          {
+            "zh": "无",
+            "en": "None"
+          },
+          {
+            "zh": "经过缓慢，无生命危险",
+            "en": "Slow course, no danger to life"
+          }
+        ],
+        [
+          {
+            "zh": "爱迪生氏病(黑疸)",
+            "en": "Addison disease"
+          },
+          {
+            "zh": "刺激肾上腺",
+            "en": "Stimulate the adrenals"
+          },
+          "三焦俞、肾俞；脊中、悬枢；天枢、腹结",
+          {
+            "zh": "三焦俞、肾俞深针约2寸；脊中、悬枢3–5分；天枢、腹结5分",
+            "en": "Sanjiaoshu, Shenshu ~2 cun; Jizhong, Xuanshu 3–5 fen; Tianshu, Fujie 5 fen"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "糖尿病(消渴)",
+            "en": "Diabetes"
+          },
+          {
+            "zh": "反射诱导调整肝、脾功能",
+            "en": "Reflex and induction to regulate liver and spleen"
+          },
+          "肺俞、肝俞、脾俞、肾俞、廉泉、中脘、关元、太渊、神门、三阴交、然谷",
+          {
+            "zh": "间日中刺激；命门、关元日艾条灸；专医药物为主",
+            "en": "Moderate on alternate days; Mingmen, Guanyuan daily moxa stick; specialist drugs first"
+          },
+          {
+            "zh": "轻症得愈；重者多昏睡而亡",
+            "en": "Mild cured; severe often coma and death"
+          }
+        ],
+        [
+          {
+            "zh": "尿崩症",
+            "en": "Diabetes insipidus"
+          },
+          {
+            "zh": "调整肾功能",
+            "en": "Regulate kidney function"
+          },
+          "三焦俞、肾俞、气海俞、关元",
+          {
+            "zh": "间日中刺激，日艾条灸；减盐、减蛋白质；专医药物",
+            "en": "Moderate on alternate days, daily moxa stick; less salt and protein; specialist drugs"
+          },
+          {
+            "zh": "多良，收效殊缓",
+            "en": "Mostly good, especially slow"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "病理篇提示与处方集对照",
+        "en": "Pathology-book pointer versus prescriptions book"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "病理篇的目的与穴",
+          "en": "Pathology book: aim and points"
+        },
+        {
+          "zh": "处方集的目的与穴",
+          "en": "Prescriptions book: aim and points"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "甲状腺肿",
+            "en": "Goiter"
+          },
+          {
+            "zh": "直接制止甲状腺功能异常亢进：风池、肩井、身柱等",
+            "en": "Directly check overactivity: Fengchi, Jianjing, Shenzhu, others"
+          },
+          {
+            "zh": "镇静颈交感神经、抑制分泌：14穴两组，加皮肤针",
+            "en": "Calm cervical sympathetic, suppress secretion: 14 points in two groups, plus skin needle"
+          }
+        ],
+        [
+          {
+            "zh": "黏液水肿",
+            "en": "Myxoedema"
+          },
+          {
+            "zh": "旺盛甲状腺功能：风池、肩井、身柱、扶突、人迎、水突",
+            "en": "Raise thyroid function: Fengchi, Jianjing, Shenzhu, Futu, Renying, Shuitu"
+          },
+          {
+            "zh": "同甲状腺肥大取穴，轻度刺激",
+            "en": "Goiter points with light stimulation"
+          }
+        ],
+        [
+          {
+            "zh": "糖尿病",
+            "en": "Diabetes"
+          },
+          {
+            "zh": "刺激胰脏荷尔蒙分泌，调糖代谢：脾俞、三焦俞、肝俞为主",
+            "en": "Stimulate pancreatic hormone, normalise sugar metabolism: Pishu, Sanjiaoshu, Ganshu chiefly"
+          },
+          {
+            "zh": "调整肝、脾功能：11穴，命门、关元日灸",
+            "en": "Regulate liver and spleen: 11 points, Mingmen and Guanyuan daily moxa"
+          }
+        ],
+        [
+          {
+            "zh": "痛风(尿酸关节炎)",
+            "en": "Gout (uric-acid arthritis)"
+          },
+          {
+            "zh": "镇痛、促尿酸吸收；痛部上下取穴，无一定治穴",
+            "en": "Relieve pain, absorb uric acid; points above and below the painful part, none fixed"
+          },
+          {
+            "zh": "旺盛血行、利尿、镇痛：肾俞、气海俞、膀胱俞、关元、三阴交为主穴(运动器病章)",
+            "en": "Boost circulation, diuresis, analgesia: Shenshu, Qihaishu, Pangguangshu, Guanyuan, Sanyinjiao (locomotor chapter)"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "以镇静颈交感神经之功能，抑制甲状腺之分泌过多，刺激生殖腺传达反射等为目的",
+      "src": "针灸处方集·第八章 内分泌障碍·甲状腺肥大 p.275"
+    },
+    {
+      "id": "E2",
+      "quote": "与“甲状腺肥大”之取穴相同，而予轻度刺激；并由专医用药剂治疗",
+      "src": "针灸处方集·第八章 内分泌障碍·黏液水肿 p.275"
+    },
+    {
+      "id": "E3",
+      "quote": "疗法：以旺盛甲状腺之功能，取风池、肩井、身柱、扶突、人迎、水突等穴",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·黏液水肿 p.163"
+    },
+    {
+      "id": "E4",
+      "quote": "治疗以风池、肩井、身柱等穴直接制止甲状腺功能之异常亢进",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·甲状腺肿病 p.163"
+    },
+    {
+      "id": "E5",
+      "quote": "每日轮换用中刺激针治，并于项部及肩胛部用皮肤针",
+      "src": "针灸处方集·第八章 内分泌障碍·甲状腺肥大 p.275"
+    },
+    {
+      "id": "E6",
+      "quote": "本病初起，即予适当之治疗，可望收效；重症多不良",
+      "src": "针灸处方集·第八章 内分泌障碍·甲状腺肥大 p.275"
+    },
+    {
+      "id": "E7",
+      "quote": "作刺激肾上腺治疗",
+      "src": "针灸处方集·第八章 内分泌障碍·爱迪生氏病 p.275"
+    },
+    {
+      "id": "E8",
+      "quote": "三焦俞、肾俞作深针二寸左右；脊中、悬枢针三至五分；天枢、腹结针五分",
+      "src": "针灸处方集·第八章 内分泌障碍·爱迪生氏病 p.275"
+    },
+    {
+      "id": "E9",
+      "quote": "在腰椎之上部，若向内上方深入刺针，可奏伟大之效果",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·太阳丛之部位与针治上之关系 p.141"
+    },
+    {
+      "id": "E10",
+      "quote": "用反射诱导调整肝脏、脾脏之功能为目的",
+      "src": "针灸处方集·第九章 新陈代谢病·糖尿病 p.276"
+    },
+    {
+      "id": "E11",
+      "quote": "间日用中刺激针治1次；命门与关元，日用艾条灸治",
+      "src": "针灸处方集·第九章 新陈代谢病·糖尿病 p.276"
+    },
+    {
+      "id": "E12",
+      "quote": "本病应由专医用药物治疗为主，针术为辅",
+      "src": "针灸处方集·第九章 新陈代谢病·糖尿病 p.276"
+    },
+    {
+      "id": "E13",
+      "quote": "轻症得愈，重者每陷于昏睡而亡",
+      "src": "针灸处方集·第九章 新陈代谢病·糖尿病 p.276"
+    },
+    {
+      "id": "E14",
+      "quote": "以刺激胰脏之荷尔蒙分泌旺盛，调整糖之新陈代谢趋于正常",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·糖尿病 p.158"
+    },
+    {
+      "id": "E15",
+      "quote": "以调整肾功能为目的",
+      "src": "针灸处方集·第九章 新陈代谢病·尿崩症 p.276"
+    },
+    {
+      "id": "E16",
+      "quote": "间日用中刺激之针治，并日用艾条灸治",
+      "src": "针灸处方集·第九章 新陈代谢病·尿崩症 p.276"
+    },
+    {
+      "id": "E17",
+      "quote": "本病非针灸之适应证，现时亦无相当之效方，但以经过缓慢，无生命危险",
+      "src": "针灸处方集·第八章 内分泌障碍·指端肥厚症 p.275"
+    },
+    {
+      "id": "E18",
+      "quote": "本病之原因，为新陈代谢障碍之慢性疾患",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·痛风 p.147"
+    },
+    {
+      "id": "E19",
+      "quote": "以镇痛与促进尿酸之吸收为目的，于痛部之上下采取穴位，无一定之治穴",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·痛风 p.148"
+    }
+  ],
+  "caveats": {
+    "zh": "病名为民国西医名词(甲状腺肥大、巴息朵氏病、黏液水肿、爱迪生氏病、指端肥厚症、糖尿病、尿崩症)，“颈交感神经”“肾上腺”“荷尔蒙”等是他当时的解释框架。全部只有6条，所有计数很小，应视为个案样本而非规律。爱迪生氏病、黏液水肿两条原文没有预后。",
+    "en": "Disease names are Republican-era Western terms (goiter, Basedow disease, myxoedema, Addison disease, acromegaly, diabetes mellitus, diabetes insipidus), and cervical sympathetic, adrenal and hormone are his explanatory framework of the day. With only six entries every count is tiny and should be read as case samples, not patterns. The Addison disease and myxoedema entries state no prognosis."
+  },
+  "see": {
+    "points": [
+      "肾俞",
+      "三焦俞",
+      "命门",
+      "关元",
+      "廉泉",
+      "风池",
+      "身柱",
+      "脾俞"
+    ],
+    "rx": [
+      "cda-rx-189",
+      "cda-rx-190",
+      "cda-rx-191",
+      "cda-rx-192",
+      "cda-rx-193",
+      "cda-rx-194",
+      "cda-rx-167"
+    ]
+  }
+}

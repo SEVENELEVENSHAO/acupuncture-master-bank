@@ -1,0 +1,705 @@
+{
+  "id": "cda-18-gyn-peds",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 18,
+  "title": {
+    "zh": "妇人科与小儿科：荐骨髎穴调血行，久病加灸，小儿浅刺与皮肤针",
+    "en": "Gynaecology and Paediatrics: Sacral Liao for Local Circulation, Moxa for Chronic Cases, Shallow Needle and Skin Needle for Children"
+  },
+  "summary": {
+    "zh": "妇人科16条、小儿科4条。妇科的目的多写“调整局部血行”“消炎”，骨架是荐骨髎穴(10条)加三阴交(12条)、中极、血海：急性中、强刺激，慢性改轻刺激加艾条灸；出血、流产、经闭等虚证用灸补(子宫出血灸至五十壮，常习性流产孕前孕后皆灸)；痛经按月经周期排针。他划的界线清楚：子宫癌肿不适宜针术，子宫外膜炎、乳腺炎化脓须专医或外科，妊娠呕吐有与专医药物并治之必要。小儿用28号短针浅刺，麻痹用皮肤针沿线叩打加按摩，腺病每日灸数月。",
+    "en": "Gynaecology 16 entries, paediatrics 4. Gynaecological aims are mostly to regulate local circulation and reduce inflammation, on a frame of the sacral Liao points (10 entries) with Sanyinjiao (12), Zhongji and Xuehai: acute cases moderate or strong stimulation, chronic cases light stimulation with moxa stick; deficiency states (bleeding, miscarriage, amenorrhoea) are supplemented with moxa; dysmenorrhoea is needled to the menstrual calendar. Limits are clear: uterine cancer is unsuited to needling, and perimetritis and suppurated mastitis go to a specialist or surgeon, and morning sickness may need drugs alongside. Children get shallow No. 28 short needles, palsy gets skin-needle tapping plus massage, scrofula daily moxa for months."
+  },
+  "takeaways": [
+    {
+      "zh": "妇科的立论是局部血行与炎症：膣炎“以调整局部之血行，为消炎之目的”，子宫实质炎“以消炎诱导旺盛血行为目的”。全章16条中，7条把“血行”写进目的，6条以消炎、消退炎肿为目的，5条明写诱导或反射。病理篇解释痛经奏效的道理也是这条线：“刺激传达子宫神经丛，调整其知觉功能之异常，以镇制疼痛”，另“使子宫之血管扩张，使月经之排泄良好”。",
+      "en": "The gynaecological rationale is local circulation and inflammation: vaginitis is aimed at regulating local circulation for the purpose of reducing inflammation, uterine parenchymatous inflammation at anti-inflammation by induction and boosting circulation. Of the 16 entries, 7 write circulation into the aim, 6 aim at reducing inflammation or swelling, and 5 name induction or reflex. The pathology book explains why dysmenorrhoea responds along the same lines: stimulation reaches the uterine nerve plexus and adjusts abnormal sensation to check pain, and also dilates uterine vessels so menstruation flows well.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ]
+    },
+    {
+      "zh": "取穴以荐骨与下腹为中心：次髎、中髎、上髎、下髎在16条中的10条出现(膣炎、阴痒、子宫内膜炎、实质炎、外膜炎、癌肿、肌肿、痉挛、妊娠呕吐、经闭)，三阴交见于12条，其后是中极、血海、关元、曲骨。膣炎与阴痒明写“荐骨部之四髎，可用艾条灸治”，即髎穴既针又灸；肌肿甚至写明次髎、中髎“深针”。",
+      "en": "Points centre on the sacrum and lower abdomen: Ciliao, Zhongliao, Shangliao or Xialiao appear in 10 of 16 entries (vaginitis, pruritus vulvae, endometritis, parenchymatous inflammation, perimetritis, cancer, fibroid, spasm, morning sickness, amenorrhoea), Sanyinjiao in 12, followed by Zhongji, Xuehai, Guanyuan, Qugu. For vaginitis and pruritus vulvae the four sacral Liao may be moxaed with moxa stick, so these points are both needled and moxaed; in fibroid Ciliao and Zhongliao are needled deeply.",
+      "cite": [
+        "E5",
+        "E6",
+        "E7"
+      ]
+    },
+    {
+      "zh": "刺激量按急慢性分：子宫内膜炎、实质炎“急性每日轮换针治，作中刺激法，慢性则用轻刺激，兼用艾条灸治”；卵巢炎急性天枢、带脉、三阴交强刺激，慢性中刺激加艾条灸；子宫痉挛“发作时行强刺激之针治，并作留针法，静止时用中刺激，兼用艾条灸”。强刺激只用于急性或疼痛发作(子宫外膜炎、痉挛、卵巢炎急性、乳腺炎、乳房痛共5条)；子宫肌肿则一开始就是轻刺激加艾条并需长久治疗。",
+      "en": "Intensity follows acute versus chronic: endometritis and parenchymatous inflammation are acute daily alternated moderate needling, chronic light needling with moxa stick; acute ovaritis Tianshu, Daimai, Sanyinjiao strong, chronic moderate plus moxa; uterine spasm strong retained needling at an attack, moderate plus moxa between. Strong stimulation is used only for acute or painful attacks (perimetritis, spasm, acute ovaritis, mastitis, breast pain: 5 entries); fibroid is light needling with moxa stick from the outset and needs prolonged treatment.",
+      "cite": [
+        "E8",
+        "E9",
+        "E10",
+        "E11"
+      ]
+    },
+    {
+      "zh": "虚证与出血以灸为主。12条含灸(艾条10、艾炷2)。子宫出血“用反射法行收缩子宫达止血之目的”，三阴交、隐白小艾炷直接灸三至五壮，体弱者灸后半日至一日复有少量出血则关元、气海、三阴交各五十壮；常习性流产“在妊娠前预作旺盛子宫及卵巢之功能，及强壮之疗法”，且“既孕后，上穴亦需常予灸治”；经闭亦以强壮子宫卵巢为目的，轻刺激加艾条“久久持续”。",
+      "en": "Deficiency and bleeding are treated mainly with moxa: 12 entries include it (moxa stick in 10, cones in 2). Uterine bleeding uses a reflex method to contract the uterus and stop bleeding, small direct cones x3-5 at Sanyinjiao and Yinbai, and if a weak patient bleeds slightly again half a day later, Guanyuan, Qihai and Sanyinjiao 50 cones each. For habitual miscarriage the aim is to strengthen uterus and ovaries before pregnancy, and the same points are moxaed regularly after conception; amenorrhoea is also aimed at strengthening, light needling plus moxa stick sustained for a long time.",
+      "cite": [
+        "E12",
+        "E13",
+        "E14",
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "zh": "痛经他讲究按月经周期排疗程，这是全书少见的具体时间表：“编者每于月经来前四五日开始作间日针治”，经将终时针四五次，下期经前再针四五次，“至第三个月往往不再有疼痛等症状”，仍再针三四次。他又提示“机质的收效不良，但患者占少数”。这里的时间表明说是编者自己的做法。",
+      "en": "For dysmenorrhoea he schedules treatment by the menstrual cycle, an unusually concrete timetable: the compiler starts alternate-day needling four or five days before menses, giving four or five sessions by the end of the period and another four or five before the next; by the third month pain often no longer occurs, and three or four more sessions follow. He adds that organic (structural) cases respond poorly but are the minority. The schedule is stated to be the compiler's own practice.",
+      "cite": [
+        "E17",
+        "E18"
+      ]
+    },
+    {
+      "zh": "转诊与禁忌界线画得很直：子宫癌肿“不适宜针术治疗，但亦无其他有特效之治法”，他只把自己的麝香蒜片大炷灸当作“姑述”的试验，并说“不能确定灸法与镭锭收同等效用”；子宫外膜炎“必须由专医”，针术“作为助治”；乳腺炎已化脓“应由外科医师早行切开”，仅在僻壤药物难得时可用针；妊娠呕吐“有与专医作药物治疗必要”，轻症则“自愈，无须治疗”；病理篇另说产褥内膜炎、子宫前屈后转“不适用针灸”。全章5条提到专医、外科或中药并治。预后方面，妇科16条中9条写“多良”或“良”，小儿4条中3条写多良，但慢性者一律要久：子宫肌肿“需作长久治疗”，慢性卵巢炎“需多治”，子宫痉挛“多良好，唯易反复”，乳腺炎“有时引起乳腺萎缩”。",
+      "en": "The referral and exclusion lines are plain: uterine cancer is not suited to needling though nothing else works especially well, and he offers his musk-and-garlic large-cone moxa only as a tentative account, saying it cannot be established as equal to radium; perimetritis must be handled by a specialist with needling as adjunct; mastitis with suppuration needs early incision by a surgeon, acupuncture being usable only in remote places where drugs are hard to get; morning sickness may need drug treatment with a specialist while mild cases resolve unaided; the pathology book adds that puerperal endometritis and uterine flexion or retroversion are not suited to acupuncture. Five entries mention a specialist, surgeon or Chinese drug alongside. On prognosis, 9 of the 16 gynaecological entries and 3 of the 4 paediatric ones say mostly good or good, but chronic states always take long: fibroid needs prolonged treatment, chronic ovaritis more treatment, uterine spasm is mostly good but recurs, and mastitis may occasionally cause breast atrophy.",
+      "cite": [
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E36",
+        "E37",
+        "E38",
+        "E39"
+      ]
+    },
+    {
+      "zh": "小儿科4条重“浅”字：小儿急痫“用28号短针作浅针重刺激法”，百日咳“用28号针，浅针作中刺激”，急性脑性小儿麻痹“每日轮用浅刺法，或用皮肤针在穴之上下线上捶击之”，腺病每日艾条灸“持续数月”。病理篇的小儿条同一思路：坏血病“背部、四肢、腹部行小儿皮肤针”，消化不良“四肢末梢行皮肤针刺”，急性肠炎“腹部之温灸有效”。这4条与病理篇小儿条都没有写深刺。",
+      "en": "The four paediatric entries stress shallow: acute infantile convulsion uses a No. 28 short needle, shallow but strong; whooping cough a No. 28 needle shallow with moderate stimulation; acute cerebral infantile paralysis shallow needling on alternate groups or skin-needle tapping on lines above and below the points; scrofula daily moxa stick for months. The pathology book takes the same line: scurvy gets children's skin needle on back, limbs and abdomen, indigestion skin-needling at limb ends, acute enteritis warm moxa on the abdomen. Neither these four entries nor the pathology-book child entries mention deep insertion.",
+      "cite": [
+        "E26",
+        "E27",
+        "E28",
+        "E29",
+        "E30"
+      ]
+    },
+    {
+      "zh": "小儿病的目的与转诊：急痫“镇静神经功能”并兼诱导，但“应另由专医予以药物治疗”；百日咳镇咳诱导，同时要“隔离”健康儿童；小儿麻痹“以刺激中枢，引起兴奋为目的”，配合按摩，病理篇则说“以恢复其肌之麻痹为目的，从其局部之神经根而刺激之”，预后“视病体强弱新久与医疗适宜与否，而不一定”。腺病目的是“旺盛全身功能，促进营养吸收”，预后多良。",
+      "en": "Aims and referral in children: acute convulsion aims to calm nerve function with induction but a specialist should add drugs; whooping cough aims to suppress cough by induction and healthy children must be isolated; infantile paralysis aims to stimulate the centre and excite, alongside massage, and the pathology book adds stimulating from the local nerve roots to restore muscle, with prognosis varying by constitution, duration and appropriateness of treatment. Scrofula is aimed at boosting general function and absorption, prognosis mostly good.",
+      "cite": [
+        "E31",
+        "E32",
+        "E33",
+        "E34",
+        "E35"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "妇人科：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Gynaecology: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "膣炎(阴痛)",
+            "en": "Vaginitis"
+          },
+          {
+            "zh": "调整局部血行，消炎",
+            "en": "Regulate local circulation, reduce inflammation"
+          },
+          "次髎、中极、大赫、血海、三阴交、中封",
+          {
+            "zh": "每日或间日中刺激；荐骨四髎可艾条灸",
+            "en": "Daily or alternate days moderate; sacral four Liao moxa stick"
+          },
+          {
+            "zh": "多良",
+            "en": "Mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "急慢性子宫内膜炎",
+            "en": "Acute and chronic endometritis"
+          },
+          {
+            "zh": "消炎、缓解疼痛、旺盛血行",
+            "en": "Anti-inflammation, relieve pain, boost circulation"
+          },
+          "肾俞、大肠俞、次髎、会阳、曲泉、漏谷、水泉；气海俞、小肠俞、中髎、白环俞、血海、三阴交、商丘",
+          {
+            "zh": "急性每日轮换中刺激；慢性轻刺激加艾条灸；小腹与足保温",
+            "en": "Acute moderate alternated; chronic light plus moxa stick; keep lower abdomen and feet warm"
+          },
+          {
+            "zh": "多良，有合并症不一定",
+            "en": "Mostly good; uncertain with complications"
+          }
+        ],
+        [
+          {
+            "zh": "子宫外膜炎",
+            "en": "Perimetritis"
+          },
+          {
+            "zh": "诱导消炎",
+            "en": "Induction, anti-inflammation"
+          },
+          "上髎、中髎、血海、足三里、三阴交、商丘、太白",
+          {
+            "zh": "强刺激；必须由专医处置，针术为助治",
+            "en": "Strong; specialist must treat, needling adjunct"
+          },
+          {
+            "zh": "不一定",
+            "en": "Uncertain"
+          }
+        ],
+        [
+          {
+            "zh": "子宫癌肿(崩漏)",
+            "en": "Uterine cancer"
+          },
+          {
+            "zh": "不适宜针术；编者试灸以减痛",
+            "en": "Unsuited to needling; compiler's moxa trial for pain"
+          },
+          "小腹部：关元、中极、曲骨；荐骨部：次髎、中髎、下髎、腰俞",
+          {
+            "zh": "穴上敷麝香、覆蒜片，大艾炷各3至5壮，先3壮，间日或二三日1次",
+            "en": "Musk and garlic slice, large cones 3–5, start with 3, every 1–3 days"
+          },
+          {
+            "zh": "原书未写预后；有效有不效",
+            "en": "No prognosis stated; some relieved, some not"
+          }
+        ],
+        [
+          {
+            "zh": "子宫肌肿",
+            "en": "Uterine fibroid"
+          },
+          {
+            "zh": "旺盛血行，促进组织调整",
+            "en": "Boost circulation, promote tissue adjustment"
+          },
+          "次髎(深针)、中极、蠡沟、三阴交、行间；中髎(深针)、曲骨、中都、交信、太冲",
+          {
+            "zh": "每日轮取轻刺激加艾条，需长久；贫血衰弱灸膈俞、脾俞、关元",
+            "en": "Light plus moxa stick, long course; if anaemic moxa Geshu, Pishu, Guanyuan"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "子宫痉挛",
+            "en": "Uterine spasm"
+          },
+          {
+            "zh": "处方未写；病理篇：镇痛缓解",
+            "en": "Not stated in the prescription; pathology book: relieve pain"
+          },
+          "次髎、中髎、天枢、气海、归来、曲骨、三阴交",
+          {
+            "zh": "发作强刺激留针；静止中刺激加艾条；发作期宜与中药并治",
+            "en": "Strong retained at attack; moderate plus moxa between; herbal formula alongside at attacks"
+          },
+          {
+            "zh": "多良，易反复",
+            "en": "Mostly good; recurs"
+          }
+        ],
+        [
+          {
+            "zh": "子宫出血(血崩)",
+            "en": "Uterine bleeding"
+          },
+          {
+            "zh": "反射法收缩子宫止血",
+            "en": "Reflex contraction of uterus to stop bleeding"
+          },
+          "三阴交、隐白；衰弱者关元、气海、三阴交",
+          {
+            "zh": "小艾炷直接灸3至5壮；再出血各灸50壮；绝对安静",
+            "en": "Small direct cones ×3–5; recurrence 50 cones each; absolute rest"
+          },
+          {
+            "zh": "多良",
+            "en": "Mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "乳腺炎(乳痈)",
+            "en": "Mastitis"
+          },
+          {
+            "zh": "初起反射诱导，炎退肿消",
+            "en": "Early reflex and induction to resolve"
+          },
+          "膺窗、乳根、肩井、曲泽、上巨虚、太冲",
+          {
+            "zh": "强刺激；化脓须外科切开；应由专医药物治疗，僻壤可用针",
+            "en": "Strong; suppuration needs surgeon; specialist drugs, needling in remote areas"
+          },
+          {
+            "zh": "多良，有时乳腺萎缩",
+            "en": "Mostly good; sometimes atrophy"
+          }
+        ],
+        [
+          {
+            "zh": "妊娠呕吐(恶阻)",
+            "en": "Morning sickness"
+          },
+          {
+            "zh": "镇静子宫功能，抑制迷走神经兴奋",
+            "en": "Calm uterine function, suppress vagal excitation"
+          },
+          "风池、肝俞、大肠俞、次髎、膻中、不容、中注；天柱、胆俞、小肠俞、中髎、中庭、承满、带脉",
+          {
+            "zh": "每日轮取中刺激加留针；有与专医药物之必要；轻症自愈",
+            "en": "Moderate retained, groups alternated; drugs by specialist if needed; mild cases resolve"
+          },
+          {
+            "zh": "多良",
+            "en": "Mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "常习性流产(小产)",
+            "en": "Habitual miscarriage"
+          },
+          {
+            "zh": "孕前强壮子宫卵巢",
+            "en": "Strengthen uterus and ovaries before pregnancy"
+          },
+          "命门、肾俞、阳关、关元俞、气海、关元、水道、足三里、三阴交",
+          {
+            "zh": "每日或间日艾条灸或轻刺激；孕后仍常灸；腰腹保温",
+            "en": "Daily or alternate days moxa stick or light needling; continue after conception; keep warm"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "月经困难症(痛经)",
+            "en": "Dysmenorrhoea"
+          },
+          {
+            "zh": "促进局部血行、镇痛",
+            "en": "Promote local circulation, relieve pain"
+          },
+          "关元、中极、大巨、水道、血海、三阴交",
+          {
+            "zh": "艾条灸或中刺激留针；经前四五日起间日针，共两个周期",
+            "en": "Moxa stick or moderate retained; from 4–5 days before menses, alternate days, over two cycles"
+          },
+          {
+            "zh": "机质性收效不良，占少数",
+            "en": "Organic cases poor, a minority"
+          }
+        ],
+        [
+          {
+            "zh": "月经闭止症",
+            "en": "Amenorrhoea"
+          },
+          {
+            "zh": "强壮、旺盛子宫卵巢",
+            "en": "Strengthen and rouse uterus and ovaries"
+          },
+          "命门、关元俞、次髎、关元、带脉、地机；阳关、肾俞、中髎、中极、中注、三阴交",
+          {
+            "zh": "每日或间日轮取轻刺激与艾条，久久持续",
+            "en": "Light needling and moxa stick, alternated, sustained"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "小儿科：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Paediatrics: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "小儿急痫(客忤)",
+            "en": "Acute infantile convulsion"
+          },
+          {
+            "zh": "镇静神经功能，兼用诱导",
+            "en": "Calm nerve function, plus induction"
+          },
+          "百会、风池、身柱、手三里、合谷、足三里、行间",
+          {
+            "zh": "28号短针浅针重刺激；另由专医给药",
+            "en": "No. 28 short needle, shallow but strong; specialist drugs separately"
+          },
+          {
+            "zh": "多良；尿毒或热性传染病所致者不一定",
+            "en": "Mostly good; uncertain if from uraemia or febrile infection"
+          }
+        ],
+        [
+          {
+            "zh": "百日咳(顿咳)",
+            "en": "Whooping cough"
+          },
+          {
+            "zh": "镇咳诱导",
+            "en": "Suppress cough by induction"
+          },
+          "风池、大椎、风门、天突、上脘、太渊、足三里；天柱、身柱、肺俞、俞府、中脘、经渠、丰隆",
+          {
+            "zh": "每日轮针，28号针浅刺中刺激；室内通风，健康儿隔离",
+            "en": "Daily, No. 28 shallow moderate; ventilate room, isolate healthy children"
+          },
+          {
+            "zh": "多良；并发热性病者不良",
+            "en": "Mostly good; poor with febrile complications"
+          }
+        ],
+        [
+          {
+            "zh": "急性脑性小儿麻痹",
+            "en": "Acute cerebral infantile paralysis"
+          },
+          {
+            "zh": "刺激中枢，引起兴奋",
+            "en": "Stimulate centre, induce excitation"
+          },
+          "风池、大椎、中枢、肾俞、天枢、足三里；天柱、身柱、命门、三焦俞、气海、阳陵泉",
+          {
+            "zh": "每日轮用浅刺，或皮肤针沿穴上下线捶击；兼按摩",
+            "en": "Shallow needling alternated, or skin needle along lines above and below the points; plus massage"
+          },
+          {
+            "zh": "视体质强弱、病之新久、治疗是否适宜而不一定",
+            "en": "Varies with constitution, duration and appropriateness"
+          }
+        ],
+        [
+          {
+            "zh": "腺病",
+            "en": "Scrofula"
+          },
+          {
+            "zh": "旺盛全身功能，促进营养吸收",
+            "en": "Boost general function and nutrient absorption"
+          },
+          "身柱、膈俞、脾俞、天枢、关元、足三里",
+          {
+            "zh": "每日艾条灸，持续数月；适度户外运动、改善饮食",
+            "en": "Daily moxa stick for months; outdoor exercise, better diet"
+          },
+          {
+            "zh": "多良",
+            "en": "Mostly good"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "以调整局部之血行，为消炎之目的",
+      "src": "针灸处方集·第六章 妇人科病·膣炎 p.268"
+    },
+    {
+      "id": "E2",
+      "quote": "以消炎诱导旺盛血行为目的",
+      "src": "针灸处方集·第六章 妇人科病·急慢性子宫实质炎 p.269"
+    },
+    {
+      "id": "E3",
+      "quote": "刺激传达子宫神经丛，调整其知觉功能之异常，以镇制疼痛",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·月经困难症 p.191"
+    },
+    {
+      "id": "E4",
+      "quote": "其他使子宫之血管扩张，使月经之排泄良好",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·月经困难症 p.191"
+    },
+    {
+      "id": "E5",
+      "quote": "荐骨部之四髎，可用艾条灸治",
+      "src": "针灸处方集·第六章 妇人科病·膣炎 p.268"
+    },
+    {
+      "id": "E6",
+      "quote": "取穴：次髎(深针)、中极、蠡沟、三阴交、行间",
+      "src": "针灸处方集·第六章 妇人科病·子宫肌肿 p.270"
+    },
+    {
+      "id": "E7",
+      "quote": "取穴：上髎、中髎、血海、足三里、三阴交、商丘、太白",
+      "src": "针灸处方集·第六章 妇人科病·子宫外膜炎 p.269"
+    },
+    {
+      "id": "E8",
+      "quote": "急性每日轮换针治，作中刺激法，慢性则用轻刺激，兼用艾条灸治",
+      "src": "针灸处方集·第六章 妇人科病·急慢性子宫内膜炎 p.269"
+    },
+    {
+      "id": "E9",
+      "quote": "急性取穴：天枢、带脉、三阴交，用强刺激针治",
+      "src": "针灸处方集·第六章 妇人科病·卵巢炎 p.270"
+    },
+    {
+      "id": "E10",
+      "quote": "在发作时行强刺激之针治，并作留针法，静止时用中刺激，兼用艾条灸治",
+      "src": "针灸处方集·第六章 妇人科病·子宫痉挛 p.270"
+    },
+    {
+      "id": "E11",
+      "quote": "每日轮取作轻刺激之针治，并用艾条灸治，需作长久治疗",
+      "src": "针灸处方集·第六章 妇人科病·子宫肌肿 p.270"
+    },
+    {
+      "id": "E12",
+      "quote": "用反射法行收缩子宫达止血之目的",
+      "src": "针灸处方集·第六章 妇人科病·子宫出血 p.270"
+    },
+    {
+      "id": "E13",
+      "quote": "取穴：三阴交、隐白，用小艾炷直接灸治三至五壮",
+      "src": "针灸处方集·第六章 妇人科病·子宫出血 p.270"
+    },
+    {
+      "id": "E14",
+      "quote": "灸关元、气海、三阴交各五十壮",
+      "src": "针灸处方集·第六章 妇人科病·子宫出血 p.270"
+    },
+    {
+      "id": "E15",
+      "quote": "在妊娠前预作旺盛子宫及卵巢之功能，及强壮之疗法",
+      "src": "针灸处方集·第六章 妇人科病·常习性流产 p.271"
+    },
+    {
+      "id": "E16",
+      "quote": "既孕后，上穴亦需常予灸治",
+      "src": "针灸处方集·第六章 妇人科病·常习性流产 p.271"
+    },
+    {
+      "id": "E17",
+      "quote": "编者每于月经来前四五日开始作间日针治",
+      "src": "针灸处方集·第六章 妇人科病·月经困难症 p.272"
+    },
+    {
+      "id": "E18",
+      "quote": "至第三个月往往不再有疼痛等症状",
+      "src": "针灸处方集·第六章 妇人科病·月经困难症 p.272"
+    },
+    {
+      "id": "E19",
+      "quote": "本病不适宜针术治疗，但亦无其他有特效之治法",
+      "src": "针灸处方集·第六章 妇人科病·子宫癌肿 p.269"
+    },
+    {
+      "id": "E20",
+      "quote": "不能确定灸法与镭锭收同等效用，姑述编者之灸法如下",
+      "src": "针灸处方集·第六章 妇人科病·子宫癌肿 p.269"
+    },
+    {
+      "id": "E21",
+      "quote": "本病必须由专医，作消炎杀菌之处置，针术作为助治",
+      "src": "针灸处方集·第六章 妇人科病·子宫外膜炎 p.269"
+    },
+    {
+      "id": "E22",
+      "quote": "如已有化脓现象，应由外科医师早行切开法，收口可速",
+      "src": "针灸处方集·第六章 妇人科病·乳腺炎 p.271"
+    },
+    {
+      "id": "E23",
+      "quote": "在僻壤乡间，药物急切难得时，可应用针治",
+      "src": "针灸处方集·第六章 妇人科病·乳腺炎 p.271"
+    },
+    {
+      "id": "E24",
+      "quote": "轻症则自愈，无须治疗",
+      "src": "针灸处方集·第六章 妇人科病·妊娠呕吐症 p.271"
+    },
+    {
+      "id": "E25",
+      "quote": "产褥内膜炎不适用于针灸",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·急性子宫内膜炎 p.192"
+    },
+    {
+      "id": "E26",
+      "quote": "用28号短针作浅针重刺激法",
+      "src": "针灸处方集·第七章 小儿科病·小儿急痫 p.273"
+    },
+    {
+      "id": "E27",
+      "quote": "每日轮针1次，用28号针，浅针作中刺激",
+      "src": "针灸处方集·第七章 小儿科病·百日咳 p.273"
+    },
+    {
+      "id": "E28",
+      "quote": "每日轮用浅刺法，或用皮肤针在穴之上下线上捶击之",
+      "src": "针灸处方集·第七章 小儿科病·急性脑性小儿麻痹 p.273"
+    },
+    {
+      "id": "E29",
+      "quote": "背部、四肢、腹部行小儿皮肤针",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·小儿坏血病 p.198"
+    },
+    {
+      "id": "E30",
+      "quote": "腹部之温灸有效",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·小儿急性肠炎 p.198"
+    },
+    {
+      "id": "E31",
+      "quote": "应另由专医予以药物治疗",
+      "src": "针灸处方集·第七章 小儿科病·小儿急痫 p.273"
+    },
+    {
+      "id": "E32",
+      "quote": "有健康儿童，务必隔离",
+      "src": "针灸处方集·第七章 小儿科病·百日咳 p.273"
+    },
+    {
+      "id": "E33",
+      "quote": "以刺激中枢，引起兴奋为目的",
+      "src": "针灸处方集·第七章 小儿科病·急性脑性小儿麻痹 p.273"
+    },
+    {
+      "id": "E34",
+      "quote": "以恢复其肌之麻痹为目的，从其局部之神经根而刺激之",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·小儿麻痹 p.199"
+    },
+    {
+      "id": "E35",
+      "quote": "以旺盛全身功能，促进营养吸收为目的",
+      "src": "针灸处方集·第七章 小儿科病·腺病 p.274"
+    },
+    {
+      "id": "E36",
+      "quote": "需作长久治疗",
+      "src": "针灸处方集·第六章 妇人科病·子宫肌肿 p.270"
+    },
+    {
+      "id": "E37",
+      "quote": "急性者易愈，慢性者需多治",
+      "src": "针灸处方集·第六章 妇人科病·卵巢炎 p.270"
+    },
+    {
+      "id": "E38",
+      "quote": "多良好，唯易反复",
+      "src": "针灸处方集·第六章 妇人科病·子宫痉挛 p.270"
+    },
+    {
+      "id": "E39",
+      "quote": "多良，有时引起乳腺萎缩",
+      "src": "针灸处方集·第六章 妇人科病·乳腺炎 p.271"
+    }
+  ],
+  "caveats": {
+    "zh": "病名为民国西医名词(子宫外膜炎、子宫实质炎、喇叭管炎、腺病、迷走神经兴奋等)，括号里的“旧称”按原书保留。子宫癌肿一段是编者自述的试验灸法(“姑述”、无镭锭设备处“可试为之”)，不是他主张的疗法；云南参三七、中药方剂等药物附记不属穴位思路。“月经来前四五日起针”是编者自己的经验时间表。全章16个妇科条与4个小儿条，条数不多，因此所有百分比按条数读，不宜外推。",
+    "en": "Disease names are Republican-era Western terms (perimetritis, parenchymatous uterine inflammation, salpingitis, scrofula, vagal excitation) and the old names in brackets are kept as printed. The uterine cancer passage is the compiler's own admitted experiment, offered where radium is unavailable, not a method he recommends; Yunnan sanqi and Chinese formulas are drug side notes outside the point logic. The pre-menstrual schedule is his own clinical routine. With only 16 gynaecological and 4 paediatric entries, counts are small and should not be extrapolated."
+  },
+  "see": {
+    "points": [
+      "三阴交",
+      "次髎",
+      "中髎",
+      "中极",
+      "血海",
+      "关元",
+      "足三里",
+      "身柱",
+      "风池",
+      "隐白"
+    ],
+    "rx": [
+      "cda-rx-169",
+      "cda-rx-171",
+      "cda-rx-173",
+      "cda-rx-174",
+      "cda-rx-175",
+      "cda-rx-176",
+      "cda-rx-177",
+      "cda-rx-179",
+      "cda-rx-181",
+      "cda-rx-182",
+      "cda-rx-183",
+      "cda-rx-184",
+      "cda-rx-185",
+      "cda-rx-186",
+      "cda-rx-187",
+      "cda-rx-188"
+    ]
+  }
+}

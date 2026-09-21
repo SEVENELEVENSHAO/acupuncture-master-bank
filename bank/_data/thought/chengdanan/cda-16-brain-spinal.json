@@ -1,0 +1,538 @@
+{
+  "id": "cda-16-brain-spinal",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 16,
+  "title": {
+    "zh": "脑髓与脊髓疾患：诱导降压、镇静清脑与脊椎灸",
+    "en": "Brain and Spinal Cord Disease: Inducing Blood Down, Calming the Mind, Spinal Moxa"
+  },
+  "summary": {
+    "zh": "脑病他先看血行：脑贫血强壮活血(轻刺激加艾条)，脑充血用强刺激在手足末端“诱导”降充血，脑溢血急救时大炷灸关元、强刺激手足井穴以收缩脑血管，后期先针健侧强、患侧轻促吸收；精神病用强刺激手足远端“镇静、清醒头脑”。脊髓病他直言“无妥善疗法”，以消炎利尿、增强抗力为目的，并在患椎隔麝香蒜片灸，须早治久治并配专医药物。",
+    "en": "Brain disease is read first through blood distribution: anaemia strengthened, congestion drawn down by strong stimulation at the limb ends, stroke met with emergency Guanyuan moxa and later strong-healthy-side, light-paralysed-side needling; mania calmed by strong distal stimulation. For spinal disease he admits no reliable treatment: anti-inflammation, diuresis and resistance, garlic-musk moxa on the diseased vertebrae, early and long, with specialist drugs."
+  },
+  "takeaways": [
+    {
+      "zh": "脑血行三型对应三种目的：脑贫血“以强壮疗法，图血行活泼”，轻刺激后加药艾条，持续数月；脑充血“以诱导法降其脑部充血”，风池、天柱、人中、合谷、商阳、昆仑、至阴用强刺激，还要对手足指端“予以剧痛刺激”；病理篇解释针的效力就是“由四肢末梢部诱导，使头部之血管缩小”。",
+      "en": "Three blood states, three aims: cerebral anaemia is strengthened for lively circulation, light needling then medicated moxa stick for months; cerebral congestion is lowered by induction, Fengchi, Tianzhu, Renzhong, Hegu, Shangyang, Kunlun, Zhiyin with strong stimulation and painful stimulation of the finger and toe tips; the pathology book explains the effect as inducing from the limb ends to shrink head vessels.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ]
+    },
+    {
+      "zh": "脑溢血分急性期与恢复期。初发时“作紧急降低血压、收缩脑血管之急救，同时应与专医配合药物之治疗”：关元大炷灸七至二十一壮甚至百余壮，“视其脉搏调整为止”，商阳、中冲、三阴交、涌泉强刺激；二三日知觉渐复后，目的改为促进溢血吸收，取风池、天柱、大杼、肩井、曲池、合谷、环跳、阳陵泉、昆仑等。",
+      "en": "Stroke has an acute and a recovery phase. At onset: emergency lowering of pressure and constricting brain vessels together with a specialist's drugs; large-cone moxa 7–21 (even 100+) at Guanyuan \"until the pulse settles\" and strong stimulation of Shangyang, Zhongchong, Sanyinjiao, Yongquan; after two or three days when sensation returns the aim becomes promoting absorption of the extravasated blood, at Fengchi, Tianzhu, Dazhu, Jianjing, Quchi, Hegu, Huantiao, Yanglingquan, Kunlun.",
+      "cite": [
+        "E5",
+        "E6",
+        "E7"
+      ]
+    },
+    {
+      "zh": "脑溢血偏瘫的手法有一条鲜明的规则：“先针能活动的一边用强刺激，次针不活动的一边用轻刺激”，每间一日或二三日针一次至能行动为止。他同时说明“本病无速效之理”，好转快慢全看溢血吸收快慢，有的不能完全复常；再发可能，需戒烟酒、避免忧虑。",
+      "en": "For hemiplegia after stroke there is one clear rule: needle the mobile side first with strong stimulation, then the immobile side with light stimulation, every other day or every two or three days until movement returns. He adds that there is no quick effect, recovery depends on the speed of blood absorption, some cases do not fully recover, and relapse is possible so smoking, drink and worry must be avoided.",
+      "cite": [
+        "E8",
+        "E9",
+        "E24"
+      ]
+    },
+    {
+      "zh": "常习性头痛的逻辑是“视疼痛部位而取穴”：共同穴风池、大杼、合谷、申脉，再按顶、前额、眉棱骨、偏头、后头、酒后六型各加穴；头部穴用中刺激后加药艾条灸，四肢穴“只用中刺激”，并兼作原因治疗；目的是“诱导及反射的刺激，旺盛该部之血行，图神经之镇静”，预后“必须久治，能去其原因则良”。",
+      "en": "Chronic habitual headache is treated by \"choosing points by the site of pain\": common points Fengchi, Dazhu, Hegu, Shenmai, then extra points for vertex, forehead, brow, one-sided, occipital and post-alcohol types; head points get moderate stimulation then medicated moxa stick, limb points moderate only, with cause treated too; the aim is induction and reflex to boost local circulation and calm the nerves; prognosis needs long treatment and removal of the cause.",
+      "cite": [
+        "E10",
+        "E11"
+      ]
+    },
+    {
+      "zh": "精神病取远端强刺激镇静：麻痹狂“以镇静其兴奋，清醒其头脑为目的”，鸠尾、中脘、风府用28号针中刺激，其余(人中、少商、隐白、大陵、申脉等)用26号针强刺激，肢末穴至少捻动1分钟，针后令其酣睡；偏执狂“以促进营养，清醒头脑为目的”，两组轮针、统用中刺激。病期是关键：半年内收效较速，3年以上更难。",
+      "en": "Mental disease is calmed with strong distal stimulation: mania aims to calm the excitement and clear the head, Jiuwei, Zhongwan, Fengfu with a No. 28 needle moderate, the rest (Renzhong, Shaoshang, Yinbai, Daling, Shenmai) with a No. 26 needle strong, limb-end points twisted at least a minute, then let the patient sleep; paranoia aims at nutrition and a clear head, two groups alternated, all moderate. Duration is key: results are quicker within six months, harder after three years.",
+      "cite": [
+        "E12",
+        "E13",
+        "E14"
+      ]
+    },
+    {
+      "zh": "脑动脉硬化他只设“旺盛代谢功能，抑制血管之硬化”的目标，取百会、肩井、大椎、肩髃、合谷、阳辅、昆仑、行间，轻刺激或日用皮肤针，预后“不良者多”，并列出戒烟酒、寡欲、蔬食、常查血压等调护；病理篇另将慢性脑梅毒注明“不适应针灸治疗”。",
+      "en": "For cerebral arteriosclerosis he sets only the aim of boosting metabolism and inhibiting vessel hardening, with light needling or the skin needle daily; prognosis is mostly poor and care lists no tobacco or drink, restraint, vegetarian diet and regular blood-pressure checks; the pathology book states chronic cerebral syphilis is not suited to acupuncture.",
+      "cite": [
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "zh": "脊髓病他坦率承认“本病无妥善疗法”，针术目的退居“消炎利尿”(脊髓炎、急性脊髓膜炎、脊髓痨)或“旺盛血行增进抗力”(压迫性脊髓炎)、“刺激脊椎神经，加强传导”(前角炎)；5条中4条用灸，其中3条在患椎上敷麝香、隔蒜片灸(每间四五日1次，或大椎至尾闾分三部轮灸，“仅使其感觉灼痛为止”)。",
+      "en": "For spinal disease he frankly says there is no reliable treatment; needling recedes to anti-inflammation and diuresis (myelitis, acute meningitis, tabes), raising circulation and resistance (compression myelitis), or stimulating the spinal nerves to improve conduction (anterior horn disease). Four of the five entries use moxa, three putting musk and garlic slice on the diseased vertebrae (every four or five days, or the spine from Dazhui to the coccyx in three rotating sections, until burning pain is felt).",
+      "cite": [
+        "E17",
+        "E18",
+        "E19",
+        "E20"
+      ]
+    },
+    {
+      "zh": "脊髓病的预后与转诊都很直白：脊髓炎“多不良”，急性脊髓膜炎“与专医配合药物”，“麻痹症状发现后，即转归不良”；脊髓痨“早治有效”，压迫性脊髓炎“早治，耐性久治，有治愈希望，有并发症时往往转归不良”，前角炎“如大小便失禁，多不良”。",
+      "en": "Prognosis and referral are plain: myelitis mostly poor; acute meningitis is co-treated with specialist drugs and turns poor once paralysis appears; tabes responds to early treatment; compression myelitis has hope with early and patient treatment but complications often worsen it; anterior horn disease is mostly poor with incontinence.",
+      "cite": [
+        "E21",
+        "E22",
+        "E23"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "脑髓疾患：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Brain disease: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "脑贫血",
+            "en": "Cerebral anaemia"
+          },
+          {
+            "zh": "强壮，活泼血行",
+            "en": "Strengthen, enliven circulation"
+          },
+          "百会、风池、脾俞、关元、足三里",
+          {
+            "zh": "轻刺激后药艾条灸，持续数月",
+            "en": "Light needling then medicated moxa stick, for months"
+          },
+          {
+            "zh": "多数分钟至数十分钟即醒",
+            "en": "Usually wakes within minutes"
+          }
+        ],
+        [
+          {
+            "zh": "脑充血",
+            "en": "Cerebral congestion"
+          },
+          {
+            "zh": "诱导降脑充血",
+            "en": "Induction to lower cerebral congestion"
+          },
+          "风池、天柱、人中、合谷、商阳、昆仑、至阴",
+          {
+            "zh": "强刺激；手足指端剧痛刺激",
+            "en": "Strong; painful stimulation of finger/toe tips"
+          },
+          {
+            "zh": "发生脑溢血则危险",
+            "en": "Dangerous if haemorrhage occurs"
+          }
+        ],
+        [
+          {
+            "zh": "脑溢血(中风)",
+            "en": "Cerebral haemorrhage"
+          },
+          {
+            "zh": "急救降压、收缩脑血管，配专医药物；后促进溢血吸收",
+            "en": "Emergency: lower pressure, constrict vessels, with specialist drugs; later absorption"
+          },
+          "急：关元灸，商阳、中冲、三阴交、涌泉；后：风池、天柱、大杼、肩井、肩髃、曲池、合谷、环跳、阳陵泉、昆仑",
+          {
+            "zh": "关元大炷灸7–21壮以上；强刺激；后期健侧强、患侧轻",
+            "en": "Large cones 7–21+ at Guanyuan; strong; later strong on healthy side, light on paralysed"
+          },
+          {
+            "zh": "视摄养而不一定；有不能复常者",
+            "en": "Depends on care; some do not fully recover"
+          }
+        ],
+        [
+          {
+            "zh": "常习性头痛",
+            "en": "Chronic headache"
+          },
+          {
+            "zh": "诱导、反射，旺盛局部血行，镇静神经",
+            "en": "Induction, reflex; local circulation, calm nerves"
+          },
+          "风池、大杼、合谷、申脉，随部位加百会、前顶、上星、阳白、太阳、头维等",
+          {
+            "zh": "头部穴中刺激后药艾条灸；四肢穴仅中刺激",
+            "en": "Head points moderate then medicated moxa stick; limb points moderate only"
+          },
+          {
+            "zh": "久治；去原因则良",
+            "en": "Long treatment; good if cause removed"
+          }
+        ],
+        [
+          {
+            "zh": "脑动脉硬化症",
+            "en": "Cerebral arteriosclerosis"
+          },
+          {
+            "zh": "旺盛代谢，抑制血管硬化",
+            "en": "Boost metabolism; inhibit vessel hardening"
+          },
+          "百会、肩井、大椎、肩髃、合谷、阳辅、昆仑、行间",
+          {
+            "zh": "轻刺激，或日用皮肤针",
+            "en": "Light needling, or skin needle daily"
+          },
+          {
+            "zh": "不良者多",
+            "en": "Mostly poor"
+          }
+        ],
+        [
+          {
+            "zh": "麻痹狂",
+            "en": "Mania"
+          },
+          {
+            "zh": "镇静兴奋，清醒头脑",
+            "en": "Calm excitement, clear the head"
+          },
+          "鸠尾、中脘、人中、少商、隐白、大陵、申脉、风府等十五穴",
+          {
+            "zh": "鸠尾、中脘、风府28号针中刺激；余26号针强刺激，肢末捻1分钟以上",
+            "en": "Three points No. 28 moderate; the rest No. 26 strong, limb ends twisted 1+ min"
+          },
+          {
+            "zh": "初起半年内较速；年深久者不良",
+            "en": "Faster within 6 months; long-standing poor"
+          }
+        ],
+        [
+          {
+            "zh": "偏执狂",
+            "en": "Paranoia"
+          },
+          {
+            "zh": "促进营养，清醒头脑",
+            "en": "Improve nutrition, clear the head"
+          },
+          "鸠尾、风池、肺俞、肝俞、神门、合谷、中脘、气海、足三里、丰隆；另组上脘、天柱、心俞等",
+          {
+            "zh": "两组轮针，统用中刺激，捻针1分钟以上",
+            "en": "Two groups alternated, all moderate, twisting over 1 min"
+          },
+          {
+            "zh": "不一定，早治者良",
+            "en": "Uncertain; good if treated early"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "脊髓疾患：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Spinal disease: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "脊髓炎",
+            "en": "Myelitis"
+          },
+          {
+            "zh": "无妥善疗法；消炎利尿",
+            "en": "No sound therapy; anti-inflammation, diuresis"
+          },
+          "风池、天柱、大椎、身柱、脊中、命门、阳关、曲池、外关、后溪、委中、三里、三阴交、足临泣",
+          {
+            "zh": "患椎上麝香蒜片灸，每间四五日1次；余穴间日浅针",
+            "en": "Musk-garlic moxa on the inflamed vertebrae every 4–5 days; other points shallow, alternate days"
+          },
+          {
+            "zh": "多不良",
+            "en": "Mostly poor"
+          }
+        ],
+        [
+          {
+            "zh": "急性脊髓膜炎",
+            "en": "Acute spinal meningitis"
+          },
+          {
+            "zh": "消炎利尿，配专医药物",
+            "en": "Anti-inflammation, diuresis, with specialist drugs"
+          },
+          "风池、天柱、大杼、风门、天井、肾俞、大肠俞、委中、阴陵泉等十六穴",
+          {
+            "zh": "全部中刺激",
+            "en": "All moderate"
+          },
+          {
+            "zh": "麻痹出现后转归不良",
+            "en": "Poor once paralysis appears"
+          }
+        ],
+        [
+          {
+            "zh": "脊髓痨",
+            "en": "Tabes dorsalis"
+          },
+          {
+            "zh": "消炎利尿，随症刺激相关穴",
+            "en": "Anti-inflammation, diuresis, plus symptom points"
+          },
+          {
+            "zh": "大椎至尾闾分三部，每部椎骨间麝香隔蒜片灸",
+            "en": "Dazhui to coccyx in three sections, musk on garlic slice between vertebrae"
+          },
+          {
+            "zh": "三部按日轮灸，仅灼痛即止；症状另取穴针治",
+            "en": "Sections rotated by day, stop at burning pain; symptom points needled"
+          },
+          {
+            "zh": "早治有效",
+            "en": "Early treatment effective"
+          }
+        ],
+        [
+          {
+            "zh": "压迫性脊髓炎",
+            "en": "Compression myelitis"
+          },
+          {
+            "zh": "旺盛血行，增进抗力，促进营养吸收",
+            "en": "Circulation, resistance, nutrient absorption"
+          },
+          "大椎、身柱、大杼、大肠俞、足三里、三阴交",
+          {
+            "zh": "间日针，艾条灸；突出椎上麝香蒜片灸3–5壮；发热则暂停减量",
+            "en": "Needle on alternate days plus moxa stick; musk-garlic moxa on the protruding vertebra 3–5 cones; pause and reduce if fever"
+          },
+          {
+            "zh": "早治久治有望；并发症多不良",
+            "en": "Hope with early long treatment; complications mostly poor"
+          }
+        ],
+        [
+          {
+            "zh": "慢性脊髓前角炎",
+            "en": "Chronic anterior horn disease"
+          },
+          {
+            "zh": "刺激脊椎神经，加强传导",
+            "en": "Stimulate spinal nerves; better conduction"
+          },
+          "大椎、身柱、命门、大杼、肓门、大肠俞、三里；另组陶道、至阳、阳关、风门、肾俞、关元俞、阳陵",
+          {
+            "zh": "两组间日轮换，针灸互用，耐心久治",
+            "en": "Two groups alternated, needle and moxa together, patient long treatment"
+          },
+          {
+            "zh": "大小便失禁多不良",
+            "en": "Mostly poor with incontinence"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "以强壮疗法，图血行活泼为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑贫血 p.246"
+    },
+    {
+      "id": "E2",
+      "quote": "以诱导法降其脑部充血",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑充血 p.246"
+    },
+    {
+      "id": "E3",
+      "quote": "手足指端，予以剧痛刺激",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑充血 p.246"
+    },
+    {
+      "id": "E4",
+      "quote": "针刺治疗有效之理由，由四肢末梢部诱导，使头部之血管缩小",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·脑充血 p.160"
+    },
+    {
+      "id": "E5",
+      "quote": "本病初发之始，作紧急降低血压、收缩脑血管之急救，同时应与专医配合药物之治疗",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑溢血 p.246"
+    },
+    {
+      "id": "E6",
+      "quote": "关元用大炷艾灸七至二十一壮，甚至百余壮，视其脉搏调整为止，作强心与导血下行之企图",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑溢血 p.246"
+    },
+    {
+      "id": "E7",
+      "quote": "经二三日知觉渐复后，视其症状已定，作促进溢出脑外血液之吸收为治疗目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑溢血 p.247"
+    },
+    {
+      "id": "E8",
+      "quote": "先针能活动的一边用强刺激，次针不活动的一边用轻刺激",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑溢血 p.247"
+    },
+    {
+      "id": "E9",
+      "quote": "本病无速效之理，全视其脑部溢血之吸收迟速为症状好转之迟速",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑溢血 p.247"
+    },
+    {
+      "id": "E10",
+      "quote": "以诱导及反射的刺激，旺盛该部之血行，图神经之镇静为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·常习性头痛 p.247"
+    },
+    {
+      "id": "E11",
+      "quote": "凡头部之穴：用中刺激后，再用药艾灸条灸治之，四肢之穴，只用中刺激",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·常习性头痛 p.247"
+    },
+    {
+      "id": "E12",
+      "quote": "以镇静其兴奋，清醒其头脑为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·麻痹狂 p.248"
+    },
+    {
+      "id": "E13",
+      "quote": "本病初起，半年以内者，收效较速",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·麻痹狂 p.248"
+    },
+    {
+      "id": "E14",
+      "quote": "以促进营养，清醒头脑为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·偏执狂 p.248"
+    },
+    {
+      "id": "E15",
+      "quote": "旺盛代谢功能，抑制血管之硬化",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑动脉硬化症 p.247"
+    },
+    {
+      "id": "E16",
+      "quote": "本病为慢性疾患，不适应针灸治疗",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·脑梅毒 p.159"
+    },
+    {
+      "id": "E17",
+      "quote": "本病无妥善疗法，针术则以消炎利尿为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脊髓炎 p.248"
+    },
+    {
+      "id": "E18",
+      "quote": "在脊髓发炎之脊椎上，用麝香、蒜片每间四五日灸治1次",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脊髓炎 p.249"
+    },
+    {
+      "id": "E19",
+      "quote": "每灸仅使其感觉灼痛为止，往返轮灸",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脊髓痨 p.249"
+    },
+    {
+      "id": "E20",
+      "quote": "以刺激脊椎神经，加强传导为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·慢性脊髓前角炎 p.249"
+    },
+    {
+      "id": "E21",
+      "quote": "麻痹症状发现后，即转归不良",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·急性脊髓膜炎 p.249"
+    },
+    {
+      "id": "E22",
+      "quote": "早治，耐性久治，有治愈希望，有并发症时，往往转归不良",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·压迫性脊髓炎 p.249"
+    },
+    {
+      "id": "E24",
+      "quote": "本病有再发生之可能，必须时时注意摄身",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑溢血 p.247"
+    },
+    {
+      "id": "E23",
+      "quote": "如大小便失禁，多不良",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·慢性脊髓前角炎 p.250"
+    }
+  ],
+  "caveats": {
+    "zh": "病名为民国时期的中西混用名词(麻痹狂、偏执狂、脊髓痨、压迫性脊髓炎)，“诱导降充血”的机理属当时的生理学说明；精神病与脊髓病部分本身只是探索性设法，他自己承认脊髓炎“无妥善疗法”。麝香蒜片灸与药物(龙虎丸、参三七等)属附加经验。结构化数据里若干别名字段被OCR成拼音式乱码(如“Xuekui”“Zhongfeng”)，未引用。",
+    "en": "Disease names mix Chinese and Western terms of the Republican era (mania, paranoia, tabes dorsalis, compression myelitis); \"induction lowers congestion\" is the physiology of his day; the psychiatric and spinal parts are tentative and he admits no sound therapy for myelitis. Garlic-musk moxa and drug adjuncts (Longhu Wan, etc.) are extra experience. Some alias fields in the structured data are OCR-garbled into pinyin-like strings (e.g. \"Xuekui\", \"Zhongfeng\") and are not used."
+  },
+  "see": {
+    "points": [
+      "风池",
+      "足三里",
+      "合谷",
+      "天柱",
+      "昆仑",
+      "三阴交",
+      "大杼",
+      "大椎",
+      "百会",
+      "关元"
+    ],
+    "rx": [
+      "cda-rx-095",
+      "cda-rx-096",
+      "cda-rx-097",
+      "cda-rx-098",
+      "cda-rx-099",
+      "cda-rx-100",
+      "cda-rx-101",
+      "cda-rx-102",
+      "cda-rx-103",
+      "cda-rx-104",
+      "cda-rx-105",
+      "cda-rx-106"
+    ]
+  }
+}

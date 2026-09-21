@@ -1,0 +1,975 @@
+{
+  "id": "cda-31-care-prognosis",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "调护与预后",
+    "en": "Care & prognosis"
+  },
+  "order": 31,
+  "title": {
+    "zh": "调护观与预后观：先养后治，“治愈”与“生命”分开说",
+    "en": "His View of Care and Prognosis: Living Right Before and Beside Treatment, and \"Cure\" and \"Life\" Told Apart"
+  },
+  "summary": {
+    "zh": "《针灸处方集》每条分【处方】【调护】【预后】三段。219条中136条有调护，166条有预后。调护以饮食(忌烟酒冷食、清淡、营养)、安静休养、保温、情志与去原因为主，肺结核、癫痫等条把“摄生”排在治法之前；预后的措辞分良好、有条件、缓慢难愈、不一定、不良五类，并把“生命有无危险”与“能否治愈”分开说。",
+    "en": "Each entry has three parts: prescription, care and prognosis. Of 219 entries 136 carry care advice and 166 a prognosis. Care is mainly diet (no tobacco, alcohol or cold food, bland, nourishing), rest, warmth, mind and removing the cause; the TB and epilepsy entries put hygiene ahead of treatment. Prognosis wording falls in five kinds (good, conditional, slow or hard, variable, poor), and he tells \"danger to life\" apart from \"curability\"."
+  },
+  "takeaways": [
+    {
+      "zh": "调护并不是每条都有，而是集中在需要日常调摄的病：消化器病45条中43条有调护，呼吸器21条中18条，循环器11条中10条，泌尿生殖器17条中16条；脑脊髓神经系74条中只有26条(35%)，多数神经麻痹、神经痛条没有调护段；传染病16条与内分泌4条没有调护段，传染病改写“消毒”(11条)。全书136/219(62%)。",
+      "en": "Care is not in every entry but concentrated in diseases needing daily regulation: 43 of 45 digestive entries, 18 of 21 respiratory, 10 of 11 circulatory, 16 of 17 urogenital; only 26 of 74 nervous-system entries (35%), most paralysis and neuralgia entries having no care part; the 16 infectious and 4 endocrine entries have none, the infectious ones carrying disinfection instead (11 entries). Overall 136 of 219 (62%).",
+      "cite": [
+        "C14",
+        "C20",
+        "C3"
+      ]
+    },
+    {
+      "zh": "饮食是最常见的调护内容，并且“忌”与“补”两头都讲：忌烟酒、冷食、刺激性食物31条，清淡、蔬食、少肉20条，营养、滋养24条。例如慢性支气管炎“摒除冷饮，减少烟酒与刺激物”，心脏瓣膜症“淡食与富有营养品之食物”，癫痫“尤忌牛羊鸡肉，常能蔬食更佳”，十二指肠溃疡“少食多餐，禁止冷食与烟酒”。",
+      "en": "Diet is the commonest care content, and he speaks of both \"avoid\" and \"supplement\": no tobacco, alcohol, cold or irritant food in 31 entries, bland vegetable diet with little meat in 20, nutrition and nourishment in 24. Chronic bronchitis: \"ban cold drinks, cut tobacco, alcohol and irritants\"; valvular heart disease: \"bland food and nutritious food\"; epilepsy: \"especially avoid beef, mutton and chicken, vegetarian is better\"; duodenal ulcer: \"small frequent meals, no cold food, tobacco or alcohol\".",
+      "cite": [
+        "C2",
+        "C3",
+        "C5",
+        "C20",
+        "C4"
+      ]
+    },
+    {
+      "zh": "安静与运动、保温与情志按病性分开：急性、炎症与出血多要“绝对安静”“静卧”(安静休养32条)，慢性、虚弱与功能性病则要“户外运动”“日光”(20条：脂肪心、贫血、胃扩张、神经衰弱症、佝偻病)；胸背、腹腰与关节要保温(18条)，膝关节炎尤其“绝对不用冷罨法”；避免过劳12条；情志(清心寡欲、怡悦、戒恼怒)18条，多见于心脏、消化与神经病。",
+      "en": "Rest and exercise, warmth and mood are assigned by the nature of the disease: acute, inflammatory and bleeding conditions need \"absolute rest\" or lying quiet (32 entries), while chronic, weak and functional ones want \"outdoor exercise\" and sunshine (20 entries: fatty heart, anaemia, gastric dilatation, neurasthenia, rickets); chest, back, abdomen, waist and joints are kept warm (18 entries), knee arthritis with \"no cold compress at all\"; avoiding overwork 12; mood (clear the heart, cheerfulness, no anger) 18, mostly in heart, digestive and nerve disease.",
+      "cite": [
+        "C1",
+        "C13",
+        "C14",
+        "C15",
+        "C16"
+      ]
+    },
+    {
+      "zh": "他在几条里明说“第一”“最要”，排出调护的优先次序，共8条，并且排在第一的多是情志、去原因或摄生，而不是饮食：肺结核“解除忧虑烦恼为第一”，且“摄生重于治疗”，“不死于治法之不善，实死于摄养之未能尽善”；食管狭窄“首先摒除忧郁”，食管痉挛“情志愉快为首要”，神经性消化不良“情志愉快为第一”，癫痫“清心寡欲，为第一调护法”；萎黄病“去其原因为第一”，歇斯底里“除去原因为最要”；脊髓痨“注意摄生为第一”。",
+      "en": "In eight entries he says \"first\" or \"most important\" and sets a priority order, and what comes first is mood, removing the cause or hygiene rather than diet. Pulmonary TB: \"relieving worry is first\", \"hygiene weighs more than treatment\", \"people do not die of poor treatment but of poor nurture\"; oesophageal stricture \"first dispel gloom\", oesophageal spasm \"cheerful mood is the chief thing\", nervous dyspepsia \"cheerful mood comes first\", epilepsy \"clear heart and few desires is the first care\"; chlorosis \"removing the cause comes first\", hysteria \"removing the cause is most important\"; tabes \"hygiene comes first\".",
+      "cite": [
+        "C6",
+        "C7",
+        "C8",
+        "C21",
+        "C22",
+        "C9",
+        "C5",
+        "C11",
+        "C12",
+        "C10"
+      ]
+    },
+    {
+      "zh": "预后写了166条(76%)，措辞可归五类(编者按用语分组)：良好类62条(37%)，有条件45条，缓慢难愈21条，不一定23条，不良／危险14条，另1条为“数分钟至数十分钟即醒”。他很少给绝对的话：良好类多写“多良”“大多良好”，“不良”“多不良”这样的直白结论只见于喉头癌、食管狭窄、脊髓炎、脑动脉硬化症等。",
+      "en": "A prognosis is written for 166 entries (76%), and the wording falls into five kinds (editor's grouping by phrase): favourable 62 (37%), conditional 45, slow or hard to cure 21, variable 23, poor or dangerous 14, plus one \"wakes within minutes\". He rarely gives absolutes: the favourable kind is mostly \"mostly good\" or \"generally good\", and the bare \"poor\" or \"mostly poor\" appears only for laryngeal cancer, oesophageal stricture, myelitis, cerebral arteriosclerosis and the like.",
+      "cite": [
+        "R1",
+        "R2",
+        "R3",
+        "R18",
+        "R30"
+      ]
+    },
+    {
+      "zh": "哪类病得哪类预后，大体有规律(见表1)：急性炎症、神经痛、妇科炎症与五官病多写“多良”(如急性喉头炎“大多良好”，肌肉偻麻质斯“针灸收效较速，预后多良”)；慢性、功能性与器质性病写“不易全治”“治愈则难”；有并发症、晚期或脊髓、脑血管病写“不良”(如急性脊髓膜炎“麻痹症状发现后，即转归不良”，麻痹狂“年深久者不良”)；急性传染病与重症写死亡或不治(小叶性肺炎“多数不治”，疫痢“一二日内死亡”，糖尿病重者“昏睡而亡”)。",
+      "en": "Kinds of disease and kinds of prognosis follow a rough pattern (Table 1): acute inflammation, neuralgia, gynaecological inflammation and ENT disease mostly get \"generally good\" (acute laryngitis \"mostly good\", muscular rheumatism \"needling works faster, prognosis mostly good\"); chronic, functional and organic disease get \"not fully curable\" or \"cure is difficult\"; complications, late stage or spinal and cerebrovascular disease get \"poor\" (acute meningitis \"poor once paralysis appears\", mania \"poor if long-standing\"); acute infection and severe cases get death or \"untreatable\" (bronchopneumonia \"mostly untreatable\", epidemic dysentery \"death within one or two days\", severe diabetes \"dies in coma\").",
+      "cite": [
+        "R1",
+        "R18",
+        "R14",
+        "R29",
+        "R24",
+        "R23",
+        "R22"
+      ]
+    },
+    {
+      "zh": "他把“生命”与“治愈”分成两条轴。明说生命无危险的10条里，9条紧接着说治愈难、顽固或收效慢：慢性支气管炎“生命上无危险，久治乃有显效”，肺气肿“完全根治则难”，神经性消化不良“但为顽固之病症”，肠弛缓症“治愈则难”，颜面神经痉挛“甚有终身不愈者”，歇斯底里“治愈则不易，必须经年治疗”，偏头痛“不易收捷效”。反过来，说“危险”的14条多是急性重症或有并发症的病(心脏痉挛、动脉硬化症、胃溃疡并发症、急性肾脏炎并发尿毒症)。",
+      "en": "He treats \"life\" and \"cure\" as two axes. Of the 10 entries that say life is not endangered, 9 go on to say cure is difficult, the disease stubborn or the response slow: chronic bronchitis \"no danger to life, but effect only after long treatment\", emphysema \"complete cure is hard\", nervous dyspepsia \"but a stubborn disease\", atonic bowel \"cure is hard\", facial spasm \"some never recover\", hysteria \"cure is not easy, a year or more of treatment\", migraine \"no quick effect\". Conversely the 14 that speak of danger are mostly acute severe disease or complications (angina, arteriosclerosis, gastric ulcer with complications, acute nephritis with uraemia).",
+      "cite": [
+        "R4",
+        "R5",
+        "R10",
+        "R11",
+        "R15",
+        "R16",
+        "R17",
+        "R6",
+        "R8",
+        "R12",
+        "R13"
+      ]
+    },
+    {
+      "zh": "同一病的预后，他常写明“什么条件下”会变：并发症或合并症(11条)，早治或初期(15条)，病因(10条：“视原因”“去其原因”“原因不去，每多反复”)，病久、年久(7条)，以及调养摄养(8条：脑溢血“视摄养如何而不一定”，癫痫“针治与调养配合得宜”，神经衰弱症“视治疗与休养配合得宜与否”)。另有4条写“可以延年”或“生命可延”(心脏瓣膜症、脂肪心、肝脏硬化症、振颤麻痹)，都以“调养得法”为前提。",
+      "en": "He often names the condition on which a prognosis turns: complications (11 entries), early treatment or early stage (15), the cause (10: \"depends on the cause\", \"remove the cause\", \"if the cause is not removed it often recurs\"), long standing (7), and regulated living (8: cerebral haemorrhage \"depends on how one nurtures oneself\", epilepsy \"needling and nurture in step\", neurasthenia \"depends on treatment and rest working together\"). Four more say \"may prolong life\" (valvular heart disease, fatty heart, cirrhosis, Parkinsonism), all on the premise of good regulation.",
+      "cite": [
+        "R25",
+        "R26",
+        "R12",
+        "R28",
+        "R27",
+        "R29",
+        "R19",
+        "R20",
+        "R21",
+        "R7",
+        "R9"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "调护的四个层次",
+        "en": "Four layers of care"
+      },
+      "body": {
+        "zh": "调护段里的建议大致有四层：(1)日常生活(饮食、安静、保温、运动日光、情志、避免过劳)；(2)去病因或原发病(20条，如“有梅毒、结核、心脏病者，必须同时助以适当之治疗”“去其原因为第一”)；(3)局部护理与简单家用法(含漱、硼酸水、按摩、压腹带、胃托，共约20条)；(4)专医、药物与外科的配合(39条含相关字样，见 cda-32)。第(1)层与第(2)层出现最多，说明他把针灸放在生活调摄与病因治疗的旁边，而不是替代它们。",
+        "en": "Care advice falls into four layers: (1) daily life (diet, quiet, warmth, exercise and sunshine, mood, avoiding overwork); (2) removing the cause or the primary disease (20 entries, e.g. \"where there is syphilis, TB or heart disease, treatment must go alongside\", \"removing the cause comes first\"); (3) local care and simple home measures (gargle, boric-acid water, massage, abdominal belt, stomach support, some 20 entries); (4) working with a specialist, drugs or surgery (39 entries with relevant wording, see cda-32). Layers 1 and 2 are commonest, which shows he places acupuncture beside life regulation and cause treatment, not in place of them."
+      }
+    },
+    {
+      "h": {
+        "zh": "肺结核：调护第一的样本",
+        "en": "Pulmonary TB: care first"
+      },
+      "body": {
+        "zh": "肺结核一条没有单列的【预后】，却写了全书最长的调护。他先说“首先应改善生活条件，变换环境，解除精神上之负担，尤以后者为最重要”，认为一般的治疗“注重于休养与营养，其次为药物”，针灸是在这两项之外再加。调护段结论是“肺病以摄生重于治疗”，并以自己20余年的临床所得作证：肺病之死“不死于治法之不善，实死于摄养之未能尽善”。这是书中对“调护先于治疗”说得最明的一处，不应推到其他病；但癫痫、脊髓痨等条同样把摄生或清心寡欲排在第一。",
+        "en": "The TB entry has no separate prognosis line but the longest care text in the book. He begins \"first improve living conditions, change environment, lift the mental burden, the last most important of all\", and says ordinary treatment \"stresses rest and nutrition, drugs second\", acupuncture being added to those two. The care section concludes \"hygiene weighs more than treatment\" and testifies from twenty-odd years of practice that TB patients \"die not of poor treatment but of poor nurture\". This is the plainest statement of care before treatment in the book and should not be spread to every disease, though epilepsy, tabes and others likewise put hygiene or a clear heart first."
+      }
+    },
+    {
+      "h": {
+        "zh": "预后的两个提醒",
+        "en": "Two reminders on prognosis"
+      },
+      "body": {
+        "zh": "第一，预后是他对“转归”的估计，不是疗效数字：全书没有给出治愈率，最具体的时程只在个别条目(脚气“治疗一二周收效”与“非一二个月不可”，见 cda-11)。第二，有几处预后直接引用别人的判断或标出自己的经验界线，如鼠疫“据新医书指示，侵入肺脏者多不良，败血性者，一发即死”；坐骨神经痛“如经过电疗久治者，再用针灸，收效则缓，此在个人历年临床所得之经验，还待多数针灸医家之证实”。读这些句子时要区分“书中转述”“他的经验”与“他的推想”。",
+        "en": "First, the prognosis is his estimate of the outcome, not a cure rate: the book gives no success figures, and the most specific timescales are in single entries (beriberi \"one or two weeks\" against \"not under one or two months\", see cda-11). Second, several prognoses quote others or mark the limit of his own experience, e.g. plague \"according to modern medical books, invasion of the lungs is mostly poor, the septic form kills at once\"; sciatica \"if long electrotherapy came first, needling responds slowly, this being my own experience over the years, still to be confirmed by many acupuncturists\". When reading these keep apart what the book relays, what he experienced and what he supposes."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 各系统的调护与预后(条数；预后分类为编者按措辞的归类)",
+        "en": "Table 1. Care and prognosis by system (entries; prognosis kinds are the editor's grouping by wording)"
+      },
+      "cols": [
+        {
+          "zh": "系统",
+          "en": "System"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        },
+        {
+          "zh": "有调护",
+          "en": "With care"
+        },
+        {
+          "zh": "有预后",
+          "en": "With prognosis"
+        },
+        {
+          "zh": "良好类",
+          "en": "Favourable"
+        },
+        {
+          "zh": "有条件",
+          "en": "Conditional"
+        },
+        {
+          "zh": "缓慢难愈",
+          "en": "Slow/hard"
+        },
+        {
+          "zh": "不一定",
+          "en": "Variable"
+        },
+        {
+          "zh": "不良／危险",
+          "en": "Poor/dangerous"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "呼吸器病",
+            "en": "Respiratory"
+          },
+          "21",
+          "18",
+          "20",
+          "5",
+          "4",
+          "3",
+          "3",
+          "5"
+        ],
+        [
+          {
+            "zh": "循环器病",
+            "en": "Circulatory"
+          },
+          "11",
+          "10",
+          "11",
+          "2",
+          "3",
+          "1",
+          "3",
+          "2"
+        ],
+        [
+          {
+            "zh": "消化器病",
+            "en": "Digestive"
+          },
+          "45",
+          "43",
+          "40",
+          "15",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          {
+            "zh": "泌尿生殖器病",
+            "en": "Urogenital"
+          },
+          "17",
+          "16",
+          "15",
+          "6",
+          "4",
+          "2",
+          "3",
+          "0"
+        ],
+        [
+          {
+            "zh": "脑脊髓神经系病",
+            "en": "Nervous system"
+          },
+          "74",
+          "26",
+          "51",
+          "17",
+          "17",
+          "8",
+          "5",
+          "3"
+        ],
+        [
+          {
+            "zh": "妇人科病",
+            "en": "Gynaecology"
+          },
+          "16",
+          "11",
+          "12",
+          "9",
+          "2",
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          {
+            "zh": "小儿科病",
+            "en": "Paediatrics"
+          },
+          "4",
+          "4",
+          "4",
+          "3",
+          "0",
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          {
+            "zh": "内分泌障碍",
+            "en": "Endocrine"
+          },
+          "4",
+          "0",
+          "1",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          {
+            "zh": "新陈代谢病",
+            "en": "Metabolic"
+          },
+          "2",
+          "2",
+          "2",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          {
+            "zh": "五官器病",
+            "en": "ENT and eye"
+          },
+          "9",
+          "6",
+          "5",
+          "4",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          {
+            "zh": "传染病",
+            "en": "Infectious"
+          },
+          "16",
+          "0",
+          "5",
+          "0",
+          "0",
+          "0",
+          "2",
+          "3"
+        ],
+        [
+          {
+            "zh": "合计",
+            "en": "Total"
+          },
+          "219",
+          "136",
+          "166",
+          "62",
+          "45",
+          "21",
+          "23",
+          {
+            "zh": "14（另有1条属其他）",
+            "en": "14 (plus 1 other)"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 调护里反复出现的内容(在有调护的136条中；一条可属多类)",
+        "en": "Table 2. Recurring care content (of the 136 entries with care; one entry may fall in several)"
+      },
+      "cols": [
+        {
+          "zh": "内容",
+          "en": "Content"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        },
+        {
+          "zh": "书中措辞(举例)",
+          "en": "Wording (examples)"
+        },
+        {
+          "zh": "见于(举例)",
+          "en": "Where (examples)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "忌烟酒·冷食·刺激性食物",
+            "en": "Avoid tobacco, alcohol, cold food, irritants"
+          },
+          "31",
+          {
+            "zh": "“摒除冷饮，减少烟酒与刺激物”(慢性支气管炎)；“禁止冷食与烟酒”(十二指肠溃疡)",
+            "en": "\"Ban cold drinks, cut tobacco, alcohol and irritants\" (chronic bronchitis); \"no cold food, tobacco or alcohol\" (duodenal ulcer)"
+          },
+          "支气管喘息、肺气肿、口腔炎、胃酸过多症、癫痫、结膜充血症"
+        ],
+        [
+          {
+            "zh": "清淡·蔬食·少肉",
+            "en": "Bland, vegetable diet, little meat"
+          },
+          "20",
+          {
+            "zh": "“淡食”“蔬食胜于肉食”“尤忌牛羊鸡肉”",
+            "en": "\"Bland diet\", \"vegetables over meat\", \"especially avoid beef, mutton, chicken\""
+          },
+          "肺结核、心脏瓣膜症、癫痫、偏头痛、尿崩症(减盐减蛋白)"
+        ],
+        [
+          {
+            "zh": "营养·滋养",
+            "en": "Nutrition and nourishing food"
+          },
+          "24",
+          {
+            "zh": "“富有营养品”“滋养料”；夜盲症“多服鸡肝、鱼肝油”",
+            "en": "\"Nutritious food\", \"nourishing drinks\"; night blindness \"chicken liver, cod-liver oil\""
+          },
+          "喉头结核、贫血、白血病、胃溃疡、肠结核、佝偻病"
+        ],
+        [
+          {
+            "zh": "安静·休养·睡眠",
+            "en": "Quiet, rest, sleep"
+          },
+          "32",
+          {
+            "zh": "“绝对安静”“静卧”“充分睡眠”",
+            "en": "\"Absolute rest\", \"lie quietly\", \"ample sleep\""
+          },
+          "急性喉头炎、小叶性肺炎、肋膜炎、急性心脏内膜炎、胃溃疡、脑充血、偏头痛"
+        ],
+        [
+          {
+            "zh": "保温·保暖",
+            "en": "Keep warm"
+          },
+          "18",
+          {
+            "zh": "“胸背部必须经常保暖”“局部必须保温”",
+            "en": "\"Keep chest and back warm\", \"keep the part warm\""
+          },
+          "慢性支气管炎、胃扩张、坐骨神经痛、膝关节炎、月经困难症(腰腹保温)"
+        ],
+        [
+          {
+            "zh": "去原因·治原发病",
+            "en": "Remove the cause or the primary disease"
+          },
+          "20",
+          {
+            "zh": "“去其病因”“原因治疗”“去其原因为第一”",
+            "en": "\"Remove the cause\", \"treat the cause\", \"removing the cause comes first\""
+          },
+          "慢性喉头炎、萎黄病、胃痉挛、常习性便秘、歇斯底里"
+        ],
+        [
+          {
+            "zh": "专医·药物·外科配合",
+            "en": "Specialist, drugs, surgery alongside"
+          },
+          "39",
+          {
+            "zh": "“由专医……”“与药物共同治疗”“外科手术”(见 cda-32)",
+            "en": "\"By a specialist\", \"together with drugs\", \"surgery\" (see cda-32)"
+          },
+          "肺结核、肋膜炎、急性肠炎、肝脏硬化症、乳腺炎、糖尿病、中耳炎"
+        ],
+        [
+          {
+            "zh": "情志·精神(怡悦、清心寡欲、忌忧烦恼)",
+            "en": "Mind and emotion"
+          },
+          "18",
+          {
+            "zh": "“清心寡欲”“情志愉快为第一”“戒恼怒郁愤”“涤烦恼”",
+            "en": "\"Clear the heart, few desires\", \"a cheerful mood comes first\", \"avoid anger and gloom\", \"wash away worry\""
+          },
+          "肺结核、心脏瓣膜症、动脉硬化症、食管痉挛、胃溃疡、癫痫、偏头痛"
+        ],
+        [
+          {
+            "zh": "运动·日光",
+            "en": "Outdoor exercise and sunshine"
+          },
+          "20",
+          {
+            "zh": "“户外运动”“日光浴”“缓慢之散步”“晒太阳”",
+            "en": "\"Outdoor exercise\", \"sun bathing\", \"slow walks\", \"sunshine\""
+          },
+          "喉头结核、脂肪心、贫血、胃扩张、神经衰弱症、佝偻病"
+        ],
+        [
+          {
+            "zh": "按摩·摩擦",
+            "en": "Massage"
+          },
+          "11",
+          {
+            "zh": "“背部、胃部、腹部常用按摩法”",
+            "en": "\"Massage of back, stomach and abdomen\""
+          },
+          "胃下垂、胃肌衰弱、肠弛缓症、常习性便秘、喉头肌麻痹、肩凝"
+        ],
+        [
+          {
+            "zh": "局部清洁·含漱·洗涤",
+            "en": "Local cleanliness, gargle, wash"
+          },
+          "9",
+          {
+            "zh": "“以生甘草、薄荷煎水，时时含漱”“硼酸水宜温而不宜冷”",
+            "en": "\"Gargle often with raw liquorice and mint decoction\", \"boric-acid water warm, not cold\""
+          },
+          "卡他性口腔炎、扁桃腺炎、急性咽头炎、直肠炎、膣炎、结膜充血症"
+        ],
+        [
+          {
+            "zh": "避免过劳",
+            "en": "Avoid overwork"
+          },
+          "12",
+          {
+            "zh": "“身心不宜过劳”“避免精神过劳”“不勉强行动”",
+            "en": "\"Do not overwork body or mind\", \"avoid mental overwork\", \"do not force movement\""
+          },
+          "支气管喘息、肺气肿、心脏痉挛、脊髓痨、坐骨神经痛、偏头痛"
+        ],
+        [
+          {
+            "zh": "摄生·摄养·调摄",
+            "en": "Hygiene and nurture"
+          },
+          "9",
+          {
+            "zh": "“摄生”“摄养”“调摄”",
+            "en": "\"Hygiene\", \"nurture\", \"regulated living\""
+          },
+          "肺结核、神经性心悸亢进症、腹膜炎、淋疾、脊髓痨、常习性头痛"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 预后的用语与分类(在有预后的166条中)",
+        "en": "Table 3. Prognosis vocabulary and kinds (of the 166 entries with a prognosis)"
+      },
+      "cols": [
+        {
+          "zh": "类别(编者归类)",
+          "en": "Kind (editor)"
+        },
+        {
+          "zh": "他的措辞",
+          "en": "His wording"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        },
+        {
+          "zh": "见于(举例)",
+          "en": "Where (examples)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "良好类",
+            "en": "Favourable"
+          },
+          {
+            "zh": "“良”“多良”“大多良好”“佳良”“多数良好”“大都可获愈”",
+            "en": "\"Good\", \"mostly good\", \"excellent\", \"mostly curable\""
+          },
+          "62",
+          {
+            "zh": "急性喉头炎、气管炎、扁桃腺炎、齿痛、神经性心悸亢进症、三叉神经痛、坐骨神经痛、肌肉偻麻质斯、乳腺炎、衄血",
+            "en": "acute laryngitis, tracheitis, tonsillitis, toothache, nervous palpitation, trigeminal and sciatic neuralgia, muscular rheumatism, mastitis, epistaxis"
+          }
+        ],
+        [
+          {
+            "zh": "有条件",
+            "en": "Conditional"
+          },
+          {
+            "zh": "“早治……则良”“去其原因……良”“有并发症者危险”“干性与浆液性大都良好；其他不良”",
+            "en": "\"Good if treated early\", \"good once the cause is removed\", \"dangerous with complications\", \"dry and serous forms good, the rest poor\""
+          },
+          "45",
+          {
+            "zh": "喉头结核、急性胃炎、胃溃疡、脑充血、桡骨神经麻痹、佝偻病、糖尿病、甲状腺肥大",
+            "en": "laryngeal TB, acute gastritis, gastric ulcer, cerebral congestion, radial paralysis, rickets, diabetes, goitre"
+          }
+        ],
+        [
+          {
+            "zh": "缓慢难愈",
+            "en": "Slow or hard to cure"
+          },
+          {
+            "zh": "“不易全治”“治愈则难”“收效迟缓”“顽固”“久治乃效”",
+            "en": "\"Hard to cure fully\", \"cure is difficult\", \"slow to respond\", \"stubborn\", \"effective only after long treatment\""
+          },
+          "21",
+          {
+            "zh": "慢性喉头炎、肺气肿、肠弛缓症、痔疾、歇斯底里、偏头痛、颜面神经痉挛、振颤麻痹",
+            "en": "chronic laryngitis, emphysema, atonic bowel, haemorrhoids, hysteria, migraine, facial spasm, Parkinsonism"
+          }
+        ],
+        [
+          {
+            "zh": "不一定",
+            "en": "Variable"
+          },
+          {
+            "zh": "“不一定”“无定”“不定”“不一致”“视原因而异”“有效有不效”",
+            "en": "\"Uncertain\", \"not fixed\", \"varies with the cause\", \"sometimes works, sometimes not\""
+          },
+          "23",
+          {
+            "zh": "喉头肌麻痹、气胸、急性心肌炎、贫血、慢性胃炎、脑溢血、神经衰弱症、伤寒",
+            "en": "laryngeal paralysis, pneumothorax, acute myocarditis, anaemia, chronic gastritis, cerebral haemorrhage, neurasthenia, typhoid"
+          }
+        ],
+        [
+          {
+            "zh": "不良／危险",
+            "en": "Poor or dangerous"
+          },
+          {
+            "zh": "“不良”“多不良”“不良者多”“多数不治”“一发即死”",
+            "en": "\"Poor\", \"mostly poor\", \"mostly fatal\", \"dies at once on onset\""
+          },
+          "14",
+          {
+            "zh": "喉头癌、声门水肿、小叶性肺炎、脑动脉硬化症、脊髓炎、急性脊髓膜炎、赤痢、鼠疫、白喉",
+            "en": "laryngeal cancer, glottic oedema, bronchopneumonia, cerebral arteriosclerosis, myelitis, acute meningitis, dysentery, plague, diphtheria"
+          }
+        ],
+        [
+          {
+            "zh": "其他",
+            "en": "Other"
+          },
+          {
+            "zh": "“大多数分钟至数十分钟即醒而复常”",
+            "en": "\"Wakes within minutes to tens of minutes and returns to normal\""
+          },
+          "1",
+          {
+            "zh": "脑贫血",
+            "en": "cerebral anaemia"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "安静睡卧，多饮温开水，以冀发汗。饮食则以清淡为宜",
+      "src": "针灸处方集·第一章 呼吸器病·急性喉头炎 p.215"
+    },
+    {
+      "id": "C2",
+      "quote": "胸背部必须经常保暖，摒除冷饮，减少烟酒与刺激物等饮食",
+      "src": "针灸处方集·第一章 呼吸器病·慢性支气管炎 p.218"
+    },
+    {
+      "id": "C3",
+      "quote": "绝对安静，少劳动，清心寡欲，淡食与富有营养品之食物",
+      "src": "针灸处方集·第二章 循环器病·心脏瓣膜症 p.225"
+    },
+    {
+      "id": "C4",
+      "quote": "摒除烟酒，多食海藻、海带，涤烦恼，不作剧烈运动",
+      "src": "针灸处方集·第二章 循环器病·动脉硬化症 p.226"
+    },
+    {
+      "id": "C5",
+      "quote": "绝对禁止心身过劳与烟酒肉食，尤忌牛羊鸡肉，常能蔬食更佳；清心寡欲，为第一调护法",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·癫痫 p.262"
+    },
+    {
+      "id": "C6",
+      "quote": "肺病以摄生重于治疗。发觉已有肺病，摄养适当，亦能趋于康复",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C7",
+      "quote": "深知肺病之死，不死于治法之不善，实死于摄养之未能尽善",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C8",
+      "quote": "所以解除忧虑烦恼为第一。次则工作减轻，饮食务要清淡，蔬食胜于肉食",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C9",
+      "quote": "注意原因病，与易于消化富有营养之食物，少吃多餐，情志愉快为第一",
+      "src": "针灸处方集·第三章 消化器病·神经性消化不良 p.234"
+    },
+    {
+      "id": "C10",
+      "quote": "注意摄生为第一，避免身体过劳，及不良刺激性食物",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脊髓痨 p.249"
+    },
+    {
+      "id": "C11",
+      "quote": "多食营养品，再由专医处方内服，去其原因为第一",
+      "src": "针灸处方集·第二章 循环器病·萎黄病 p.227"
+    },
+    {
+      "id": "C12",
+      "quote": "注意其原因而除去之为最要，常予精神上之安慰",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·歇斯底里 p.263"
+    },
+    {
+      "id": "C13",
+      "quote": "常作户外运动，静坐，多睡眠，少用脑力，避免阅览有刺激性之书图、戏剧及电影",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·神经衰弱症 p.262"
+    },
+    {
+      "id": "C14",
+      "quote": "避去暴饮暴食，脘腹背部保温，常用压腹带，间作户外运动",
+      "src": "针灸处方集·第三章 消化器病·胃扩张 p.233"
+    },
+    {
+      "id": "C15",
+      "quote": "避免精神过劳与兴奋，注意通便，改善日常生活，充分睡眠，多蔬食，除烟酒，离烦嚣，戒恼怒郁愤等",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·偏头痛 p.264"
+    },
+    {
+      "id": "C16",
+      "quote": "不论急性、慢性，绝对不用冷罨法或润湿之品涂敷，局部必须保温",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·膝关节炎 p.266"
+    },
+    {
+      "id": "C17",
+      "quote": "以生甘草、薄荷煎水，时时含漱之，并保护口腔之清洁",
+      "src": "针灸处方集·第三章 消化器病·卡他性口腔炎 p.228"
+    },
+    {
+      "id": "C18",
+      "quote": "洗涤之硼酸水或淡盐水，宜温而不宜冷",
+      "src": "针灸处方集·第十章 五官器病·结膜充血症 p.277"
+    },
+    {
+      "id": "C19",
+      "quote": "背部、胃部、腹部常用按摩法，加强胃肌之紧张力，与针灸法配合应用，兼用胃托以助之",
+      "src": "针灸处方集·第三章 消化器病·胃下垂 p.234"
+    },
+    {
+      "id": "C20",
+      "quote": "多进碱性面食，少食多餐，禁止冷食与烟酒一切固性与刺激性食物",
+      "src": "针灸处方集·第三章 消化器病·十二指肠溃疡 p.237"
+    },
+    {
+      "id": "C21",
+      "quote": "首先摒除忧郁，宜休养，怡悦",
+      "src": "针灸处方集·第三章 消化器病·食管狭窄 p.231"
+    },
+    {
+      "id": "C22",
+      "quote": "多摄取营养物，以情志愉快为首要",
+      "src": "针灸处方集·第三章 消化器病·食管痉挛 p.231"
+    },
+    {
+      "id": "R1",
+      "quote": "大多良好",
+      "src": "针灸处方集·第一章 呼吸器病·急性喉头炎 p.215"
+    },
+    {
+      "id": "R2",
+      "quote": "不易全治",
+      "src": "针灸处方集·第一章 呼吸器病·慢性喉头炎 p.216"
+    },
+    {
+      "id": "R3",
+      "quote": "初期针灸良好。二期病重，必助以适宜药剂，久治可效。后期多不良",
+      "src": "针灸处方集·第一章 呼吸器病·喉头结核 p.216"
+    },
+    {
+      "id": "R4",
+      "quote": "生命上无危险，久治乃有显效",
+      "src": "针灸处方集·第一章 呼吸器病·慢性支气管炎 p.218"
+    },
+    {
+      "id": "R5",
+      "quote": "生命上不致危险，完全根治则难",
+      "src": "针灸处方集·第一章 呼吸器病·肺气肿 p.220"
+    },
+    {
+      "id": "R6",
+      "quote": "生命上虽有危险性，死亡则稀；唯反复频发，有在发作中死亡之虞",
+      "src": "针灸处方集·第二章 循环器病·心脏痉挛(狭心症) p.224"
+    },
+    {
+      "id": "R7",
+      "quote": "本病虽无特效疗法，如调养得法，亦可延年",
+      "src": "针灸处方集·第二章 循环器病·心脏瓣膜症 p.225"
+    },
+    {
+      "id": "R8",
+      "quote": "以其易发脑溢血，多危险性",
+      "src": "针灸处方集·第二章 循环器病·动脉硬化症 p.226"
+    },
+    {
+      "id": "R9",
+      "quote": "难于全治，调摄得宜，亦可延年",
+      "src": "针灸处方集·第三章 消化器病·肝脏硬化症 p.239"
+    },
+    {
+      "id": "R10",
+      "quote": "生命上无危险，但为顽固之病症",
+      "src": "针灸处方集·第三章 消化器病·神经性消化不良 p.234"
+    },
+    {
+      "id": "R11",
+      "quote": "无生命上危险，治愈则难",
+      "src": "针灸处方集·第三章 消化器病·肠弛缓症 p.237"
+    },
+    {
+      "id": "R12",
+      "quote": "全治者有之，如有并发症者危险",
+      "src": "针灸处方集·第三章 消化器病·胃溃疡 p.234"
+    },
+    {
+      "id": "R13",
+      "quote": "并发尿毒症者危险",
+      "src": "针灸处方集·第四章 泌尿生殖器病·急性肾脏炎 p.241"
+    },
+    {
+      "id": "R14",
+      "quote": "麻痹症状发现后，即转归不良",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·急性脊髓膜炎 p.249"
+    },
+    {
+      "id": "R15",
+      "quote": "生命上无问题，治愈则较难，甚有终身不愈者",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颜面神经痉挛 p.259"
+    },
+    {
+      "id": "R16",
+      "quote": "生命上无直接危险，而治愈则不易，必须经年治疗",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·歇斯底里 p.263"
+    },
+    {
+      "id": "R17",
+      "quote": "本病属慢性，不易收捷效，生命无问题，在各种疗法中，以针灸治疗最适宜",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·偏头痛 p.264"
+    },
+    {
+      "id": "R18",
+      "quote": "本病在一切的疗法中，针灸收效较速，预后多良",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·肌肉偻麻质斯 p.266"
+    },
+    {
+      "id": "R19",
+      "quote": "视摄养如何而不一定",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑溢血 p.247"
+    },
+    {
+      "id": "R20",
+      "quote": "针治与调养配合得宜，可收速效而良好；否则常年频发，概成不良",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·癫痫 p.262"
+    },
+    {
+      "id": "R21",
+      "quote": "视治疗与休养配合得宜与否而无一定",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·神经衰弱症 p.262"
+    },
+    {
+      "id": "R22",
+      "quote": "轻症得愈，重者每陷于昏睡而亡",
+      "src": "针灸处方集·第九章 新陈代谢病·糖尿病 p.276"
+    },
+    {
+      "id": "R23",
+      "quote": "疫痢重症，往往在一二日内死亡；能经过三四日者，大抵得救",
+      "src": "针灸处方集·第十一章 传染病·赤痢(附疫痢) p.280"
+    },
+    {
+      "id": "R24",
+      "quote": "凡有高热，皮肤青紫，鼻翼煽动，鼻色淡白者，多数不治",
+      "src": "针灸处方集·第一章 呼吸器病·小叶性肺炎 p.219"
+    },
+    {
+      "id": "R25",
+      "quote": "早期治疗，无合并症，可望治愈",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·佝偻病 p.267"
+    },
+    {
+      "id": "R26",
+      "quote": "早经适当之治疗者良，否则经年难愈",
+      "src": "针灸处方集·第十章 五官器病·副鼻腔炎 p.278"
+    },
+    {
+      "id": "R27",
+      "quote": "多良；病久者，较难治",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颜面神经麻痹 p.255"
+    },
+    {
+      "id": "R28",
+      "quote": "多良；唯原因不去，每多反复",
+      "src": "针灸处方集·第三章 消化器病·胃痉挛 p.233"
+    },
+    {
+      "id": "R29",
+      "quote": "年深久者不良",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·麻痹狂 p.248"
+    },
+    {
+      "id": "R30",
+      "quote": "不一定；其有心肺肾病者，多不良",
+      "src": "针灸处方集·第三章 消化器病·慢性喉头炎 p.230"
+    },
+    {
+      "id": "R31",
+      "quote": "视原因之不同，而不一致",
+      "src": "针灸处方集·第三章 消化器病·慢性胃炎 p.232"
+    }
+  ],
+  "how_to_use": {
+    "zh": "读一条处方，先读【调护】：它常比取穴更像他对这类病的整体想法(生活、原因、专医)。再读【预后】，分清三件事：会不会危险，能不能治愈，依什么条件变化。遇到“视原因”“早治”“调养得法”这类条件句，把它当作他对疗效与生活调摄的联系。表1、表2的条数与分类是编者的整理，用来查找，不代表书中的正式分类。",
+    "en": "Read the care section of an entry first: it often shows his overall idea of the disease (life, cause, specialist) better than the point list. Then read the prognosis and separate three things: is there danger, can it be cured, and on what conditions does it change. Treat conditional lines such as \"depends on the cause\", \"early treatment\", \"well regulated\" as his link between results and daily living. The counts and kinds in Tables 1 and 2 are the editor's tabulation for lookup, not the book's own classification."
+  },
+  "caveats": {
+    "zh": "预后用语出自1951年前后的临床判断，所涉疾病名多为民国西医病名(如脚气、肺结核、胃下垂)，预后并不代表今日疗效；条数为对原书中文的重新统计，预后分类是编者按措辞归组。",
+    "en": "The prognoses are clinical judgements of about 1951 about diseases named in Republican-era Western terms (beriberi, TB, gastroptosis) and do not reflect today's outcomes; counts are a recount of the Chinese text and the kinds are the editor's grouping by wording."
+  },
+  "see": {
+    "notes": [
+      "Pulmonary Tuberculosis (痨瘵、传尸、肺痨) 肺结核",
+      "Epilepsy (Wuxian) 癫痫",
+      "Tabes Dorsalis 脊髓痨",
+      "Neurasthenia (Yinxu) 神经衰弱症",
+      "Migraine 偏头痛",
+      "Chronic Bronchitis (老咳、痰饮咳嗽) 慢性支气管炎",
+      "Duodenal Ulcer (心脘痛) 十二指肠溃疡",
+      "Liver Cirrhosis (血蛊、单腹蛊) 肝脏硬化症",
+      "Cerebral Hemorrhage (Zhongfeng) 脑溢血",
+      "Shaking Palsy - Parkinsons Disease 振颤麻痹"
+    ],
+    "points": [],
+    "rx": [
+      "cda-rx-017",
+      "cda-rx-151",
+      "cda-rx-104",
+      "cda-rx-153",
+      "cda-rx-160",
+      "cda-rx-010",
+      "cda-rx-065",
+      "cda-rx-072",
+      "cda-rx-097",
+      "cda-rx-139"
+    ]
+  }
+}

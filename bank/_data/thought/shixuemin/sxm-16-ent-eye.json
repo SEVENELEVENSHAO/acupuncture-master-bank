@@ -1,0 +1,617 @@
+{
+  "id": "sxm-16-ent-eye",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 16,
+  "title": {
+    "zh": "五官科：局部穴加合谷，风池、完骨、天柱补益脑髓通清窍，咽喉分虚实，眼病重活血通目络并交代疗效界限",
+    "en": "ENT and Eye: Local Points plus Hegu, Fengchi-Wangu-Tianzhu to Nourish the Brain and Open the Clear Orifices, Throat Split into Excess and Deficiency, Eye Disease by Activating Blood in the Eye Network with Stated Limits"
+  },
+  "summary": {
+    "zh": "五官科的取穴由三层构成：官窍局部穴(迎香、印堂“鼻三针”，耳门、听宫、听会“耳前三针”，睛明、攒竹、太阳等眼周穴)，循经远端(合谷“面口合谷收”，足三里)，以及他从神经科带来的百会加风池、完骨、天柱“补益脑髓”——耳聋、麻痹性斜视、缺血性视神经病都用。治则按病位分脏腑：鼻病“补脾益肺”，扁桃体急性责肺胃、慢性责脾肾，梅核气责肝胃；咽炎与喉喑分实火(泻火、少商商阳放血)与虚火(降火、列缺照海)。眼病以“行气活血、通目络”为主，视神经萎缩“治疗周期较久”，并说明青光眼、近视、萎缩性鼻炎的疗效界限。",
+    "en": "Point selection in ENT and eye has three layers: local points at the sense organ (Yingxiang and Yintang as the \"three nose needles\", Ermen, Tinggong, Tinghui as the \"three ear-front needles\", Jingming, Cuanzhu, Taiyang and other periorbital points), distal channel points (Hegu, \"face and mouth are served by Hegu\", and Zusanli), and, brought from neurology, Baihui with Fengchi, Wangu, Tianzhu to \"nourish brain marrow\", used for deafness, paralytic strabismus and ischaemic optic neuropathy. Principles follow organ localisation: nose disease \"tonify spleen, boost lung\"; acute tonsillitis is lung-stomach, chronic is spleen-kidney, globus is liver-stomach; pharyngitis and hoarseness are split into excess fire (drain fire, bleed Shaoshang and Shangyang) and deficient fire (lower fire, Lieque and Zhaohai). Eye disease is mainly \"move qi, activate blood, free the eye network\", optic atrophy has a \"long course\", and the limits of effect in glaucoma, myopia and atrophic rhinitis are stated."
+  },
+  "takeaways": [
+    {
+      "zh": "官窍局部穴是五官科的底色：耳聋用“耳前三针”耳门、听宫、听会，依“经穴所在，主治所及”；鼻炎用迎香配印堂“为鼻三针之组合，治疗鼻炎效专力宏”；眼病取睛明、攒竹、太阳、四白、球后等眼周穴(11例眼病医案中9例)。远端首选合谷——“面口合谷收”，39例五官医案中合谷17例。",
+      "en": "Local points at the sense organ are the ground layer. Deafness: the \"three ear-front needles\" Ermen, Tinggong, Tinghui, by \"where the point lies, its indication reaches\"; rhinitis: Yingxiang with Yintang as \"the three-nose-needle combination, focused and strong\"; eye disease: periorbital Jingming, Cuanzhu, Taiyang, Sibai, Qiuhou (9 of 11 eye cases). The first distal choice is Hegu, \"face and mouth are served by Hegu\": 17 of 39 ENT and eye cases.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "他把神经科的“补益脑髓”带进五官：耳聋主穴百会、四神聪、风池、完骨、天柱，“三经配合使用，共奏疏通经络、行气活血、滋补脑髓之效”；麻痹性斜视主穴同样是风池、完骨、天柱、太阳、百会加肝俞、肾俞；缺血性视神经病变“针刺诸穴对各类眼部缺血类眼病均有良效”。39例医案中风池17例、百会13例；3例麻痹性斜视医案的治则都含“醒脑开”。",
+      "en": "He carries neurology's \"nourish brain marrow\" into the sense organs. Deafness: main points Baihui, Sishencong, Fengchi, Wangu, Tianzhu, \"the three channels together unblock the channels, move qi and blood, nourish brain marrow\"; paralytic strabismus likewise Fengchi, Wangu, Tianzhu, Taiyang, Baihui plus Ganshu, Shenshu; ischaemic optic neuropathy: \"needling these points is effective for all eye diseases of ischaemia\". Among 39 cases Fengchi appears 17 times, Baihui 13; all 3 paralytic-strabismus cases state \"Xingnao (Kaiqiao)\" in the principle.",
+      "cite": [
+        "E4",
+        "E5"
+      ]
+    },
+    {
+      "zh": "鼻病按肺脾、督脉分：急性鼻炎“宣通鼻窍，祛风散寒”，取大椎(“具有扶正、清热之功”)、肺俞、风池、迎香；慢性鼻炎“补脾益肺、活血通窍”，“治当培土生金，疏通经络”，大椎点刺放血；变应性鼻炎在迎香、印堂之外加蝶腭神经节、足三里、合谷，并配穴位拔罐敷贴与灸；萎缩性鼻炎“养阴润燥，宣肺散邪”，鼻窦炎“宣通鼻窍，化浊排脓”并用灸。16条五官全集处方中5条用灸。",
+      "en": "Nose disease is divided by lung, spleen and du channel. Acute rhinitis: \"open the nasal orifices, dispel wind-cold\", Dazhui (\"supports the right and clears heat\"), Feishu, Fengchi, Yingxiang; chronic rhinitis: \"tonify spleen, boost lung, activate blood, open orifices\", \"earth generates metal, unblock the channels\", with pricking-bleeding at Dazhui; allergic rhinitis adds sphenopalatine ganglion, Zusanli, Hegu to Yingxiang and Yintang, plus point cupping-plaster and moxa; atrophic rhinitis \"nourish yin, moisten dryness, diffuse the lung, dispel evil\"; sinusitis \"open the nose, transform turbid and drain pus\" with moxa. Five of the 16 complete-collection ENT-eye entries use moxa.",
+      "cite": [
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "咽喉分实火与虚火：急性咽炎“属实证，当以泻火为主”，风池、曲池、合谷、内庭加廉泉，“少商、商阳点刺放血，增强泻火解毒之力”；慢性咽炎“属虚证，治疗以降火为法”，取列缺、照海。扁桃体炎“关键在于肺胃”(急性，少商商阳点刺出血)，慢性则“关键在于虚证主要责之脾肾”，补太溪、三阴交、足三里；梅核气“关键在于肝胃”，疏肝解郁、行气散结，取太冲、合谷、内关、廉泉、天突；喉喑局部取人迎、水突、廉泉，远端病初取列缺、合谷、商阳、少商，病久取足三里、三阴交。",
+      "en": "Throat disease is split into excess and deficient fire. Acute pharyngitis \"is excess, drain fire first\": Fengchi, Quchi, Hegu, Neiting with Lianquan, and \"Shaoshang and Shangyang pricked to bleed to strengthen draining fire and toxin\"; chronic pharyngitis \"is deficiency, lower the fire\": Lieque and Zhaohai. Tonsillitis: \"the key is lung and stomach\" (acute; Shaoshang and Shangyang bled), chronic \"the key is deficiency, mainly spleen and kidney\", tonifying Taixi, Sanyinjiao, Zusanli; globus \"the key is liver and stomach\", soothe the liver and scatter binding with Taichong, Hegu, Neiguan, Lianquan, Tiantu; hoarseness: local Renying, Shuitu, Lianquan, distal Lieque, Hegu, Shangyang, Shaoshang at onset and Zusanli, Sanyinjiao when long-standing.",
+      "cite": [
+        "E11",
+        "E12",
+        "E13",
+        "E14",
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "zh": "眼病以活血通目络为主：近视“治当行气活血，畅达目络，舒缓眼筋，恢复神光”，眼周与头项穴加耳针、梅花针；视神经萎缩“着重在调补肝肾、活血通窍”，“临床常见坚持数月甚至数年而获效者”；青光眼“行气以利水，开通玄府目窍”；麻痹性斜视“祛风通络、活血牵正”，并按麻痹肌选睛明(内直肌)、瞳子髎(外直肌)、承泣(下直肌)、鱼腰(上直肌)。",
+      "en": "Eye disease is mainly about activating blood to free the eye network. Myopia: \"move qi, activate blood, free the eye network, relax the eye sinews, restore spirit light\", periorbital and head-neck points with auricular and plum-blossom needles; optic atrophy: \"stress nourishing liver and kidney, activating blood, opening the orifice\", \"often needs months or even years\"; glaucoma: \"move qi to drain water, open the mysterious mansion and eye orifice\"; paralytic strabismus: \"dispel wind, unblock network, activate blood, right the eye\", with points chosen by the paralysed muscle: Jingming (medial rectus), Tongziliao (lateral), Chengqi (inferior), Yuyao (superior).",
+      "cite": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E6"
+      ]
+    },
+    {
+      "zh": "疗效界限写得具体：耳聋“听力损失程度越轻治疗越及时效果越好”；萎缩性鼻炎“无特效疗法，病程短者多能治愈，病程长者能够有效控制疾病发展”；视神经萎缩“应在解除或控制原发病基础上进行”；青光眼针灸“适用于经手术或药物治疗眼压控制良好者”，急性发作时“对控制眼压疗效不可靠”；近视“中度以上近视当配镜矫治”；斜视因疲劳、病毒感染者“一二周即可治愈”。",
+      "en": "Limits of effect are stated concretely. Deafness: \"the milder the hearing loss and the earlier the treatment the better the result\"; atrophic rhinitis \"no specific therapy; short-standing usually cured, long-standing controlled\"; optic atrophy \"treat on the basis of removing or controlling the primary disease\"; glaucoma acupuncture \"suits those whose pressure is controlled by surgery or drugs\", in acute attack \"unreliable for controlling pressure\"; myopia \"moderate and above should be corrected with glasses\"; strabismus from fatigue or virus \"cured in one or two weeks\".",
+      "cite": [
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "五官科：病 → 治则 → 要穴 → 技术 → 预后备注",
+        "en": "ENT and eye: disease → principle → key points → technique → prognosis note"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "治则",
+          "en": "Principle"
+        },
+        {
+          "zh": "要穴",
+          "en": "Key points"
+        },
+        {
+          "zh": "技术",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后备注",
+          "en": "Prognosis note"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "感音神经性耳聋",
+            "en": "Sensorineural deafness"
+          },
+          {
+            "zh": "疏通经络，聪耳开窍",
+            "en": "Unblock channels, sharpen hearing, open orifice"
+          },
+          "百会、四神聪、风池、完骨、天柱、耳门、听宫、听会、翳风、合谷；按证加外关、太冲、肾俞、悬钟、足三里",
+          {
+            "zh": "耳前三针；耳针(外耳、内耳、神门、肝、肾)",
+            "en": "Three ear-front needles; auricular"
+          },
+          {
+            "zh": "听力损失越轻越及时越好；中重度配合药物",
+            "en": "Better when mild and early; moderate-severe combined with drugs"
+          }
+        ],
+        [
+          {
+            "zh": "慢性鼻炎",
+            "en": "Chronic rhinitis"
+          },
+          {
+            "zh": "补脾益肺、活血通窍",
+            "en": "Tonify spleen, boost lung, activate blood, open orifices"
+          },
+          "迎香、印堂、百会、合谷、足三里、大椎",
+          {
+            "zh": "大椎点刺放血；间歇期继续针刺预防复发",
+            "en": "Pricking-bleeding at Dazhui; continue between attacks"
+          },
+          {
+            "zh": "可减轻鼻塞、减少发作",
+            "en": "Eases obstruction, fewer attacks"
+          }
+        ],
+        [
+          {
+            "zh": "变应性鼻炎",
+            "en": "Allergic rhinitis"
+          },
+          {
+            "zh": "散风祛邪，宣通鼻窍，补益脾肺",
+            "en": "Scatter wind, expel evil, open nose, tonify spleen and lung"
+          },
+          "蝶腭神经节、迎香、上迎香、印堂、足三里、合谷；大椎、肺俞、脾俞、肾俞",
+          {
+            "zh": "穴位拔罐敷贴；灸足三里、三阴交、涌泉、百会；耳针",
+            "en": "Point cupping-plaster; moxa; auricular"
+          },
+          {
+            "zh": "显著改善症状、减少发作",
+            "en": "Marked relief, fewer attacks"
+          }
+        ],
+        [
+          {
+            "zh": "急慢性咽炎",
+            "en": "Acute and chronic pharyngitis"
+          },
+          {
+            "zh": "急性：泻火为主；慢性：降火(虚证)",
+            "en": "Acute: drain fire; chronic: lower fire (deficiency)"
+          },
+          "急性：风池、曲池、合谷、内庭、廉泉、少商、商阳；慢性：列缺、照海",
+          {
+            "zh": "少商、商阳点刺放血；灸、耳针",
+            "en": "Shaoshang, Shangyang pricked to bleed; moxa, auricular"
+          },
+          {
+            "zh": "急性多可痊愈；久病可缓解，间歇期预防",
+            "en": "Acute mostly cured; chronic relieved; prevention between attacks"
+          }
+        ],
+        [
+          {
+            "zh": "急性扁桃体炎",
+            "en": "Acute tonsillitis"
+          },
+          {
+            "zh": "疏风清热，泻热解毒，利咽消肿",
+            "en": "Dispel wind, clear heat, drain toxin, soothe throat"
+          },
+          "天突、合谷、内庭、曲池、大椎、少泽、鱼际；少商、商阳",
+          {
+            "zh": "泻法；少商、商阳点刺出血；耳穴",
+            "en": "Reducing; Shaoshang, Shangyang bled; auricular"
+          },
+          {
+            "zh": "及时治疗预后良好",
+            "en": "Good with prompt treatment"
+          }
+        ],
+        [
+          {
+            "zh": "慢性扁桃体炎",
+            "en": "Chronic tonsillitis"
+          },
+          {
+            "zh": "滋阴润肺，健脾和胃，利咽消肿",
+            "en": "Nourish yin, moisten lung, strengthen spleen, harmonise stomach"
+          },
+          "太溪、三阴交、足三里",
+          {
+            "zh": "补法；耳穴咽喉、肾上腺、皮质下、脾、肾",
+            "en": "Tonification; auricular"
+          },
+          {
+            "zh": "可明显减少复发",
+            "en": "Markedly fewer relapses"
+          }
+        ],
+        [
+          {
+            "zh": "喉喑",
+            "en": "Hoarseness"
+          },
+          {
+            "zh": "疏风宣肺，补肺脾肾，利喉开音",
+            "en": "Dispel wind, diffuse lung, tonify lung-spleen-kidney, open voice"
+          },
+          "局部：人迎、水突、廉泉、扶突、天鼎；初起加列缺、合谷、商阳、少商、尺泽；久病足三里、三阴交",
+          {
+            "zh": "实热证刺血少商、商阳、三商；病久灸",
+            "en": "Bleeding Shaoshang, Shangyang for excess heat; moxa if long-standing"
+          },
+          {
+            "zh": "急性可迅速缓解；慢性需长期",
+            "en": "Acute quick; chronic needs long treatment"
+          }
+        ],
+        [
+          {
+            "zh": "梅核气",
+            "en": "Globus"
+          },
+          {
+            "zh": "疏肝解郁，行气散结",
+            "en": "Soothe liver, resolve depression, move qi, scatter binding"
+          },
+          "太冲、合谷、内关、廉泉、天突、百会、四神聪",
+          {
+            "zh": "电针、耳穴",
+            "en": "Electro-acupuncture, auricular"
+          },
+          {
+            "zh": "一般良好；可快速解除异物感",
+            "en": "Generally good; foreign-body sensation relieved fast"
+          }
+        ],
+        [
+          {
+            "zh": "近视",
+            "en": "Myopia"
+          },
+          {
+            "zh": "行气活血明目",
+            "en": "Move qi, activate blood, brighten eyes"
+          },
+          "承泣、睛明、四白、肩中俞；头维、攒竹、球后、风池；睛明、光明、太阳、太冲；百会、鱼腰、丝竹空、完骨",
+          {
+            "zh": "耳针；梅花针(太阳、眶周、夹脊)",
+            "en": "Auricular; plum-blossom needle"
+          },
+          {
+            "zh": "假性、轻度效佳；中度以上须配镜",
+            "en": "Good in pseudo-myopia, mild; glasses for moderate and above"
+          }
+        ],
+        [
+          {
+            "zh": "麻痹性斜视",
+            "en": "Paralytic strabismus"
+          },
+          {
+            "zh": "祛风通络、活血牵正",
+            "en": "Dispel wind, unblock network, activate blood, right the eye"
+          },
+          "风池、完骨、天柱、太阳、百会、肝俞、肾俞、足三里、阳陵泉；按麻痹肌选眼周穴",
+          {
+            "zh": "平补平泻，每日1~2次留针30min；眼外肌直接针刺",
+            "en": "Even method, 1-2 times a day, retained 30 min; direct extraocular-muscle needling"
+          },
+          {
+            "zh": "疲劳或病毒者1~2周愈；糖尿病者1~2个月",
+            "en": "Fatigue or virus 1-2 weeks; diabetic 1-2 months"
+          }
+        ],
+        [
+          {
+            "zh": "视神经萎缩",
+            "en": "Optic atrophy"
+          },
+          {
+            "zh": "调补肝肾、活血通窍",
+            "en": "Nourish liver-kidney, activate blood, open orifice"
+          },
+          "肝俞、脾俞、肾俞、关元、百会加眼周局部穴",
+          {
+            "zh": "补虚填精、局部活血；周期长",
+            "en": "Tonify deficiency and essence; local blood-activating; long course"
+          },
+          {
+            "zh": "先控制原发病；遗传、外伤者差异大",
+            "en": "Control the primary disease first; hereditary and trauma vary"
+          }
+        ],
+        [
+          {
+            "zh": "青光眼",
+            "en": "Glaucoma"
+          },
+          {
+            "zh": "行气利水、开窍明目",
+            "en": "Move qi, drain water, open orifice, brighten eyes"
+          },
+          "百会、太阳、风池、头维、上星、目窗、太冲、三阴交；配足三里、上巨虚、丰隆、内关、太溪、肝俞、肾俞",
+          {
+            "zh": "主配穴各3~5个轮流使用",
+            "en": "3-5 main and 3-5 supporting points used in rotation"
+          },
+          {
+            "zh": "适用于眼压已控制者；对控压不可靠",
+            "en": "For those with pressure controlled; unreliable for pressure"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "39例五官科医案(眼11、耳鼻咽喉与牙痛28)的用穴与技术计数",
+        "en": "Counts across 39 ENT and eye cases (11 eye, 28 ENT and dental)"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "眼",
+          "en": "Eye (11)"
+        },
+        {
+          "zh": "耳鼻咽喉牙",
+          "en": "ENT (28)"
+        },
+        {
+          "zh": "合计",
+          "en": "All (39)"
+        }
+      ],
+      "rows": [
+        [
+          "合谷",
+          "4",
+          "13",
+          "17"
+        ],
+        [
+          "风池",
+          "6",
+          "11",
+          "17"
+        ],
+        [
+          "百会",
+          "3",
+          "10",
+          "13"
+        ],
+        [
+          "足三里",
+          "1",
+          "9",
+          "10"
+        ],
+        [
+          "迎香",
+          "0",
+          "8",
+          "8"
+        ],
+        [
+          "眼周局部穴",
+          "9",
+          "1",
+          "10"
+        ],
+        [
+          "治则含疏风/祛风/散风",
+          "4",
+          "9",
+          "13"
+        ],
+        [
+          "治则含清热/解毒/泻火/降火",
+          "3",
+          "11",
+          "14"
+        ],
+        [
+          "治则含滋补/益气/补益/养血/益肾/滋阴",
+          "8",
+          "9",
+          "17"
+        ],
+        [
+          "治则含活血/通络/疏通",
+          "7",
+          "4",
+          "11"
+        ],
+        [
+          "治则含醒脑开",
+          "3",
+          "1",
+          "4"
+        ],
+        [
+          "刺络/放血/点刺/三棱针",
+          "2",
+          "6",
+          "8"
+        ],
+        [
+          "灸",
+          "1",
+          "3",
+          "4"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "耳门、听宫、听会又合称为耳前三针",
+      "src": "石学敏针灸全集·治疗各论·感音神经性耳聋 p.571"
+    },
+    {
+      "id": "E2",
+      "quote": "经穴所在，主治所及",
+      "src": "石学敏针灸全集·治疗各论·感音神经性耳聋 p.571"
+    },
+    {
+      "id": "E3",
+      "quote": "印堂位于鼻根，与迎香配合，为“鼻三针”之组合，治疗鼻炎效专力宏",
+      "src": "石学敏针灸全集·治疗各论·慢性鼻炎 p.575"
+    },
+    {
+      "id": "E4",
+      "quote": "三经配合使用，共奏疏通经络、行气活血、滋补脑髓之效",
+      "src": "石学敏针灸全集·治疗各论·感音神经性耳聋 p.571"
+    },
+    {
+      "id": "E5",
+      "quote": "针刺诸穴对各类眼部缺血类眼病均有良效",
+      "src": "石学敏针灸全集·治疗各论·前部缺血性视神经病变 p.595"
+    },
+    {
+      "id": "E6",
+      "quote": "该病主要因肝风内动或风痰上扰，阻于目络，筋弛纵失度",
+      "src": "石学敏针灸全集·治疗各论·麻痹性斜视 p.591"
+    },
+    {
+      "id": "E7",
+      "quote": "故治疗取大椎穴，为手足三阳经与督脉之会，督脉主一身之阳，具有扶正、清热之功",
+      "src": "石学敏针灸全集·治疗各论·急性鼻炎 p.573"
+    },
+    {
+      "id": "E8",
+      "quote": "治当培土生金，疏通经络",
+      "src": "石学敏针灸全集·治疗各论·慢性鼻炎 p.575"
+    },
+    {
+      "id": "E9",
+      "quote": "点刺放血而达泻热益气之功",
+      "src": "石学敏针灸全集·治疗各论·慢性鼻炎 p.575"
+    },
+    {
+      "id": "E10",
+      "quote": "蝶聘神经节为近年来被发现的治疗PAR非常有效的刺激点",
+      "src": "石学敏针灸全集·治疗各论·变应性鼻炎 p.577"
+    },
+    {
+      "id": "E11",
+      "quote": "急性咽炎起病急，红肿疼痛明显，故属实证，当以泻火为主",
+      "src": "石学敏针灸全集·治疗各论·急慢性咽炎 p.583"
+    },
+    {
+      "id": "E12",
+      "quote": "少商、商阳点刺放血，增强泻火解毒之力",
+      "src": "石学敏针灸全集·治疗各论·急慢性咽炎 p.583"
+    },
+    {
+      "id": "E13",
+      "quote": "慢性咽炎为久病渐起，反复发作，红肿疼痛微轻，且日久难消，故属虚证，治疗以降火为法",
+      "src": "石学敏针灸全集·治疗各论·急慢性咽炎 p.583"
+    },
+    {
+      "id": "E14",
+      "quote": "石学敏院士认为：该病的关键在于肺胃",
+      "src": "石学敏针灸全集·治疗各论·急性扁桃体炎 p.584"
+    },
+    {
+      "id": "E15",
+      "quote": "石学敏院士认为：该病的关键在于虚证主要责之脾肾",
+      "src": "石学敏针灸全集·治疗各论·慢性扁桃体炎 p.586"
+    },
+    {
+      "id": "E16",
+      "quote": "石学敏院士认为：该病的关键在于肝胃",
+      "src": "石学敏针灸全集·治疗各论·梅核气 p.589"
+    },
+    {
+      "id": "E17",
+      "quote": "治当行气活血，畅达目络，舒缓眼筋，恢复神光",
+      "src": "石学敏针灸全集·治疗各论·近视 p.590"
+    },
+    {
+      "id": "E18",
+      "quote": "故石学敏院士强调，该病针刺治疗着重在调补肝肾、活血通窍",
+      "src": "石学敏针灸全集·治疗各论·视神经萎缩 p.592"
+    },
+    {
+      "id": "E19",
+      "quote": "临床常见坚持数月甚至数年而获效者",
+      "src": "石学敏针灸全集·治疗各论·视神经萎缩 p.592"
+    },
+    {
+      "id": "E20",
+      "quote": "故治疗当行气以利水，开通玄府目窍",
+      "src": "石学敏针灸全集·治疗各论·青光眼 p.593"
+    },
+    {
+      "id": "E21",
+      "quote": "患者听力损失程度越轻治疗越及时效果越好",
+      "src": "石学敏针灸全集·治疗各论·感音神经性耳聋 p.572"
+    },
+    {
+      "id": "E22",
+      "quote": "该病无特效疗法，病程短者采用针灸治疗多能治愈，病程长者能够有效控制疾病发展",
+      "src": "石学敏针灸全集·治疗各论·萎缩性鼻炎 p.581"
+    },
+    {
+      "id": "E23",
+      "quote": "针灸治疗视神经萎缩应在解除或控制原发病基础上进行",
+      "src": "石学敏针灸全集·治疗各论·视神经萎缩 p.592"
+    },
+    {
+      "id": "E24",
+      "quote": "针灸青光眼适用于经手术或药物治疗眼压控制良好者",
+      "src": "石学敏针灸全集·治疗各论·青光眼 p.594"
+    },
+    {
+      "id": "E25",
+      "quote": "中度以上近视当配镜矫治",
+      "src": "石学敏针灸全集·治疗各论·近视 p.590"
+    },
+    {
+      "id": "E26",
+      "quote": "因疲劳及病毒感染而致者，一二周即可治愈",
+      "src": "石学敏针灸全集·治疗各论·麻痹性斜视 p.591"
+    }
+  ],
+  "caveats": {
+    "zh": "这一科的条目多，其中前部缺血性视神经病变、视神经萎缩、急慢性咽炎等在全集的处方栏里配方字段缺失或残缺(OCR)，本指南的要穴以能核对到的原文为准。“蝶腭神经节”在原文OCR作“蝶聘神经节”，引文按原样保留。“鼻三针”“耳前三针”是原文的称呼。“翳风”等个别穴名因OCR残缺，仅在完整处引用。",
+    "en": "Several entries (anterior ischaemic optic neuropathy, optic atrophy, acute and chronic pharyngitis) have missing or damaged prescription fields in the complete collection (OCR); key points here follow what can be verified in the text. \"Sphenopalatine ganglion\" is OCR-printed with a different character and quoted as printed. \"Three nose needles\" and \"three ear-front needles\" are the book's own names. Some point names such as Yifeng are OCR-damaged and cited only where intact."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-067",
+      "sxm-rx-069",
+      "sxm-rx-070",
+      "sxm-rx-073",
+      "sxm-rx-074",
+      "sxm-rx-075",
+      "sxm-rx-076",
+      "sxm-rx-077",
+      "sxm-rx-078",
+      "sxm-rx-079",
+      "sxm-rx-080",
+      "sxm-rx-081"
+    ],
+    "cases": [
+      "sxm-487",
+      "sxm-496",
+      "sxm-502",
+      "sxm-504",
+      "sxm-512",
+      "sxm-515"
+    ],
+    "points": [
+      "合谷",
+      "风池",
+      "百会",
+      "足三里",
+      "迎香",
+      "听宫",
+      "曲池",
+      "少商",
+      "大椎",
+      "完骨"
+    ]
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "id": "sxm-13-gyn-andro",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 13,
+  "title": {
+    "zh": "妇科与男科：任脉三穴加三阴交调冲任，按证加穴，补肾与调神并用，器质性病变设疗效界限",
+    "en": "Gynaecology and Andrology: Three Ren Points plus Sanyinjiao to Regulate Chong and Ren, Points Added by Pattern, Kidney Tonification with Spirit Regulation, Limits Set for Organic Disease"
+  },
+  "summary": {
+    "zh": "妇科的骨架是关元、气海、中极三个任脉穴加三阴交(43例妇科男科医案中三阴交33例、关元21例)，治则围绕“调补冲任、益气养血”；他在每个病下列出气滞血瘀、寒湿、气血虚弱、肾虚、湿热等证的加穴，并把子宫、气穴、维胞、少泽这类经验穴用于不孕、脱垂、缺乳。男科则以“益肾培元”与“调神”并用：勃起功能障碍取中极、关元、命门加神庭、印堂，早泄取肾俞、关元、中极加上星、印堂。书中对器质性病变(输卵管完全梗阻、宫腔粘连闭经、重度脱垂)明确划出针灸效果的界限。",
+    "en": "The gynaecological frame is the three ren-channel points Guanyuan, Qihai, Zhongji plus Sanyinjiao (in 43 gynaecology and andrology cases Sanyinjiao appears 33 times, Guanyuan 21), principles revolving on \"regulate and tonify chong and ren, boost qi, nourish blood\". Under each disease he lists additions for qi-stagnation blood-stasis, cold-damp, qi-blood deficiency, kidney deficiency, damp-heat, and uses experience points such as Zigong, Qixue, Weibao, Shaoze for infertility, prolapse and lactation failure. Andrology pairs \"boost the kidney, reinforce the root\" with \"regulating the spirit\": erectile dysfunction takes Zhongji, Guanyuan, Mingmen plus Shenting, Yintang; premature ejaculation Shenshu, Guanyuan, Zhongji plus Shangxing, Yintang. For organic lesions (complete tubal obstruction, amenorrhoea from uterine adhesion, severe prolapse) the text sets clear limits."
+  },
+  "takeaways": [
+    {
+      "zh": "妇科病的共同抓手是任脉穴加三阴交，治则落在冲任：月经失调“养血调经，调补冲任”，痛经“调补冲任，益气养血”，多囊卵巢综合征“益肾调冲，理气活血”，卵巢早衰“益气补肾，养血通经”；关元、气海相配“共奏调补冲任之功”，三阴交为“妇科调经之要穴”。医案里三阴交28例(妇科38例)、关元17例、足三里20例，治则含益气养血类18例、活血化瘀11例。",
+      "en": "The common handle in gynaecology is ren-channel points plus Sanyinjiao, with the principle set on chong and ren: irregular menstruation \"nourish blood, regulate menses, regulate and tonify chong and ren\"; dysmenorrhoea \"regulate and tonify chong and ren, boost qi, nourish blood\"; PCOS \"boost kidney, regulate chong, move qi, activate blood\"; premature ovarian failure \"boost qi, tonify kidney, nourish blood, free the menses\". Guanyuan with Qihai \"together regulate and tonify chong and ren\"; Sanyinjiao is \"the key point for regulating menses in gynaecology\". In the 38 gynaecological cases Sanyinjiao is in 28, Guanyuan 17, Zusanli 20; the principle contains boost-qi/nourish-blood in 18 and activate blood/resolve stasis in 11.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "“辨证选穴”是每个妇科病的第二层：月经失调分肝郁气滞、气血不足、气血瘀滞、痰湿阻滞四型加穴；痛经分气滞血瘀、寒湿凝滞、气血虚弱、肾虚血瘀、气虚血瘀、热灼血瘀六型，在“关元、三阴交、地机、次”主方“在此基础上重视辨证选穴”；多囊卵巢综合征分肾虚、痰湿、气滞血瘀、肝经湿热；卵巢早衰分气虚血少与气滞血瘀。“该病病因病机较为复杂，临床兼证亦较多，故辨证选穴即显得十分重要”。",
+      "en": "\"Pattern-based point selection\" is the second layer of every gynaecological entry. Irregular menstruation adds points for liver qi stagnation, qi-blood deficiency, qi-blood stasis, phlegm-damp; dysmenorrhoea for six types (qi stagnation with stasis, cold-damp, qi-blood deficiency, kidney deficiency with stasis, qi deficiency with stasis, heat with stasis) on the main set Guanyuan, Sanyinjiao, Diji, Ciliao, \"on this basis, attention to pattern-based selection\"; PCOS for kidney deficiency, phlegm-damp, qi stagnation with stasis, liver-channel damp-heat; premature ovarian failure for qi-blood deficiency and qi-stasis. \"The cause and mechanism are complex, complications many, so pattern-based selection is very important.\"",
+      "cite": [
+        "E3",
+        "E4"
+      ]
+    },
+    {
+      "zh": "经验穴与局部穴是他的另一个特点：不孕“子宫、气穴均为治疗不孕证的经验穴”，子宫脱垂以百会升阳举陷、关元气海补下焦，并取“维胞、维宫”这类“经验效穴”提摄子宫(用芒针)，缺乳“少泽点刺出血，为通乳的经验效穴”，配乳根、膻中。医案中归来11例，常与三阴交、关元同用。",
+      "en": "Experience points and local points are another feature. Infertility: \"Zigong and Qixue are both experience points for infertility\"; uterine prolapse: Baihui to lift yang, Guanyuan and Qihai to tonify the lower jiao, and Weibao and Weigong as \"experience points\" to hold up the uterus (long needle); lactation failure: \"Shaoze pricked to bleed is an experience point for opening lactation\", with Rugen and Danzhong. In the cases Guilai appears 11 times, usually with Sanyinjiao and Guanyuan.",
+      "cite": [
+        "E6",
+        "E7",
+        "E8"
+      ]
+    },
+    {
+      "zh": "灸用于寒、虚、陷：寒湿凝滞的痛经、盆腔炎加关元、肾俞并可灸，多囊卵巢综合征痰湿型加脾俞、阴陵泉、丰隆“可加灸法”，绝经综合征肾阳虚灸命门、腰阳关；43例医案中11例用灸，均在妇科为主。",
+      "en": "Moxa is for cold, deficiency and sinking: cold-damp dysmenorrhoea and pelvic inflammation add Guanyuan and Shenshu, moxaed; PCOS phlegm-damp type adds Pishu, Yinlingquan, Fenglong \"with moxa\"; menopausal syndrome with kidney yang deficiency moxas Mingmen and Yaoyangguan. Moxa appears in 11 of the 43 cases, mostly gynaecological.",
+      "cite": [
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "心神因素明显的病，妇科也用调神：绝经综合征“多存在自主神经和精神神经症状，因此取四神聪、神门安神定志，太冲疏肝行气”，治则“安神定志，益气补血，调补肝肾”；医案中治则含调神/安神类的有5例，另有3例治则写有“醒脑”。",
+      "en": "Where the mind is prominent, gynaecology too uses spirit regulation. Menopausal syndrome: \"mostly autonomic and psychoneurotic symptoms, so Sishencong and Shenmen calm the spirit and settle the will, Taichong soothes the liver\"; principle \"calm the spirit and settle the will, boost qi, nourish blood, tonify liver and kidney\". In the cases 5 state a spirit-regulating principle and 3 state \"awaken the brain\".",
+      "cite": [
+        "E11"
+      ]
+    },
+    {
+      "zh": "男科把“益肾培元”与“调神”并列：勃起功能障碍治则“调神益志、益肾培元、振阳起痿”，以命门、关元、中极温补肾阳，“神庭、印堂可调神导气，令气易行，以意通经”，本于“凡刺之法，必先本于神”；早泄“注重抓住该病的关键在于精神神经因素”，取肾俞、关元、中极加上星、印堂；两病都要配合心理调整，“是治疗成功的前提”。男性不育则分肾阳虚、肾阴虚、气血亏虚三型补肾与后天同补。",
+      "en": "Andrology sets \"boost kidney, reinforce the root\" beside \"regulate the spirit\". Erectile dysfunction: principle \"regulate the spirit, benefit the will, boost the kidney, reinforce the root, invigorate yang\"; Mingmen, Guanyuan, Zhongji warm and tonify kidney yang; \"Shenting and Yintang regulate the spirit and guide qi, letting qi move easily, unblocking the channel by intention\", based on \"in needling first root in the spirit\". Premature ejaculation: \"grasp that the key is the psycho-neural factor\", Shenshu, Guanyuan, Zhongji plus Shangxing, Yintang. Both need psychological adjustment, \"the prerequisite for success\". Male infertility is split into kidney yang deficiency, kidney yin deficiency, qi-blood deficiency, tonifying kidney and postnatal qi together.",
+      "cite": [
+        "E12",
+        "E13",
+        "E14",
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "zh": "疗效界限写得明确：闭经“主要针对功能改变者，对宫腔粘连、子宫内膜缺如、卵巢肿瘤等器质改变所致闭经无效”；不孕对输卵管完全梗阻“临床效果欠佳”，年轻、功能性、病程短者预后较好；卵巢早衰“疗程长，疗效不尽如人意”；重度子宫脱垂“需手术治疗”；多囊卵巢综合征“针刺配合氯米芬可显著提高患者妊娠率”，是针药合用；对男性不育写“针刺能够促进增加精子数目，提高精子活动力”。",
+      "en": "Limits of effect are stated plainly. Amenorrhoea: acupuncture \"mainly for functional change, ineffective for amenorrhoea from uterine adhesion, absent endometrium, ovarian tumour\"; infertility from complete tubal obstruction \"poor effect\", better prognosis when young, functional, short-standing; premature ovarian failure \"long course, results unsatisfactory\"; severe prolapse \"needs surgery\"; PCOS: \"needling with clomiphene markedly raises pregnancy rate\", i.e. acupuncture with drugs; male infertility: \"needling can increase sperm count and improve motility\".",
+      "cite": [
+        "E17",
+        "E18",
+        "E5",
+        "E19",
+        "E20",
+        "E21",
+        "E22"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "妇科与男科：病 → 治则 → 要穴 → 加减/技术 → 预后备注",
+        "en": "Gynaecology and andrology: disease → principle → key points → additions/technique → prognosis note"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "治则",
+          "en": "Principle"
+        },
+        {
+          "zh": "要穴",
+          "en": "Key points"
+        },
+        {
+          "zh": "加减与技术",
+          "en": "Additions and technique"
+        },
+        {
+          "zh": "预后备注",
+          "en": "Prognosis note"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "月经失调",
+            "en": "Irregular menstruation"
+          },
+          {
+            "zh": "养血调经，调补冲任",
+            "en": "Nourish blood, regulate menses, tonify chong and ren"
+          },
+          "关元、气海、中极、三阴交、足三里",
+          {
+            "zh": "肝郁加行间、太冲；气血不足加脾俞、胃俞；血瘀加血海、地机、合谷；痰湿加丰隆、阴陵泉",
+            "en": "By liver stagnation, deficiency, stasis, phlegm-damp"
+          },
+          {
+            "zh": "绝大多数康复；失治可成崩漏",
+            "en": "Most recover; neglect may become metrorrhagia"
+          }
+        ],
+        [
+          {
+            "zh": "痛经",
+            "en": "Dysmenorrhoea"
+          },
+          {
+            "zh": "调补冲任，益气养血",
+            "en": "Regulate and tonify chong and ren, boost qi, nourish blood"
+          },
+          "关元、三阴交、地机、次髎",
+          {
+            "zh": "六型加穴；寒湿凝滞加命门、阴陵泉、水道；可艾灸",
+            "en": "Six types; cold-damp adds Mingmen; moxa possible"
+          },
+          {
+            "zh": "缓解疼痛疗效显著；继发者要治原发病",
+            "en": "Pain relief marked; treat primary disease if secondary"
+          }
+        ],
+        [
+          {
+            "zh": "闭经(实用针灸学)",
+            "en": "Amenorrhoea (practical text)"
+          },
+          {
+            "zh": "补益气血、调养冲任；或理气活血、祛痰通经",
+            "en": "Boost qi-blood, nourish chong and ren; or move qi, activate blood, resolve phlegm"
+          },
+          "虚：膈俞、肝俞、脾俞、肾俞、关元、气海、足三里；实：中极、血海、三阴交、合谷、太冲、丰隆",
+          {
+            "zh": "虚补实泻；经通后仍须坚持治疗",
+            "en": "Tonify deficiency, reduce excess; continue after menses return"
+          },
+          {
+            "zh": "器质性闭经无效",
+            "en": "Organic amenorrhoea not helped"
+          }
+        ],
+        [
+          {
+            "zh": "绝经综合征",
+            "en": "Menopausal syndrome"
+          },
+          {
+            "zh": "安神定志，益气补血，调补肝肾",
+            "en": "Calm spirit, settle will, boost qi, nourish blood, tonify liver-kidney"
+          },
+          "四神聪、神门、太冲、关元、太溪、三阴交、足三里",
+          {
+            "zh": "肾阴虚加照海、阴谷；肾阳虚灸命门、腰阳关；耳针",
+            "en": "Kidney yin deficiency: Zhaohai, Yingu; kidney yang: moxa Mingmen"
+          },
+          {
+            "zh": "症状改善疗效显著",
+            "en": "Marked symptomatic improvement"
+          }
+        ],
+        [
+          {
+            "zh": "多囊卵巢综合征",
+            "en": "PCOS"
+          },
+          {
+            "zh": "益肾调冲，理气活血",
+            "en": "Boost kidney, regulate chong, move qi, activate blood"
+          },
+          "关元、肾俞、三阴交、合谷、归来",
+          {
+            "zh": "肾虚加太溪、气海、阴谷；痰湿加脾俞、阴陵泉、丰隆并灸；肝经湿热加大敦、行间、太冲",
+            "en": "Four patterns; moxa for phlegm-damp"
+          },
+          {
+            "zh": "恢复排卵较好；配合氯米芬提高妊娠率",
+            "en": "Restores ovulation; with clomiphene raises pregnancy"
+          }
+        ],
+        [
+          {
+            "zh": "卵巢早衰",
+            "en": "Premature ovarian failure"
+          },
+          {
+            "zh": "益气补肾，养血通经",
+            "en": "Boost qi, tonify kidney, nourish blood, free the menses"
+          },
+          "肾俞、关元、中极；气虚血少加膈俞、肝俞、脾俞、气海、足三里",
+          {
+            "zh": "气滞血瘀加血海、三阴交、合谷、太冲、丰隆；艾灸",
+            "en": "Qi-stasis pattern adds Xuehai etc.; moxa"
+          },
+          {
+            "zh": "疗程长，疗效不尽如人意",
+            "en": "Long course; results modest"
+          }
+        ],
+        [
+          {
+            "zh": "女性不孕",
+            "en": "Female infertility"
+          },
+          {
+            "zh": "调理冲任、调经启宫",
+            "en": "Regulate chong and ren, regulate menses, open the palace"
+          },
+          "子宫、中极、气海、三阴交；内膜异位症加血海、太冲、气穴",
+          {
+            "zh": "输卵管阻塞按肝郁、痰湿、血瘀加穴；艾灸",
+            "en": "Tubal obstruction by three patterns; moxa"
+          },
+          {
+            "zh": "年轻、功能性、病程短较好；输卵管完全梗阻欠佳",
+            "en": "Better if young, functional, short; complete tubal block poor"
+          }
+        ],
+        [
+          {
+            "zh": "子宫脱垂",
+            "en": "Uterine prolapse"
+          },
+          {
+            "zh": "补气升阳、提摄子宫",
+            "en": "Boost qi, raise yang, hold up the uterus"
+          },
+          "百会、关元、维胞、维道、维宫；中气下陷加气海、足三里；肾不固加大赫、照海",
+          {
+            "zh": "芒针；配合锻炼",
+            "en": "Long needle; with exercise"
+          },
+          {
+            "zh": "轻度可好转；重度需手术",
+            "en": "Mild may improve; severe needs surgery"
+          }
+        ],
+        [
+          {
+            "zh": "缺乳",
+            "en": "Lactation failure"
+          },
+          {
+            "zh": "催乳、通乳；肝郁重疏肝",
+            "en": "Promote lactation; soothe liver when stagnant"
+          },
+          "乳根、膻中、少泽",
+          {
+            "zh": "少泽点刺出血；气血虚加脾俞、足三里；肝郁加内关、太冲",
+            "en": "Shaoze pricked to bleed; by deficiency or stagnation"
+          },
+          {
+            "zh": "肝气郁结型效果较好",
+            "en": "Best in liver stagnation"
+          }
+        ],
+        [
+          {
+            "zh": "勃起功能障碍",
+            "en": "Erectile dysfunction"
+          },
+          {
+            "zh": "调神益志、益肾培元、振阳起痿",
+            "en": "Regulate spirit, benefit will, boost kidney, invigorate yang"
+          },
+          "中极、关元、命门、神庭、印堂",
+          {
+            "zh": "命门火衰、心脾受损、七情所伤、湿热下注四型加穴；耳针、电针、穴位注射；心理调整",
+            "en": "Four patterns; auricular, electro, injection; psychological adjustment"
+          },
+          {
+            "zh": "对心理性者疗效确切",
+            "en": "Definite effect in psychogenic type"
+          }
+        ],
+        [
+          {
+            "zh": "早泄",
+            "en": "Premature ejaculation"
+          },
+          {
+            "zh": "益肾固精、调神止泄",
+            "en": "Boost kidney, secure essence, regulate spirit, stop emission"
+          },
+          "肾俞、关元、中极、上星、印堂",
+          {
+            "zh": "肾气不固、阴虚火旺、心脾两虚、肝经湿热加穴；耳针、穴位注射、按摩",
+            "en": "Four patterns; auricular, injection, massage"
+          },
+          {
+            "zh": "一般良好",
+            "en": "Generally good"
+          }
+        ],
+        [
+          {
+            "zh": "男性不育",
+            "en": "Male infertility"
+          },
+          {
+            "zh": "补肾壮阳、或滋养肾阴、或补益气血",
+            "en": "Tonify kidney yang, or nourish kidney yin, or boost qi-blood"
+          },
+          "肾阳虚：命门、关元、大赫、气海、足三里；肾阴虚：肾俞、关元、精宫、三阴交、太溪",
+          {
+            "zh": "气血亏虚加脾俞、胃俞；先后天同补",
+            "en": "Qi-blood deficiency adds Pishu, Weishu; prenatal and postnatal together"
+          },
+          {
+            "zh": "增加精子数、提高活力",
+            "en": "Raises sperm count and motility"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "43例妇科(38)与男科(5)医案的用穴与治则计数",
+        "en": "Point and principle counts across 43 cases (38 gynaecology, 5 andrology)"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "妇科(38)",
+          "en": "Gynae (38)"
+        },
+        {
+          "zh": "男科(5)",
+          "en": "Andro (5)"
+        }
+      ],
+      "rows": [
+        [
+          "三阴交",
+          "28",
+          "5"
+        ],
+        [
+          "关元",
+          "17",
+          "4"
+        ],
+        [
+          "足三里",
+          "20",
+          "1"
+        ],
+        [
+          "中极",
+          "7",
+          "3"
+        ],
+        [
+          "肾俞",
+          "9",
+          "0"
+        ],
+        [
+          "血海",
+          "6",
+          "0"
+        ],
+        [
+          "用灸",
+          "10",
+          "1"
+        ],
+        [
+          "耳针",
+          "2",
+          "0"
+        ],
+        [
+          "治则含益气/养血/补益",
+          "18",
+          "0"
+        ],
+        [
+          "治则含活血/化瘀/祛瘀",
+          "11",
+          "0"
+        ],
+        [
+          "治则含冲任/调经",
+          "8",
+          "1"
+        ],
+        [
+          "治则含补肾/益肾/温肾",
+          "5",
+          "2"
+        ],
+        [
+          "治则含调神/安神",
+          "4",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "气海与关元相配，共奏调补冲任之功",
+      "src": "石学敏针灸全集·治疗各论·月经失调 p.520"
+    },
+    {
+      "id": "E2",
+      "quote": "三阴交能调整三阴经脉，又为妇科调经之要穴",
+      "src": "石学敏针灸全集·治疗各论·月经失调 p.520"
+    },
+    {
+      "id": "E3",
+      "quote": "诸穴配伍共奏调补冲任、益气养血之效。在此基础上重视辨证选穴",
+      "src": "石学敏针灸全集·治疗各论·痛经 p.522"
+    },
+    {
+      "id": "E4",
+      "quote": "该病病因病机较为复杂，临床兼证亦较多，故辨证选穴即显得十分重要",
+      "src": "石学敏针灸全集·治疗各论·月经失调 p.520"
+    },
+    {
+      "id": "E5",
+      "quote": "年龄较轻发育正常、功能性不孕、病程短者，预后较好",
+      "src": "石学敏针灸全集·治疗各论·女性不孕 p.529"
+    },
+    {
+      "id": "E6",
+      "quote": "子宫、气穴均为治疗不孕证的经验穴",
+      "src": "石学敏针灸全集·治疗各论·女性不孕 p.529"
+    },
+    {
+      "id": "E7",
+      "quote": "维胞为经外奇穴，穴下解剖为子宫阔韧带，故有提摄子宫之作用",
+      "src": "石学敏针灸全集·治疗各论·子宫脱垂 p.531"
+    },
+    {
+      "id": "E8",
+      "quote": "少泽点刺出血，为通乳的经验效穴",
+      "src": "石学敏针灸全集·治疗各论·缺乳 p.532"
+    },
+    {
+      "id": "E9",
+      "quote": "痰湿阻滞者，加脾俞、阴陵泉、丰隆，可加灸法",
+      "src": "石学敏针灸全集·治疗各论·多囊卵巢综合征 p.525"
+    },
+    {
+      "id": "E10",
+      "quote": "寒湿凝滞者，加关元、肾俞，可加灸法",
+      "src": "石学敏针灸全集·治疗各论·盆腔炎性疾病后遗症 p.533"
+    },
+    {
+      "id": "E11",
+      "quote": "该病多存在自主神经和精神神经症状，因此取四神聪、神门安神定志，太冲疏肝行气",
+      "src": "石学敏针灸全集·治疗各论·绝经综合征 p.524"
+    },
+    {
+      "id": "E12",
+      "quote": "石学敏院士针对其病因病机，采用调神安志、益肾培元为主",
+      "src": "石学敏针灸全集·治疗各论·勃起功能障碍 p.535"
+    },
+    {
+      "id": "E13",
+      "quote": "神庭、印堂可调神导气，令气易行，以意通经",
+      "src": "石学敏针灸全集·治疗各论·勃起功能障碍 p.535"
+    },
+    {
+      "id": "E14",
+      "quote": "凡刺之法，必先本于神",
+      "src": "石学敏针灸全集·治疗各论·勃起功能障碍 p.535"
+    },
+    {
+      "id": "E15",
+      "quote": "石学敏院士在治疗该病时，注重抓住该病的关键在于精神神经因素",
+      "src": "石学敏针灸全集·治疗各论·早泄 p.536"
+    },
+    {
+      "id": "E16",
+      "quote": "是治疗成功的前提",
+      "src": "石学敏针灸全集·治疗各论·勃起功能障碍 p.535"
+    },
+    {
+      "id": "E17",
+      "quote": "针灸治疗本病，主要针对功能改变者，对宫腔粘连、子宫内膜缺如、卵巢肿瘤等器质改变所致闭经无效",
+      "src": "石学敏实用针灸学·闭经 p.527"
+    },
+    {
+      "id": "E18",
+      "quote": "对于输卵管完全梗阻等病因导致不孕临床效果欠佳",
+      "src": "石学敏针灸全集·治疗各论·女性不孕 p.529"
+    },
+    {
+      "id": "E19",
+      "quote": "大多数治疗疗程长，疗效不尽如人意",
+      "src": "石学敏针灸全集·治疗各论·卵巢早衰 p.527"
+    },
+    {
+      "id": "E20",
+      "quote": "重度患者中医药治疗效果不佳，需手术治疗",
+      "src": "石学敏针灸全集·治疗各论·子宫脱垂 p.531"
+    },
+    {
+      "id": "E21",
+      "quote": "针刺在恢复患者排卵功能方面有较好疗效，针刺配合氯米芬可显著提高患者妊娠率",
+      "src": "石学敏针灸全集·治疗各论·多囊卵巢综合征 p.526"
+    },
+    {
+      "id": "E22",
+      "quote": "针刺能够促进增加精子数目，提高精子活动力，有助于受孕",
+      "src": "石学敏针灸全集·治疗各论·男性不育 p.538"
+    }
+  ],
+  "caveats": {
+    "zh": "妇科病名与诊断标准多为现代西医(多囊卵巢综合征的鹿特丹标准、卵巢早衰的FSH指标等)，只有治疗部分是他的针灸主张。“维胞、维宫、气穴、子宫”等奇穴与“气门”等名称按原文，个别处有OCR残损，本指南只引完整者。多囊卵巢综合征与男性不育中“配合氯米芬”等药物提法来自原书预后段，不是针灸主张。男科医案只有5例，计数仅供参考。",
+    "en": "Gynaecological disease names and diagnostic criteria are largely modern Western (Rotterdam criteria for PCOS, FSH thresholds for ovarian failure); only the treatment part is his acupuncture stance. Extra points such as Weibao, Weigong, Qixue, Zigong are as printed; some passages are OCR-damaged and only intact ones are cited. The clomiphene mention for PCOS comes from the book's prognosis paragraph, not an acupuncture claim. There are only 5 andrology cases, so counts are indicative only."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-037",
+      "sxm-rx-038",
+      "sxm-rx-167",
+      "sxm-rx-039",
+      "sxm-rx-040",
+      "sxm-rx-041",
+      "sxm-rx-042",
+      "sxm-rx-043",
+      "sxm-rx-044",
+      "sxm-rx-046",
+      "sxm-rx-047",
+      "sxm-rx-048"
+    ],
+    "cases": [
+      "sxm-397",
+      "sxm-399",
+      "sxm-411",
+      "sxm-415",
+      "sxm-419",
+      "sxm-428"
+    ],
+    "points": [
+      "三阴交",
+      "关元",
+      "足三里",
+      "太冲",
+      "归来",
+      "中极",
+      "肾俞",
+      "百会",
+      "血海",
+      "气海"
+    ]
+  }
+}

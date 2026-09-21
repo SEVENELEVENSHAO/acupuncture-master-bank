@@ -1,0 +1,65 @@
+[
+  {
+    "id": "chengdanan",
+    "name": { "zh": "承淡安", "en": "Cheng Dan'an" },
+    "years": "1899–1957",
+    "tagline": {
+      "zh": "近代“科学针灸”的倡导者，中国针灸学研究社与中国针灸专科学校的创办者。",
+      "en": "Champion of “scientific acupuncture” in modern China; founder of the China Acupuncture Research Society and the first modern acupuncture school."
+    },
+    "bio": {
+      "zh": "江阴华墅人，出身中医世家，17岁随父学医；1929年在苏州望亭创办中国针灸学研究社，1933年创办中国最早的针灸专业杂志《针灸杂志》，1934年东渡日本考察针灸医疗、教学与科研，回国后创办中国针灸讲习所（后改中国针灸专科学校，近代第一所针灸专业学校）。1954年任江苏省中医学校校长，1955年当选中国科学院学部委员。代表作为针灸“三部曲”：《中国针灸治疗学》《中国针灸学讲义》《中国针灸学》。",
+      "en": "Born in Jiangyin into a family of physicians, he began medical study at 17. He founded the China Acupuncture Research Society (1929) and the journal 《针灸杂志》 (1933), studied acupuncture in Japan (1934), and founded modern China's first acupuncture school. President of the Jiangsu Provincial TCM School (1954); member of the Chinese Academy of Sciences (1955). His acupuncture “trilogy”: 《中国针灸治疗学》, 《中国针灸学讲义》, 《中国针灸学》."
+    },
+    "obsidian": { "vault": "TCM Vault", "prefix": "承淡安针灸/" },
+    "sources": [
+      { "title": "承淡安针灸精华", "kind": "thought + Q&A textbook (1951)" },
+      { "title": "承淡安针灸处方集", "kind": "prescription formulary (1951)" }
+    ],
+    "notes": {
+      "cases": {
+        "zh": "这两部书是问答体教科书与处方集，不含病例记录，因此暂无医案；如有其他著作中的医案，可再录入。",
+        "en": "These two books are a Q&A textbook and a formulary and contain no case histories, so there are no cases yet; cases from his other works can be added later."
+      }
+    }
+  },
+  {
+    "id": "shixuemin",
+    "name": { "zh": "石学敏", "en": "Shi Xuemin" },
+    "years": "",
+    "tagline": {
+      "zh": "“醒脑开窍”针刺法的创立者，针刺手法量学理论的倡导者。",
+      "en": "Creator of the “Xingnao Kaiqiao” (awaken the brain, open the orifices) needling method; pioneer of quantified needle-manipulation dosage."
+    },
+    "bio": {
+      "zh": "世界著名中医针灸专家，中国工程院院士，国医大师（2014年），天津中医药大学第一附属医院针灸学科学术带头人，从事针灸学和老年医学的临床、科研、教学50余年。坚持“中西结合、融西贯中”、针药并用，强调中医辨证与西医辨病相结合。创立“醒脑开窍针刺法”治疗中风；率先提出针刺手法量学理论，对捻转补泻手法作了新的定义和量化操作；针对中风形成“石氏中风单元疗法”。",
+      "en": "A world-renowned acupuncturist, member of the Chinese Academy of Engineering and “Great Master of Chinese Medicine” (2014), academic leader of acupuncture at the First Teaching Hospital of Tianjin University of TCM, with 50+ years in clinic, research and teaching. He combines Chinese and Western medicine and uses acupuncture with drugs. He created the Xingnao Kaiqiao needling method for stroke, was first to propose the quantified-dosage theory of needle manipulation (redefining twirling tonification/reduction with measurable operation), and formed the “Shi stroke-unit therapy”."
+    },
+    "sources": [
+      { "title": "石学敏针灸全集（第2版，科学出版社 2015）", "kind": "theory + treatment + clinical cases" },
+      { "title": "石学敏实用针灸学", "kind": "textbook: points, needling method, disease protocols, worked cases" }
+    ]
+  },
+  {
+    "id": "wangjuyi",
+    "name": { "zh": "王居易", "en": "Wang Juyi" },
+    "years": "",
+    "tagline": {
+      "zh": "经络医学专家：以“察经—辨经—选经—选穴”为核心的针灸诊疗体系。",
+      "en": "Channel-medicine specialist: a system of palpating the channels, differentiating the affected channel, choosing channels, then choosing points."
+    },
+    "bio": {
+      "zh": "著名经络医学专家，北京中医学院首届毕业生，从事针灸临床、研究、教学50余年，北京市中医管理局薪火传承“3+3”工程名医传承工作站专家。在传统经络理论基础上构建了以经络理论为核心的经络医学体系，内容包括经络穴结构、经络气化、经络诊察、症候结构、辨经选经、选穴应用、手法探源；临床选穴“少而精”，强调下针前循摸取穴与得气感传。",
+      "en": "A well-known channel-medicine specialist and member of the first graduating class of Beijing College of TCM, with 50+ years of clinical, research and teaching work. On the basis of classical channel theory he built a channel-medicine system: channel/point structure, channel qi transformation, channel palpation, symptom structure, channel differentiation and selection, point application, and manipulation. He selects few, precise points and stresses palpating for each point before needling and obtaining propagated sensation."
+    },
+    "sources": [
+      { "title": "王居易针灸医案讲习录（中国中医药出版社 2014）", "kind": "125 cases with his own analysis and post-case essays" }
+    ],
+    "notes": {
+      "rx": {
+        "zh": "此书是医案，不含成方；处方以医案中的选穴与“诊后絮语”中的穴组为准，见医案与学术思想。",
+        "en": "This book is a case collection, not a formulary; his point combinations are in the cases and in the post-case essays."
+      }
+    }
+  }
+]

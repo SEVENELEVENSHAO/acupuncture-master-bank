@@ -1,0 +1,558 @@
+{
+  "id": "cda-06-indications-general",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "针灸原理",
+    "en": "Principles"
+  },
+  "order": 6,
+  "title": {
+    "zh": "适应与禁忌的总体判断",
+    "en": "General Judgement of Indications and Contraindications"
+  },
+  "summary": {
+    "zh": "先问此病是否适用：针适于神经、血行、内脏与感觉器的功能性疾患及部分器质性疾患；分“禁忌证”(会恶化)与“不适用证”(无效)；禁刺部位依解剖危险定；炎症、肿疡、高热、急性传染病、妊娠腹部等按理由禁针灸。",
+    "en": "First ask whether the disease suits: needling suits functional disease of nerves, circulation, viscera and senses and some organic disease; contraindications (may worsen) differ from non-indications (no effect); forbidden sites follow anatomical danger; inflammation, tumour, fever, acute infection and the pregnant abdomen are excluded for stated reasons."
+  },
+  "takeaways": [
+    {
+      "zh": "适应的中心是神经与血行的功能失调：针适用于神经系的麻痹、震颤、强直、痉挛，血行系充血或贫血所致之病，各内脏功能亢进或衰弱所致之症，感觉器的神经性或血行性疾患；总的说是诸般功能性疾患及一部分器质性疾患。",
+      "en": "The core of indication is functional disorder of nerves and circulation: needling suits paralysis, tremor, rigidity and spasm of the nervous system, diseases from congestion or anaemia, functional disease of viscera from over- or under-function, and neural or vascular disease of sense organs; broadly all functional disease and some organic disease.",
+      "cite": [
+        "C1",
+        "C2"
+      ]
+    },
+    {
+      "zh": "他把“不能用”分成两类：禁忌证是施针后有恶化可能的(肠闭塞、血友病、坏血病、急性穿孔性腹膜炎、急性盲肠炎、法定传染病)；不适用证是即使针了也不生效果的(皮肤病、肿疡、蓄脓症、内脏下垂等)。前者是危险，后者是无用。",
+      "en": "He splits 'cannot use' in two: contraindications are conditions where needling may make the disease worse (intestinal obstruction, haemophilia, scurvy, acute perforated peritonitis, acute appendicitis, notifiable infections); non-indications are those where needling brings no effect (skin disease, tumour, empyema, visceroptosis). The former is danger, the latter is futility.",
+      "cite": [
+        "C3",
+        "C4"
+      ]
+    },
+    {
+      "zh": "炎症与肿疡不刺的理由是机械性的：直接刺炎症部使炎症组织的破坏扩大、易穿孔；刺癌肿会使癌细胞转移散布；他要求这类病灶不能直接刺激。灸同理，急性炎症与肠闭塞因加强刺激恐使恶化而禁灸。",
+      "en": "The reason not to needle inflammation or tumour is mechanical: direct needling widens the tissue destruction in inflammation and invites perforation; needling a cancer spreads cancer cells; such lesions must not be stimulated directly. Moxa follows the same reasoning: acute inflammation and intestinal obstruction are excluded because stronger stimulation may worsen them.",
+      "cite": [
+        "C5",
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "zh": "禁刺部位由解剖危险决定：大囟门、延髓、眼球、耳鼓膜、肺、心、喉头、气管、腹膜、睾丸、大血管、妊娠腹部；灸则是浅表血管、眼球、延髓、睾丸禁，心脏部位禁多灸，面部、手露出部、妊妇腹部、肘窝膝腘等避免。他还专门区分“禁穴”与“解剖学的禁穴”：前者是经穴学的旧记载，用今日解剖学难以解释理由；后者才是真有危险的部位。",
+      "en": "Forbidden sites are set by anatomical danger: large fontanelle, medulla, eyeball, eardrum, lung, heart, larynx, trachea, peritoneum, testis, great vessels, pregnant abdomen; for moxa: superficial vessels, eyeball, medulla, testis forbidden, heart region no heavy moxa, and face, exposed hands, pregnant abdomen, elbow and knee folds avoided. He also separates classical 'forbidden points' (old records whose reasons are hard to explain by modern anatomy) from 'anatomical forbidden points' (truly dangerous places).",
+      "cite": [
+        "C8",
+        "C9",
+        "C10"
+      ]
+    },
+    {
+      "zh": "禁忌随条件而变，不是一律：腹膜过去被禁止深刺，但在严格消毒、用细针的条件下刺腹膜“无甚妨碍”；只有曾患腹膜炎、留有腹膜粘连者，直接刺激易引起炎症，仍以避免为佳。打扑损伤中肌裂骨折在针灸范围之外，但由打扑而起的疼痛、充血可针以镇痛。",
+      "en": "Contraindications are conditional: the peritoneum was once barred from deep needling, but with strict sterilisation and a fine needle it 'poses little hindrance'; only after a past peritonitis with adhesions is direct stimulation liable to cause inflammation and best avoided. In contusions, torn muscle or fracture lies outside acupuncture's scope, but the pain and congestion following a blow can be needled to relieve pain.",
+      "cite": [
+        "C11",
+        "C12"
+      ]
+    },
+    {
+      "zh": "妊娠要分部位与病：与内生殖器无关的疾患(肩凝、四肢神经痛、消化不良)可针，但不用强刺激；骨盘部、后荐骨孔、腹部直达刺针会使子宫收缩而致流产，绝对禁针；灸同样，孕四个月后腹部与禁穴绝对禁灸，其他部位非必要也宜避免；月经期腹部及有关反射部位也禁灸。",
+      "en": "Pregnancy is judged by site and disease: conditions unrelated to the internal genitals (stiff shoulder, limb neuralgia, indigestion) can be needled but not strongly; pelvic area, posterior sacral foramina and direct abdominal needling contract the uterus and risk miscarriage, absolutely forbidden; for moxa likewise, after four months the abdomen and forbidden points are absolutely off-limits and other areas avoided unless necessary; during menstruation the abdomen and related reflex sites are not moxaed.",
+      "cite": [
+        "C13",
+        "C14"
+      ]
+    },
+    {
+      "zh": "灸的适应更强调“无高热、无器质性破坏”：灸对慢性炎症、肺结核等有效，但高热、严重急性传染病、浸淫性皮肤病、急性肿疡、寄生虫病及坏疽萎缩变性肥大等禁灸；同一件事他也讲变通，距病灶远的四肢诱导灸不拘泥；脊髓性障碍要看脊髓实质是否已变化。",
+      "en": "Moxa's indication stresses 'no high fever, no organic destruction': it helps chronic inflammation and tuberculosis, but is barred in high fever, severe acute infection, spreading skin disease, acute tumour, parasitic disease, gangrene, atrophy, degeneration and hypertrophy; yet he allows flexibility: distal inducing moxa on the limbs is not barred; for spinal disorders it depends on whether spinal substance has changed.",
+      "cite": [
+        "C15",
+        "C16",
+        "C17"
+      ]
+    },
+    {
+      "zh": "所有判断落在一条工作规则上：施术前先诊断是否适用；不适应证及不明了的症状不随便施术；例如腰痛，适于针治的是神经痛、肠疝痛、风湿、月经痛、副睾丸炎或下腹内脏疾患引起而无机质变化者。",
+      "en": "All these judgements reduce to a working rule: diagnose suitability before treating and do not treat non-indicated or unclear conditions at random; for example among lumbar pains, those suited to needling are neuralgia, intestinal colic, rheumatism, dysmenorrhoea, epididymitis or those arising from lower-abdominal visceral disease without organic change.",
+      "cite": [
+        "C18",
+        "C19",
+        "C20"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "判断的逻辑",
+        "en": "Logic of the judgement"
+      },
+      "body": {
+        "zh": "他的逻辑分四步：一，病变是否属功能性(或尚未破坏的器质性)，是则可治；二，强刺激会不会使病灶恶化(炎症、急性腹症、传染病)；三，针刺的路径上有没有危险结构(神经、血管、器官、妊娠子宫)；四，个体状态(高热、酒醉、衰弱、月经、食后)能否承受刺激。第二、三步以“会不会恶化、会不会伤及”为据，而不是以“经络忌讳”为据。",
+        "en": "His logic has four steps: one, is the lesion functional (or organic but not yet destroyed)? then it can be treated; two, might strong stimulation worsen the focus (inflammation, acute abdomen, infection)? three, are there dangerous structures on the needle path (nerve, vessel, organ, pregnant uterus)? four, can the person's state (high fever, drunkenness, debility, menstruation, just after eating) bear stimulation? Steps two and three rest on 'will it worsen, will it injure', not on meridian taboos."
+      }
+    },
+    {
+      "h": {
+        "zh": "各部位的具体提醒",
+        "en": "Site-specific reminders"
+      },
+      "body": {
+        "zh": "头部只宜横刺，直刺会毁伤针尖也伤骨膜；面颊血管密集易出血；项肩部刺针易致脑贫血(椎骨动脉收缩，脑血量减少)，神经质者少用强刺激，处置为松衣带、低头位、用推运血法，并刺足三里、合谷、三阴交、内庭；颈部有大血管和甲状腺、副甲状腺，后颈延髓部深刺危险，喉头内部不宜深刺，小儿前颈胸骨上有胸腺者要特别注意；胸部深刺可穿通肺脏肋膜，心脏部位直达刺针有立即危险；四肢内侧多为大血管，进针须避开。",
+        "en": "On the head use only transverse needling, since a straight thrust damages the tip and the periosteum; the cheeks are dense with vessels and bleed easily; needling neck and shoulder can cause cerebral anaemia (vertebral artery constricts, less blood to the brain), so avoid strong stimulation in the nervous, and handle by loosening the belt, lowering the head, pushing blood, and stimulating Zusanli, Hegu, Sanyinjiao and Neiting; the neck holds great vessels and thyroid and parathyroid, deep needling at the medulla behind the neck is dangerous, deep needling inside the larynx is not advised, and in children the thymus above the sternum needs special care; deep chest needling can pierce lung and pleura, and direct needling over the heart is immediately dangerous; the inner limbs hold large vessels which must be avoided."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "针与灸：适用、禁忌、不适用的比较",
+        "en": "Needle vs. moxa: suited, contraindicated, unsuited"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "针",
+          "en": "Needle"
+        },
+        {
+          "zh": "灸",
+          "en": "Moxa"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "适用",
+            "en": "Suited"
+          },
+          {
+            "zh": "神经系神经病(麻痹、震颤、强直、痉挛)、血行系充血或贫血、各内脏官能疾患、感觉器神经性或血行性疾患；小儿针适用夜惊、消化不良、眼睑炎、肠炎、腺病",
+            "en": "Neurological disease (paralysis, tremor, rigidity, spasm), congestion or anaemia, functional visceral disease, neural or vascular sense-organ disease; skin needle for night terror, dyspepsia, blepharitis, enteritis, scrofula in children"
+          },
+          {
+            "zh": "神经系、血行器、运动器、消化器、呼吸器、泌尿生殖器、小儿科、妇人科的功能性与部分炎症性疾患；慢性传染病(如肺结核、淋病)；预防",
+            "en": "Functional and some inflammatory disease of nervous, circulatory, locomotor, digestive, respiratory, urogenital, paediatric and gynaecological systems; chronic infection (TB, gonorrhoea); prevention"
+          }
+        ],
+        [
+          {
+            "zh": "禁忌(可能恶化)",
+            "en": "Contraindicated"
+          },
+          {
+            "zh": "肠闭塞、血友病、坏血病、急性穿孔性腹膜炎、急性盲肠炎(虫样突起炎)、法定传染病",
+            "en": "Intestinal obstruction, haemophilia, scurvy, acute perforated peritonitis, acute appendicitis, notifiable infections"
+          },
+          {
+            "zh": "法定传染病；癌肿及肿疡；急性炎症(纤维素性肺炎、盲肠炎、穿孔性腹膜炎)；肠闭塞；酗酒烂醉；大病衰弱甚；高热；血压过高",
+            "en": "Notifiable infections; cancer and tumours; acute inflammation (lobar pneumonia, appendicitis, perforated peritonitis); intestinal obstruction; drunkenness; severe debility; high fever; high blood pressure"
+          }
+        ],
+        [
+          {
+            "zh": "不适用(无效)",
+            "en": "Non-indicated"
+          },
+          {
+            "zh": "皮肤病、肿疡、蓄脓症、内脏下垂症",
+            "en": "Skin disease, tumour, empyema, visceroptosis"
+          },
+          {
+            "zh": "“绝对不可灸”：高热、严重急性传染病、浸淫性皮肤病、急性肿疡、寄生虫病、坏疽、萎缩、变性、肥大；脊髓实质已变化者难治",
+            "en": "'Absolutely not': high fever, severe acute infection, spreading skin disease, acute tumour, parasites, gangrene, atrophy, degeneration, hypertrophy; hard to cure once spinal substance has changed"
+          }
+        ],
+        [
+          {
+            "zh": "妊娠",
+            "en": "Pregnancy"
+          },
+          {
+            "zh": "无关生殖器的病可针(不强刺激)；骨盘部分、后荐骨孔、腹部直达刺针绝对禁止",
+            "en": "Unrelated disease may be needled (not strongly); pelvis, posterior sacral foramina, direct abdominal needling absolutely forbidden"
+          },
+          {
+            "zh": "腹部禁灸(孕1–2个月未明确也禁；四个月后腹部与禁穴绝对禁灸)；宜避免中、大炷，减少壮数",
+            "en": "Abdomen not moxaed (even at 1-2 months when uncertain; after four months absolutely with the forbidden points); avoid medium and large cones, cut the count"
+          }
+        ],
+        [
+          {
+            "zh": "其他生理状态",
+            "en": "Other states"
+          },
+          {
+            "zh": "小儿囟门不针灸；神经质者项肩部少强刺激；曾患腹膜炎者避免刺腹膜",
+            "en": "Infant fontanelle neither needled nor moxaed; nervous patients little strong stimulation at neck and shoulder; avoid needling the abdomen after peritonitis"
+          },
+          {
+            "zh": "月经期腹部及有关反射部位禁灸；食后避免；血压过高禁",
+            "en": "No abdominal or related reflex moxa in menstruation; avoid after meals; forbidden in high blood pressure"
+          }
+        ],
+        [
+          {
+            "zh": "例外与变通",
+            "en": "Exceptions"
+          },
+          {
+            "zh": "腹膜：细针加严格消毒则无甚妨碍；打扑之疼痛充血可针镇痛",
+            "en": "Peritoneum: fine needle with strict asepsis is little hindrance; post-blow pain and congestion may be needled"
+          },
+          {
+            "zh": "“不拘泥”：四肢远离病灶的诱导灸仍可用；咯血可灸，但须取四肢穴(肘弯、膝下、足心)",
+            "en": "'Not rigid': remote inducing moxa on the limbs is still usable; haemoptysis may be moxaed but only at limb points (elbow, below knee, sole)"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "部位与理由",
+        "en": "Sites and reasons"
+      },
+      "cols": [
+        {
+          "zh": "部位",
+          "en": "Site"
+        },
+        {
+          "zh": "针",
+          "en": "Needle"
+        },
+        {
+          "zh": "灸",
+          "en": "Moxa"
+        },
+        {
+          "zh": "他给的理由",
+          "en": "Reason given"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "囟门(大囟门)",
+            "en": "Fontanelle"
+          },
+          {
+            "zh": "禁",
+            "en": "Forbidden"
+          },
+          {
+            "zh": "幼儿囟门不可施用针灸",
+            "en": "Infant fontanelle neither needled nor moxaed"
+          },
+          {
+            "zh": "解剖危险部位",
+            "en": "Anatomically dangerous"
+          }
+        ],
+        [
+          {
+            "zh": "延髓部",
+            "en": "Medulla"
+          },
+          {
+            "zh": "禁；后颈深刺会发生危险",
+            "en": "Forbidden; deep needling behind the neck is dangerous"
+          },
+          {
+            "zh": "禁",
+            "en": "Forbidden"
+          },
+          {
+            "zh": "第一颈椎与后头骨之间",
+            "en": "Between first cervical vertebra and occipital bone"
+          }
+        ],
+        [
+          {
+            "zh": "眼球",
+            "en": "Eyeball"
+          },
+          {
+            "zh": "禁",
+            "en": "Forbidden"
+          },
+          {
+            "zh": "禁",
+            "en": "Forbidden"
+          },
+          {
+            "zh": "解剖危险",
+            "en": "Anatomical danger"
+          }
+        ],
+        [
+          {
+            "zh": "心脏部位",
+            "en": "Heart region"
+          },
+          {
+            "zh": "禁；直达刺针有立即发生危险之事",
+            "en": "Forbidden; direct needling brings immediate danger"
+          },
+          {
+            "zh": "禁止多灸",
+            "en": "No heavy moxa"
+          },
+          {
+            "zh": "解剖危险",
+            "en": "Anatomical danger"
+          }
+        ],
+        [
+          {
+            "zh": "肺、胸部",
+            "en": "Lung and chest"
+          },
+          {
+            "zh": "禁肺；深刺有穿通肺脏肋膜之险；肋间深行单刺术多引起肋间神经痛",
+            "en": "Lung forbidden; deep needling may pierce lung and pleura; deep single insertion between ribs often causes intercostal neuralgia"
+          },
+          "—",
+          {
+            "zh": "解剖危险",
+            "en": "Anatomical danger"
+          }
+        ],
+        [
+          {
+            "zh": "腹膜、腹部",
+            "en": "Peritoneum, abdomen"
+          },
+          {
+            "zh": "禁(旧说)；细针严格消毒则无甚妨碍；曾患腹膜炎者避免",
+            "en": "Barred (old view); little hindrance with fine needle and strict asepsis; avoid after peritonitis"
+          },
+          {
+            "zh": "见妊娠、月经",
+            "en": "See pregnancy, menstruation"
+          },
+          {
+            "zh": "腹膜知觉锐敏；粘连者易引起炎症",
+            "en": "Peritoneum very sensitive; adhesions inflame easily"
+          }
+        ],
+        [
+          {
+            "zh": "睾丸",
+            "en": "Testis"
+          },
+          {
+            "zh": "禁",
+            "en": "Forbidden"
+          },
+          {
+            "zh": "禁",
+            "en": "Forbidden"
+          },
+          {
+            "zh": "解剖危险",
+            "en": "Anatomical danger"
+          }
+        ],
+        [
+          {
+            "zh": "大血管与皮下静脉",
+            "en": "Great vessels, subcutaneous veins"
+          },
+          {
+            "zh": "禁大血管；刺入血管会出血、血栓、空气栓塞；四肢内侧须避开血管",
+            "en": "Great vessels forbidden; entering a vessel causes bleeding, thrombosis, air embolism; avoid vessels on the inner limbs"
+          },
+          {
+            "zh": "浅显血管上禁灸；皮下静脉显露处不应灸",
+            "en": "No moxa over superficial vessels or exposed subcutaneous veins"
+          },
+          {
+            "zh": "灸会毁伤静脉壁、流血、细菌入侵、可能血栓",
+            "en": "Moxa damages vein wall, bleeds, admits bacteria, may cause thrombus"
+          }
+        ],
+        [
+          {
+            "zh": "颈部",
+            "en": "Neck"
+          },
+          {
+            "zh": "谨慎",
+            "en": "Caution"
+          },
+          "—",
+          {
+            "zh": "大血管受刺激收缩可致急性脑贫血；有甲状腺、副甲状腺；后颈延髓；喉头；小儿胸腺",
+            "en": "Vessel constriction may cause acute cerebral anaemia; thyroid and parathyroid; medulla; larynx; infant thymus"
+          }
+        ],
+        [
+          {
+            "zh": "头面",
+            "en": "Head, face"
+          },
+          {
+            "zh": "头部只可横刺；颊部血管密易出血",
+            "en": "Head transverse only; cheeks bleed easily"
+          },
+          {
+            "zh": "颜面与手的露出部避免灸(瘢痕)",
+            "en": "Avoid moxa on face and exposed hands (scarring)"
+          },
+          {
+            "zh": "直刺毁伤针尖与骨膜",
+            "en": "Straight thrust damages tip and periosteum"
+          }
+        ],
+        [
+          {
+            "zh": "肘窝、膝腘",
+            "en": "Elbow and knee folds"
+          },
+          "—",
+          {
+            "zh": "屈伸频繁，易擦伤，避免灸",
+            "en": "Frequent flexion; friction injury; avoid"
+          },
+          {
+            "zh": "灸创易受摩擦",
+            "en": "Moxa wound easily rubbed"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "凡属于神经系之神经病，如麻痹、震颤、强直、痉挛，血行系之充血或贫血所致之疾病，各内脏之官能疾患",
+      "src": "针灸精华·第三篇 针科常识 p.90"
+    },
+    {
+      "id": "C2",
+      "quote": "对于诸般之功能性疾患，及一部之器质的疾患，得奏奇效",
+      "src": "针灸精华·第三篇 针科常识 p.101"
+    },
+    {
+      "id": "C3",
+      "quote": "针之禁忌证者：为施行针术，却于病症有增加恶化之可能性者，为禁忌证",
+      "src": "针灸精华·第三篇 针科常识 p.91"
+    },
+    {
+      "id": "C4",
+      "quote": "针之不适用证者：虽与针治，不生效果，为不适用症，例如皮肤病、肿疡、蓄脓症、内脏下垂症等",
+      "src": "针灸精华·第三篇 针科常识 p.91"
+    },
+    {
+      "id": "C5",
+      "quote": "炎症部之直接刺针，能使炎症组织之破坏扩大，易引起穿孔，故不可针",
+      "src": "针灸精华·第三篇 针科常识 p.99"
+    },
+    {
+      "id": "C6",
+      "quote": "如癌肿予以直接刺激时，发生癌细胞之转移撤布，故于肿疡上亦不可针",
+      "src": "针灸精华·第三篇 针科常识 p.99"
+    },
+    {
+      "id": "C7",
+      "quote": "因加强刺激恐有使恶化之能者，悉禁之",
+      "src": "针灸精华·第四篇 灸科常识 p.119"
+    },
+    {
+      "id": "C8",
+      "quote": "为大囟门部、延髓部、眼球、耳鼓膜、肺脏、心脏、喉头、气管、腹膜、睾丸、大血管、妊娠之腹部等，皆禁止针刺",
+      "src": "针灸精华·第三篇 针科常识 p.91"
+    },
+    {
+      "id": "C9",
+      "quote": "浅显之血管上、眼球、延髓部位、睾丸部位，禁止加灸。心脏部位，禁止多灸",
+      "src": "针灸精华·第四篇 灸科常识 p.111"
+    },
+    {
+      "id": "C10",
+      "quote": "所谓禁穴者，经穴学上，自古已有记载，从今日之解剖学上而与考查，其有如何之理由成为禁穴，颇难解释",
+      "src": "针灸精华·第三篇 针科常识 p.102"
+    },
+    {
+      "id": "C11",
+      "quote": "用细针经过严格之消毒，对于腹膜之刺针，无甚妨碍",
+      "src": "针灸精华·第三篇 针科常识 p.100"
+    },
+    {
+      "id": "C12",
+      "quote": "如由打扑而起之疼痛、充血等，可以针之，使之镇痛，因针有诱导之作用也",
+      "src": "针灸精华·第三篇 针科常识 p.100"
+    },
+    {
+      "id": "C13",
+      "quote": "能使妊娠之子宫收缩，有引起流产之危险，故绝对禁止刺针",
+      "src": "针灸精华·第三篇 针科常识 p.100"
+    },
+    {
+      "id": "C14",
+      "quote": "故妊妇4个月之后，腹部与禁穴，绝对禁灸，其他部分非必要，亦以避免不灸为宜",
+      "src": "针灸精华·第四篇 灸科常识 p.115"
+    },
+    {
+      "id": "C15",
+      "quote": "如人体发高热之际、严重之急性传染病、皮肤病之浸淫性者、急性肿疡、寄生虫病",
+      "src": "针灸精华·第四篇 灸科常识 p.114"
+    },
+    {
+      "id": "C16",
+      "quote": "如在四肢部灸，距离病灶远者，亦可能采用诱导之灸",
+      "src": "针灸精华·第四篇 灸科常识 p.119"
+    },
+    {
+      "id": "C17",
+      "quote": "若为脊髓之实质已发生变化，则治愈相当困难，即不适用灸治之法",
+      "src": "针灸精华·第四篇 灸科常识 p.115"
+    },
+    {
+      "id": "C18",
+      "quote": "在施行针治之前，需诊断其病之是否适用针治",
+      "src": "针灸精华·第三篇 针科常识 p.94"
+    },
+    {
+      "id": "C19",
+      "quote": "不适应证及不明了之症状，不随便施术",
+      "src": "针灸精华·第三篇 针科常识 p.104"
+    },
+    {
+      "id": "C20",
+      "quote": "其中适于针治之腰痛，为神经痛、肠疝痛、偻麻质斯、月经痛、副睾丸炎",
+      "src": "针灸精华·第六篇 病理诊断治疗常识 p.145"
+    }
+  ],
+  "how_to_use": {
+    "zh": "遇到一个病人，先按他的顺序问：是功能性还是已有器质破坏？强刺激会不会使它恶化？针路上有没有危险结构或妊娠子宫？患者此刻能否承受(高热、酒醉、衰弱、食后、经期)？他给出的禁忌几乎都附有理由，学习时应记理由，而不是背条目，这样才知道何时可以变通(如细针严消毒下的腹部、远隔的诱导灸)。",
+    "en": "Faced with a patient, ask in his order: is it functional or already organically destroyed? might strong stimulation worsen it? are there dangerous structures or a pregnant uterus on the path? can the patient bear it now (fever, drunkenness, debility, after a meal, menstruation)? Nearly every prohibition comes with a reason; learn the reasons rather than the list, which shows when flexibility is allowed (fine needle under strict asepsis at the abdomen, remote inducing moxa)."
+  },
+  "caveats": {
+    "zh": "所列疾病用民国时期的西医名词与旧名对照(如虫样突起炎、偻麻质斯、蓄脓症)，今日诊断与禁忌标准已有修订；“血压过高禁灸”“高热禁灸”等规则多为经验与当时的病理推论；经穴禁针禁灸表中的理由他自己也说难以解释，见“经穴观”一篇。",
+    "en": "Diseases are named in Republican-era Western terms with old Chinese names (e.g. vermiform process inflammation, rheumatism, empyema) and modern diagnostic and contraindication standards have since been revised; rules such as no moxa in high blood pressure or fever rest on experience and the pathological reasoning of the time; he himself says the reasons for the classical forbidden points are hard to explain; see the guide on points."
+  },
+  "see": {
+    "notes": [
+      "03 针刺生理作用与临床应用 Physiological Effects and Clinical Application",
+      "03 灸法的临床应用 Clinical Application of Moxibustion",
+      "03 特殊腧穴与禁忌 Special Points Forbidden Points and Location Techniques"
+    ],
+    "points": [
+      "脑户",
+      "囟会",
+      "神庭",
+      "膻中",
+      "神阙",
+      "哑门",
+      "风府"
+    ]
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "id": "cda-13-circulatory",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 13,
+  "title": {
+    "zh": "循环器病：调节心脏神经、强心利尿与灸补血",
+    "en": "Circulatory Diseases: Regulating the Cardiac Nerves, Strengthening the Heart, Moxa for Anaemia"
+  },
+  "summary": {
+    "zh": "心脏病他以“反射诱导”作用于心脏的副交感神经，目的是镇静、加强心力、促进心肌功能与利尿，取风池、大杼、肩井、心俞等颈背穴配内关、大陵，多用细针轻刺激或皮肤针，“不必按症立法，只需耐心久治”；急性心内膜炎、心肌炎以药为主、针作辅助；血液病重在灸(关元、足三里、脾俞、膈俞)促进营养吸收。预后写得审慎。",
+    "en": "For heart disease he works by reflex and induction on the cardiac parasympathetic to calm, strengthen the heart, restore myocardial function and promote diuresis, using neck-and-back points (Fengchi, Dazhu, Jianjing, Xinshu) with Neiguan and Daling, fine needles with light stimulation or the skin needle, treating patiently rather than by symptom. Acute endocarditis and myocarditis are drug-led with needling as adjunct; blood diseases rest on moxa (Guanyuan, Zusanli, Pishu, Geshu) to aid nutrition. Prognosis is stated cautiously."
+  },
+  "takeaways": [
+    {
+      "zh": "心脏病的目的是调节神经、强心，而不是治“病名”：狭心症用反射诱导传达心脏副交感神经以镇静缓解，神经性心悸亢进“反射的兴奋副交感神经心脏支”，脂肪心“以加强心力为目的”；心脏瓣膜症则“概以促进心肌功能之回复与利尿为目的。不必按症立法，只需耐心久治”。",
+      "en": "For the heart the aim is regulating nerves and strengthening, not treating a disease name: angina by reflex and induction to the cardiac parasympathetic to calm; nervous palpitation by reflexly exciting the parasympathetic cardiac branch; fatty heart to strengthen the heart; valvular disease to restore myocardial function and promote diuresis, \"no need to set a method by symptom, only patient long treatment\".",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ]
+    },
+    {
+      "zh": "取穴的骨架是“颈项肩背+心俞+前臂”：风池在11条中7条，大杼、心俞各6条，肩井、天柱各5条；前臂取内关、大陵、侠白，腹部取中脘、气海、关元，下肢取足三里、三阴交。慢性者常成两组穴，每日轮换。",
+      "en": "The skeleton is neck-shoulder-back plus Xinshu plus the forearm: Fengchi in 7 of 11 entries, Dazhu and Xinshu in 6 each, Jianjing and Tianzhu in 5; forearm Neiguan, Daling, Xiabai; abdomen Zhongwan, Qihai, Guanyuan; leg Zusanli, Sanyinjiao. Chronic entries give two point groups used in daily rotation.",
+      "cite": [
+        "E5",
+        "E6"
+      ]
+    },
+    {
+      "zh": "刺激宜轻、宜久：心绞痛用28号针轻刺激，发作时取侠白、孔最、内关“作轻刺激久留，待心绞痛缓解后出针”；心瓣膜症用30号针“轻针”以加强心功能，有浮肿时才改中等度刺激以旺盛利尿。皮肤针见于心绞痛、心瓣膜症、脂肪心与贫血4条；心绞痛沿颈项两侧、肩上及前臂内侧捶击，“以距离半寸击3下为定则”。",
+      "en": "Stimulation is light and long: angina uses a No. 28 needle lightly, at an attack Xiabai, Kongzui, Neiguan \"retained long with light stimulation, withdrawn once the pain eases\"; valvular disease uses a No. 30 needle lightly to strengthen the heart, moving to moderate stimulation only for oedema to drive diuresis. The skin needle appears in four entries (angina, valvular disease, fatty heart, anaemia); in angina it runs along the neck, shoulder top and inner forearm, \"3 taps every half cun\".",
+      "cite": [
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "急性心脏炎症以药物为主：急性心内膜炎“应以药物作主治，由专医治疗”，针作诱导辅助，用28号针强刺激；急性心肌炎“应由专医治疗，针术作助治”。同一病在他的病理篇里更严格——急性心内膜炎与动脉瘤明写“本症不适用针灸治疗”，两书说法不完全一致。",
+      "en": "Acute cardiac inflammation is drug-led: acute endocarditis is a specialist's drug case with needling as induction adjunct (No. 28, strong); acute myocarditis likewise. His pathology book is stricter: acute endocarditis and aneurysm are plainly \"not suited to acupuncture\", so the two books do not fully agree.",
+      "cite": [
+        "E11",
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "zh": "两书对心绞痛的刺激强度也说法不一：处方集用轻刺激久留，病理篇写“行强刺激，以镇静为主目的”。忠实的读法是两说并存：都以镇静为目的，取侠白、孔最(内关)，强度未统一。",
+      "en": "The two books also differ on stimulation strength in angina: the prescription book says light and retained, the pathology book \"strong stimulation, calming as the main aim\". Both share the aim (calming) and the points Xiabai and Kongzui; the strength is not reconciled.",
+      "cite": [
+        "E8",
+        "E14"
+      ]
+    },
+    {
+      "zh": "血管与血液病走另一条路：动脉硬化以“调整全身之血行，降低其血压”为目的，针灸并用——八穴“各灸小炷七壮，连灸3日”；贫血、萎黄病、白血病三条全用灸，目的分别是促进营养吸收、旺盛血行、强壮，取关元、足三里、脾俞、膈俞、三焦俞。贫血还要“原因疗法与对症疗法，相互施治”。",
+      "en": "Vessels and blood take another route: arteriosclerosis aims to regulate whole-body circulation and lower blood pressure, needle plus moxa (eight points, small cones of seven, three days running); anaemia, chlorosis and leukaemia all use moxa, aimed at nutrient absorption, circulation and strengthening, at Guanyuan, Zusanli, Pishu, Geshu, Sanjiaoshu. Anaemia also needs cause treatment and symptomatic treatment together.",
+      "cite": [
+        "E15",
+        "E16",
+        "E17",
+        "E18",
+        "E19"
+      ]
+    },
+    {
+      "zh": "预后审慎，不作承诺：心脏瓣膜症“无特效疗法，如调养得法，亦可延年”；急性心肌炎“往往治愈之后，复突然死亡者有之”；心绞痛反复频发有在发作中死亡之虞；动脉硬化“易发脑溢血，多危险性”。仅神经性心悸亢进标“良”，萎黄病“得全治者多”。",
+      "en": "Prognosis is cautious and makes no promises: valvular disease has no specific cure but good care can prolong life; after apparent recovery from myocarditis sudden death may occur; frequent angina risks death in an attack; arteriosclerosis readily leads to cerebral haemorrhage. Only nervous palpitation is marked good and chlorosis mostly curable.",
+      "cite": [
+        "E20",
+        "E21",
+        "E22",
+        "E23"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "循环器病：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Circulatory: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "心脏痉挛(狭心症)",
+            "en": "Angina pectoris"
+          },
+          {
+            "zh": "反射诱导心脏副交感神经，镇静缓解",
+            "en": "Reflex and induction to cardiac parasympathetic; calm"
+          },
+          "风池、大杼、肩井、心俞、肝俞、侠白、尺泽、内关；发作取侠白、孔最、内关",
+          {
+            "zh": "28号针轻刺激；发作时久留；皮肤针",
+            "en": "No. 28 needle, light; retained at attack; skin needle"
+          },
+          {
+            "zh": "有危险性但死亡稀，频发者有发作中死亡之虞",
+            "en": "Dangerous but death rare; risk if frequent"
+          }
+        ],
+        [
+          {
+            "zh": "急性心脏内膜炎",
+            "en": "Acute endocarditis"
+          },
+          {
+            "zh": "药物主治；针作诱导，减轻心脏炎性",
+            "en": "Drugs first; needle induces, lessens inflammation"
+          },
+          "侠白、曲池、内关、神门、三阴交、涌泉、太冲、冲阳",
+          {
+            "zh": "28号针强刺激，日1次",
+            "en": "No. 28, strong, daily"
+          },
+          {
+            "zh": "恶性与溃疡性多不良",
+            "en": "Malignant and ulcerative mostly poor"
+          }
+        ],
+        [
+          {
+            "zh": "心脏瓣膜症",
+            "en": "Valvular disease"
+          },
+          {
+            "zh": "促进心肌功能回复与利尿；不按症立法，久治",
+            "en": "Restore myocardium, diuresis; long treatment"
+          },
+          "风池、肩井、大杼、心俞、中脘、气海；浮肿加肾俞、次髎、足三里、三阴交",
+          {
+            "zh": "30号针轻针；浮肿用28号中等度；皮肤针",
+            "en": "No. 30 light; oedema No. 28 moderate; skin needle"
+          },
+          {
+            "zh": "无特效疗法，调养得法可延年",
+            "en": "No specific cure; good care prolongs life"
+          }
+        ],
+        [
+          {
+            "zh": "急性心肌炎",
+            "en": "Acute myocarditis"
+          },
+          {
+            "zh": "专医治疗，针作助治，反射诱导减轻炎性",
+            "en": "Specialist leads; reflex and induction lessen inflammation"
+          },
+          "大杼、风门、身柱、肺俞、小海、大陵",
+          {
+            "zh": "中刺激，每日",
+            "en": "Moderate, daily"
+          },
+          {
+            "zh": "不一定；治愈后有复突然死亡者",
+            "en": "Uncertain; sudden death after recovery occurs"
+          }
+        ],
+        [
+          {
+            "zh": "脂肪心",
+            "en": "Fatty heart"
+          },
+          {
+            "zh": "加强心力",
+            "en": "Strengthen the heart"
+          },
+          "风池、肩井、大杼、心俞、中脘、气海、内关、足三里；另一组天柱、风门、膏肓、督俞、建里、关元",
+          {
+            "zh": "两组交换，中等度刺激；可用皮肤针",
+            "en": "Two groups alternated, moderate; skin needle optional"
+          },
+          {
+            "zh": "调摄得宜可延年",
+            "en": "Good care prolongs life"
+          }
+        ],
+        [
+          {
+            "zh": "神经性心悸亢进症",
+            "en": "Nervous palpitation"
+          },
+          {
+            "zh": "反射兴奋副交感神经心脏支，调节心功能",
+            "en": "Reflex excitation of parasympathetic cardiac branch"
+          },
+          "风池、肩井、风门、心俞、大陵、足三里；另一组天柱、大杼、厥阴俞、督俞、内关、中脘、气海、三阴交",
+          {
+            "zh": "每日或间日交换针治，持续二三个月",
+            "en": "Alternate groups daily or every other day, 2–3 months"
+          },
+          {
+            "zh": "良",
+            "en": "Good"
+          }
+        ],
+        [
+          {
+            "zh": "动脉硬化症",
+            "en": "Arteriosclerosis"
+          },
+          {
+            "zh": "调整全身血行，降低血压",
+            "en": "Regulate circulation, lower blood pressure"
+          },
+          "风池、肩井、膏肓、心俞、肾俞、天枢、水道…；灸风池、天柱、肩井、手三里、神门、风市、阳关、足三里",
+          {
+            "zh": "间一二日针；午前空腹小炷七壮，连灸3日",
+            "en": "Needle every 1–2 days; small cones ×7 before breakfast for 3 days"
+          },
+          {
+            "zh": "易发脑溢血，多危险",
+            "en": "Prone to cerebral haemorrhage; often dangerous"
+          }
+        ],
+        [
+          {
+            "zh": "肩凝(列于脉管疾患)",
+            "en": "Shoulder stiffness (filed under vessels)"
+          },
+          {
+            "zh": "活动该部神经血管",
+            "en": "Activate local nerves and vessels"
+          },
+          "风池、大杼、肩外俞、曲垣、肩髃、曲池及压痛点",
+          {
+            "zh": "28号针温针灸，或艾条灸",
+            "en": "No. 28 needle with warmed moxa, or moxa stick"
+          },
+          {
+            "zh": "顽固，易复发",
+            "en": "Stubborn, relapses easily"
+          }
+        ],
+        [
+          {
+            "zh": "贫血",
+            "en": "Anaemia"
+          },
+          {
+            "zh": "促进营养吸收",
+            "en": "Promote nutrient absorption"
+          },
+          "膈俞、脾俞、三焦俞、大肠俞、关元、足三里；再随主诉加穴",
+          {
+            "zh": "小艾炷每穴5壮或艾条；急性加皮肤针；原因疗法与对症疗法并施",
+            "en": "Small cones ×5 or moxa stick; skin needle in acute; cause plus symptom treatment"
+          },
+          {
+            "zh": "视原因；慢性无直接危险，急性失血过多可死",
+            "en": "Depends on cause; chronic not directly dangerous, acute bleeding can be fatal"
+          }
+        ],
+        [
+          {
+            "zh": "萎黄病",
+            "en": "Chlorosis"
+          },
+          {
+            "zh": "旺盛血行",
+            "en": "Boost circulation"
+          },
+          "百会、天柱、身柱、至阳、脾俞、三焦俞、关元、足三里、三阴交",
+          {
+            "zh": "小艾炷各3–7壮，持续二三个月",
+            "en": "Small cones 3–7 each, 2–3 months"
+          },
+          {
+            "zh": "得全治者多",
+            "en": "Mostly curable"
+          }
+        ],
+        [
+          {
+            "zh": "白血病",
+            "en": "Leukaemia"
+          },
+          {
+            "zh": "促进营养吸收与强壮",
+            "en": "Nutrient absorption and strengthening"
+          },
+          "膈俞、肝俞、脾俞、三焦俞、命门、关元、足三里",
+          {
+            "zh": "艾条灸，有主诉加对症穴",
+            "en": "Moxa stick; add symptom points"
+          },
+          {
+            "zh": "视原因而不一定",
+            "en": "Depends on cause"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "以反射诱导传达心脏副交感神经，图镇静缓解为目的",
+      "src": "针灸处方集·第二章 循环器病·心脏痉挛(狭心症) p.224"
+    },
+    {
+      "id": "E2",
+      "quote": "以反射的兴奋副交感神经心脏支，调节心脏之功能为目的",
+      "src": "针灸处方集·第二章 循环器病·神经性心悸亢进症 p.225"
+    },
+    {
+      "id": "E3",
+      "quote": "以加强心力为目的",
+      "src": "针灸处方集·第二章 循环器病·脂肪心 p.225"
+    },
+    {
+      "id": "E4",
+      "quote": "针灸治疗，概以促进心肌功能之回复与利尿为目的。不必按症立法，只需耐心久治",
+      "src": "针灸处方集·第二章 循环器病·心脏瓣膜症 p.225"
+    },
+    {
+      "id": "E5",
+      "quote": "取穴：风池、肩井、大杼、心俞、中脘、气海、内关、足三里",
+      "src": "针灸处方集·第二章 循环器病·脂肪心 p.225"
+    },
+    {
+      "id": "E6",
+      "quote": "每日轮换用30号针轻针1次，加强心功能",
+      "src": "针灸处方集·第二章 循环器病·心脏瓣膜症 p.225"
+    },
+    {
+      "id": "E7",
+      "quote": "每日或间日用28号针作轻刺激",
+      "src": "针灸处方集·第二章 循环器病·心脏痉挛(狭心症) p.224"
+    },
+    {
+      "id": "E8",
+      "quote": "发作时取侠白、孔最、内关三穴，作轻刺激久留，待心绞痛缓解后出针",
+      "src": "针灸处方集·第二章 循环器病·心脏痉挛(狭心症) p.224"
+    },
+    {
+      "id": "E9",
+      "quote": "每日轮换用28号针作中等度刺激，以旺盛利尿功能",
+      "src": "针灸处方集·第二章 循环器病·心脏瓣膜症 p.225"
+    },
+    {
+      "id": "E10",
+      "quote": "以距离半寸击3下为定则",
+      "src": "针灸处方集·第二章 循环器病·心脏痉挛(狭心症) p.224"
+    },
+    {
+      "id": "E11",
+      "quote": "本病应以药物作主治，由专医治疗。以针术作诱导刺激，使心脏之炎性减轻上，亦有相当辅助",
+      "src": "针灸处方集·第二章 循环器病·急性心脏内膜炎 p.224"
+    },
+    {
+      "id": "E12",
+      "quote": "本病应由专医治疗，针术作助治，以反射诱导减轻心肌之炎性",
+      "src": "针灸处方集·第二章 循环器病·急性心肌炎 p.225"
+    },
+    {
+      "id": "E13",
+      "quote": "听诊上，发内膜炎性杂音。本症不适用针灸治疗",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·急性心内膜炎 p.183"
+    },
+    {
+      "id": "E14",
+      "quote": "取风池、心俞、膏肓、侠白、孔最诸穴，行强刺激，以镇静为主目的",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·狭心症 p.184"
+    },
+    {
+      "id": "E15",
+      "quote": "调整全身之血行，降低其血压为目的",
+      "src": "针灸处方集·第二章 循环器病·动脉硬化症 p.226"
+    },
+    {
+      "id": "E16",
+      "quote": "各灸小炷七壮，连灸3日",
+      "src": "针灸处方集·第二章 循环器病·动脉硬化症 p.226"
+    },
+    {
+      "id": "E17",
+      "quote": "以促进营养之吸收为目的",
+      "src": "针灸处方集·第二章 循环器病·贫血 p.226"
+    },
+    {
+      "id": "E18",
+      "quote": "主要从原因疗法与对症疗法，相互施治为愈",
+      "src": "针灸处方集·第二章 循环器病·贫血 p.227"
+    },
+    {
+      "id": "E19",
+      "quote": "以促进营养吸收与强壮为目的",
+      "src": "针灸处方集·第二章 循环器病·白血病 p.227"
+    },
+    {
+      "id": "E20",
+      "quote": "本病虽无特效疗法，如调养得法，亦可延年",
+      "src": "针灸处方集·第二章 循环器病·心脏瓣膜症 p.225"
+    },
+    {
+      "id": "E21",
+      "quote": "往往治愈之后，复突然死亡者有之",
+      "src": "针灸处方集·第二章 循环器病·急性心肌炎 p.225"
+    },
+    {
+      "id": "E22",
+      "quote": "以其易发脑溢血，多危险性",
+      "src": "针灸处方集·第二章 循环器病·动脉硬化症 p.226"
+    },
+    {
+      "id": "E23",
+      "quote": "得全治者多",
+      "src": "针灸处方集·第二章 循环器病·萎黄病 p.227"
+    }
+  ],
+  "caveats": {
+    "zh": "病名为民国时期西医名词(心脏痉挛、心脏瓣膜症、脂肪心、萎黄病等)，“副交感神经”“诱导”是他当时的解释框架。处方集与病理篇在急性心内膜炎(前者作辅助、后者不适用)和心绞痛刺激强度(前者轻刺激久留、后者强刺激)上不完全一致，本文两说并存。血液病(白血病等)在他笔下只是促进营养、强壮的对症调理，不可视为针灸治愈的主张。",
+    "en": "Disease names are Republican-era Western terms (cardiac spasm, valvular disease, fatty heart, chlorosis), and \"parasympathetic\" and \"induction\" are his framework of the day. The prescription and pathology books differ on acute endocarditis (adjunct vs not suited) and on angina stimulation (light and retained vs strong); both are reported. For blood diseases such as leukaemia his text offers supportive nutritional strengthening only, not a claim of cure."
+  },
+  "see": {
+    "points": [
+      "风池",
+      "大杼",
+      "肩井",
+      "心俞",
+      "天柱",
+      "内关",
+      "足三里",
+      "关元",
+      "中脘"
+    ],
+    "rx": [
+      "cda-rx-022",
+      "cda-rx-023",
+      "cda-rx-024",
+      "cda-rx-025",
+      "cda-rx-026",
+      "cda-rx-027",
+      "cda-rx-028",
+      "cda-rx-029",
+      "cda-rx-030",
+      "cda-rx-031",
+      "cda-rx-032"
+    ]
+  }
+}

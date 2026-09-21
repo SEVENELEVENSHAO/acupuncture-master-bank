@@ -1,0 +1,593 @@
+{
+  "id": "sxm-10-neurology",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 10,
+  "title": {
+    "zh": "神经系统疾病：以“窍闭神匿”为核心，醒脑开窍向多病延伸，周围神经病另按经筋、血络与虚实取法",
+    "en": "Neurological Diseases: \"Orifices Closed, Spirit Hidden\" as the Core, Xingnao Kaiqiao Extended Across Many Diseases, Peripheral Nerve Disease Treated by Sinew, Collateral and Excess/Deficiency"
+  },
+  "summary": {
+    "zh": "神经系统是他最核心的专科。脑卒中以“肝肾阴虚为根本，窍闭神匿、神不导气为病机关键”，立醒脑开窍：内关、人中、三阴交为主穴，重在泻法手法量学，并按先兆、中经络、闭证、脱证、后遗症分期分症加减(闭证十宣出血，脱证雷火灸4~8小时)。这一思路延伸到吞咽困难、眩晕、痴呆、头痛、癫痫、舞蹈病、厥证，共同点是取内关、人中调神，风池、完骨、天柱补益脑髓；而面瘫按经筋病透刺加刺络，三叉神经痛活血通络，痿证分急性泻、恢复期补，帕金森病则另立“培元固本，宁神定颤”。",
+    "en": "Neurology is the core of his practice. Stroke: \"liver-kidney yin deficiency the root, orifices closed and spirit hidden, spirit failing to guide qi the key mechanism\", hence Xingnao Kaiqiao: Neiguan, Renzhong (Shuigou), Sanyinjiao as main points, weight on reducing manipulation with quantified dosage, adjusted by stage (premonitory, channel, closed and collapse pattern, sequelae; ten Xuan bled in the closed pattern, thunder-fire moxa for 4-8 hours in collapse). The same logic extends to dysphagia, vertigo, dementia, headache, epilepsy, chorea and syncope, sharing Neiguan and Renzhong to regulate the spirit and Fengchi, Wangu, Tianzhu to replenish the brain; facial palsy however is treated as a sinew disease with penetrating needling plus bloodletting, trigeminal neuralgia by activating blood and unblocking collaterals, atrophy-flaccidity by reducing in the acute stage and tonifying later, and Parkinson disease has its own principle, \"reinforce the root, calm the spirit and stop tremor\"."
+  },
+  "takeaways": [
+    {
+      "zh": "病机是一个统一的判断：中风“乃上实，即脑窍闭塞，其因皆为肝肾的亏虚，即下虚”，故“以肝肾阴虚为根本，窍闭神匿、神不导气为病机关键”，病位在脑。据此立“醒脑开窍”，以开窍启闭、改善“元神之府”为主，“取穴以阴经穴为主，重在手法操作”。",
+      "en": "One unified reading of mechanism: stroke is \"excess above\", closure of the brain orifices, whose cause is always deficiency of liver and kidney, \"deficiency below\"; \"liver-kidney yin deficiency is the root, orifices closed and spirit hidden, spirit failing to guide qi is the key\", located in the brain. Hence Xingnao Kaiqiao: open the orifices, restore the \"palace of the original spirit\", points mainly on yin channels, weight on manipulation.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "脑卒中的主方是固定的三穴加肢体穴，操作靠量学：先针内关(捻转提插复式手法1min)，再人中雀啄至眼球湿润，三阴交、极泉、尺泽、委中提插泻法使患肢抽动3次。计入264例神经科医案：内关、水沟、三阴交同用者脑卒中/中风132例中125例；治则写有“醒脑开”者128例，写有疏通经络者103例、滋补肝肾者98例。",
+      "en": "The stroke formula is fixed: three core points plus limb points, delivered by quantified manipulation: Neiguan first (twirling-lifting compound, 1 min), then Renzhong with sparrow-pecking until the eyes moisten, then Sanyinjiao, Jiquan, Chize, Weizhong with lifting-thrusting reducing until the limb twitches three times. Among the 264 neurology cases, Neiguan + Shuigou + Sanyinjiao are used together in 125 of the 132 stroke cases; the stated principle contains \"Xingnao (Kaiqiao)\" in 128, unblocking channels in 103, nourishing liver and kidney in 98.",
+      "cite": [
+        "E4",
+        "E5"
+      ]
+    },
+    {
+      "zh": "中风按分期分症换方：先兆调神通络；中经络醒脑开窍、疏通经络；中脏腑闭证开窍启闭，十宣三棱针点刺挤压出血(每穴1~2ml)，加风府；脱证回阳固脱，气海、关元、神阙用雷火针或隔盐、姜、附子饼灸，持续4~8小时“不以壮数为限”，并针气舍持续运针，直至呼吸均匀。后遗症则按症取穴：口眼歪斜刺络拔罐，失语金津、玉液放血，肩痛刺络拔罐，足内翻、便秘、尿闭各有配方。",
+      "en": "Stroke changes formula by stage and symptom: premonitory, regulate the spirit and free the network; channel involvement, Xingnao Kaiqiao plus unblocking channels; closed pattern of visceral involvement, open the orifices, ten Xuan pricked and squeezed to bleed (1-2 ml each) plus Fengfu; collapse pattern, restore yang and secure the collapse, thunder-fire needle or salt-, ginger-, aconite-cake moxa on Qihai, Guanyuan, Shenque for 4-8 hours \"not limited by cone count\", and continuous needling of Qishe until breathing is even. Sequelae go by symptom: bell-mouth cupping after bleeding for facial deviation, Jinjin and Yuye bleeding for aphasia, and separate formulas for shoulder pain, foot inversion, constipation, urinary retention.",
+      "cite": [
+        "E6",
+        "E25",
+        "E7",
+        "E8"
+      ]
+    },
+    {
+      "zh": "醒脑开窍不止用于中风：吞咽困难(延髓麻痹)的病机概括为“窍闭神匿，神不导气，关窍痹阻”，立“醒脑导气，通关利窍”，加经筋透刺；眩晕取内关、人中“调其神”并以风池、完骨、天柱补益脑髓；痴呆治则为醒脑开窍、滋补肝肾、填精补髓；舞蹈病“以内关、人中作为主穴”；厥证以“经气逆乱、窍闭神匿”为病机，也是醒脑开窍。头痛(情志诱发者)也“重用内关、人中理气调神”。这些病共同的抓手是内关、人中：神经科264例中内关165例、水沟156例；见表二。",
+      "en": "Xingnao Kaiqiao is not for stroke alone. Dysphagia (bulbar palsy) is summed up as \"orifices closed, spirit hidden, spirit failing to guide qi, gateways obstructed\" with \"awaken the brain, guide qi, open the gateways\", plus sinew penetrating needling; vertigo uses Neiguan and Renzhong to \"regulate the spirit\" and Fengchi, Wangu, Tianzhu to replenish the brain; dementia is aimed at awakening the brain, nourishing liver and kidney, filling essence; chorea \"takes Neiguan and Renzhong as main points\"; syncope is \"qi of the channels in disorder, orifices closed, spirit hidden\", again Xingnao Kaiqiao. Headache of emotional onset likewise \"relies on Neiguan and Renzhong to regulate qi and spirit\". Common handle: Neiguan (165 of 264 cases) and Shuigou (156); see table 2.",
+      "cite": [
+        "E9",
+        "E10",
+        "E11",
+        "E23",
+        "E24",
+        "E26"
+      ]
+    },
+    {
+      "zh": "风池、完骨、天柱是“补益脑髓”的特征三穴，用“小幅度高频率捻转补法，每穴施术1min”；在神经科264例中风池167例、完骨100例、天柱67例。眩晕(后循环缺血)以此三穴为主，痴呆亦然。",
+      "en": "Fengchi, Wangu, Tianzhu are the characteristic trio \"replenishing brain marrow\", needled with small-amplitude high-frequency twirling tonification, 1 min each; in the 264 neurology cases Fengchi appears in 167, Wangu 100, Tianzhu 67. Vertigo from posterior-circulation ischaemia is treated chiefly with them, dementia likewise.",
+      "cite": [
+        "E13",
+        "E12"
+      ]
+    },
+    {
+      "zh": "周围性和局部性神经病不套醒脑开窍：面瘫“系属经筋发病”，三阳经筋受阻是关键，用面部经筋透刺、排刺加刺络拔罐(“血出邪尽、血气复行”)，12例面瘫医案中9例治则写“通调经筋”；三叉神经痛活血化瘀、通络止痛，下关透颊车“一针三穴”，疼痛甚才加内关、人中；痿证按“虚则补之、实则泻之”，急性期湿热为“邪实”以泻，后遗症期肝肾精血亏虚以补；帕金森病立“培元固本，宁神定颤”，取关元、中脘、天枢及八脉交会穴，另加头针顶前斜线。",
+      "en": "Peripheral and local nerve disease does not get Xingnao Kaiqiao by default. Facial palsy \"belongs to sinew disease\", blockage of the three yang sinews being key: penetrating and row needling of the facial sinews plus bloodletting-cupping (\"blood out, evil out, qi and blood move again\"); in 9 of 12 facial-palsy cases the principle reads \"regulate the sinews\". Trigeminal neuralgia: activate blood, unblock the network, Xiaguan through to Jiache as \"one needle, three points\", Neiguan and Renzhong only when pain is severe. Atrophy-flaccidity follows \"tonify deficiency, reduce excess\": acute damp-heat as excess is reduced, sequelae with liver-kidney essence-blood deficiency tonified. Parkinson disease has its own \"reinforce the root, calm the spirit, stop tremor\": Guanyuan, Zhongwan, Tianshu and the eight confluent points, plus scalp anterior parietal oblique line.",
+      "cite": [
+        "E14",
+        "E15",
+        "E16",
+        "E17",
+        "E18"
+      ]
+    },
+    {
+      "zh": "预后随部位与病因而定，并随病写实：脑卒中看梗死范围、出血量与是否在脑干；面瘫看肌电图变性反应(2周内无变性反应可完全恢复，半年仍完全变性者难全愈)；痴呆“认知功能衰退不可逆”，针刺只是“有一定的改善”；癫痫强调早期治疗，日久难愈；三叉神经痛易在春冬复发，针刺重在缓痛减次。",
+      "en": "Prognosis follows site and cause and is stated per disease: stroke by infarct size, bleed volume and brainstem site; facial palsy by electromyographic denervation (no denervation within 2 weeks: full recovery; still complete denervation at 6 months: unlikely to recover fully); dementia: cognitive decline irreversible, acupuncture only \"a degree of improvement\"; epilepsy: early treatment matters, long-standing is hard to cure; trigeminal neuralgia recurs in spring and winter, needling aims at less pain and fewer attacks.",
+      "cite": [
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E27"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "神经系统疾病：病 → 治则 → 要穴 → 手法/技术 → 预后",
+        "en": "Neurology: disease → principle → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "治则",
+          "en": "Principle"
+        },
+        {
+          "zh": "要穴",
+          "en": "Key points"
+        },
+        {
+          "zh": "手法与技术",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后备注",
+          "en": "Prognosis note"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "脑卒中",
+            "en": "Stroke"
+          },
+          {
+            "zh": "中经络与后遗症：醒脑开窍、疏通经络；闭证：开窍启闭；脱证：回阳固脱、醒神开窍；先兆：调神通络",
+            "en": "Channel/sequelae: awaken brain, open orifices, unblock channels; closed: open orifices; collapse: restore yang, secure collapse; premonitory: regulate spirit, free network"
+          },
+          "内关、人中、三阴交为主，加极泉、尺泽、委中、风池、完骨、天柱；闭证十宣、风府；脱证气海、关元、神阙、气舍",
+          {
+            "zh": "内关捻转提插1min→人中雀啄至眼球湿润→患肢抽动3次；十宣出血；脱证灸4~8小时；后遗症刺络拔罐、金津玉液放血",
+            "en": "Neiguan 1 min, Renzhong pecking until eyes moisten, limb twitches ×3; ten Xuan bled; collapse moxa 4-8 h; sequelae cupping, Jinjin/Yuye bleeding"
+          },
+          {
+            "zh": "看梗死面积、出血量、脑干部位",
+            "en": "By infarct size, bleed volume, brainstem site"
+          }
+        ],
+        [
+          {
+            "zh": "吞咽困难",
+            "en": "Dysphagia"
+          },
+          {
+            "zh": "醒脑开窍，通关利窍，疏理经筋",
+            "en": "Awaken brain, open gateways, regulate sinews"
+          },
+          "内关、人中、三阴交、风池、完骨、廉泉、金津、玉液、咽后壁点刺",
+          {
+            "zh": "口轮匝肌、颊肌经筋透刺排刺(太阳透地仓等)",
+            "en": "Sinew penetrating and row needling of orbicularis oris and cheek"
+          },
+          {
+            "zh": "假性延髓麻痹可完全恢复，真性部分恢复",
+            "en": "Pseudobulbar can recover fully; true bulbar in part"
+          }
+        ],
+        [
+          {
+            "zh": "头痛",
+            "en": "Headache"
+          },
+          {
+            "zh": "醒神开窍、滋阴潜阳、通络止痛；偏头痛疏调少阳",
+            "en": "Awaken spirit, nourish yin and subdue yang, unblock and stop pain; migraine regulates shaoyang"
+          },
+          "内关、人中、印堂、上星透百会、太阳、风池、完骨、三阴交、合谷、太冲",
+          {
+            "zh": "太阳穴刺络拔罐；上星透百会",
+            "en": "Bleeding-cupping at Taiyang; Shangxing through to Baihui"
+          },
+          {
+            "zh": "偏头痛一般良好，易反复",
+            "en": "Migraine generally good, relapses"
+          }
+        ],
+        [
+          {
+            "zh": "眩晕",
+            "en": "Vertigo"
+          },
+          {
+            "zh": "通络明目；后循环缺血责之肝肾亏虚、髓海不足",
+            "en": "Unblock the network, brighten the eyes; posterior circulation ischaemia from liver-kidney deficiency, empty marrow sea"
+          },
+          "风池、完骨、天柱(加内关、人中)；晴明、四白；肝阳上亢加太冲、行间",
+          {
+            "zh": "小幅度高频率捻转补法，每穴1min",
+            "en": "Small-amplitude high-frequency twirling tonification, 1 min each"
+          },
+          {
+            "zh": "与缺血部位、面积相关",
+            "en": "Depends on site and area of ischaemia"
+          }
+        ],
+        [
+          {
+            "zh": "痴与呆",
+            "en": "Dementia"
+          },
+          {
+            "zh": "醒脑开窍，滋补肝肾，填精补髓，活血散瘀",
+            "en": "Awaken brain, nourish liver-kidney, fill essence and marrow, dissolve stasis"
+          },
+          "人中、内关、三阴交、风池、百会、四神聪、太冲、丰隆",
+          {
+            "zh": "捻转补法、人中雀啄",
+            "en": "Twirling tonification; Renzhong pecking"
+          },
+          {
+            "zh": "认知衰退不可逆，针刺有一定改善",
+            "en": "Decline irreversible, some improvement"
+          }
+        ],
+        [
+          {
+            "zh": "癫痫",
+            "en": "Epilepsy"
+          },
+          {
+            "zh": "发作期重症开窍定痫、轻症安神息风；缓解期分肝火痰热、脾胃虚弱、肝肾阴虚三型",
+            "en": "Attack: severe open orifices and stop epilepsy, mild calm spirit and quell wind; remission: three types"
+          },
+          "重症：内关、人中、风府、大椎、后溪、申脉；长强、鸠尾、阳陵泉、筋缩",
+          {
+            "zh": "头维透率谷、百会透强间；另用头针、穴位埋线、挑治、耳针",
+            "en": "Touwei through Shuaigu, Baihui through Qiangjian; scalp, catgut embedding, pricking, auricular"
+          },
+          {
+            "zh": "早期治疗预后好，日久难愈",
+            "en": "Early treatment good; long-standing hard to cure"
+          }
+        ],
+        [
+          {
+            "zh": "舞蹈病(瘛疭)",
+            "en": "Chorea (chi-zong)"
+          },
+          {
+            "zh": "醒神抑志、平肝息风、化痰开窍",
+            "en": "Awaken spirit and restrain will, calm liver and quell wind, transform phlegm and open orifices"
+          },
+          "水沟、百会、大椎、神门、肝俞、风池、合谷、太冲；久病心脾两虚加脾俞、心俞、内关、足三里",
+          {
+            "zh": "小儿抽动症配合心理疏导",
+            "en": "Psychological guidance added for childhood tic"
+          },
+          {
+            "zh": "针刺治疗较好的适应证之一",
+            "en": "One of the better indications"
+          }
+        ],
+        [
+          {
+            "zh": "帕金森病",
+            "en": "Parkinson disease"
+          },
+          {
+            "zh": "培元固本，宁神定颤",
+            "en": "Reinforce the root, calm the spirit, stop tremor"
+          },
+          "关元、中脘、天枢、列缺、照海、后溪、申脉、百会",
+          {
+            "zh": "头针顶前斜线；百会可加电针",
+            "en": "Scalp anterior parietal oblique line; electro-acupuncture at Baihui"
+          },
+          {
+            "zh": "不能治愈；针灸可在一定程度控制进展",
+            "en": "Not curable; acupuncture may limit progression"
+          }
+        ],
+        [
+          {
+            "zh": "面神经麻痹",
+            "en": "Facial palsy"
+          },
+          {
+            "zh": "活血祛风、疏理经筋",
+            "en": "Activate blood, dispel wind, regulate sinews"
+          },
+          "风池、完骨、下关、迎香、睛明、丝竹空、合谷；久病加太冲",
+          {
+            "zh": "面部经筋透刺排刺(阳白四透等)加刺络拔罐",
+            "en": "Facial sinew penetrating and row needling plus bleeding-cupping"
+          },
+          {
+            "zh": "良好；看肌电图变性反应",
+            "en": "Good; by EMG denervation"
+          }
+        ],
+        [
+          {
+            "zh": "三叉神经痛",
+            "en": "Trigeminal neuralgia"
+          },
+          {
+            "zh": "活血化瘀、通络止痛",
+            "en": "Activate blood, resolve stasis, unblock network, stop pain"
+          },
+          "下关、太阳、四白、风池；分支加攒竹、颧髎、颊车、迎香；痛甚加内关、人中",
+          {
+            "zh": "下关透颊车；刺络拔罐；电针",
+            "en": "Xiaguan through Jiache; bleeding-cupping; electro-acupuncture"
+          },
+          {
+            "zh": "易复发，针刺减轻程度与次数",
+            "en": "Relapses; needling lessens severity and frequency"
+          }
+        ],
+        [
+          {
+            "zh": "痿证",
+            "en": "Atrophy-flaccidity"
+          },
+          {
+            "zh": "益气养血、荣润筋脉；急性期清热利湿",
+            "en": "Boost qi, nourish blood, moisten sinews; acute stage clear heat, drain damp"
+          },
+          "华佗夹脊、阳明经排刺(上肢肩髃至合谷，下肢髀关至解溪)；二便障碍加关元、中极",
+          {
+            "zh": "梅花针、耳针",
+            "en": "Plum-blossom needle, auricular"
+          },
+          {
+            "zh": "无严重并发症多3~6个月基本恢复",
+            "en": "Mostly recover in 3-6 months without severe complication"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "神经科264例医案(脑卒中/中风132例，其他132例)中的用法计数",
+        "en": "Counts across 264 neurology cases (132 stroke, 132 other)"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "脑卒中(132)",
+          "en": "Stroke (132)"
+        },
+        {
+          "zh": "其他神经病(132)",
+          "en": "Other (132)"
+        }
+      ],
+      "rows": [
+        [
+          "治则含“醒脑开”",
+          "128",
+          "18"
+        ],
+        [
+          "治则含疏通经络/疏经通络",
+          "103",
+          "26"
+        ],
+        [
+          "治则含滋补肝肾/补益肝肾",
+          "98",
+          "15"
+        ],
+        [
+          "内关+水沟同用",
+          "128",
+          "27"
+        ],
+        [
+          "内关+水沟+三阴交同用",
+          "125",
+          "17"
+        ],
+        [
+          "用风池",
+          "95",
+          "72"
+        ],
+        [
+          "用完骨或天柱",
+          "78",
+          "24"
+        ],
+        [
+          "刺金津或玉液",
+          "34",
+          "4"
+        ],
+        [
+          "写有刺络/放血/点刺/三棱针",
+          "15",
+          "26"
+        ],
+        [
+          "拔罐",
+          "7",
+          "21"
+        ],
+        [
+          "灸",
+          "15",
+          "13"
+        ],
+        [
+          "透刺",
+          "14",
+          "22"
+        ],
+        [
+          "雀啄",
+          "40",
+          "21"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "以肝肾阴虚为根本，窍闭神匿、神不导气为病机关键",
+      "src": "石学敏针灸全集·治疗各论·脑卒中 p.420"
+    },
+    {
+      "id": "E2",
+      "quote": "中风乃“上实”，即脑窍闭塞，其因皆为肝肾的亏虚，即“下虚”",
+      "src": "石学敏实用针灸学·第五节 醒脑开窍法 p.286"
+    },
+    {
+      "id": "E3",
+      "quote": "在取穴上以阴经穴为主，重在手法操作",
+      "src": "石学敏针灸全集·治疗各论·脑卒中 p.424"
+    },
+    {
+      "id": "E4",
+      "quote": "先刺双侧内关，直刺0.5~1寸，施捻转提插的复式手法，施术1min",
+      "src": "石学敏针灸全集·治疗各论·脑卒中 p.422"
+    },
+    {
+      "id": "E5",
+      "quote": "人中向鼻中隔下斜刺0.3寸，施雀啄手法，以眼球湿润或充满泪水为度",
+      "src": "石学敏针灸全集·治疗各论·脑卒中 p.422"
+    },
+    {
+      "id": "E6",
+      "quote": "（3）中脏腑（闭证）：内关、人中、十宣、风府",
+      "src": "石学敏针灸全集·治疗各论·脑卒中 p.422"
+    },
+    {
+      "id": "E7",
+      "quote": "不以壮数为限",
+      "src": "石学敏针灸全集·治疗各论·脑卒中 p.423"
+    },
+    {
+      "id": "E8",
+      "quote": "待其恢复自主呼吸，而呼吸较弱，且有间歇时，继续运针，直至呼吸均匀",
+      "src": "石学敏针灸全集·治疗各论·脑卒中 p.423"
+    },
+    {
+      "id": "E9",
+      "quote": "制订了“醒脑导气，通关利窍”之法",
+      "src": "石学敏针灸全集·治疗各论·吞咽困难 p.737"
+    },
+    {
+      "id": "E10",
+      "quote": "石学敏院士取内关、人中起醒神开的作用",
+      "src": "石学敏针灸全集·治疗各论·眩晕 p.434"
+    },
+    {
+      "id": "E11",
+      "quote": "醒脑开窍，滋补肝肾，填精补髓，活血散瘀",
+      "src": "石学敏针灸全集·治疗各论·痴与呆 p.443"
+    },
+    {
+      "id": "E12",
+      "quote": "取穴风池、完骨、天柱有补益脑髓之功；人中、内关有醒神开窍之功",
+      "src": "石学敏针灸全集·治疗各论·痴与呆 p.442"
+    },
+    {
+      "id": "E13",
+      "quote": "采用小幅度高频率捻转补法，每穴施术1min",
+      "src": "石学敏针灸全集·治疗各论·眩晕 p.434"
+    },
+    {
+      "id": "E14",
+      "quote": "石学敏院士认为：面瘫系属经筋发病",
+      "src": "石学敏针灸全集·治疗各论·面神经麻痹 p.454"
+    },
+    {
+      "id": "E15",
+      "quote": "令血出邪尽、血气复行",
+      "src": "石学敏针灸全集·治疗各论·面神经麻痹 p.454"
+    },
+    {
+      "id": "E16",
+      "quote": "太阳经过下关透向颊车，一针三穴可直达病所",
+      "src": "石学敏针灸全集·治疗各论·三叉神经痛 p.456"
+    },
+    {
+      "id": "E17",
+      "quote": "根据“虚则补之”、“实则泻之”的治疗大法",
+      "src": "石学敏针灸全集·治疗各论·痿证 p.458"
+    },
+    {
+      "id": "E18",
+      "quote": "石学敏院士在汲取传统的治疗方法上提出培元固本、宁神定颤的治疗原则",
+      "src": "石学敏针灸全集·治疗各论·帕金森病 p.452"
+    },
+    {
+      "id": "E19",
+      "quote": "梗死面积大、出血量多或病变位于脑干部位多预后差",
+      "src": "石学敏针灸全集·治疗各论·脑卒中 p.424"
+    },
+    {
+      "id": "E20",
+      "quote": "发病半年仍呈完全性变性反应者，极可能无法完全恢复",
+      "src": "石学敏针灸全集·治疗各论·面神经麻痹 p.454"
+    },
+    {
+      "id": "E21",
+      "quote": "该病为持续进行性发展，认知功能衰退不可逆",
+      "src": "石学敏针灸全集·治疗各论·痴与呆 p.442"
+    },
+    {
+      "id": "E22",
+      "quote": "早期治疗是很主要的",
+      "src": "石学敏实用针灸学·痫证 p.426"
+    },
+    {
+      "id": "E23",
+      "quote": "以内关、人中作为主穴，取得了很好的效果",
+      "src": "石学敏针灸全集·治疗各论·舞蹈病 p.449"
+    },
+    {
+      "id": "E24",
+      "quote": "经气逆乱，窍闭神匿为厥证的基本病机",
+      "src": "石学敏实用针灸学·厥证 p.325"
+    },
+    {
+      "id": "E25",
+      "quote": "每穴出血量1~2ml",
+      "src": "石学敏针灸全集·治疗各论·脑卒中 p.422"
+    },
+    {
+      "id": "E26",
+      "quote": "该病多因情志因素而诱发，故拟调神理气、通络止痛之法，重用内关、人中理气调神",
+      "src": "石学敏针灸全集·治疗各论·头痛 p.432"
+    },
+    {
+      "id": "E27",
+      "quote": "原发性三叉神经痛易在春季和冬季复发，很少有自愈者",
+      "src": "石学敏针灸全集·治疗各论·三叉神经痛 p.456"
+    }
+  ],
+  "caveats": {
+    "zh": "两本书对同一病的编排不同：实用针灸学把一氧化碳中毒后遗症写在“痉证”名下、把舞蹈病写作“瘛疭”，本指南按其正文内容对应，不以标题为准。全集把舞蹈病与帕金森病并在一条处方里，“培元固本，宁神定颤”一组配方按原文属帕金森病。“醒脑开窍”的疗效机理(血流动力学、自由基等)属院士团队的研究陈述，本指南不引作古法依据。",
+    "en": "The two books arrange some diseases differently: the practical text files CO-poisoning sequelae under \"convulsion\" and calls chorea \"chi-zong\"; this guide follows the body text rather than the heading. The complete collection merges chorea and Parkinson disease into one entry, and the \"reinforce the root, calm the spirit\" formula belongs to Parkinson disease per the text. Mechanistic claims for Xingnao Kaiqiao (haemodynamics, free radicals) are research statements of his team, not cited here as classical basis."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-001",
+      "sxm-rx-002",
+      "sxm-rx-003",
+      "sxm-rx-004",
+      "sxm-rx-006",
+      "sxm-rx-007",
+      "sxm-rx-008",
+      "sxm-rx-009",
+      "sxm-rx-010",
+      "sxm-rx-011",
+      "sxm-rx-128"
+    ],
+    "cases": [
+      "sxm-001",
+      "sxm-132",
+      "sxm-147",
+      "sxm-165",
+      "sxm-174",
+      "sxm-212"
+    ],
+    "points": [
+      "内关",
+      "水沟",
+      "三阴交",
+      "风池",
+      "极泉",
+      "尺泽",
+      "委中",
+      "完骨",
+      "天柱",
+      "合谷",
+      "太冲"
+    ]
+  }
+}

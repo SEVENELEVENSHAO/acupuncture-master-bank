@@ -1,0 +1,385 @@
+{
+  "id": "wjy-01-overview",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "总纲",
+    "en": "Overview"
+  },
+  "order": 1,
+  "title": {
+    "zh": "经络医学体系总览：察经—辨经—选经—选穴—手法，并回到经典经络理论",
+    "en": "The Channel-Medicine System at a Glance: Examine, Differentiate, Choose Channels, Choose Points, Technique, and a Return to Classical Channel Theory"
+  },
+  "summary": {
+    "zh": "王居易把针灸治疗建成一条以经络为核心贯穿始终的链：经络穴结构、经络气化、经络诊察、症候结构、辨经选经、选穴应用、手法探源。关键是临床思维方法；他主张针灸理论必须“认祖归宗”，回到《内经》经络理论，而不是靠移植现代理论或堆“经验穴”。",
+    "en": "Wang Juyi builds acupuncture treatment as one chain run through by the channels: channel/point structure, channel qi-transformation, channel examination, symptom-complex structure, channel differentiation and selection, point application, and the source of technique. The key is clinical thinking; he holds that acupuncture theory must return to the classical channel theory of the Neijing, not to transplanted modern theory or piles of \"experience points\"."
+  },
+  "takeaways": [
+    {
+      "zh": "经络与穴的结构是核心：他认为经络存在于各组织器官的缝隙中，内含气血等精微物质，形成压力、势位，在皮、脉、肉、筋、骨间成渗透的网状结构；穴依附经络，也在皮脉肉筋骨的缝隙里，缝隙宽窄、深浅、大小不同，所以《内经》用井荥输经合、溪沟池海来形容和命名穴。",
+      "en": "Structure comes first: channels lie in the gaps between tissues and organs and carry qi, blood and other fine substances, forming pressure and potential and a permeable network among skin, vessel, flesh, sinew and bone; points depend on channels and sit in the same gaps, and because the gaps differ in width, depth and size the Neijing describes points by jing-ying-shu-jing-he and names them stream, ditch, pool, sea.",
+      "cite": [
+        "C1",
+        "C2",
+        "C3"
+      ]
+    },
+    {
+      "zh": "整个体系是一条链，而不是一堆穴方：理论上含经络穴结构、经络气化、经络诊察、症候结构、辨经选经、选穴应用、手法探源七块；治疗上是察经→辨经→选经→选穴→针灸操作一体，以经络贯穿始终，关键在临床思维方法。他说这套辨经论治思想也适用于任何有调整经络作用的治疗方法；而诊察经络是选穴施术前必须做的步骤。",
+      "en": "The whole is a chain, not a heap of point formulas: seven theoretical blocks (channel/point structure, qi-transformation, examination, symptom-complex structure, differentiation and selection of channels, point application, source of technique) and one therapeutic sequence, examine → differentiate → choose channel → choose points → needle/moxa operation, with the channels running through it all and clinical thinking as the key. He adds that this channel-based reasoning fits any treatment that adjusts the channels, and that examining the channels is a step that must precede point selection and needling.",
+      "cite": [
+        "C4",
+        "C5",
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "zh": "“症候结构”是他自己的概念，不等于中医的“证”：把患者与医者能感觉到的各种症状分析整合，找出内在联系和影响因素，成为相对稳定的结构；它是诊病的关键环节，直接关系到下一步准确辨经、选经。",
+      "en": "\"Symptom-complex structure\" is his own concept and is not the same as TCM zheng: the symptoms felt by patient or noticed by physician are analysed and integrated to find their internal links and influencing factors, forming a relatively stable structure; it is the key link in diagnosis and bears directly on accurate channel differentiation and selection.",
+      "cite": [
+        "C8",
+        "C9"
+      ]
+    },
+    {
+      "zh": "察经发现的异常经脉不一定就是当下病症的经络：经络有记忆功能，旧病症状消失后仍可留下印记；经络也灵敏，气血失衡时症状未现经络已先有反应。所以察经之后必须把异常经络与临床症候对接，按经络气化和病候理论辨别标本传变、虚实缓急，才进入选经。",
+      "en": "An abnormal channel found on examination need not be the channel of the present complaint: channels remember past illness, leaving a trace after symptoms vanish, and they react sensitively, showing changes before symptoms appear. So after examination the abnormal channels must be matched with the clinical symptoms and differentiated by qi-transformation and channel-disease theory (root/branch, deficiency/excess, urgency) before channels are chosen.",
+      "cite": [
+        "C10",
+        "C11"
+      ]
+    },
+    {
+      "zh": "穴位置会变，所以“循摸”是他强调的重中之重：每个穴虽有标准定位，但骨骼肌肉发育和生理病理状态不同，穴位会变动；针每一个穴之前都必须仔细循摸，才能定位到真正的穴。选穴精少，但要求准确，并对得气要求很高。",
+      "en": "Points move, so palpating for the point is his top priority: each has a standard location, but skeletal and muscular development and physiological or pathological state shift it; before needling every point one must palpate carefully to find the true one. He selects few points, but they must be exact and he demands strong de-qi.",
+      "cite": [
+        "C12"
+      ]
+    },
+    {
+      "zh": "手法也要“探源”：他把《史记》里俞跗“割皮解肌，决脉结筋”的描述看作古代手法的记载，在临床中整理出割皮法、操法、结筋法、解肌法、决脉法；他的责任观是把这一理论方法“破解、验证、应用”。",
+      "en": "Technique is also traced to its source: he reads the Shiji account of Yu Fu, \"cut skin, loosen muscle, open vessels, bind sinews\", as a record of ancient manual methods and has worked out from it the skin-cutting, manipulation (cao), sinew-binding, muscle-loosening and vessel-opening methods, holding it our duty to decode, test and apply them.",
+      "cite": [
+        "C13"
+      ]
+    },
+    {
+      "zh": "针灸理论要“认祖归宗”：自序说，一百多年来许多学者移植现代西医与科学理论来替代经络医学，他自己也研究过经络电阻、闸门学说、所谓奇穴新穴等，最后仍是从经典经络理论里读到针灸的内核；古今医案又太简要，只记“什么症用哪些穴”，只留下大量“经验穴”“特效穴”。",
+      "en": "Theory must \"return to the ancestors\": the preface says that for a century many scholars transplanted modern medicine and science to replace channel theory; he studied meridian resistance, gate theory, so-called new and extra points himself, yet found the core of acupuncture in the classical channel theory; and old case records are too brief, listing \"which points for which illness\", leaving mostly \"experience points\" and \"special-effect points\".",
+      "cite": [
+        "C14",
+        "C15",
+        "C16"
+      ]
+    },
+    {
+      "zh": "他不盲从权威，不追求“秘方”“绝招”：头痛医案的按语说，头痛不可能用单一方药或一组穴“全包”，这样的说法违反中医理论，选经选穴只能随经络诊察与症候结构而变。",
+      "en": "He follows no authority blindly and chases no \"secret formula\" or \"trick\": in the headache commentary he says headache cannot be covered by one prescription or one point group, and that claims of such \"special points\" contradict TCM theory; channels and points must follow examination and symptom-complex structure.",
+      "cite": [
+        "C17",
+        "C18"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "体系七块：他在书中各自怎么说",
+        "en": "The seven blocks of the system and what the book says of each"
+      },
+      "cols": [
+        {
+          "zh": "环节",
+          "en": "Block"
+        },
+        {
+          "zh": "原书所述要点",
+          "en": "What the text says"
+        },
+        {
+          "zh": "本库对应导读",
+          "en": "Guide in this bank"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "经络穴结构",
+            "en": "Channel/point structure"
+          },
+          {
+            "zh": "经络存在于组织缝隙，含气血，形成压力势位；穴在皮脉肉筋骨的缝隙中，缝隙宽窄深浅不同",
+            "en": "Channels lie in tissue gaps, hold qi and blood, form pressure and potential; points lie in gaps of skin/vessel/flesh/sinew/bone that differ in width and depth"
+          },
+          "wjy-05"
+        ],
+        [
+          {
+            "zh": "经络气化",
+            "en": "Channel qi-transformation"
+          },
+          {
+            "zh": "如三阴三阳的“开”“阖”“枢”：手足太阴在三阴主“开”，即宣发；厥阴主阖；书中用它解释为何取某经",
+            "en": "e.g. the \"open/close/pivot\" of the three yin and three yang: the two taiyin channels \"open\" (disperse), jueyin \"closes\"; the book uses this to explain why a channel is chosen"
+          },
+          "wjy-04"
+        ],
+        [
+          {
+            "zh": "经络诊察",
+            "en": "Channel examination"
+          },
+          {
+            "zh": "审、切、循、扪、按；规范了望诊范围、切诊路线、体位与手法，总结各经各穴常见异常",
+            "en": "Inspect, press, trace, palpate, push; standardised the inspection field, palpation routes, patient posture and hand method, and the usual abnormalities of each channel and point"
+          },
+          "wjy-03"
+        ],
+        [
+          {
+            "zh": "症候结构",
+            "en": "Symptom-complex structure"
+          },
+          {
+            "zh": "主症＋相关症候＋舌脉，分析整合成相对稳定的结构；有别于“证”",
+            "en": "Chief complaint + linked symptoms + tongue and pulse, analysed into a fairly stable structure; distinct from zheng"
+          },
+          "wjy-02"
+        ],
+        [
+          {
+            "zh": "辨经选经",
+            "en": "Differentiate and choose channels"
+          },
+          {
+            "zh": "把症候结构与异常经脉对接；选经用本经、同名经、表里经、相生相克经、奇经八脉",
+            "en": "Match symptom structure to abnormal channels; choose by own channel, same-name, exterior-interior, generating/controlling, or extraordinary vessels"
+          },
+          "wjy-04"
+        ],
+        [
+          {
+            "zh": "选穴应用",
+            "en": "Point application"
+          },
+          {
+            "zh": "“少而精”，以特定穴为主；循摸准确才进针；每针要有感传",
+            "en": "\"Few and refined\", mainly specific points; needle only after exact palpation; every needle should carry a propagated sensation"
+          },
+          "wjy-05"
+        ],
+        [
+          {
+            "zh": "手法探源",
+            "en": "Source of technique"
+          },
+          {
+            "zh": "从俞跗“割皮解肌，决脉结筋”整理出割皮、操、结筋、解肌、决脉；另有搓针、放血、灸等",
+            "en": "Skin-cutting, cao, sinew-binding, muscle-loosening and vessel-opening drawn from Yu Fu; plus rubbing-needle, bleeding and moxa"
+          },
+          "wjy-06"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "他批评的做法与他的替代",
+        "en": "What he criticises and what he puts in its place"
+      },
+      "cols": [
+        {
+          "zh": "被批评的做法",
+          "en": "Criticised practice"
+        },
+        {
+          "zh": "他的说法",
+          "en": "His statement"
+        },
+        {
+          "zh": "取而代之",
+          "en": "Replacement"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "只记部位、主治、操作，或求“秘传”“特效”",
+            "en": "Learning only point site, indication, technique, or seeking \"secret\" or \"special-effect\" points"
+          },
+          {
+            "zh": "自序：理论缺失使针灸学术发展受影响",
+            "en": "Preface: the long absence of theory has held acupuncture back"
+          },
+          {
+            "zh": "学经络医学，用经典经络理论指导临床",
+            "en": "Learn channel medicine and let classical channel theory guide practice"
+          }
+        ],
+        [
+          {
+            "zh": "移植现代医学/科学理论解释针灸机理",
+            "en": "Transplanting modern medical or scientific theory to explain acupuncture"
+          },
+          {
+            "zh": "自序：找到些“干爹干妈”，终因缺少血缘而分手",
+            "en": "Preface: found \"adoptive parents\" but, lacking blood ties, parted"
+          },
+          {
+            "zh": "“认祖归宗”，从经典解读经络本质",
+            "en": "\"Return to ancestry\": read the nature of channels from the classics"
+          }
+        ],
+        [
+          {
+            "zh": "医案只记什么症用什么穴，不讲症候结构与选穴依据",
+            "en": "Case records that give only symptom-and-points, without structure or rationale"
+          },
+          {
+            "zh": "自序：后人难以掌握，只留下“经验穴”",
+            "en": "Preface: later physicians cannot use them; only \"experience points\" remain"
+          },
+          {
+            "zh": "每案写出察经、辨经、选经、选穴和解读",
+            "en": "Every case here gives examination, differentiation, channel choice, points and commentary"
+          }
+        ],
+        [
+          {
+            "zh": "单一方药/穴组“全包”某病",
+            "en": "One formula or point group \"covering\" a disease"
+          },
+          {
+            "zh": "头痛按语：违反中医理论",
+            "en": "Headache commentary: contrary to TCM theory"
+          },
+          {
+            "zh": "同病异治：随察经与症候结构定选经选穴",
+            "en": "Same disease, different treatments, set by examination and symptom structure"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "经络存在于身体各种组织器官的缝隙中，它内含气血等精微物质",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.001"
+    },
+    {
+      "id": "C2",
+      "quote": "穴也存在于皮、脉、肉、筋、骨的缝隙中",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.001"
+    },
+    {
+      "id": "C3",
+      "quote": "正是由于缝隙有宽窄、浅深、大小的不同",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.001"
+    },
+    {
+      "id": "C4",
+      "quote": "这个体系的理论主要包括：经络穴结构、经络气化、经络诊察、症候结构、辨经选经、选穴应用、手法探源等内容",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.001"
+    },
+    {
+      "id": "C5",
+      "quote": "察经一辨经一选经一选穴一针灸操作为一体的针灸治疗学体系",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.002"
+    },
+    {
+      "id": "C6",
+      "quote": "也适用于任何有调整经络作用的治疗方法与手段，有助于明确疾病的病位病性，指导治疗，提高疗效",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.002"
+    },
+    {
+      "id": "C7",
+      "quote": "对经络进行诊察是针灸选穴施术前必须要进行的步骤",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.002"
+    },
+    {
+      "id": "C8",
+      "quote": "本书中“症候”及“症候结构”有别于中医“证”的概念",
+      "src": "王居易针灸医案讲习录·医案导读 p.001"
+    },
+    {
+      "id": "C9",
+      "quote": "这种思维模式是诊病的关键环节，与下一步准确地辨经、选经密切相关",
+      "src": "王居易针灸医案讲习录·医案导读 p.001"
+    },
+    {
+      "id": "C10",
+      "quote": "经络有记忆既往病症的功能，既往的病症即使症状消失，也可能在经络上留有印记",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.002"
+    },
+    {
+      "id": "C11",
+      "quote": "当人体出现气血失衡时，即使症状还没有出现，在经络上也会有异常反应出现",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.002"
+    },
+    {
+      "id": "C12",
+      "quote": "在针刺每一个穴位前，一定要先进行仔细循摸才能准确定位到真正穴位上",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.003"
+    },
+    {
+      "id": "C13",
+      "quote": "一段文字很可能是在描述各种手法的具体操作",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于上古俞跗特殊治疗手法的讨论 p.193"
+    },
+    {
+      "id": "C14",
+      "quote": "许多学者移植了一些现代西方医学和现代科学的理论来代替经络医学理论",
+      "src": "王居易针灸医案讲习录·自序 p.001"
+    },
+    {
+      "id": "C15",
+      "quote": "寻找针灸学的理论根基，必须认祖归宗，从传统经典理论中解读经络的本质",
+      "src": "王居易针灸医案讲习录·自序 p.002"
+    },
+    {
+      "id": "C16",
+      "quote": "内容太简要，只记录了什么症、什么病用哪些穴和穴组",
+      "src": "王居易针灸医案讲习录·自序 p.002"
+    },
+    {
+      "id": "C17",
+      "quote": "不盲从权威，不追求“秘方”“绝招”",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.003"
+    },
+    {
+      "id": "C18",
+      "quote": "本组医案说明头痛不可能是单一方药，单一穴组就能“全包”治疗的",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    }
+  ],
+  "how_to_use": {
+    "zh": "读王居易的任何一案，先按这条链检查它有没有：主症→症候结构→察经→辨经→选经→选穴→刺灸法→疗效。他的“为什么取这个穴”几乎总是从察经与症候结构而不是从穴的主治里来。具体各环节见 wjy-02（流程）、wjy-03（察经）、wjy-04（选经）、wjy-05（选穴）、wjy-06（手法）。",
+    "en": "Read any Wang Juyi case against this chain: chief complaint → symptom-complex structure → examination → differentiation → channel choice → points → technique → outcome. His \"why this point\" almost always comes from examination and symptom structure rather than from the point's listed indications. Details: wjy-02 (pathway), wjy-03 (examination), wjy-04 (channel choice), wjy-05 (points), wjy-06 (technique)."
+  },
+  "caveats": {
+    "zh": "本库只依据《王居易针灸医案讲习录》(2014)：案例为其2006–2013年的临床病例。经络气化、症候结构等理论在书中只作引用式说明，详细论述留待其另一部专著，这里不补写。",
+    "en": "Sources are limited to the 2014 case-book, whose cases are his own from 2006–2013. Qi-transformation and symptom-complex structure appear there only in brief, with the full treatment deferred to another planned monograph; nothing has been added from elsewhere."
+  },
+  "see": {
+    "cases": [
+      "wjy-002",
+      "wjy-006",
+      "wjy-007",
+      "wjy-029",
+      "wjy-051",
+      "wjy-089",
+      "wjy-113"
+    ],
+    "points": [
+      "后顶",
+      "前顶",
+      "通天",
+      "尺泽",
+      "阴陵泉",
+      "足三里",
+      "照海",
+      "复溜"
+    ]
+  }
+}

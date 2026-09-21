@@ -1,0 +1,419 @@
+{
+  "id": "sxm-01-overview",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "总纲",
+    "en": "Overview"
+  },
+  "order": 1,
+  "title": {
+    "zh": "学术思想总览：以脑府立论、以神为纲，经典新释与手法量学并行",
+    "en": "Overview: The Brain as Seat of Spirit, Shen as the Thread, Classics Reread and Manipulation Quantified"
+  },
+  "summary": {
+    "zh": "石学敏的体系围着“神”展开：中风病位在脑，总病机“窍闭神匿，神不导气”，据此创醒脑开窍针刺法；手法上主张量学，把捻转补泻的方向、力度、时间、间隔定量；又重新解读《灵枢·经脉》“是动”“所生”，并以刺络拔罐、经筋刺法补充。总的立场是继承而不泥古，中西结合，辨病与辨证结合。",
+    "en": "Shi's system is organised around shen (spirit): stroke lies in the brain, its master pathomechanism is \"orifices closed, shen hidden, shen fails to lead qi\", from which Xingnao Kaiqiao was built. Manipulation is quantified (direction, force, duration, interval); the Lingshu \"shi dong / suo sheng\" are reread; bloodletting-cupping and jingjin needling supplement. Stance: inherit without clinging, integrate Chinese and Western medicine, combine disease- and pattern-differentiation."
+  },
+  "takeaways": [
+    {
+      "zh": "立场先于方法：他自述的路线是继承、发展、弘扬传统医学，“中西结合、融西贯中”、针药并用，形神兼备；治学“师古而不泥古”；临床上强调中医辨证与西医辨病结合。后面各条方法都是这条立场的具体化。",
+      "en": "Stance comes before method: he inherits, develops and promotes traditional medicine while integrating Chinese and Western medicine, combining needles with drugs and attending to form and spirit; he \"learns from the ancients without clinging to them\", and joins TCM pattern differentiation with Western disease differentiation. Every method below is a concrete form of this stance.",
+      "cite": [
+        "O1",
+        "O2",
+        "O3"
+      ]
+    },
+    {
+      "zh": "主线是“脑府—神”：他从中风的两大症状（神志障碍、肢体运动障碍）出发，认为病位在脑，根本病机是“窍闭神匿，神不导气”，因而立“醒脑开窍、滋补肝肾为主，疏通经络为辅”的治法，创醒脑开窍针刺法（细节见 sxm-02、sxm-03）。",
+      "en": "The main line is \"brain-shen\": starting from the two cardinal stroke signs (disturbed consciousness, disturbed movement) he places the disease in the brain, names \"orifices closed, shen hidden, shen fails to lead qi\" as the root pathomechanism, and sets the principle \"wake the brain and open the orifices, nourish liver and kidney as principal; free the channels as auxiliary\" (details in sxm-02, sxm-03).",
+      "cite": [
+        "O4"
+      ]
+    },
+    {
+      "zh": "“调神”不止用于中风：他说醒脑开窍法的根本在于调神，所以适用于各种“失神”的病证，书中列出振掉、郁证、痫疾、癫狂、厥证、百合病，以及痹证、痿证、呃逆、胸痹等；治神在他的针灸治疗原则里居首要地位（见 sxm-05、sxm-06）。",
+      "en": "Regulating shen is not limited to stroke: he says the root of Xingnao Kaiqiao is shen regulation, so it fits every \"loss of shen\" disorder, listing tremor, depression, epilepsy, mania, syncope, lily disease and also impediment, flaccidity, hiccup and chest impediment; zhi shen ranks first among his treatment principles (see sxm-05, sxm-06).",
+      "cite": [
+        "O5",
+        "O6"
+      ]
+    },
+    {
+      "zh": "针刺手法要“量学”化：他认为历代补泻手法缺剂量概念，于是率先提出针刺手法量学，为捻转补泻定了新定义和量化操作，把针灸治疗“剂量化、刺激量精确化”（见 sxm-04）。研究方法是“从疑难重症中选题，到临床实践中检验”。",
+      "en": "Manipulation must be quantified: he holds that classical tonifying/reducing lacked a dose concept, so he proposed manipulation dosage theory, gave twirling a new definition with quantified operation, and aimed at \"dosed\", precise stimulation (see sxm-04). His method: pick topics from hard, severe disease and test them in clinical practice.",
+      "cite": [
+        "O7",
+        "O8",
+        "O9"
+      ]
+    },
+    {
+      "zh": "对经典的态度是“重经络辨证，赋经旨以新意”：他把《灵枢·经脉》的“是动”“所生”读成一个广义概念，即经脉及所联属脏腑由生理转为病理的症状、体征、传变与转归的综合记述，并提出“是动病多为实证、急性病，所生病多为里证、虚证”（见 sxm-09）。",
+      "en": "His attitude to the classics is to stress channel-pattern differentiation and give the canon new meaning: he reads \"shi dong\" and \"suo sheng\" as a broad concept, a composite account of symptoms, signs, transmission and outcome as a channel and its linked organs turn from physiology to pathology, and proposes that shi dong is mostly excess and acute, suo sheng mostly interior and deficient (see sxm-09).",
+      "cite": [
+        "O10",
+        "O11"
+      ]
+    },
+    {
+      "zh": "刺络拔罐是他为补足传统“络刺”而设：《内经》要求血色变红为止，单纯刺络难以血尽，故在点刺后加罐，医者可透过玻璃罐直接看出血量，达标即起罐（见 sxm-08）。这与手法量学是同一种思路：把“度”变成可观察的指标。",
+      "en": "Bloodletting-cupping was designed to complete the traditional \"collateral pricking\": the canon asks that bleeding continue until the blood turns red, plain pricking can hardly drain enough, so a cup is added after pricking and the physician sees the blood volume through the glass and removes the cup at target (see sxm-08). It shares the logic of dosage: turn \"enough\" into an observable endpoint.",
+      "cite": [
+        "O12"
+      ]
+    },
+    {
+      "zh": "这些方法被组织成“专科、专病、专家、专方、专药（专技）”的模式；以醒脑开窍针法、手法量学、刺络拔罐等为专技。也就是说，理论—方法—科研—专科在他那里是一个连成一体的体系。",
+      "en": "These methods are organised as specialty, disease, expert, formula and drug/technique; Xingnao Kaiqiao, manipulation dosage and bloodletting-cupping are the signature techniques. Theory, method, research and specialty form one linked system.",
+      "cite": [
+        "O13",
+        "O14"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "这个体系怎样连成一体",
+        "en": "How the system hangs together"
+      },
+      "body": {
+        "zh": "绪言按七个部分介绍他的思想：经络辨证与“是动”“所生”、脑府立论与醒脑开窍、针刺手法量学、针灸抗衰老、刺络疗法、急症医学、疑难病证。其中前三块是理论与技术的骨架：神（脑）决定取穴与治则，量学决定每一针的力度与时间，经络病候提供辨证与预后的“准绳”（前言语）。刺络拔罐、经筋刺法则是对特定病位（络脉瘀阻、面部经筋）的专门技术。抗衰老、急症、疑难病是同一套理论向新领域的推广，本组导读不展开。",
+        "en": "The preface presents his thought in seven parts: channel-pattern differentiation and \"shi dong/suo sheng\", brain-based theory and Xingnao Kaiqiao, manipulation dosage, acupuncture anti-ageing, bloodletting, emergency medicine, and intractable disease. The first three are the skeleton: shen (the brain) governs point choice and treatment principle, dosage governs the force and time of every needle, and channel syndromes supply a yardstick for pattern, point choice and prognosis. Bloodletting-cupping and jingjin needling are dedicated techniques for specific sites (collateral stasis, facial sinew channels). Anti-ageing, emergency and intractable disease extend the same theory and are not covered in this set of guides."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "体系的六条线与对应导读",
+        "en": "Six strands of the system and the guides that cover them"
+      },
+      "cols": [
+        {
+          "zh": "主线",
+          "en": "Strand"
+        },
+        {
+          "zh": "他的核心命题",
+          "en": "Core proposition"
+        },
+        {
+          "zh": "落地方式",
+          "en": "How it is applied"
+        },
+        {
+          "zh": "导读",
+          "en": "Guide"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "脑府 / 调神",
+            "en": "Brain / regulating shen"
+          },
+          {
+            "zh": "中风病位在脑，总病机“窍闭神匿，神不导气”",
+            "en": "Stroke is in the brain; master mechanism \"orifices closed, shen hidden, shen fails to lead qi\""
+          },
+          {
+            "zh": "醒脑开窍：内关、水沟、三阴交为主，极泉、尺泽、委中为辅",
+            "en": "Xingnao Kaiqiao: Neiguan, Shuigou, Sanyinjiao principal; Jiquan, Chize, Weizhong auxiliary"
+          },
+          "sxm-02, sxm-03"
+        ],
+        [
+          {
+            "zh": "手法量学",
+            "en": "Manipulation dosage"
+          },
+          {
+            "zh": "补泻须有剂量：作用力方向、大小、施术时间、间隔时间",
+            "en": "Tonify/reduce needs a dose: force direction, size, duration, interval"
+          },
+          {
+            "zh": "捻转第一、第二定义；每穴1~3分钟；以“抽动3次”等为度",
+            "en": "Twirling first and second definitions; 1-3 min per point; endpoints such as \"three twitches\""
+          },
+          "sxm-04"
+        ],
+        [
+          {
+            "zh": "治神守气",
+            "en": "Zhi shen, shou qi"
+          },
+          {
+            "zh": "“凡刺之真，必先治神”",
+            "en": "\"In the truth of needling, first regulate shen\""
+          },
+          {
+            "zh": "医患双方安神定志，得气后守气",
+            "en": "Both physician and patient calm the spirit; guard qi once it arrives"
+          },
+          "sxm-05, sxm-06"
+        ],
+        [
+          {
+            "zh": "治疗原则与处方",
+            "en": "Principles and prescription"
+          },
+          {
+            "zh": "原则六条；作用四项；处方含穴位与刺灸法两大要素",
+            "en": "Six principles; four actions; a prescription = points + needling/moxa method"
+          },
+          {
+            "zh": "选穴原则、配穴方法、特定穴",
+            "en": "Point-selection rules, pairing methods, specific points"
+          },
+          "sxm-06, sxm-07"
+        ],
+        [
+          {
+            "zh": "刺络拔罐 / 经筋刺法",
+            "en": "Bloodletting-cupping / jingjin needling"
+          },
+          {
+            "zh": "血尽邪出；面部经筋病可从经筋论治",
+            "en": "Blood exhausted, evil out; facial sinew disease treated as sinew-channel disease"
+          },
+          {
+            "zh": "点刺加闪火罐观察出血量；透刺、排刺",
+            "en": "Prick then flash-fire cup, watch volume; through-needling and row needling"
+          },
+          "sxm-08"
+        ],
+        [
+          {
+            "zh": "经脉病候新解",
+            "en": "Channel syndromes reread"
+          },
+          {
+            "zh": "是动多实、急；所生多里、虚；六“厥”为并列病候",
+            "en": "Shi dong mostly excess/acute; suo sheng mostly interior/deficient; the six \"jue\" are parallel signs"
+          },
+          {
+            "zh": "每经分是动、所生、虚实三段，症候分析后给出治则、配方、操作",
+            "en": "Each channel in three parts, analysis then principle, formula, operation"
+          },
+          "sxm-09"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "他所针对的旧说与他的改动",
+        "en": "The older view each innovation answers"
+      },
+      "cols": [
+        {
+          "zh": "方面",
+          "en": "Aspect"
+        },
+        {
+          "zh": "书中所述的旧做法",
+          "en": "Older practice as the book describes it"
+        },
+        {
+          "zh": "石学敏的改动",
+          "en": "Shi's change"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "中风病机与治则",
+            "en": "Stroke mechanism and rule"
+          },
+          {
+            "zh": "第一阶段“外风”，疏风祛邪、扶正；第二阶段“内风”，滋液息风、补阴潜阳",
+            "en": "Stage one \"external wind\": dispel wind, support qi; stage two \"internal wind\": nourish fluids, calm wind, supplement yin"
+          },
+          {
+            "zh": "第三阶段：病位在脑，“窍闭神匿，神不导气”，醒神、调神",
+            "en": "Stage three: seat in the brain; \"orifices closed, shen hidden\"; wake and regulate shen"
+          }
+        ],
+        [
+          {
+            "zh": "选穴",
+            "en": "Point choice"
+          },
+          {
+            "zh": "依“治痿独取阳明”，以取阳经穴为主",
+            "en": "Following \"for flaccidity take Yangming alone\", mainly yang-channel points"
+          },
+          {
+            "zh": "以阴经穴和督脉穴为主：内关、水沟、三阴交",
+            "en": "Mainly yin-channel and Du points: Neiguan, Shuigou, Sanyinjiao"
+          }
+        ],
+        [
+          {
+            "zh": "手法方向",
+            "en": "Manipulation bias"
+          },
+          {
+            "zh": "“疏经活络，风取三阳”，行针多以补法为主",
+            "en": "\"Free the channels, for wind take the three yang\"; needling mostly tonifying"
+          },
+          {
+            "zh": "以泻法为主，并对方向、深度、手法、刺激量作明确规定",
+            "en": "Mainly reducing, with method fixed for direction, depth, manipulation and dose"
+          }
+        ],
+        [
+          {
+            "zh": "捻转补泻",
+            "en": "Twirling tonify/reduce"
+          },
+          {
+            "zh": "“大指向前为补、向后为泻”；“幅度小用力轻为补，幅度大用力重为泻”，均无量学概念",
+            "en": "\"Thumb forward tonifies, backward reduces\"; \"small and light tonifies, large and heavy reduces\", with no quantity"
+          },
+          {
+            "zh": "第一定义（作用力向心/离心）、第二定义（幅度、频率）",
+            "en": "First definition (force centripetal/centrifugal), second (amplitude, frequency)"
+          }
+        ],
+        [
+          {
+            "zh": "络刺放血",
+            "en": "Collateral bloodletting"
+          },
+          {
+            "zh": "血液自然流出或稍加挤压，难以血尽",
+            "en": "Blood left to flow or slightly squeezed; hard to drain fully"
+          },
+          {
+            "zh": "点刺后加罐，透过玻璃罐看出血量，达标起罐",
+            "en": "Cup after pricking; judge volume through glass; remove at target"
+          }
+        ],
+        [
+          {
+            "zh": "“是动”“所生”",
+            "en": "\"Shi dong / suo sheng\""
+          },
+          {
+            "zh": "气/血先后（《难经》），常/变（张景岳），外因/内因，本经/脏腑等",
+            "en": "Qi/blood sequence (Nanjing), constant/change (Zhang Jingyue), external/internal cause, channel/organ, etc."
+          },
+          {
+            "zh": "广义概念：包括病因、病位、缓急、病程、虚实、转归、预后",
+            "en": "A broad concept including cause, site, tempo, course, deficiency/excess, transmission, outcome"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "O1",
+      "quote": "坚持“中西结合、融西贯中”、针药并用",
+      "src": "石学敏针灸全集·国医大师石学敏院士简介"
+    },
+    {
+      "id": "O2",
+      "quote": "他师古而不泥古，勇于创新，敢为人先",
+      "src": "石学敏针灸全集·国医大师石学敏院士简介"
+    },
+    {
+      "id": "O3",
+      "quote": "他强调中医辨证与西医辨病相结合，使二者在临床上有机地结合起来",
+      "src": "石学敏实用针灸学·小传"
+    },
+    {
+      "id": "O4",
+      "quote": "明确提出中风病的根本病因病机为“窍闭神匿，神不导气”，确立了以醒脑开窍、滋补肝肾为主",
+      "src": "石学敏针灸全集·绪言·二、以脑府立论 p.2"
+    },
+    {
+      "id": "O5",
+      "quote": "醒脑开窍针法的根本在于调神，因而适用于各种失神的病证",
+      "src": "石学敏实用针灸学·代前言·石学敏院士学术思想"
+    },
+    {
+      "id": "O6",
+      "quote": "治神守气是针灸治病的重要原则",
+      "src": "石学敏实用针灸学·第七章 第一节 针灸治疗原则 p.247"
+    },
+    {
+      "id": "O7",
+      "quote": "他率先提出针刺手法量学理论，并开展相关研究，对捻转补泻手法确定了新定义和量化操作",
+      "src": "石学敏针灸全集·绪言 p.1"
+    },
+    {
+      "id": "O8",
+      "quote": "将针灸治疗学剂量化，临床治疗理论科学化，治疗刺激量精确化",
+      "src": "石学敏实用针灸学·第六章 第一节 针刺手法量学"
+    },
+    {
+      "id": "O9",
+      "quote": "从疑难重症中选题，到临床实践中检验",
+      "src": "石学敏针灸全集·第五章 第六节 石氏针刺手法 p.311"
+    },
+    {
+      "id": "O10",
+      "quote": "“是动”、“所生病”是一个广义的概念",
+      "src": "石学敏针灸全集·绪言·一、重经络辨证 p.1"
+    },
+    {
+      "id": "O11",
+      "quote": "“是动”病多为实证、急性病。“所生”病多为里证、虚证",
+      "src": "石学敏针灸全集·绪言·一、重经络辨证 p.1"
+    },
+    {
+      "id": "O12",
+      "quote": "故思加压之法，于病变部位点刺后置罐拔之，这样医生可透过玻璃罐直接观察出血量",
+      "src": "石学敏针灸全集·绪言·五、刺络疗法的临床研究 p.7"
+    },
+    {
+      "id": "O13",
+      "quote": "提出了“专科、专病、专家、专方、专药（专技）”的医疗发展模式",
+      "src": "石学敏针灸全集·绪言·七、针灸治疗疑难病证的研究 p.8"
+    },
+    {
+      "id": "O14",
+      "quote": "以醒脑开窍针法、手法量学、刺络拔罐等为专技",
+      "src": "石学敏针灸全集·绪言·七、针灸治疗疑难病证的研究 p.8"
+    }
+  ],
+  "how_to_use": {
+    "zh": "把本篇当地图：读到他的任何一个处方或手法时，先问它属于哪条线（调神、量学、治神守气、特定穴配伍、刺络/经筋、经脉病候），再去对应导读看他自己的推理。sxm-02、sxm-03 是核心，sxm-04 解释“为什么每针都写了时间与度”。",
+    "en": "Use this as a map: for any prescription or manipulation, ask which strand it belongs to (shen regulation, dosage, zhi shen, point pairing, bloodletting/jingjin, channel syndromes) and read the matching guide for his own reasoning. sxm-02 and sxm-03 are the core; sxm-04 explains why every needle carries a time and an endpoint."
+  },
+  "caveats": {
+    "zh": "书中引用的“9005例”疗效数字并不一致（总有效率见98%以上、98.56%、99.56%三种写法），这些是作者单位自己的回顾性数据，本导读只转述他的思路，不转述疗效结论。“针药并用”“形神兼备”只见于书前小传，正文这几卷主要讲针灸。",
+    "en": "The \"9005 cases\" outcome figures are inconsistent across the books (total effective rate given as over 98%, 98.56% and 99.56%); they are the authors' own retrospective data, and these guides relay his reasoning, not efficacy conclusions. \"Needles with drugs\" and \"form and spirit together\" appear only in the front-matter biographies; the body of these volumes is mainly acupuncture."
+  },
+  "see": {
+    "notes": [],
+    "points": [
+      "内关",
+      "水沟",
+      "三阴交",
+      "极泉",
+      "尺泽",
+      "委中",
+      "印堂",
+      "风池",
+      "人迎",
+      "大椎"
+    ],
+    "rx": [
+      "sxm-rx-001",
+      "sxm-rx-096",
+      "sxm-rx-016",
+      "sxm-rx-009",
+      "sxm-rx-013"
+    ],
+    "cases": [
+      "sxm-001",
+      "sxm-174",
+      "sxm-255",
+      "sxm-271"
+    ]
+  }
+}

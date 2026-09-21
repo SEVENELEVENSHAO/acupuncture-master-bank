@@ -1,0 +1,1153 @@
+{
+  "id": "cda-07-points-basics",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "取穴与经穴",
+    "en": "Points"
+  },
+  "order": 7,
+  "title": {
+    "zh": "经穴观",
+    "en": "His View of Meridians and Points"
+  },
+  "summary": {
+    "zh": "穴是古人按压发现、能减轻病苦的刺激点，经是穴的联系，即感应线或反射线；书列十四经穴数、分区穴名、同身寸、阿是与奇穴等特殊穴及取法、禁针22穴与禁灸45穴，并把部分穴位落到肌肉动脉神经，但从简。",
+    "en": "A point is a stimulation site found by pressing that eases suffering; a meridian is their linkage, a sensation or reflex line. The book gives meridian counts, region lists, body-cun, special points and location methods, 22 forbidden-needle and 45 forbidden-moxa points, and anchors some points in muscle, artery and nerve, but briefly."
+  },
+  "takeaways": [
+    {
+      "zh": "经穴的来源是经验：古人从自身疾病中按压，发现能减轻病苦的刺激点，用机械与火灸刺激使痛苦轻快，于是名为穴；再从穴的位置、所治之病与刺激时的感应线归纳成系统，称为经。所以穴是刺激点，经是穴的联系，也可称感应线或反射线。",
+      "en": "Origin is experience: the ancients pressed on themselves in illness, found stimulation points that eased the suffering, relieved pain by mechanical or fire stimulation, and named such points xue; from point position, the disease each treats, and the sensation lines arising on stimulation they induced a system called jing. So a point is a stimulation point, a meridian the linkage of points, also called a sensation or reflex line.",
+      "cite": [
+        "C1",
+        "C2"
+      ]
+    },
+    {
+      "zh": "十四经是十二经加督、任二脉：手三阴从胸走手，手三阳从手走头，足三阴从足走腹，足三阳从头走足；命名沿用元代滑伯仁《十四经发挥》。他把走向作为“古昔医书”的记载列出；书中给出每经的穴数(如肺经11、膀胱经67)。",
+      "en": "The fourteen meridians are the twelve plus Du and Ren: hand yin from chest to hand, hand yang from hand to head, foot yin from foot to abdomen, foot yang from head to foot; the naming follows Hua Boren's Elaboration of the Fourteen Meridians of the Yuan. He gives the flows as what the old medical books record; point counts per meridian are given (lung 11, bladder 67).",
+      "cite": [
+        "C3",
+        "C4",
+        "C5",
+        "C27"
+      ]
+    },
+    {
+      "zh": "穴位按解剖区域罗列：头、颜面、前颈、后颈项、前胸、侧胸、背、腰、腹、荐骨、肩胛、上膊、前膊、上腿、下腿、足；五脏六腑背俞则用椎骨序数加“外开一寸五分”来定(肺俞第三胸椎、心俞第五、肝俞第九、脾俞第十一、肾俞第二腰椎)。",
+      "en": "Points are listed by anatomical region: head, face, front neck, back of neck, front chest, lateral chest, back, lumbar, abdomen, sacrum, scapula, upper arm, forearm, thigh, lower leg, foot; the back-shu points of the organs are fixed by vertebral number plus 'one and a half cun out' (Feishu third thoracic, Xinshu fifth, Ganshu ninth, Pishu eleventh, Shenshu second lumbar).",
+      "cite": [
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "zh": "取穴靠同身寸：以被针灸者本身、按一定的尺寸比例定穴；头部前后发际为一尺二寸，用任何量尺量得实数除以一尺二寸，所得商即该人头部每寸的实长；胸、腹、四肢也各有骨度比例(天突至胸骨尖一尺，两乳间八寸，脐至耻骨上缘五寸等)，上臂与前臂按取穴法作一尺计算。",
+      "en": "Location uses proportional body-cun: points are fixed by set ratios on the patient's own body; front-to-back hairline is 1.2 chi, any ruler's measurement divided by 1.2 chi gives that person's cun on the head; chest, abdomen and limbs have their own bone-proportion figures (Tiantu to sternal tip 1 chi, between nipples 8 cun, navel to pubic upper border 5 cun and so on), and upper arm and forearm are each reckoned as 1 chi in point location.",
+      "cite": [
+        "C8",
+        "C9",
+        "C10",
+        "C11"
+      ]
+    },
+    {
+      "zh": "特殊穴按经验与疗效立名：阿是穴(天应穴)是按压觉轻快处，即针即灸；经外奇穴是十四经确定之后民间继续发现的有效点；十宣、十井用于猝暴的脑神经失常、不省人事或内脏急剧疼痛，用粗针或三棱针；斜交叉灸(男取左肝俞右脾俞，女反之)专治疳积羸瘦；四缝用三棱针刺治疳瘦。",
+      "en": "Special points are named by experience and effect: ashi (tianying) points are places where pressure gives relief, needled or moxaed on the spot; extra points are effective sites folk practice kept finding after the fourteen meridians were settled; shixuan and shijing serve sudden cerebral derangement, unconsciousness or acute visceral pain with a thick or three-edged needle; oblique crossed moxa (left Ganshu with right Pishu for boys, reversed for girls) is for infantile malnutrition; Sifeng is pricked with a three-edged needle for the same.",
+      "cite": [
+        "C12",
+        "C13",
+        "C28",
+        "C14",
+        "C15",
+        "C16"
+      ]
+    },
+    {
+      "zh": "定位不只是量寸，还配有体位与操作：承山令患者面壁直立、手撑墙、足跟悬起，在腓肠肌下人字纹中心针；命门以医者两手围腰、两中指从脐向后会于脊椎中心，即第二腰椎下；夹脊先用线平两肘尖定假点再开一寸五分定真点；患门用足底量线、再用口角软绳分开点定。",
+      "en": "Location is not only measuring but posture and manoeuvre: for Chengshan the patient faces a wall, hands raised on it, heels lifted, and the needle goes in the centre of the herringbone under the gastrocnemius; for Mingmen the operator's hands encircle the waist with the middle fingers meeting at the mid-spine below L2; for Jiaji a cord level with both elbow tips gives a false point and a 1.5 cun offset the true points; for Huanmen a cord is measured from the sole and a mouth-corner cord splits the points.",
+      "cite": [
+        "C17",
+        "C18",
+        "C19",
+        "C20"
+      ]
+    },
+    {
+      "zh": "他把穴位落到解剖上：为膻中、灵台、内关、足三里等逐穴写出层次、肌肉、动脉与神经分布；并把当坐骨神经径路的穴名按“本干、胫骨神经、腓骨神经”分列。禁穴则分两类：经穴学旧有的禁针22穴、禁灸45穴，与解剖学上真正危险部位的禁穴，前者的理由今日“颇难解释”。",
+      "en": "He grounds points in anatomy: for Danzhong, Lingtai, Neiguan, Zusanli and others he writes the muscle, artery and nerve supply; and he groups the points along the sciatic nerve path into trunk, tibial nerve and peroneal nerve. Forbidden points are of two kinds: the classical 22 forbidden-needle and 45 forbidden-moxa points, and anatomical ones at truly dangerous sites, whose reasons for the former are 'hard to explain' today.",
+      "cite": [
+        "C21",
+        "C29",
+        "C22",
+        "C23",
+        "C24",
+        "C25"
+      ]
+    },
+    {
+      "zh": "经穴学篇幅从简，这是有意的：他认为经穴学的问题“全是千篇一律”，全录只会徒增篇幅，所以只记一二例，其余请读者参看他的《中国针灸学讲义》。",
+      "en": "The brevity of the points chapter is deliberate: he finds points learning 'all stereotyped', full listing would only add length, so he records one or two examples and refers readers to his Lectures on Chinese Acupuncture for the rest.",
+      "cite": [
+        "C26"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "他为何写得这样简",
+        "en": "Why the points chapter is so brief"
+      },
+      "body": {
+        "zh": "凡例说明，经穴学的问题“全是千篇一律”，若都采录徒增篇幅，所以仅记一二例，其余请参看他的《中国针灸学讲义》。因此第五篇只是一个骨架：定义、经穴名与数量、同身寸、少数特殊穴与取法、禁针禁灸穴、若干穴位的解剖。",
+        "en": "The editorial notes say questions on points learning are 'all stereotyped' and would only inflate the volume, so only one or two examples are given and the reader is referred to his Lectures on Chinese Acupuncture. Part five is therefore a skeleton: definition, names and counts, cun measurement, a few special points and their location, forbidden points and the anatomy of a few points."
+      }
+    },
+    {
+      "h": {
+        "zh": "两处需要留意的数字",
+        "en": "Two numbers to note"
+      },
+      "body": {
+        "zh": "其一，各经穴数相加为361，这是本表的算术结果，书中并未写出总数；其二，区域名单彼此重叠(如丝竹空同列头部与颜面、阳关同列腰部与上腿部)，各区域条数合计354(含重复)，与361并不相等，且并未涵盖全部穴位。前臂、上臂的骨度原为一尺二寸五分与一尺七寸，他说“今依取穴法作一尺计算”。",
+        "en": "First, the meridian counts add up to 361, which is our arithmetic and not a total stated in the book; second, the region lists overlap (Sizhukong is listed under head and face, Yangguan under lumbar and thigh), the region counts total 354 including duplicates, which does not equal 361 and does not cover every point. The forearm and upper-arm proportions were originally 1.25 and 1.7 chi, but he says they are now 'reckoned as one chi according to the point-finding method'."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "十四经的穴数与走向",
+        "en": "Point count and direction of the fourteen meridians"
+      },
+      "cols": [
+        {
+          "zh": "经",
+          "en": "Meridian"
+        },
+        {
+          "zh": "穴数",
+          "en": "Points"
+        },
+        {
+          "zh": "走向(古书所载)",
+          "en": "Direction (as recorded in old books)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "手太阴肺经",
+            "en": "Hand taiyin lung"
+          },
+          "11",
+          {
+            "zh": "手三阴：从胸走手",
+            "en": "Hand yin: chest to hand"
+          }
+        ],
+        [
+          {
+            "zh": "手少阴心经",
+            "en": "Hand shaoyin heart"
+          },
+          "9",
+          {
+            "zh": "手三阴：从胸走手",
+            "en": "Hand yin: chest to hand"
+          }
+        ],
+        [
+          {
+            "zh": "手厥阴心包络经",
+            "en": "Hand jueyin pericardium"
+          },
+          "9",
+          {
+            "zh": "手三阴：从胸走手",
+            "en": "Hand yin: chest to hand"
+          }
+        ],
+        [
+          {
+            "zh": "手太阳小肠经",
+            "en": "Hand taiyang small intestine"
+          },
+          "19",
+          {
+            "zh": "手三阳：从手走头",
+            "en": "Hand yang: hand to head"
+          }
+        ],
+        [
+          {
+            "zh": "手少阳三焦经",
+            "en": "Hand shaoyang sanjiao"
+          },
+          "23",
+          {
+            "zh": "手三阳：从手走头",
+            "en": "Hand yang: hand to head"
+          }
+        ],
+        [
+          {
+            "zh": "手阳明大肠经",
+            "en": "Hand yangming large intestine"
+          },
+          "20",
+          {
+            "zh": "手三阳：从手走头",
+            "en": "Hand yang: hand to head"
+          }
+        ],
+        [
+          {
+            "zh": "足太阴脾经",
+            "en": "Foot taiyin spleen"
+          },
+          "21",
+          {
+            "zh": "足三阴：从足走腹",
+            "en": "Foot yin: foot to abdomen"
+          }
+        ],
+        [
+          {
+            "zh": "足少阴肾经",
+            "en": "Foot shaoyin kidney"
+          },
+          "27",
+          {
+            "zh": "足三阴：从足走腹",
+            "en": "Foot yin: foot to abdomen"
+          }
+        ],
+        [
+          {
+            "zh": "足厥阴肝经",
+            "en": "Foot jueyin liver"
+          },
+          "14",
+          {
+            "zh": "足三阴：从足走腹",
+            "en": "Foot yin: foot to abdomen"
+          }
+        ],
+        [
+          {
+            "zh": "足太阳膀胱经",
+            "en": "Foot taiyang bladder"
+          },
+          "67",
+          {
+            "zh": "足三阳：从头走足",
+            "en": "Foot yang: head to foot"
+          }
+        ],
+        [
+          {
+            "zh": "足少阳胆经",
+            "en": "Foot shaoyang gallbladder"
+          },
+          "44",
+          {
+            "zh": "足三阳：从头走足",
+            "en": "Foot yang: head to foot"
+          }
+        ],
+        [
+          {
+            "zh": "足阳明胃经",
+            "en": "Foot yangming stomach"
+          },
+          "45",
+          {
+            "zh": "足三阳：从头走足",
+            "en": "Foot yang: head to foot"
+          }
+        ],
+        [
+          {
+            "zh": "任脉",
+            "en": "Ren"
+          },
+          "24",
+          {
+            "zh": "胸腹之正中",
+            "en": "Midline of chest and abdomen"
+          }
+        ],
+        [
+          {
+            "zh": "督脉",
+            "en": "Du"
+          },
+          "28",
+          {
+            "zh": "背之正中",
+            "en": "Midline of the back"
+          }
+        ],
+        [
+          {
+            "zh": "合计(本表相加)",
+            "en": "Total (our sum)"
+          },
+          "361",
+          "—"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "同身寸：书中所列骨度比例",
+        "en": "Proportional cun figures listed"
+      },
+      "cols": [
+        {
+          "zh": "部位",
+          "en": "Span"
+        },
+        {
+          "zh": "长度",
+          "en": "Length"
+        },
+        {
+          "zh": "用途/备注",
+          "en": "Use / note"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "前发际至后发际",
+            "en": "Front to back hairline"
+          },
+          {
+            "zh": "一尺二寸",
+            "en": "1.2 chi"
+          },
+          {
+            "zh": "头盖部直寸；量得实数÷一尺二寸=每寸实长，如市尺量得每寸六分，上星入发一寸即量六分",
+            "en": "Vertical cun of the head; measured length divided by 1.2 chi gives real cun length, e.g. 0.6 fen per cun by market ruler so Shangxing at one cun in the hairline is 6 fen"
+          }
+        ],
+        [
+          {
+            "zh": "天突至胸骨尖",
+            "en": "Tiantu to sternal tip"
+          },
+          {
+            "zh": "一尺",
+            "en": "1 chi"
+          },
+          {
+            "zh": "胸之直寸",
+            "en": "Vertical cun of chest"
+          }
+        ],
+        [
+          {
+            "zh": "两乳中间",
+            "en": "Between nipples"
+          },
+          {
+            "zh": "八寸",
+            "en": "8 cun"
+          },
+          {
+            "zh": "胸之横寸",
+            "en": "Horizontal cun of chest"
+          }
+        ],
+        [
+          {
+            "zh": "胸骨端至脐中",
+            "en": "Sternal end to navel"
+          },
+          {
+            "zh": "八寸",
+            "en": "8 cun"
+          },
+          {
+            "zh": "上腹部直寸",
+            "en": "Upper abdomen"
+          }
+        ],
+        [
+          {
+            "zh": "脐中至耻骨上边际",
+            "en": "Navel to pubic upper border"
+          },
+          {
+            "zh": "五寸",
+            "en": "5 cun"
+          },
+          {
+            "zh": "下腹直寸",
+            "en": "Lower abdomen"
+          }
+        ],
+        [
+          {
+            "zh": "背部",
+            "en": "Back"
+          },
+          {
+            "zh": "以每一脊椎为计算",
+            "en": "Counted by vertebra"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "大转子至大腿骨外上踝",
+            "en": "Greater trochanter to lateral femoral condyle"
+          },
+          {
+            "zh": "一尺九寸",
+            "en": "1.9 chi"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "外上踝至腓骨头",
+            "en": "Lateral condyle to fibular head"
+          },
+          {
+            "zh": "三寸五分",
+            "en": "3.5 cun"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "腓骨头至外踝",
+            "en": "Fibular head to lateral malleolus"
+          },
+          {
+            "zh": "一尺六寸",
+            "en": "1.6 chi"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "耻骨软骨上边至大腿骨内上踝",
+            "en": "Pubic upper border to medial femoral condyle"
+          },
+          {
+            "zh": "一尺八寸",
+            "en": "1.8 chi"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "大腿骨内上踝至胫骨内关节踝下际",
+            "en": "Medial femoral condyle to lower border of tibial medial condyle"
+          },
+          {
+            "zh": "三寸半",
+            "en": "3.5 cun"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "胫骨内关节踝下际至内踝上际",
+            "en": "Tibial medial condyle to upper medial malleolus"
+          },
+          {
+            "zh": "一尺三寸",
+            "en": "1.3 chi"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "内踝下际至地",
+            "en": "Lower medial malleolus to ground"
+          },
+          {
+            "zh": "三寸",
+            "en": "3 cun"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "膝腘中央(委中)至跟骨下际",
+            "en": "Popliteal centre (Weizhong) to heel"
+          },
+          {
+            "zh": "一尺九寸",
+            "en": "1.9 chi"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "上膊肩峰至肘尖",
+            "en": "Acromion to olecranon"
+          },
+          {
+            "zh": "一尺七寸，今作一尺计算",
+            "en": "1.7 chi, now reckoned 1 chi"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "肘尖至腕中央横纹",
+            "en": "Olecranon to wrist crease"
+          },
+          {
+            "zh": "一尺二寸五分，今作一尺计算",
+            "en": "1.25 chi, now reckoned 1 chi"
+          },
+          "—"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "背俞、特殊穴及其取法",
+        "en": "Back-shu, special points and how to find them"
+      },
+      "cols": [
+        {
+          "zh": "名称",
+          "en": "Name"
+        },
+        {
+          "zh": "位置/取法",
+          "en": "Location / method"
+        },
+        {
+          "zh": "用途",
+          "en": "Use"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "五脏俞",
+            "en": "Back-shu of the zang"
+          },
+          {
+            "zh": "肺俞第三胸椎、心俞第五胸椎、肝俞第九胸椎、脾俞第十一胸椎、肾俞第二腰椎，两旁各外开一寸五分",
+            "en": "Feishu T3, Xinshu T5, Ganshu T9, Pishu T11, Shenshu L2, each 1.5 cun lateral"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "六腑俞",
+            "en": "Back-shu of the fu"
+          },
+          {
+            "zh": "胆俞第八胸椎、胃俞第十二胸椎、三焦俞第一腰椎、大肠俞第四腰椎、小肠俞第一荐骨假棘状突起，均外开一寸五分；膀胱俞在肠骨后上棘之内缘",
+            "en": "Danshu T8, Weishu T12, Sanjiaoshu L1, Dachangshu L4, Xiaochangshu at the first sacral false spinous process, all 1.5 cun lateral; Pangguangshu at inner edge of the posterior superior iliac spine"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "八髎",
+            "en": "Eight liao"
+          },
+          {
+            "zh": "上髎、次髎、中髎、下髎，在荐骨部两侧，左右各四",
+            "en": "Shangliao, Ciliao, Zhongliao, Xialiao, four each side on the sacrum"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "十宣",
+            "en": "Shixuan"
+          },
+          {
+            "zh": "手指尖端每指一穴，离爪一分，十指十穴",
+            "en": "One point at each fingertip, 1 fen from the nail, ten in all"
+          },
+          {
+            "zh": "病起猝暴、影响脑神经失常，或内脏急剧疼痛属郁血性者，用粗针刺",
+            "en": "Sudden onset with cerebral derangement or acute visceral pain of congestive type: thick needle"
+          }
+        ],
+        [
+          {
+            "zh": "十井",
+            "en": "Shijing"
+          },
+          {
+            "zh": "十指尖端之穴，如少商、商阳、中冲、关冲、少冲、少泽",
+            "en": "Points at the ten fingertips, e.g. Shaoshang, Shangyang, Zhongchong, Guanchong, Shaochong, Shaoze"
+          },
+          {
+            "zh": "猝暴、脑神经失常、不省人事、内脏急剧疼痛，粗针或三棱针",
+            "en": "Sudden derangement, unconsciousness, acute visceral pain: thick or three-edged needle"
+          }
+        ],
+        [
+          {
+            "zh": "阿是穴 / 天应穴",
+            "en": "Ashi / tianying"
+          },
+          {
+            "zh": "疼痛之处以指按压，按压觉轻快之处",
+            "en": "Painful area pressed by finger, the spot where pressure gives relief"
+          },
+          {
+            "zh": "即针或灸，得轻快",
+            "en": "Needle or moxa on the spot for relief"
+          }
+        ],
+        [
+          {
+            "zh": "斜交叉灸",
+            "en": "Oblique crossed moxa"
+          },
+          {
+            "zh": "男孩取左肝俞、右脾俞；女孩取右肝俞、左脾俞",
+            "en": "Boys left Ganshu and right Pishu; girls right Ganshu and left Pishu"
+          },
+          {
+            "zh": "疳积羸瘦",
+            "en": "Infantile malnutrition and emaciation"
+          }
+        ],
+        [
+          {
+            "zh": "四缝",
+            "en": "Sifeng"
+          },
+          {
+            "zh": "食、中、环、小指掌面第二节横纹中间，各外开半分或一分，每指2穴，共16穴",
+            "en": "Palmar side of index, middle, ring and little fingers at the second crease, 0.5 to 1 fen out, 2 per finger, 16 in all"
+          },
+          {
+            "zh": "疳瘦；三棱针直刺，有脓厚白液冒出",
+            "en": "Infantile wasting; three-edged needle straight in, thick white fluid emerges"
+          }
+        ],
+        [
+          {
+            "zh": "经外奇穴",
+            "en": "Extra points"
+          },
+          {
+            "zh": "十二经或十四经分组公认之后，民间继续发现的对某病有效之针点或灸点，不列入既定十四经",
+            "en": "Effective needle or moxa sites found in folk practice after the accepted grouping; not put in the fourteen meridians"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "患门",
+            "en": "Huanmen"
+          },
+          {
+            "zh": "用粗线绳从（男左女左）脚底大趾端量至委中截断，正坐后从鼻端比齐引绳循头顶至脊柱，绳头尽处墨点；另用软绳量口角，取其中心对墨点，左右分开，两端即患门",
+            "en": "Measure a cord from big-toe tip under the sole to Weizhong (source prints \"left for men, left for women\", probably a slip), cut it; seated, align it at the nose tip, run over the head down the spine and mark where it ends; a soft cord across the mouth corners centred on the mark, the two ends are Huanmen"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "夹脊",
+            "en": "Jiaji"
+          },
+          {
+            "zh": "患者裸体伏卧，以线平直两肘尖，当脊柱正中线下为假点，再以指寸各开一寸五分为真点",
+            "en": "Patient prone and bare; cord level with both elbow tips marks a false point on the spine, then 1.5 finger-cun each side gives the true points"
+          },
+          {
+            "zh": "胃肠疾患局发性痉挛",
+            "en": "Local spasm in gastro-intestinal disease"
+          }
+        ],
+        [
+          {
+            "zh": "痞根",
+            "en": "Pigen"
+          },
+          {
+            "zh": "第一、第二腰椎棘突之间，左右各开三寸五分，当十二肋骨端之下际",
+            "en": "Between spinous processes of L1 and L2, 3.5 cun each side, below the tip of the twelfth rib"
+          },
+          {
+            "zh": "灸治脾肿大、心窝苦闷",
+            "en": "Moxa for splenomegaly and epigastric oppression"
+          }
+        ],
+        [
+          {
+            "zh": "腰眼",
+            "en": "Yaoyan"
+          },
+          {
+            "zh": "裸体直立或伏卧，第四、第五腰椎横突间如两眼之凹窝，其正中",
+            "en": "Standing or prone bare; the dimples like two eyes between the transverse processes of L4 and L5, at their centre"
+          },
+          {
+            "zh": "灸治腰痛，尤宜生殖器疾患所致者",
+            "en": "Moxa for lumbar pain, best when due to genital disease"
+          }
+        ],
+        [
+          {
+            "zh": "承山",
+            "en": "Chengshan"
+          },
+          {
+            "zh": "患者面壁直立，两手上伸掌按壁，足趾着地、足跟悬起，腓肠肌下人字纹中心",
+            "en": "Face the wall, hands up on it, toes on the ground, heels lifted; centre of the herringbone below gastrocnemius"
+          },
+          {
+            "zh": "针取",
+            "en": "Needling"
+          }
+        ],
+        [
+          {
+            "zh": "命门",
+            "en": "Mingmen"
+          },
+          {
+            "zh": "患者直立或正坐，医者蹲其后，两手围腰，两中指从脐左右向后至脊椎中心，第二腰椎之下",
+            "en": "Patient standing or seated, operator crouches behind, hands around the waist, middle fingers from the navel round to the mid-spine, below L2"
+          },
+          "—"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "禁针穴与禁灸穴(原文列举)",
+        "en": "Forbidden-needle and forbidden-moxa points (as listed)"
+      },
+      "cols": [
+        {
+          "zh": "类别",
+          "en": "Type"
+        },
+        {
+          "zh": "穴名",
+          "en": "Points"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "禁针穴(22)",
+            "en": "Forbidden needle (22)"
+          },
+          {
+            "zh": "脑户、囟会、神庭、玉枕、络却、承灵、颅息、角孙、承泣、神道、灵台、膻中、水分、神阙、会阴、横骨、气冲、箕门、承筋、手五里、三阳络、青灵",
+            "en": "Naohu, Xinhui, Shenting, Yuzhen, Luoque, Chengling, Luxi, Jiaosun, Chengqi, Shendao, Lingtai, Danzhong, Shuifen, Shenque, Huiyin, Hengu, Qichong, Jimen, Chengjin, Shouwuli, Sanyangluo, Qingling"
+          }
+        ],
+        [
+          {
+            "zh": "禁灸穴(45)",
+            "en": "Forbidden moxa (45)"
+          },
+          {
+            "zh": "哑门、风府、天柱、承光、临泣、头维、丝竹空、攒竹、睛明、素髎、禾髎、迎香、颧髎、下关、人迎、天牖、天府、周荣、渊腋、乳中、鸠尾、腹哀、肩贞、阳池、中冲、少商、鱼际、经渠、地五会、阳关、脊中、隐白、漏谷、阴陵泉、条口、犊鼻、阴市、伏兔、髀关、申脉、委中、殷门、承扶、白环、心俞",
+            "en": "Yamen, Fengfu, Tianzhu, Chengguang, Linqi, Touwei, Sizhukong, Cuanzhu, Jingming, Suliao, Heliao, Yingxiang, Quanliao, Xiaguan, Renying, Tianyou, Tianfu, Zhourong, Yuanye, Ruzhong, Jiuwei, Fuai, Jianzhen, Yangchi, Zhongchong, Shaoshang, Yuji, Jingqu, Diwuhui, Yangguan, Jizhong, Yinbai, Lougu, Yinlingquan, Tiaokou, Dubi, Yinshi, Futu, Biguan, Shenmai, Weizhong, Yinmen, Chengfu, Baihuan, Xinshu"
+          }
+        ],
+        [
+          {
+            "zh": "解剖学的禁穴",
+            "en": "Anatomical forbidden points"
+          },
+          {
+            "zh": "危险部位之穴位：延髓部、囟门部、心脏部、睾丸部、眼球与大血管之上的穴位",
+            "en": "Points on dangerous sites: medulla, fontanelle, heart, testis, eyeball and great vessels"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "按解剖区域罗列的穴名(原文所列，未合并重复)",
+        "en": "Point names by anatomical region (as listed, duplicates kept)"
+      },
+      "cols": [
+        {
+          "zh": "区域",
+          "en": "Region"
+        },
+        {
+          "zh": "条数",
+          "en": "Count"
+        },
+        {
+          "zh": "穴名",
+          "en": "Names"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "头部",
+            "en": "Head"
+          },
+          "41",
+          {
+            "zh": "神庭、上星、囟会、前顶、百会、后顶、强间、脑户、风府、哑门、攒竹、曲差、五处、承光、通天、络却、玉枕、阳白、临泣、目窗、正营、承灵、脑空、丝竹空、本神、头维、颔厌、悬颅、悬厘、曲鬓、率谷、天冲、浮白、窍阴、完骨、上关、和髎、耳门、角孙、颅息、瘈脉",
+            "en": "Shenting to Qimai (as in the Chinese list)"
+          }
+        ],
+        [
+          {
+            "zh": "颜面部",
+            "en": "Face"
+          },
+          "20",
+          {
+            "zh": "承浆、龈交、兑端、水沟、素髎、承泣、四白、颧髎、巨髎、迎香、禾髎、睛明、丝竹空、瞳子髎、下关、颊车、听宫、听会、地仓、大迎",
+            "en": "Chengjiang to Daying"
+          }
+        ],
+        [
+          {
+            "zh": "前颈部",
+            "en": "Front neck"
+          },
+          "9",
+          {
+            "zh": "廉泉、天突、人迎、水突、气舍、翳风、扶突、缺盆、天鼎",
+            "en": "Lianquan to Tianding"
+          }
+        ],
+        [
+          {
+            "zh": "后颈项部",
+            "en": "Back of neck"
+          },
+          "5",
+          {
+            "zh": "风池、天柱、天容、天牖、天窗",
+            "en": "Fengchi, Tianzhu, Tianrong, Tianyou, Tianchuang"
+          }
+        ],
+        [
+          {
+            "zh": "前胸部",
+            "en": "Front chest"
+          },
+          "25",
+          {
+            "zh": "璇玑、华盖、紫宫、玉堂、膻中、中庭、俞府、彧中、神藏、灵墟、神封、步廊、气户、库房、屋翳、膺窗、乳中、乳根、云门、中府、周荣、胸乡、天池、天溪、食窦",
+            "en": "Xuanji to Shidou"
+          }
+        ],
+        [
+          {
+            "zh": "侧胸部",
+            "en": "Lateral chest"
+          },
+          "4",
+          {
+            "zh": "渊腋、辄筋、极泉、大包",
+            "en": "Yuanye, Zhejin, Jiquan, Dabao"
+          }
+        ],
+        [
+          {
+            "zh": "背部",
+            "en": "Back"
+          },
+          "30",
+          {
+            "zh": "大椎、陶道、身柱、神道、灵台、至阳、筋缩、脊中、肩中俞、大杼、风门、肺俞、厥阴俞、心俞、膈俞、肝俞、胆俞、脾俞、胃俞、肩外俞、附分、魄户、膏肓、神堂、意禧、膈关、魂门、阳纲、意舍、胃仓",
+            "en": "Dazhui to Weicang"
+          }
+        ],
+        [
+          {
+            "zh": "腰部",
+            "en": "Lumbar"
+          },
+          "9",
+          {
+            "zh": "悬枢、命门、阳关、三焦俞、肾俞、大肠俞、小肠俞、肓门、志室",
+            "en": "Xuanshu to Zhishi"
+          }
+        ],
+        [
+          {
+            "zh": "腹部",
+            "en": "Abdomen"
+          },
+          "49",
+          {
+            "zh": "鸠尾、巨阙、上脘、中脘、建里、下脘、水分、神阙、阴交、气海、石门、关元、中极、曲骨、幽门、通谷、阴都、石关、商曲、肓俞、中注、四满、气穴、大赫、横骨、不容、承满、梁门、关门、太乙、滑肉门、天枢、外陵、大巨、水道、归来、气冲、期门、日月、腹哀、大横、腹结、府舍、冲门、维道、章门、京门、带脉、五枢",
+            "en": "Jiuwei to Wushu"
+          }
+        ],
+        [
+          {
+            "zh": "荐骨部",
+            "en": "Sacrum"
+          },
+          "10",
+          {
+            "zh": "腰俞、长强、上髎、次髎、中髎、下髎、膀胱俞、中膂俞、白环俞、会阳",
+            "en": "Yaoshu to Huiyang"
+          }
+        ],
+        [
+          {
+            "zh": "肩胛部",
+            "en": "Scapula"
+          },
+          "9",
+          {
+            "zh": "曲垣、肩井、天髎、秉风、天宗、肩髃、巨骨、肩髎、臑俞",
+            "en": "Quyuan to Naoshu"
+          }
+        ],
+        [
+          {
+            "zh": "上膊部",
+            "en": "Upper arm"
+          },
+          "17",
+          {
+            "zh": "天府、侠白、尺泽、曲泽、天泉、青灵、小海、肩贞、消泺、清冷渊、天井、少海、臑俞、臂濡、五里、肘髎、曲池",
+            "en": "Tianfu to Quchi"
+          }
+        ],
+        [
+          {
+            "zh": "前膊部(含手部)",
+            "en": "Forearm (with hand)"
+          },
+          "43",
+          {
+            "zh": "孔最、列缺、经渠、太渊、郄门、间使、内关、大陵、灵道、通里、阴郄、神门、三里、上廉、下廉、温溜、偏历、阳溪、四渎、三阳络、支沟、外关、阳池、支正、会宗、养老、阳谷、少商、劳宫、少府、少冲、合谷、三间、二间、商阳、中冲、中渚、液门、关冲、腕骨、后溪、前谷、少泽",
+            "en": "Kongzui to Shaoze"
+          }
+        ],
+        [
+          {
+            "zh": "上腿部",
+            "en": "Thigh"
+          },
+          "21",
+          {
+            "zh": "骨髎、髀关、环跳、胞肓、秩边、会阴、伏兔、阴市、梁丘、中渎、阳关、箕门、血海、阴廉、五里、阴包、承扶、殷门、浮郄、委阳、委中",
+            "en": "'Gu-liao' (as printed) to Weizhong"
+          }
+        ],
+        [
+          {
+            "zh": "下腿部",
+            "en": "Lower leg"
+          },
+          "31",
+          {
+            "zh": "犊鼻、三里、上巨虚、条口、下巨虚、解溪、阳陵泉、丰隆、阳交、外丘、光明、阳辅、悬钟、曲泉、膝关、中都、蠡沟、阴陵泉、地机、漏谷、三阴交、交信、阴谷、筑宾、复溜、太溪、合阳、承筋、承山、飞扬、跗阳",
+            "en": "Dubi to Fuyang"
+          }
+        ],
+        [
+          {
+            "zh": "足部",
+            "en": "Foot"
+          },
+          "31",
+          {
+            "zh": "昆仑、大钟、仆参、水泉、照海、商丘、公孙、太白、大都、隐白、中封、太冲、行间、大敦、冲阳、陷谷、内庭、厉兑、丘墟、临泣、地五会、侠溪、窍阴、申脉、金门、京骨、束骨、通谷、至阴、然谷、涌泉",
+            "en": "Kunlun to Yongquan"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "古人从自身疾病中，或按或压，发现能减轻病苦之刺激点，利用机械、火灸之刺激，达到病痛之轻快，因名此刺激点为穴",
+      "src": "针灸精华·第五篇 经穴常识 p.125"
+    },
+    {
+      "id": "C2",
+      "quote": "故穴为刺激点，经为穴之联系，亦可名为感应线或反射线",
+      "src": "针灸精华·第五篇 经穴常识 p.125"
+    },
+    {
+      "id": "C3",
+      "quote": "为手三阳经、手三阴经、足三阳经、足三阴经，共为十二经，再加背之正中督脉，胸腹之正中任脉，合并为十四经",
+      "src": "针灸精华·第五篇 经穴常识 p.125"
+    },
+    {
+      "id": "C4",
+      "quote": "手之三阴，从胸走手；手之三阳，从手走头；足之三阴，从足走腹；足之三阳，从头走足",
+      "src": "针灸精华·第五篇 经穴常识 p.125"
+    },
+    {
+      "id": "C5",
+      "quote": "手太阴肺经，计11穴。手少阴心经，计9穴。手厥阴心包络经，计9穴",
+      "src": "针灸精华·第五篇 经穴常识 p.125"
+    },
+    {
+      "id": "C6",
+      "quote": "肺俞：在第三胸椎之两旁，各外开一寸五分",
+      "src": "针灸精华·第五篇 经穴常识 p.127"
+    },
+    {
+      "id": "C7",
+      "quote": "胆俞：在第八胸椎之两旁，各外开一寸五分",
+      "src": "针灸精华·第五篇 经穴常识 p.127"
+    },
+    {
+      "id": "C8",
+      "quote": "根据一定之尺寸比例而定穴位，此尺寸比例，名曰同身寸",
+      "src": "针灸精华·第五篇 经穴常识 p.128"
+    },
+    {
+      "id": "C9",
+      "quote": "以一尺二寸为除数，所得之商数为其头部直寸之标准，即同其身之尺寸也",
+      "src": "针灸精华·第五篇 经穴常识 p.128"
+    },
+    {
+      "id": "C10",
+      "quote": "脐中至耻骨上边际作五寸，为下腹直寸计算法",
+      "src": "针灸精华·第五篇 经穴常识 p.129"
+    },
+    {
+      "id": "C11",
+      "quote": "上膊肩峰突起至肘尖鹰嘴突起长一尺七寸，今依取穴法作一尺计算",
+      "src": "针灸精华·第五篇 经穴常识 p.129"
+    },
+    {
+      "id": "C12",
+      "quote": "即以针或艾炷针灸之，而得轻快，其针灸之点，即以阿是穴或天应穴名之",
+      "src": "针灸精华·第五篇 经穴常识 p.128"
+    },
+    {
+      "id": "C13",
+      "quote": "民间继续发现对于某病有效之刺针点或灸点，于是为之定穴名",
+      "src": "针灸精华·第五篇 经穴常识 p.131"
+    },
+    {
+      "id": "C14",
+      "quote": "每遇病起猝暴、脑神经失常、不省人事，或内脏发生急剧性之疼痛，每用粗针或三棱针针刺十井穴以治之",
+      "src": "针灸精华·第五篇 经穴常识 p.128"
+    },
+    {
+      "id": "C15",
+      "quote": "名曰斜交叉灸，专治疳积羸瘦之病",
+      "src": "针灸精华·第五篇 经穴常识 p.128"
+    },
+    {
+      "id": "C16",
+      "quote": "善治疳瘦，以三棱针直入刺之，有脓厚之白液冒出",
+      "src": "针灸精华·第五篇 经穴常识 p.128"
+    },
+    {
+      "id": "C17",
+      "quote": "令患者面壁直立，两手上伸，掌按壁面，足趾点着地面，足跟悬起，于是于腓肠肌下人字纹中心而针刺之",
+      "src": "针灸精华·第五篇 经穴常识 p.132"
+    },
+    {
+      "id": "C18",
+      "quote": "两中指从其脐心左右沿腹向后退至脊椎中心，即当第二腰椎之下，即为命门穴",
+      "src": "针灸精华·第五篇 经穴常识 p.132"
+    },
+    {
+      "id": "C19",
+      "quote": "再以指寸，各开一寸五分为真点，此名夹脊穴，对于胃肠疾患局发性痉挛有卓效",
+      "src": "针灸精华·第五篇 经穴常识 p.132"
+    },
+    {
+      "id": "C20",
+      "quote": "以此断绳之中心，对正背上墨点，左右分开，两端点之即为患门穴",
+      "src": "针灸精华·第五篇 经穴常识 p.132"
+    },
+    {
+      "id": "C21",
+      "quote": "有浅屈指肌，有尺骨动脉之支别循经，有正中神经之分布",
+      "src": "针灸精华·第五篇 经穴常识 p.130"
+    },
+    {
+      "id": "C22",
+      "quote": "当坐骨神经之径路，所有穴名，分列如下",
+      "src": "针灸精华·第五篇 经穴常识 p.132"
+    },
+    {
+      "id": "C23",
+      "quote": "脑户、囟会、神庭、玉枕、络却、承灵、颅息、角孙、承泣、神道、灵台、膻中、水分、神阙",
+      "src": "针灸精华·第五篇 经穴常识 p.129"
+    },
+    {
+      "id": "C24",
+      "quote": "哑门、风府、天柱、承光、临泣、头维、丝竹空、攒竹、睛明",
+      "src": "针灸精华·第五篇 经穴常识 p.129"
+    },
+    {
+      "id": "C25",
+      "quote": "所谓解剖学的禁穴，从解剖学上之考查，乃为危险部位之穴位",
+      "src": "针灸精华·第三篇 针科常识 p.102"
+    },
+    {
+      "id": "C26",
+      "quote": "经穴学的问题，全是千篇一律，假如采录，徒增篇幅，所以仅记一二例",
+      "src": "针灸精华·凡例七 p.5"
+    },
+    {
+      "id": "C27",
+      "quote": "十四经之定名，起于元代时代滑伯仁所著之《十四经发挥》",
+      "src": "针灸精华·第五篇 经穴常识 p.125"
+    },
+    {
+      "id": "C28",
+      "quote": "凡病起猝暴，影响脑神经失常或内脏发生急剧性之疼痛，属于郁血性者，则用粗针刺十宣穴以治之",
+      "src": "针灸精华·第五篇 经穴常识 p.128"
+    },
+    {
+      "id": "C29",
+      "quote": "常两乳之间，在胸骨体之部，有内乳动脉之分支，肋间神经前穿行支之分布",
+      "src": "针灸精华·第五篇 经穴常识 p.129"
+    }
+  ],
+  "how_to_use": {
+    "zh": "以他的方式学穴：先把穴当作“可用刺激点”，以解剖区域与椎骨序数定位，以同身寸校准个体差异；遇到阿是、奇穴与十宣十井，要记住它们是按疗效与急症用途立名的；凡靠近囟门、延髓、心、睾丸、大血管的穴，先想解剖危险，再看古禁穴表。",
+    "en": "To learn points his way: treat a point first as a usable stimulation site, locate it by anatomical region and vertebral number, and calibrate for individual size with body-cun; note that ashi, extra points, shixuan and shijing are named by effect and emergency use; for any point near the fontanelle, medulla, heart, testis or great vessels, think of the anatomical danger first, then check the classical forbidden list."
+  },
+  "caveats": {
+    "zh": "OCR中“髎”多被识成“醪/髅”，“臑俞”识成“膘俞”，“瘈脉”识成“瘿脉”，本表按通行写法还原；“骨髎”“臂濡”“意禧”无法确定对应今名，保留原文；部分定位与今通行标准穴位定位不同(如胆俞列在第八胸椎旁)；四缝“共16穴”与“每指2穴”按两手合计理解；十井名单原文只举六穴。；禁针22穴、禁灸45穴与各经穴数为对原文名单的计数与相加，原文未写明总数。",
+    "en": "The OCR often turned liao into 'lao/lou', naoshu into 'biao shu' and chimai into 'ying mai'; these are restored to the usual forms here; 'gu-liao', 'bi-ru' and 'yi-xi' cannot be securely matched to present names and are kept as printed; some locations differ from today's standard point locations (e.g. Danshu placed beside the eighth thoracic vertebra); Sifeng's '16 points' and '2 per finger' are read as both hands together; the shijing list in the source names only six.; the figures 22 and 45 forbidden points and the meridian total are our counts of the source lists; the source states no totals."
+  },
+  "see": {
+    "notes": [
+      "01 经络总论 Meridian System Overview",
+      "02 分部腧穴一览 Points by Body Region",
+      "03 特殊腧穴与禁忌 Special Points Forbidden Points and Location Techniques"
+    ],
+    "points": [
+      "承山",
+      "命门",
+      "肺俞",
+      "心俞",
+      "肝俞",
+      "脾俞",
+      "肾俞",
+      "膻中",
+      "灵台",
+      "内关",
+      "足三里",
+      "阿是穴"
+    ]
+  }
+}

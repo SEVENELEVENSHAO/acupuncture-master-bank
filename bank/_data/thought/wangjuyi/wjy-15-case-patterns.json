@@ -1,0 +1,1353 @@
+{
+  "id": "wjy-15-case-patterns",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "数据",
+    "en": "Data"
+  },
+  "order": 15,
+  "title": {
+    "zh": "125例医案的数据规律：疗效等级、诊数、用穴、选经与手法",
+    "en": "Patterns Across the 125 Cases: Outcome Grades, Visit Numbers, Points, Channels and Techniques"
+  },
+  "summary": {
+    "zh": "以下全是对本书125案的计数(非他的学说)：43案标临床痊愈、38案显效、2案有效、无效0案，另4案写“好转”、38案未标等级；诊数中位数4诊；23案配合中药；用得最多的穴是足三里、尺泽、阴陵泉；选经行里太阴经最多；灸出现于51案。",
+    "en": "All figures are counts from the 125 cases in this book, not his doctrine: 43 graded clinical recovery, 38 markedly effective, 2 effective, none ineffective; 4 say \"improved\" and 38 carry no grade. Median 4 visits; 23 cases add herbs; most used points Zusanli, Chize, Yinlingquan; Taiyin is the most frequently selected channel; moxa appears in 51 cases."
+  },
+  "takeaways": [
+    {
+      "zh": "疗效分级(计数，非学说)：他把疗效分为临床痊愈、显效、有效、无效四级并作电话等随访。125案中临床痊愈43案(34.4%)、显效38案(30.4%)、有效2案，两个最高等级合计81案(64.8%)；标“无效”的0案。另4案用“好转”、38案没有等级词(其中9案只写“痊愈”)。",
+      "en": "Grades (counts, not doctrine): he uses four grades and telephone follow-up. Of 125 cases 43 are clinical recovery (34.4%), 38 markedly effective (30.4%), 2 effective; the top two grades total 81 (64.8%). No case is graded ineffective; 4 say \"improved\" and 38 carry no grade word (9 of them only say \"cured\").",
+      "cite": [
+        "E1",
+        "E2"
+      ]
+    },
+    {
+      "zh": "诊数(计数)：诊数中位数4、平均6.71(被少数长疗程拉高)；57案(45.6%)在3诊以内，76案(60.8%)在5诊以内，1诊者18案；15诊及以上11案(8.8%)，最长的是案75头痛(66诊)、案22红斑狼疮综合征导致消化不良(50诊)、案117目干涩(27诊)。疼痛症中位数3诊，神经与带状疱疹、五官、神志病中位数均在7.5诊以上。",
+      "en": "Visits (counts): median 4, mean 6.71 (pulled up by a few long courses); 57 cases (45.6%) finished within 3 visits, 76 (60.8%) within 5, 18 in a single visit; 11 cases (8.8%) ran to 15 or more, the longest being Case 75 headache (66), Case 22 lupus-related dyspepsia (50) and Case 117 dry eyes (27). Pain has a median of 3; nerve/zoster, sense organs and mind conditions all have medians of 7.5 or more.",
+      "cite": [
+        "E4",
+        "E5",
+        "E8"
+      ]
+    },
+    {
+      "zh": "中药(计数)：录有中药处方、标“配合中药”的只有23案(18.4%)，其余102案(81.6%)是单纯针灸/灸/手法；23案里神经与带状疱疹5案、妇科4案、呼吸系统3案、疼痛症3案、神志病3案。心血管、消化、泌尿、汗证四组一案也没有。",
+      "en": "Herbs (counts): only 23 cases (18.4%) record a herbal prescription; the other 102 (81.6%) are acupuncture, moxa or manual work alone. Of the 23: nerve/zoster 5, gynaecology 4, respiratory 3, pain 3, mind 3; none in the cardiovascular, digestive, urinary or sweating groups.",
+      "cite": [
+        "E6"
+      ]
+    },
+    {
+      "zh": "用穴(计数)：按案计，足三里42案、尺泽40案、阴陵泉37案、太白28案居前，后顶20案(其中疼痛症16案，占该组39案的41.0%)；尺泽与阴陵泉同案出现28案，太渊+太白11案，内关+公孙9案，照海+复溜9案。每案(全部诊次合计)记录的穴位中位数7个、平均9.9个，不等于每次只用这么多。",
+      "en": "Points (counts): by cases, Zusanli 42, Chize 40, Yinlingquan 37 and Taibai 28 lead; Houding appears in 20 cases (16 in the pain group, 41.0% of its 39). Chize with Yinlingquan co-occur in 28 cases, Taiyuan+Taibai in 11, Neiguan+Gongsun in 9, Zhaohai+Fuliu in 9. Per case (all visits pooled) the median is 7 points, mean 9.9; this is not a per-treatment number.",
+      "cite": [
+        "E3",
+        "E7"
+      ]
+    },
+    {
+      "zh": "选经(计数)：91案有“选经”行，其中太阴经51案(56.0%)最多，其次阳明经38案、太阳经32案、少阴经27案、督脉26案、少阳经26案；124案有“经络诊察”行，太阴经字样出现于75案(60.5%)。按所用穴位的所属经脉计，脾经穴出现于67案、督脉61案、胃经58案。",
+      "en": "Channels (counts): 91 cases have a \"selected channel\" line; Taiyin leads with 51 (56.0%), then Yangming 38, Taiyang 32, Shaoyin 27, Du Mai 26, Shaoyang 26. Of 124 cases with a channel-examination line Taiyin is named in 75 (60.5%). By the channel of the points used, Spleen points occur in 67 cases, Du Mai 61, Stomach 58.",
+      "cite": [
+        "E11"
+      ]
+    },
+    {
+      "zh": "手法(计数)：在选穴与各诊记录里，灸见于51案(40.8%)、点(得气即出针)33案、刺络放血25案、操法18案、TDP 5案、拔罐3案；凡例规定未做标注的均为针刺得气后留针20分钟，所以这是“有特殊手法标注”的案数，不是针刺的案数。",
+      "en": "Techniques (counts): in the point lines and visit notes moxa appears in 51 cases (40.8%), dian (needle in and out) 33, collateral bloodletting 25, cao manipulation 18, TDP 5, cupping 3. The book's convention is that unmarked points are needled with 20-minute retention, so these are counts of cases with a marked special technique, not of needling.",
+      "cite": [
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "分科(计数)：疼痛症占39案(31.2%)，是最大的一组，17案临床痊愈、13案显效、中位数3诊；过敏性疾病7案全部标为临床痊愈或显效(3+4)；妇科12案中标临床痊愈3、显效3，另6案未标等级。组内案数很少(儿科3、心血管3、皮肤科3)，不宜比较各组的“有效率”。",
+      "en": "By group (counts): pain is the largest group at 39 cases (31.2%): 17 clinical recovery, 13 markedly effective, median 3 visits. All 7 allergic cases are graded clinical recovery or markedly effective (3+4). Of 12 gynaecology cases 3 are clinical recovery and 3 markedly effective, 6 carry no grade. Several groups are tiny (paediatrics 3, cardiovascular 3, dermatology 3), so group \"effective rates\" should not be compared.",
+      "cite": [
+        "E1"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 疗效等级(按各案“疗效”行统计)",
+        "en": "Table 1. Outcome grades (from each case's outcome line)"
+      },
+      "cols": [
+        {
+          "zh": "等级",
+          "en": "Grade"
+        },
+        {
+          "zh": "案数",
+          "en": "Cases"
+        },
+        {
+          "zh": "占125案",
+          "en": "Share"
+        },
+        {
+          "zh": "诊数中位数",
+          "en": "Median visits"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "临床痊愈",
+            "en": "Clinical recovery"
+          },
+          "43",
+          "34.4%",
+          "3"
+        ],
+        [
+          {
+            "zh": "显效",
+            "en": "Markedly effective"
+          },
+          "38",
+          "30.4%",
+          "5"
+        ],
+        [
+          {
+            "zh": "有效",
+            "en": "Effective"
+          },
+          "2",
+          "1.6%",
+          "3"
+        ],
+        [
+          {
+            "zh": "无效",
+            "en": "Ineffective"
+          },
+          "0",
+          "0.0%",
+          "—"
+        ],
+        [
+          {
+            "zh": "“属好转”(不在他的四级之内)",
+            "en": "\"Improved\" (outside his four grades)"
+          },
+          "4",
+          "3.2%",
+          "8.5"
+        ],
+        [
+          {
+            "zh": "未标等级，但疗效行文字称“痊愈”",
+            "en": "No grade, but outcome line says \"cured\""
+          },
+          "9",
+          "7.2%",
+          "3"
+        ],
+        [
+          {
+            "zh": "未标等级(其他描述)",
+            "en": "No grade (other wording)"
+          },
+          "29",
+          "23.2%",
+          "6"
+        ],
+        [
+          {
+            "zh": "合计",
+            "en": "Total"
+          },
+          "125",
+          "100%",
+          "4"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 各科案数、疗效与诊数(全书14组)",
+        "en": "Table 2. Cases, grades and visits by condition group"
+      },
+      "cols": [
+        {
+          "zh": "组",
+          "en": "Group"
+        },
+        {
+          "zh": "案数",
+          "en": "Cases"
+        },
+        {
+          "zh": "临床痊愈",
+          "en": "Recovery"
+        },
+        {
+          "zh": "显效",
+          "en": "Marked"
+        },
+        {
+          "zh": "有效/好转",
+          "en": "Effective/improved"
+        },
+        {
+          "zh": "未标等级",
+          "en": "Ungraded"
+        },
+        {
+          "zh": "诊数中位数",
+          "en": "Median visits"
+        },
+        {
+          "zh": "配合中药",
+          "en": "With herbs"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "呼吸系统",
+            "en": "Respiratory"
+          },
+          "12",
+          "2",
+          "3",
+          "1",
+          "6",
+          "3.5",
+          "3"
+        ],
+        [
+          {
+            "zh": "心血管",
+            "en": "Cardiovascular"
+          },
+          "3",
+          "0",
+          "1",
+          "0",
+          "2",
+          "3",
+          "0"
+        ],
+        [
+          {
+            "zh": "消化系统",
+            "en": "Digestive"
+          },
+          "8",
+          "3",
+          "1",
+          "2",
+          "2",
+          "3.5",
+          "0"
+        ],
+        [
+          {
+            "zh": "泌尿系统",
+            "en": "Urinary"
+          },
+          "4",
+          "3",
+          "0",
+          "0",
+          "1",
+          "3",
+          "0"
+        ],
+        [
+          {
+            "zh": "神经与带状疱疹",
+            "en": "Nerve / herpes zoster"
+          },
+          "10",
+          "3",
+          "1",
+          "0",
+          "6",
+          "7.5",
+          "5"
+        ],
+        [
+          {
+            "zh": "汗证",
+            "en": "Sweating"
+          },
+          "5",
+          "2",
+          "1",
+          "1",
+          "1",
+          "3",
+          "0"
+        ],
+        [
+          {
+            "zh": "过敏性疾病",
+            "en": "Allergic"
+          },
+          "7",
+          "3",
+          "4",
+          "0",
+          "0",
+          "6",
+          "1"
+        ],
+        [
+          {
+            "zh": "妇科",
+            "en": "Gynaecology"
+          },
+          "12",
+          "3",
+          "3",
+          "0",
+          "6",
+          "7",
+          "4"
+        ],
+        [
+          {
+            "zh": "儿科",
+            "en": "Paediatrics"
+          },
+          "3",
+          "2",
+          "1",
+          "0",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          {
+            "zh": "外科杂病",
+            "en": "Surgical misc."
+          },
+          "7",
+          "4",
+          "2",
+          "0",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          {
+            "zh": "皮肤科",
+            "en": "Dermatology"
+          },
+          "3",
+          "0",
+          "2",
+          "0",
+          "1",
+          "7",
+          "1"
+        ],
+        [
+          {
+            "zh": "疼痛症",
+            "en": "Pain"
+          },
+          "39",
+          "17",
+          "13",
+          "1",
+          "8",
+          "3",
+          "3"
+        ],
+        [
+          {
+            "zh": "五官",
+            "en": "Sense organs"
+          },
+          "6",
+          "1",
+          "3",
+          "0",
+          "2",
+          "8.5",
+          "1"
+        ],
+        [
+          {
+            "zh": "神志病",
+            "en": "Mind / spirit"
+          },
+          "6",
+          "0",
+          "3",
+          "1",
+          "2",
+          "7.5",
+          "3"
+        ],
+        [
+          {
+            "zh": "合计",
+            "en": "Total"
+          },
+          "125",
+          "43",
+          "38",
+          "6",
+          "38",
+          "4",
+          "23"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 诊数分布",
+        "en": "Table 3. Distribution of visit numbers"
+      },
+      "cols": [
+        {
+          "zh": "诊数",
+          "en": "Visits"
+        },
+        {
+          "zh": "案数",
+          "en": "Cases"
+        },
+        {
+          "zh": "占比",
+          "en": "Share"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "1 诊",
+            "en": "1 visit"
+          },
+          "18",
+          "14.4%"
+        ],
+        [
+          {
+            "zh": "2 诊",
+            "en": "2 visits"
+          },
+          "15",
+          "12.0%"
+        ],
+        [
+          {
+            "zh": "3 诊",
+            "en": "3 visits"
+          },
+          "24",
+          "19.2%"
+        ],
+        [
+          {
+            "zh": "4-5 诊",
+            "en": "4-5 visits"
+          },
+          "19",
+          "15.2%"
+        ],
+        [
+          {
+            "zh": "6-9 诊",
+            "en": "6-9 visits"
+          },
+          "21",
+          "16.8%"
+        ],
+        [
+          {
+            "zh": "10-14 诊",
+            "en": "10-14 visits"
+          },
+          "17",
+          "13.6%"
+        ],
+        [
+          {
+            "zh": "15+ 诊",
+            "en": "15+ visits"
+          },
+          "11",
+          "8.8%"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表4 用得最多的20个穴(每案计1次；123案记有穴位)",
+        "en": "Table 4. Twenty most used points (one count per case; 123 cases list points)"
+      },
+      "cols": [
+        {
+          "zh": "名次",
+          "en": "Rank"
+        },
+        {
+          "zh": "穴",
+          "en": "Point"
+        },
+        {
+          "zh": "经脉",
+          "en": "Channel"
+        },
+        {
+          "zh": "案数",
+          "en": "Cases"
+        },
+        {
+          "zh": "占123案",
+          "en": "Share"
+        }
+      ],
+      "rows": [
+        [
+          "1",
+          "足三里",
+          {
+            "zh": "足阳明胃经",
+            "en": "Stomach"
+          },
+          "42",
+          "34.1%"
+        ],
+        [
+          "2",
+          "尺泽",
+          {
+            "zh": "手太阴肺经",
+            "en": "Lung"
+          },
+          "40",
+          "32.5%"
+        ],
+        [
+          "3",
+          "阴陵泉",
+          {
+            "zh": "足太阴脾经",
+            "en": "Spleen"
+          },
+          "37",
+          "30.1%"
+        ],
+        [
+          "4",
+          "太白",
+          {
+            "zh": "足太阴脾经",
+            "en": "Spleen"
+          },
+          "28",
+          "22.8%"
+        ],
+        [
+          "5",
+          "太阳",
+          {
+            "zh": "经外穴/阿是",
+            "en": "Extra / ashi"
+          },
+          "25",
+          "20.3%"
+        ],
+        [
+          "6",
+          "大椎",
+          {
+            "zh": "督脉",
+            "en": "Du Mai"
+          },
+          "23",
+          "18.7%"
+        ],
+        [
+          "7",
+          "复溜",
+          {
+            "zh": "足少阴肾经",
+            "en": "Kidney"
+          },
+          "23",
+          "18.7%"
+        ],
+        [
+          "8",
+          "公孙",
+          {
+            "zh": "足太阴脾经",
+            "en": "Spleen"
+          },
+          "23",
+          "18.7%"
+        ],
+        [
+          "9",
+          "三阴交",
+          {
+            "zh": "足太阴脾经",
+            "en": "Spleen"
+          },
+          "22",
+          "17.9%"
+        ],
+        [
+          "10",
+          "太冲",
+          {
+            "zh": "足厥阴肝经",
+            "en": "Liver"
+          },
+          "22",
+          "17.9%"
+        ],
+        [
+          "11",
+          "天柱",
+          {
+            "zh": "足太阳膀胱经",
+            "en": "Bladder"
+          },
+          "22",
+          "17.9%"
+        ],
+        [
+          "12",
+          "风池",
+          {
+            "zh": "足少阳胆经",
+            "en": "Gallbladder"
+          },
+          "21",
+          "17.1%"
+        ],
+        [
+          "13",
+          "照海",
+          {
+            "zh": "足少阴肾经",
+            "en": "Kidney"
+          },
+          "21",
+          "17.1%"
+        ],
+        [
+          "14",
+          "后顶",
+          {
+            "zh": "督脉",
+            "en": "Du Mai"
+          },
+          "20",
+          "16.3%"
+        ],
+        [
+          "15",
+          "阳陵泉",
+          {
+            "zh": "足少阳胆经",
+            "en": "Gallbladder"
+          },
+          "20",
+          "16.3%"
+        ],
+        [
+          "16",
+          "关元",
+          {
+            "zh": "任脉",
+            "en": "Ren Mai"
+          },
+          "19",
+          "15.4%"
+        ],
+        [
+          "17",
+          "列缺",
+          {
+            "zh": "手太阴肺经",
+            "en": "Lung"
+          },
+          "19",
+          "15.4%"
+        ],
+        [
+          "18",
+          "太溪",
+          {
+            "zh": "足少阴肾经",
+            "en": "Kidney"
+          },
+          "17",
+          "13.8%"
+        ],
+        [
+          "19",
+          "内关",
+          {
+            "zh": "手厥阴心包经",
+            "en": "Pericardium"
+          },
+          "16",
+          "13.0%"
+        ],
+        [
+          "20",
+          "太渊",
+          {
+            "zh": "手太阴肺经",
+            "en": "Lung"
+          },
+          "16",
+          "13.0%"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表5 按所用穴位的所属经脉计(至少含1个该经穴的案数)",
+        "en": "Table 5. Channel of the points used (cases with at least one point of that channel)"
+      },
+      "cols": [
+        {
+          "zh": "经脉",
+          "en": "Channel"
+        },
+        {
+          "zh": "案数",
+          "en": "Cases"
+        },
+        {
+          "zh": "占123案",
+          "en": "Share"
+        },
+        {
+          "zh": "穴次(全部案累计)",
+          "en": "Point tallies"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "足太阴脾经",
+            "en": "Spleen"
+          },
+          "67",
+          "54.5%",
+          "136"
+        ],
+        [
+          {
+            "zh": "督脉",
+            "en": "Du Mai"
+          },
+          "61",
+          "49.6%",
+          "100"
+        ],
+        [
+          {
+            "zh": "足阳明胃经",
+            "en": "Stomach"
+          },
+          "58",
+          "47.2%",
+          "111"
+        ],
+        [
+          {
+            "zh": "足太阳膀胱经",
+            "en": "Bladder"
+          },
+          "56",
+          "45.5%",
+          "154"
+        ],
+        [
+          {
+            "zh": "手太阴肺经",
+            "en": "Lung"
+          },
+          "55",
+          "44.7%",
+          "103"
+        ],
+        [
+          {
+            "zh": "足少阳胆经",
+            "en": "Gallbladder"
+          },
+          "54",
+          "43.9%",
+          "116"
+        ],
+        [
+          {
+            "zh": "任脉",
+            "en": "Ren Mai"
+          },
+          "51",
+          "41.5%",
+          "93"
+        ],
+        [
+          {
+            "zh": "经外穴/阿是",
+            "en": "Extra / ashi"
+          },
+          "50",
+          "40.7%",
+          "68"
+        ],
+        [
+          {
+            "zh": "足少阴肾经",
+            "en": "Kidney"
+          },
+          "49",
+          "39.8%",
+          "75"
+        ],
+        [
+          {
+            "zh": "足厥阴肝经",
+            "en": "Liver"
+          },
+          "37",
+          "30.1%",
+          "72"
+        ],
+        [
+          {
+            "zh": "手阳明大肠经",
+            "en": "Large Intestine"
+          },
+          "33",
+          "26.8%",
+          "51"
+        ],
+        [
+          {
+            "zh": "手少阳三焦经",
+            "en": "San Jiao"
+          },
+          "28",
+          "22.8%",
+          "54"
+        ],
+        [
+          {
+            "zh": "手太阳小肠经",
+            "en": "Small Intestine"
+          },
+          "26",
+          "21.1%",
+          "44"
+        ],
+        [
+          {
+            "zh": "手厥阴心包经",
+            "en": "Pericardium"
+          },
+          "25",
+          "20.3%",
+          "36"
+        ],
+        [
+          {
+            "zh": "手少阴心经",
+            "en": "Heart"
+          },
+          "20",
+          "16.3%",
+          "27"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表6 “选经”行与“经络诊察”行中出现的经脉(同一案可含多条；手足经未区分)",
+        "en": "Table 6. Channels named in the \"selected channel\" and \"channel examination\" lines (a case may name several; hand/foot not separated)"
+      },
+      "cols": [
+        {
+          "zh": "经脉",
+          "en": "Channel"
+        },
+        {
+          "zh": "选经行案数",
+          "en": "Selected (cases)"
+        },
+        {
+          "zh": "占91案",
+          "en": "Share of 91"
+        },
+        {
+          "zh": "察经行案数",
+          "en": "Examination (cases)"
+        },
+        {
+          "zh": "占124案",
+          "en": "Share of 124"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "太阴经",
+            "en": "太阴经"
+          },
+          "51",
+          "56.0%",
+          "75",
+          "60.5%"
+        ],
+        [
+          {
+            "zh": "阳明经",
+            "en": "阳明经"
+          },
+          "38",
+          "41.8%",
+          "39",
+          "31.5%"
+        ],
+        [
+          {
+            "zh": "太阳经",
+            "en": "太阳经"
+          },
+          "32",
+          "35.2%",
+          "50",
+          "40.3%"
+        ],
+        [
+          {
+            "zh": "少阴经",
+            "en": "少阴经"
+          },
+          "27",
+          "29.7%",
+          "39",
+          "31.5%"
+        ],
+        [
+          {
+            "zh": "督脉",
+            "en": "督脉"
+          },
+          "26",
+          "28.6%",
+          "11",
+          "8.9%"
+        ],
+        [
+          {
+            "zh": "少阳经",
+            "en": "少阳经"
+          },
+          "26",
+          "28.6%",
+          "41",
+          "33.1%"
+        ],
+        [
+          {
+            "zh": "任脉",
+            "en": "任脉"
+          },
+          "18",
+          "19.8%",
+          "2",
+          "1.6%"
+        ],
+        [
+          {
+            "zh": "厥阴经",
+            "en": "厥阴经"
+          },
+          "17",
+          "18.7%",
+          "33",
+          "26.6%"
+        ],
+        [
+          {
+            "zh": "冲脉",
+            "en": "冲脉"
+          },
+          "5",
+          "5.5%",
+          "0",
+          "0.0%"
+        ],
+        [
+          {
+            "zh": "阴维",
+            "en": "阴维"
+          },
+          "3",
+          "3.3%",
+          "0",
+          "0.0%"
+        ],
+        [
+          {
+            "zh": "阴跷",
+            "en": "阴跷"
+          },
+          "1",
+          "1.1%",
+          "0",
+          "0.0%"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表7 手法标注(凡例：点＝得气即出针；灸10~15分钟；未标注＝留针20分钟)",
+        "en": "Table 7. Marked techniques (book convention: dian = withdraw after de qi; moxa 10-15 min; unmarked = 20-min retention)"
+      },
+      "cols": [
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "案数",
+          "en": "Cases"
+        },
+        {
+          "zh": "占125案",
+          "en": "Share"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "灸",
+            "en": "Moxa"
+          },
+          "51",
+          "40.8%"
+        ],
+        [
+          {
+            "zh": "点刺",
+            "en": "Dian (needle in-out, no retention)"
+          },
+          "33",
+          "26.4%"
+        ],
+        [
+          {
+            "zh": "刺络放血",
+            "en": "Collateral pricking / bloodletting"
+          },
+          "25",
+          "20.0%"
+        ],
+        [
+          {
+            "zh": "操法",
+            "en": "Cao (skin-and-fascia manipulation)"
+          },
+          "18",
+          "14.4%"
+        ],
+        [
+          {
+            "zh": "TDP",
+            "en": "TDP lamp"
+          },
+          "5",
+          "4.0%"
+        ],
+        [
+          {
+            "zh": "拔罐",
+            "en": "Cupping (incl. water cup)"
+          },
+          "3",
+          "2.4%"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表8 各组用得最多的穴(括号内为该组案数)",
+        "en": "Table 8. Most used points within each group (cases in brackets)"
+      },
+      "cols": [
+        {
+          "zh": "组",
+          "en": "Group"
+        },
+        {
+          "zh": "前4位",
+          "en": "Top 4"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "呼吸系统",
+            "en": "Respiratory"
+          },
+          "尺泽(10)、照海(8)、孔最(7)、列缺(7)"
+        ],
+        [
+          {
+            "zh": "心血管",
+            "en": "Cardiovascular"
+          },
+          "少海(2)、心俞(2)、公孙(1)、内关(1)"
+        ],
+        [
+          {
+            "zh": "消化系统",
+            "en": "Digestive"
+          },
+          "足三里(5)、尺泽(4)、公孙(4)、内关(4)"
+        ],
+        [
+          {
+            "zh": "泌尿系统",
+            "en": "Urinary"
+          },
+          "中极(4)、膀胱俞(2)、尺泽(2)、照海(2)"
+        ],
+        [
+          {
+            "zh": "神经与带状疱疹",
+            "en": "Nerve / herpes zoster"
+          },
+          "合谷(6)、足三里(6)、太阳(5)、天柱(5)"
+        ],
+        [
+          {
+            "zh": "汗证",
+            "en": "Sweating"
+          },
+          "神门(3)、太溪(3)、大椎(2)、复溜(2)"
+        ],
+        [
+          {
+            "zh": "过敏性疾病",
+            "en": "Allergic"
+          },
+          "尺泽(6)、复溜(5)、大椎(4)、阴陵泉(4)"
+        ],
+        [
+          {
+            "zh": "妇科",
+            "en": "Gynaecology"
+          },
+          "三阴交(8)、关元(7)、公孙(6)、地机(5)"
+        ],
+        [
+          {
+            "zh": "儿科",
+            "en": "Paediatrics"
+          },
+          "足三里(3)、大椎(2)、建里(2)、身柱(2)"
+        ],
+        [
+          {
+            "zh": "外科杂病",
+            "en": "Surgical misc."
+          },
+          "曲泉(3)、太冲(3)、足三里(3)、曲池(2)"
+        ],
+        [
+          {
+            "zh": "皮肤科",
+            "en": "Dermatology"
+          },
+          "尺泽(3)、大椎(3)、曲池(3)、血海(3)"
+        ],
+        [
+          {
+            "zh": "疼痛症",
+            "en": "Pain"
+          },
+          "后顶(16)、太阳(12)、阿是穴(9)、阳陵泉(8)"
+        ],
+        [
+          {
+            "zh": "五官",
+            "en": "Sense organs"
+          },
+          "风池(4)、尺泽(3)、复溜(3)、合谷(3)"
+        ],
+        [
+          {
+            "zh": "神志病",
+            "en": "Mind / spirit"
+          },
+          "足三里(5)、大陵(4)、神门(4)、太白(4)"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表9 同案出现的常见对穴",
+        "en": "Table 9. Point pairs occurring together in one case"
+      },
+      "cols": [
+        {
+          "zh": "对穴",
+          "en": "Pair"
+        },
+        {
+          "zh": "同案案数",
+          "en": "Cases"
+        },
+        {
+          "zh": "占125案",
+          "en": "Share"
+        }
+      ],
+      "rows": [
+        [
+          "尺泽+阴陵泉",
+          "28",
+          "22.4%"
+        ],
+        [
+          "太渊+太白",
+          "11",
+          "8.8%"
+        ],
+        [
+          "内关+公孙",
+          "9",
+          "7.2%"
+        ],
+        [
+          "照海+复溜",
+          "9",
+          "7.2%"
+        ],
+        [
+          "大陵+行间",
+          "8",
+          "6.4%"
+        ],
+        [
+          "曲泉+太冲",
+          "8",
+          "6.4%"
+        ],
+        [
+          "神门+太溪",
+          "5",
+          "4.0%"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "王居易教授将病例的临床疗效分为临床痊愈、显效、有效、无效四个级别",
+      "src": "王居易针灸医案讲习录·凡例 p.2"
+    },
+    {
+      "id": "E2",
+      "quote": "所有病例均通过定期电话或其他形式进行追踪随访",
+      "src": "王居易针灸医案讲习录·凡例 p.2"
+    },
+    {
+      "id": "E3",
+      "quote": "居易教授临床遵循“少而精”的配穴原则，以特定穴为主进行配伍",
+      "src": "王居易针灸医案讲习录·凡例 p.2"
+    },
+    {
+      "id": "E4",
+      "quote": "共66诊；属显效",
+      "src": "王居易针灸医案讲习录·案75 疗效 p.141起"
+    },
+    {
+      "id": "E5",
+      "quote": "共27诊；属显效",
+      "src": "王居易针灸医案讲习录·案117 疗效 p.208起"
+    },
+    {
+      "id": "E6",
+      "quote": "经过两次中药和五次针灸治疗，咳嗽已不明显",
+      "src": "王居易针灸医案讲习录·案10 疗效 p.10起"
+    },
+    {
+      "id": "E7",
+      "quote": "后顶穴是笔者发现总结出的一个特殊头部穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.196"
+    },
+    {
+      "id": "E8",
+      "quote": "共1诊。6月11日电话追访，症未复发。属临床痊愈",
+      "src": "王居易针灸医案讲习录·案46 疗效 p.89起"
+    },
+    {
+      "id": "E9",
+      "quote": "点：针刺得气后即出针，不留针",
+      "src": "王居易针灸医案讲习录·凡例 p.2"
+    },
+    {
+      "id": "E11",
+      "quote": "选经：是根据辨经的结果选择治疗经脉的方法。临床常用选择本经、同名经、表里经、相生相克经、奇经八脉等五种选经方法",
+      "src": "王居易针灸医案讲习录·凡例 p.2"
+    },
+    {
+      "id": "E10",
+      "quote": "书中未做刺激法标注的均为针刺瑜穴得气并留针20分钟",
+      "src": "王居易针灸医案讲习录·凡例 p.2"
+    }
+  ],
+  "how_to_use": {
+    "zh": "把这些数字当作“这本书里的这125案是什么样子”的描述：想知道他某类病常用几诊、常用哪些穴，可查表2、表4、表8；想知道他“选经”倾向，看表6。它们不能替代前面各篇里他自己的论述，也不能当作疗效统计或处方依据。",
+    "en": "Read these numbers as a description of the 125 cases in this book: for typical visit counts and common points by group see Tables 2, 4 and 8; for channel tendencies see Table 6. They do not replace his own reasoning in the other guides and are not efficacy statistics or prescribing rules."
+  },
+  "caveats": {
+    "zh": "(1)这是本书125案的计数，不是他全部临床的统计，也不是他的学说；病例由作者挑选，无对照。(2)疗效等级取自各案“疗效”行(以最后出现的“属X”为准)，未标等级不等于无效。(3)诊数取疗效行所述总次数(“共N诊”或“治疗N次…再巩固M次”相加)；未述者取病历所载最后一诊序号，属下限。(4)穴位按案计数，包含各诊及案内解读中记录的全部穴位；“太阳”“阿是穴”“四关”等按原文名称计为经外穴。(5)选经/察经行的经脉是字面统计，手足经不分，且不判断是否为“无异常”。(6)手法为对选穴与各诊文字的检索，剔除了解析标签里“5点醒”“重点”“针灸”这类误报，个别案(如案121“点次”)因原文截断而未计入。(7)原文OCR略有错字，如“阴郄”常缺“郄”。",
+    "en": "(1) These are counts from this book's 125 selected cases, not his whole practice and not his doctrine; there is no control group. (2) Grades come from each outcome line (the last \"属X\" wins); \"no grade\" does not mean ineffective. (3) Visits use the total stated in the outcome line (\"N visits\" or \"N treatments plus M consolidation\") and otherwise the last numbered visit recorded, which is a lower bound. (4) Points are counted per case over all visits and the case commentary; Taiyang, ashi points and Siguan are counted as extra points under their printed names. (5) The channel lines are literal counts; hand and foot channels are not separated and a mention such as \"no abnormality\" is not screened out. (6) Techniques were searched in the point and visit text; false hits such as \"5点醒\", \"重点\" and \"针灸\" were removed by hand, and a truncated \"点次\" in Case 121 was not counted. (7) OCR of the source has some errors, e.g. Yinxi often lacks the second character."
+  },
+  "see": {
+    "cases": [
+      "wjy-010",
+      "wjy-022",
+      "wjy-046",
+      "wjy-063",
+      "wjy-075",
+      "wjy-088",
+      "wjy-096",
+      "wjy-117"
+    ],
+    "points": [
+      "足三里",
+      "尺泽",
+      "阴陵泉",
+      "太白",
+      "大椎",
+      "复溜",
+      "公孙",
+      "三阴交",
+      "太冲",
+      "天柱",
+      "风池",
+      "后顶"
+    ]
+  }
+}

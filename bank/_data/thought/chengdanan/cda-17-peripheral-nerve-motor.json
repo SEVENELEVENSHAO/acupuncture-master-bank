@@ -1,0 +1,678 @@
+{
+  "id": "cda-17-peripheral-nerve-motor",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 17,
+  "title": {
+    "zh": "末梢神经、运动神经与运动器病：先辨亢进或衰减，再循神经径路取穴",
+    "en": "Peripheral Nerve, Motor and Locomotor Disease: Excited or Weakened Nerve First, Then Points Along the Nerve Route"
+  },
+  "summary": {
+    "zh": "这是处方集最大的一批(共62条)。统一的逻辑见病理篇：麻痹是神经功能“衰减”，就干部与患部给“略强之刺激”使之兴奋；痉挛与神经痛是功能“亢进”，用刺激镇静。取穴按神经分布：上肢神经取天柱、大杼、肩中俞、肩外俞一带加径路穴，下肢取肾俞、大肠俞、次髎一带加径路穴，直接、反射、诱导三路并用；中刺激为常态(37条)，麻痹改轻刺激加皮肤针沿神经线叩打，痛处配吸筒、艾条灸；功能病重灸关元。急性风湿须与药物并用，病久则收效迟缓。",
+    "en": "The largest block in the prescriptions book (62 entries). The unifying logic is in his pathology book: palsy is a nerve whose function has weakened, so the trunk and affected area get a somewhat strong stimulus to excite it; spasm and neuralgia are over-activity, calmed by stimulation. Points follow the nerve: neck and shoulder-girdle points (Tianzhu, Dazhu, Jianzhongshu, Jianwaishu) plus route points for the arm, Shenshu, Dachangshu, Ciliao plus route points for the leg; direct, reflex and induction routes are combined. Moderate stimulation is the default (37 entries); palsies shift to light stimulation with skin-needle tapping along the nerve; cupping and moxa stick go on painful areas; functional disease gets Guanyuan moxa. Acute rheumatism needs drugs alongside, and long-standing cases respond slowly."
+  },
+  "takeaways": [
+    {
+      "zh": "全章的分水岭是神经功能的方向。病理篇明说：麻痹“因起于神经功能衰减”，要就神经径路干部及患部“与以略强之刺激”使之兴奋；痉挛“由于运动神经功能亢进”，用强刺激“镇静其亢奋之功能”。处方目的句与此一一对应：神经痛12条中11条写“制止/抑制其兴奋、镇静”(仅指趾尖知觉异常写“恢复正常”)；痉挛7条全部是制止、镇静、镇痉；麻痹20条则全部写兴奋、振奋、促进、恢复功能，没有一条用镇静字样。",
+      "en": "The dividing line is the direction of nerve function. The pathology book says palsy arises from weakened nerve function and the trunk and affected area get a somewhat strong stimulus to excite it, while spasm is over-active motor function calmed by strong stimulation. The prescription aims mirror this: 11 of 12 neuralgia entries aim to check, suppress or calm the excitation (only tip-of-finger sensory disturbance says restore normal); all 7 spasm entries aim to check, calm or relieve spasm; all 20 palsy entries aim to excite, rouse, promote or restore function, none using calming wording.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ]
+    },
+    {
+      "zh": "取穴的骨架是“神经根部+神经径路”。上肢神经痛、麻痹(颈膊神经痛及9条上肢、胸肩神经麻痹，共10条)中9条含天柱、大杼、肩中俞、肩外俞、曲垣之一，再往下沿该神经径路配肘、腕、手穴；下肢及腰腹神经条(腰腹、股、精系、坐骨神经痛及腹肌、股、闭锁、坐骨、胫骨、腓骨麻痹，共10条)全部含肾俞、大肠俞、次髎、上髎、中髎、中膂俞、关元俞、三焦俞之一，再沿腿部径路下至昆仑、束骨。他自称“刺激荐骨神经丛与直接病部之神经”“传达刺激交感神经之下腹神经丛”。",
+      "en": "The frame is nerve-root region plus nerve course. Of 10 arm and shoulder neuralgia and palsy entries, 9 contain one of Tianzhu, Dazhu, Jianzhongshu, Jianwaishu, Quyuan, then run down the nerve route to elbow, wrist and hand; all 10 lower-limb and lumbo-abdominal nerve entries contain one of Shenshu, Dachangshu, Ciliao, Shangliao, Zhongliao, Zhonglushu, Guanyuanshu, Sanjiaoshu, then descend the leg to Kunlun or Shugu. He describes the aim as stimulating the sacral plexus and the diseased nerve directly, or the hypogastric plexus.",
+      "cite": [
+        "E5",
+        "E6",
+        "E7",
+        "E8",
+        "E9"
+      ]
+    },
+    {
+      "zh": "“直接、反射、诱导”是他分穴位功能的三个词。颜面神经痉挛明写“从直接、反射、诱导，三法取穴”：痉挛处直接取穴并留针，风池、天柱、翳风反射，手三里、合谷诱导；偏头痛则说手足部穴用重刺激是反射之目的，中刺激并留针是诱导之目的；关节神经痛在患部施术之后“再取适宜之部位诱导之”。三词在62条中分别出现于8、15、6条。",
+      "en": "Direct, reflex and induction are his three words for what a point does. Facial spasm says points are chosen by all three routes: at the spasm itself with retained needle, Fengchi, Tianzhu, Yifeng reflexly, Shousanli and Hegu by induction. In migraine, heavy stimulation at hand and foot points is the reflex purpose, moderate retained stimulation the induction purpose; in joint neuralgia after treating the affected part he induces from another suitable site. The words (direct, reflex, induction) appear in 8, 15 and 6 of the 62 entries respectively.",
+      "cite": [
+        "E10",
+        "E11",
+        "E12",
+        "E17"
+      ]
+    },
+    {
+      "zh": "刺激量以中刺激为常态(37条明写)，再按病期与神经状态改动。颜面神经麻痹是最清楚的例子：初起数日只针患侧、强刺激；1周以上加隔姜灸颊车、地仓；1个月以上先浅刺轻刺激再灸。三叉神经麻痹“健侧用中刺激，患侧用轻刺激”；坐骨、胫骨、腓骨神经麻痹3条皆间日轮用轻刺激；强刺激(含重刺激)只见于7条，多为急性或痉挛(急性关节风湿、三叉神经痉挛、急痫、搐搦、指趾拘缓、偏头痛手足穴、颜面麻痹初起)。",
+      "en": "Moderate stimulation is the default (named in 37 entries) and is altered by stage and nerve state. Facial palsy is the clearest case: first days affected side only with strong stimulation; after a week ginger-partitioned moxa at Jiache and Dicang; after a month shallow light needling first, then moxa. Trigeminal palsy takes moderate on the healthy side and light on the affected side; the sciatic, tibial and peroneal palsies all get light stimulation on alternate days; strong or heavy stimulation appears in only 7 entries, mostly acute or spasmodic (acute joint rheumatism, trigeminal spasm, acute epilepsy, tetany, finger-toe contracture, migraine limb points, early facial palsy).",
+      "cite": [
+        "E13",
+        "E14",
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "zh": "针之外的辅助手段有固定分工。皮肤针见于10条，其中7条是麻痹：桡骨、正中、尺骨神经麻痹“沿该神经分布线捶击”，坐骨、胫骨、腓骨神经麻痹沿腿部径路叩打；吸筒(拔罐)见于12条，用于压痛点和肩背腰部(坐骨神经痛、腰腹神经痛、股神经痛、长胸/肩胛/腋窝神经麻痹、腹肌麻痹、膝关节炎等)；艾条灸16条，含灸法者合计26条。压痛点(仅2条明写)被当作针刺与吸筒的靶点，坐骨神经痛则“视痛之所及，取四五穴作刺激而后留针”。",
+      "en": "Adjuncts beyond the needle have fixed jobs. The skin needle appears in 10 entries, 7 of them palsies: radial, median and ulnar palsy are tapped along the nerve distribution, sciatic, tibial and peroneal palsy along the leg route. Cupping appears in 12 entries, at tender points and the shoulder, back and loin (sciatica, lumbo-abdominal and femoral neuralgia, long thoracic, scapular and axillary palsy, abdominal muscle palsy, knee arthritis and others). Moxa stick is in 16 entries and moxa of all kinds in 26. Tender points (explicit in 2 entries) are targets for needle and cup; in sciatica four or five points along the pain are needled and retained.",
+      "cite": [
+        "E18",
+        "E19",
+        "E20"
+      ]
+    },
+    {
+      "zh": "运动神经痉挛7条以“制止”为主，取法因部位而异：面肌、舌下神经、三叉神经、颈项肌痉挛用风池、天柱、翳风等颈项穴反射(4条同含风池、天柱)；面部直接取痉挛处并留针；膈肌痉挛则改用灸——间代性者水突、膻中、巨阙、关元各小艾炷七壮，强直性者巨阙、期门、内关各十壮，并“作急救处置；同时另急请专医治疗”。面肌痉挛他直言“治愈则较难，甚有终身不愈者”。",
+      "en": "The 7 motor-spasm entries aim mainly at checking the spasm, by site: facial, hypoglossal, trigeminal and neck-muscle spasm use the neck points Fengchi, Tianzhu, Yifeng reflexly (4 entries contain Fengchi and Tianzhu); the face is also needled directly at the spasm with retained needles; diaphragm spasm switches to moxa, small cones x7 at Shuitu, Danzhong, Juque, Guanyuan for the clonic type and x10 at Juque, Qimen, Neiguan for the tonic type, as emergency treatment with an urgent specialist. Facial spasm is stated to be hard to cure, some never.",
+      "cite": [
+        "E12",
+        "E21",
+        "E22",
+        "E23"
+      ]
+    },
+    {
+      "zh": "功能性神经病(11条)中，急痫、舞蹈病、搐搦、指趾拘缓仍以镇痉、制止为目的，而慢性的神经衰弱、歇斯底里、职业痉挛、振颤麻痹改以调血行、强壮神经功能为目的，重点在关元灸：神经衰弱“关元穴常予灸治甚佳”，歇斯底里“关元则每日用温灸器或艾条灸”并须轻刺激持续数月，职业痉挛每日灸关元，振颤麻痹“关元、命门，必每日灸治之”，共4条。癫痫他特别交代自己的看法：其病在脑，源在消化系，故取穴偏重于刺激胃肠，发作减少后针治间隔逐步拉长。",
+      "en": "Among the 11 functional nervous disorders, acute epilepsy, chorea, tetany and finger-toe contracture still aim to relieve spasm, but the chronic neurasthenia, hysteria, occupational spasm and paralysis agitans aim to regulate circulation and strengthen nerve function, with the weight on Guanyuan moxa: neurasthenia, hysteria (daily warming device or stick, with light needling for months), occupational spasm (daily Guanyuan) and paralysis agitans (Guanyuan and Mingmen daily), four entries in all. For epilepsy he states his own view that the disease is in the brain but its source is the digestive system, so points favour stimulating stomach and intestine, and needling intervals lengthen as attacks fall.",
+      "cite": [
+        "E24",
+        "E25",
+        "E26",
+        "E27",
+        "E28"
+      ]
+    },
+    {
+      "zh": "运动器病(8条)与预后有一套保守的态度：急性关节风湿“不能单纯用针灸治疗”，须与药物发汗退热并用、有合并症必与专医共治；慢性则“注重于其患部上下之穴位”，并用药艾条灸；肌肉风湿“针灸收效较速”；调护重保温(5条)、忌冷罨。预后多写“多良”，但病久、迟缓者另写(15条含难、缓、迟)，早治多良(桡骨神经麻痹)，久治乃效(正中、尺骨神经麻痹)；他对“电疗久治者再用针灸则收效缓”的说法也注明只是个人临床经验，“还待多数针灸医家之证实”。",
+      "en": "For locomotor disease and prognosis he is conservative. Acute joint rheumatism cannot be treated with acupuncture alone but needs drugs for sweating and fever, and with complications a specialist; chronic cases stress points above and below the joint with medicated moxa; muscular rheumatism responds fastest to acupuncture; care stresses warmth (5 entries) and no cold packs. Prognosis is mostly good, yet 15 entries note difficulty, slowness or delay, early treatment is favourable (radial palsy) and patience is needed (median, ulnar palsy). His remark that cases treated long by electrotherapy respond slower is labelled personal clinical experience awaiting confirmation by other acupuncturists.",
+      "cite": [
+        "E29",
+        "E30",
+        "E31",
+        "E32",
+        "E33",
+        "E34"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "末梢神经病、麻痹与痉挛：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Peripheral nerve neuralgia, palsy and spasm: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "三叉神经痛",
+            "en": "Trigeminal neuralgia"
+          },
+          {
+            "zh": "传导刺激、促血行、抑制兴奋、镇静",
+            "en": "Conduct stimulation, promote circulation, suppress excitation, calm"
+          },
+          "风池、翳风、下关、手三里、合谷；按一、二、三支加阳白/攒竹、太阳/四白/巨髎、颊车/大迎",
+          {
+            "zh": "面部中刺激约1分钟后置针，再手部强刺激；数日持续",
+            "en": "Face moderate ~1 min, retained; then strong at hand; continue several days"
+          },
+          {
+            "zh": "大多良好",
+            "en": "Mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "桡骨神经痛(颈膊神经痛之一)",
+            "en": "Radial neuralgia (one of the brachial neuralgias)"
+          },
+          {
+            "zh": "直接刺激主干神经，再沿径路刺激，制止兴奋",
+            "en": "Stimulate trunk directly then along route, check excitation"
+          },
+          "大杼、肩外俞、肘髎、阳溪；天柱、曲垣、消泺、手三里、合谷",
+          {
+            "zh": "两组每日轮换，中刺激，针后艾条灸，曲垣肩外俞可吸筒",
+            "en": "Two groups alternated daily, moderate, moxa stick, cupping at two points"
+          },
+          {
+            "zh": "多良",
+            "en": "Mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "坐骨神经痛",
+            "en": "Sciatica"
+          },
+          {
+            "zh": "旺盛血行、使神经功能正常、制止兴奋",
+            "en": "Boost circulation, normalise nerve function, check excitation"
+          },
+          "次髎、环跳、压痛点、承扶、殷门、委中、阳陵泉、合阳、三阴交、昆仑",
+          {
+            "zh": "视痛所及取四五穴刺激后留针；压痛点针后吸筒；日或间日",
+            "en": "4–5 points along the pain, retained; cup tender points; daily or alternate days"
+          },
+          {
+            "zh": "多良；早针数次即愈，电疗久治者较缓(个人经验)",
+            "en": "Mostly good; early needling cures in a few sessions, slower after long electrotherapy (personal experience)"
+          }
+        ],
+        [
+          {
+            "zh": "颜面神经麻痹",
+            "en": "Facial palsy"
+          },
+          {
+            "zh": "直接刺激神经，恢复功能",
+            "en": "Stimulate nerve directly, restore function"
+          },
+          "末梢性：下关、颊车、地仓、承浆、合谷；中枢性：百会、风池、翳风、肩髃、阳陵泉、颊车、下关、地仓",
+          {
+            "zh": "初起患侧强刺激；1周以上隔姜灸颊车、地仓；1月以上浅刺轻刺激再灸；中枢性百会艾条灸",
+            "en": "Early affected side strong; after 1 week ginger moxa; after 1 month shallow light then moxa; central type Baihui moxa stick"
+          },
+          {
+            "zh": "多良；病久较难",
+            "en": "Mostly good; harder if long-standing"
+          }
+        ],
+        [
+          {
+            "zh": "桡骨神经麻痹",
+            "en": "Radial palsy"
+          },
+          {
+            "zh": "直接刺激局所，振奋功能",
+            "en": "Stimulate locally, rouse function"
+          },
+          "肩井、肩髃、曲池、上廉、阳池、鱼际、三间；巨骨、臑会、手三里、孔最、阳溪、少商、合谷",
+          {
+            "zh": "两组每日轮针，艾条灸，每日皮肤针沿神经分布线捶击",
+            "en": "Two groups alternated, moxa stick, daily skin-needle tapping along the nerve"
+          },
+          {
+            "zh": "早治多良",
+            "en": "Early treatment mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "坐骨神经麻痹",
+            "en": "Sciatic palsy"
+          },
+          {
+            "zh": "刺激荐骨神经丛与病部神经，促进兴奋",
+            "en": "Stimulate sacral plexus and diseased nerve, promote excitation"
+          },
+          "大肠俞、次髎、中膂俞、环跳、承扶、委中、飞扬、三阴交；关元俞、中髎、秩边、殷门、承山、阳陵泉、阳辅、解溪",
+          {
+            "zh": "间日轮流轻刺激；沿坐骨神经线间日皮肤针",
+            "en": "Light stimulation, two groups alternately; skin needle along the sciatic line"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "颜面神经痉挛",
+            "en": "Facial spasm"
+          },
+          {
+            "zh": "制止面神经兴奋；直接、反射、诱导三法",
+            "en": "Check facial-nerve excitation; direct, reflex, induction"
+          },
+          "直接：阳白、攒竹、四白、丝竹空、地仓、颊车；反射：风池、天柱、翳风；诱导：手三里、合谷",
+          {
+            "zh": "直接穴留针，其余中刺激；掌擦热摩痉挛处",
+            "en": "Direct points retained, others moderate; warm palms rubbed over the spasm"
+          },
+          {
+            "zh": "无生命问题，难治愈，有终身不愈者",
+            "en": "No danger to life; hard to cure, some lifelong"
+          }
+        ],
+        [
+          {
+            "zh": "横膈膜痉挛(间代性/强直性)",
+            "en": "Diaphragm spasm (clonic / tonic)"
+          },
+          {
+            "zh": "镇静；强直性作急救并请专医",
+            "en": "Calm; tonic type emergency care plus urgent specialist"
+          },
+          "间代性：水突、膻中、巨阙、关元；强直性：巨阙、期门、内关",
+          {
+            "zh": "小艾炷各灸七壮；强直性各灸十壮",
+            "en": "Small cones x7; tonic type x10 each"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "功能性神经病与运动器病：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Functional nervous and locomotor disease: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "神经衰弱症",
+            "en": "Neurasthenia"
+          },
+          {
+            "zh": "调整血行及精神功能",
+            "en": "Regulate circulation and mental function"
+          },
+          "风池、大杼、心俞、三焦俞、关元、内关、足三里；天柱、身柱、厥阴俞、肾俞、气海、通里、三阴交",
+          {
+            "zh": "间日轮换轻刺激；或皮肤针叩各穴上下左右约一方寸；关元常灸",
+            "en": "Light, groups alternated; or skin needle around each point; Guanyuan moxa often"
+          },
+          {
+            "zh": "视治疗与休养配合而定",
+            "en": "Depends on treatment plus rest"
+          }
+        ],
+        [
+          {
+            "zh": "歇斯底里",
+            "en": "Hysteria"
+          },
+          {
+            "zh": "旺全身血行、营养吸收，镇静神经",
+            "en": "Boost circulation and absorption, calm nerves"
+          },
+          "肺俞、心俞、三焦俞、次髎、中脘、关元、三阴交；发作时膻中、中脘、气海、大陵",
+          {
+            "zh": "间日或间三四日轻刺激，持续数月；关元每日温灸",
+            "en": "Light every 1–3 days for months; Guanyuan warm moxa daily"
+          },
+          {
+            "zh": "无生命危险，治愈不易，需经年",
+            "en": "Not life-threatening; hard to cure, takes years"
+          }
+        ],
+        [
+          {
+            "zh": "癫痫",
+            "en": "Epilepsy"
+          },
+          {
+            "zh": "镇静神经、强体魄、促消化与代谢",
+            "en": "Calm nerves, build body, aid digestion and metabolism"
+          },
+          "风池、肺俞、心俞、鸠尾、中脘、气海、神门、丰隆、三阴交",
+          {
+            "zh": "中刺激；发作减少后间隔逐步拉长，半年不发仍月针一二次",
+            "en": "Moderate; intervals lengthened as attacks fall, monthly sessions after six months free"
+          },
+          {
+            "zh": "针治与调养得宜则速效良好；否则频发不良",
+            "en": "Good if treatment and regimen fit; otherwise frequent, poor"
+          }
+        ],
+        [
+          {
+            "zh": "振颤麻痹",
+            "en": "Paralysis agitans"
+          },
+          {
+            "zh": "调节全身运动功能",
+            "en": "Regulate whole-body movement"
+          },
+          "风池、身柱、命门、中脘、关元、曲泽、后溪；天柱、大杼、至阳、上脘、气海、孔最、申脉",
+          {
+            "zh": "轻刺激留针加艾条；关元、命门每日灸，可用小艾炷一二百壮",
+            "en": "Light retained plus moxa stick; Guanyuan, Mingmen daily, 100–200 small cones"
+          },
+          {
+            "zh": "收效殊缓，调治得宜可延生命",
+            "en": "Very slow; life prolonged with good care"
+          }
+        ],
+        [
+          {
+            "zh": "偏头痛",
+            "en": "Migraine"
+          },
+          {
+            "zh": "诱导反射镇痛",
+            "en": "Induction and reflex analgesia"
+          },
+          "风池、头维、太阳、下关、丰隆、申脉为主",
+          {
+            "zh": "交感麻痹型头部轻刺激不留针；痉挛型中刺激加留针；手足穴重刺激为反射",
+            "en": "Sympathetic-paralytic type light, no retention; spastic type moderate retained; limb points heavy for reflex"
+          },
+          {
+            "zh": "慢性，不易速效，生命无问题；针灸最适宜",
+            "en": "Chronic, no quick result, no danger; acupuncture most suitable"
+          }
+        ],
+        [
+          {
+            "zh": "急性关节偻麻质斯",
+            "en": "Acute joint rheumatism"
+          },
+          {
+            "zh": "诱导法消炎",
+            "en": "Anti-inflammation by induction"
+          },
+          "大椎、大杼、肩髃、曲池、外关、合谷为主；患部上下离一二寸之穴",
+          {
+            "zh": "强刺激；须与药物发汗退热并用，有合并症与专医共治",
+            "en": "Strong; combine with drugs, specialist if complicated"
+          },
+          {
+            "zh": "大多可愈，常转慢性；脑脊髓型不良",
+            "en": "Mostly curable, often turns chronic; cerebrospinal type poor"
+          }
+        ],
+        [
+          {
+            "zh": "肌肉偻麻质斯",
+            "en": "Muscular rheumatism"
+          },
+          {
+            "zh": "局部与反射刺激，镇痛消炎",
+            "en": "Local and reflex stimulation, analgesia and anti-inflammation"
+          },
+          "按部位：腰肌三焦俞、气海俞、肓门、上髎、委中；颈肌风池、天柱、肩中俞、肩外俞、天井、腕骨；背肌附分、肺俞、神堂等",
+          {
+            "zh": "每日或间日轮换中刺激，兼艾条灸；可按痛处取穴",
+            "en": "Moderate, groups alternated, moxa stick; points may follow the painful spot"
+          },
+          {
+            "zh": "针灸收效较速，多良",
+            "en": "Acupuncture acts comparatively fast; mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "膝关节炎",
+            "en": "Knee arthritis"
+          },
+          {
+            "zh": "消炎、促进吸收",
+            "en": "Anti-inflammation, promote absorption"
+          },
+          "阴市、曲泉、膝关、两膝眼、委中、阴陵泉、阳陵泉、三阴交",
+          {
+            "zh": "急性每日中刺激，间日吸筒；慢性间日针加艾条灸和吸筒；保温，治疗期禁止行动",
+            "en": "Acute daily moderate, cupping alternate days; chronic alternate days with moxa and cupping; keep warm, avoid walking during treatment"
+          },
+          {
+            "zh": "多良",
+            "en": "Mostly good"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "就其神经之径路干部及患部，与以略强之刺激，使衰减之神经，由此兴奋",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·麻痹及痉挛针治有效之理由 p.149"
+    },
+    {
+      "id": "E2",
+      "quote": "以强刺激，镇静其亢奋之功能，使之衰减",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·麻痹及痉挛针治有效之理由 p.150"
+    },
+    {
+      "id": "E3",
+      "quote": "以借针刺激之传导，促进其血行，抑制神经兴奋，使之镇静为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·三叉神经痛 p.251"
+    },
+    {
+      "id": "E4",
+      "quote": "直接刺激局所，振奋其功能为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·桡骨神经麻痹 p.256"
+    },
+    {
+      "id": "E5",
+      "quote": "以刺激荐骨神经丛与直接病部之神经，促进其兴奋为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·坐骨神经麻痹 p.258"
+    },
+    {
+      "id": "E6",
+      "quote": "以直接刺激其患侧之主干神经，再从其所患神经之径路予以刺激，以制止其兴奋为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颈膊神经痛 p.251"
+    },
+    {
+      "id": "E7",
+      "quote": "传达刺激交感神经之下腹神经丛，图抑制其兴奋为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·精系神经痛 p.253"
+    },
+    {
+      "id": "E8",
+      "quote": "取穴：天柱、大杼、肩中俞、俞府、神藏、神封、库房、膺窗",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·前胸廓神经麻痹 p.257"
+    },
+    {
+      "id": "E9",
+      "quote": "取穴：大肠俞、次髎、环跳、足三里、阳辅、昆仑、束骨",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·腓骨神经麻痹 p.258"
+    },
+    {
+      "id": "E10",
+      "quote": "以制止颜面神经兴奋为目的，从直接、反射、诱导，三法取穴",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颜面神经痉挛 p.259"
+    },
+    {
+      "id": "E11",
+      "quote": "手足部诸穴，可用重刺激，为反射之目的；中刺激并留针，为诱导之目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·偏头痛 p.264"
+    },
+    {
+      "id": "E12",
+      "quote": "视其痉挛发作之处，如阳白、攒竹、四白、丝竹空、地仓、颊车等穴采用，应用留针法",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颜面神经痉挛 p.259"
+    },
+    {
+      "id": "E13",
+      "quote": "初起数日内，只取患侧一面之穴针之，作强刺激，日针1次",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颜面神经麻痹 p.255"
+    },
+    {
+      "id": "E14",
+      "quote": "病已1周以上时，复用隔姜灸法",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颜面神经麻痹 p.255"
+    },
+    {
+      "id": "E15",
+      "quote": "健侧用中刺激，患侧用轻刺激",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·三叉神经麻痹 p.255"
+    },
+    {
+      "id": "E16",
+      "quote": "间日轮流用轻刺激法针治",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·坐骨神经麻痹 p.258"
+    },
+    {
+      "id": "E17",
+      "quote": "于患部施术之后，再取适宜之部位诱导之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·关节神经痛 p.254"
+    },
+    {
+      "id": "E18",
+      "quote": "并每日用皮肤针沿该神经分布线捶击1次",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·桡骨神经麻痹 p.256"
+    },
+    {
+      "id": "E19",
+      "quote": "视痛之所及，取四五穴作刺激而后留针，压痛点针后再用吸筒",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·坐骨神经痛 p.254"
+    },
+    {
+      "id": "E20",
+      "quote": "并循坐骨神经之线路，于大腿后侧，下腿前外侧，间日施用皮肤针",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·坐骨神经麻痹 p.258"
+    },
+    {
+      "id": "E21",
+      "quote": "取穴：水突、膻中、巨阙、关元，用小艾炷各灸七壮",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·间代性横膈膜痉挛 p.260"
+    },
+    {
+      "id": "E22",
+      "quote": "以镇痉为目的，作急救处置；同时另急请专医治疗",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·强直性横膈膜痉挛 p.260"
+    },
+    {
+      "id": "E23",
+      "quote": "生命上无问题，治愈则较难，甚有终身不愈者",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颜面神经痉挛 p.259"
+    },
+    {
+      "id": "E24",
+      "quote": "关元穴常予灸治甚佳",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·神经衰弱症 p.262"
+    },
+    {
+      "id": "E25",
+      "quote": "关元则每日用温灸器或艾条灸治之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·歇斯底里 p.263"
+    },
+    {
+      "id": "E26",
+      "quote": "关元、命门，必每日灸治之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·振颤麻痹 p.264"
+    },
+    {
+      "id": "E27",
+      "quote": "其病在脑，其源则在消化系，故取穴偏重于刺激胃肠",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·癫痫 p.262"
+    },
+    {
+      "id": "E28",
+      "quote": "年余不发，则一二个月针治一次以防止之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·癫痫 p.262"
+    },
+    {
+      "id": "E29",
+      "quote": "本病应与药物之发汗退热疗法并用，不能单纯用针灸治疗",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·急性关节偻麻质斯 p.265"
+    },
+    {
+      "id": "E30",
+      "quote": "注重于其患部上下之穴位针治",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·慢性关节偻麻质斯 p.265"
+    },
+    {
+      "id": "E31",
+      "quote": "本病在一切的疗法中，针灸收效较速，预后多良",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·肌肉偻麻质斯 p.266"
+    },
+    {
+      "id": "E32",
+      "quote": "局部必须保温",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·膝关节炎 p.266"
+    },
+    {
+      "id": "E33",
+      "quote": "耐性久治乃效",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·尺骨神经麻痹 p.256"
+    },
+    {
+      "id": "E34",
+      "quote": "此在个人历年临床所得之经验，还待多数针灸医家之证实，以确定之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·坐骨神经痛 p.254"
+    }
+  ],
+  "caveats": {
+    "zh": "神经名称与病理为民国西医译名(桡骨神经、荐骨神经丛、交感神经、“偻麻质斯”即风湿、神经炎与神经痛之分)，其“兴奋/衰减”说是他当时的解释框架。癫痫“病在脑，源在消化系”是编者自述的个人看法，并附甘麦大枣汤等药方；“电疗久治者收效缓”他自己注明为个人临床经验、待证实。“念盈药艾灸条”为书中出现的成药艾条，按原文保留。“吸筒”即拔罐类器具，原文写法保留。病理篇对痉挛写“强刺激”，而处方集痉挛条多写中刺激，两者并不一致，此处如实并列。",
+    "en": "Nerve names and pathology are Republican-era translated Western terms (radial nerve, sacral plexus, sympathetic, transliterated rheumatism, the neuralgia versus neuritis distinction), and his excited-versus-weakened nerve idea is his framework of the day. Epilepsy arising in the digestive system is the compiler's stated personal view, and Gan-Mai-Da-Zao and other drug notes are side remarks. That cases treated long with electrotherapy respond slower is marked by himself as personal clinical experience awaiting confirmation. \"Nianying medicated moxa stick\" is a proprietary product kept as printed; \"xitong\" is a cupping-type device. The pathology book says strong stimulation for spasm while the spasm entries mostly say moderate; both are reported as printed."
+  },
+  "see": {
+    "points": [
+      "风池",
+      "天柱",
+      "大杼",
+      "肩中俞",
+      "合谷",
+      "曲池",
+      "三阴交",
+      "大肠俞",
+      "次髎",
+      "肾俞"
+    ],
+    "rx": [
+      "cda-rx-109",
+      "cda-rx-110",
+      "cda-rx-117",
+      "cda-rx-119",
+      "cda-rx-124",
+      "cda-rx-136",
+      "cda-rx-139",
+      "cda-rx-144",
+      "cda-rx-145",
+      "cda-rx-150",
+      "cda-rx-151",
+      "cda-rx-153",
+      "cda-rx-159",
+      "cda-rx-160",
+      "cda-rx-161",
+      "cda-rx-163",
+      "cda-rx-164"
+    ]
+  }
+}

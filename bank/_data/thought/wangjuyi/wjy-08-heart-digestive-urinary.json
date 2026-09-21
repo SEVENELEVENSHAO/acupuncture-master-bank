@@ -1,0 +1,133 @@
+{
+  "id": "wjy-08-heart-digestive-urinary",
+  "doctor": "wangjuyi",
+  "group": { "zh": "分科心得", "en": "By condition group" },
+  "order": 8,
+  "title": {
+    "zh": "心血管、消化、泌尿：内关公孙、眉冲、合募穴与“摸准”的取穴",
+    "en": "Cardiovascular, Digestive, Urinary: Neiguan-Gongsun, Meichong, He and Mu Points, and Locating Points by Palpation"
+  },
+  "summary": {
+    "zh": "这三章的絮语有一条共同主线：穴位要“循摸”而不是死量。他讲内关(用半年才认识)、公孙、足三里、照海、三阴交的摸法；心血管上提出眉冲能止某些心绞痛，并区分心包经主心肌供血、心经主节律；消化系统强调募穴、合穴和足三里；泌尿系统以中极为基础，虚寒补阳化水，有热配照海，尿频虚实同治。",
+    "en": "One thread runs through these three chapters: points are found by palpation, not by fixed measurement. He explains how to feel Neiguan (which took him half a year), Gongsun, Zusanli, Zhaohai and Sanyinjiao; for the heart he reports Meichong stopping some angina and separates the Pericardium channel (myocardial blood supply) from the Heart channel (rhythm); the digestive tract leans on mu points, he-sea points and Zusanli; the urinary tract starts from Zhongji, warming yang for cold-deficiency, adding Zhaohai for heat, treating frequency with deficiency and excess together."
+  },
+  "takeaways": [
+    {
+      "zh": "内关与公孙常配：两穴都是八脉交会穴，内关为厥阴络穴通阴维，公孙为太阴络穴通冲脉，合用可理气降逆(理咽、胸膈之气)、调理肠胃，常用于心悸、心烦、胸闷、胸腹胀满，并称对神经官能症(心脏、胃肠自主神经功能紊乱)效果较好。",
+      "en": "Neiguan is often paired with Gongsun: both are confluent points of the eight extra channels, Neiguan the Jueyin connecting point linking with Yinwei and Gongsun the Taiyin connecting point linking with Chong. Together they regulate qi and lower counterflow (throat and chest-diaphragm qi) and harmonise the intestines and stomach, used for palpitation, vexation, chest oppression and chest-abdominal distension, and he says they work well for functional neurosis (autonomic disturbance of heart and gut).",
+      "cite": ["E1"]
+    },
+    {
+      "zh": "内关要靠循摸认识：书上说腕上2寸、两筋间，但他“大概用了半年才认识内关穴”——1960年代一次针感传到手指、病人说“我的胸开了”，第二次同一针眼却只胀，第三次仔细摸后才重现。他的摸法：在掌长肌腱与桡侧腕屈肌腱之间，腕横纹上约2寸有一条横过两腱的静脉，内关在其上缘；静脉不明显时从大陵往上推到第一个凹陷。缝隙就是经络，位于皮、脉、肉、筋、骨之间。",
+      "en": "Neiguan is learned by palpation: the book says 2 cun above the wrist crease between the tendons, but he 'took about half a year to know Neiguan'. In the 1960s one needling sent de qi to the fingers and the patient said 'my chest opened'; the second time the same needle hole only distended; only after careful palpation the third time did the sensation return. His method: between the palmaris longus and flexor carpi radialis tendons, about 2 cun above the crease a vein crosses both tendons and Neiguan lies at its upper edge; if the vein is not clear, push up from Daling to the first depression. The gap is the channel, lying among skin, vessel, muscle, sinew and bone.",
+      "cite": ["E2", "E3", "E4"]
+    },
+    {
+      "zh": "眉冲止心绞痛：一位反复心梗、心绞痛在杂用止痛药和哌替啶仍不缓解的患者，他先针右眉冲，再刺左郄门，进针约20秒心痛消失，心率也回升。眉冲最初是在一位尿结石剧痛的旅伴身上发现的：右眉冲酸痛、指下有异常，搓针30秒内疼痛明显减轻。他由太阳与少阴的表里/同名关系推想到手少阴，后来观察到右侧眉冲能止尿石痛也能止心绞痛，为什么只是右侧尚待研究。头部得气弱，故用搓针取强针感。",
+      "en": "Meichong for angina: in a patient with repeated infarcts and angina whose pain persisted despite nitrates, other analgesics and pethidine, he needled right Meichong first and then left Ximen; pain disappeared within about 20 seconds and the heart rate rose. Meichong was first found on a travelling companion in renal-colic pain: right Meichong was sore with an abnormal feel under the finger, and cuo needling eased the pain within 30 seconds. He reasoned from the Taiyang-Shaoyin exterior-interior and same-name relations towards Hand Shaoyin, and later observed right Meichong stopping both urinary-stone pain and angina; why only the right side remains to be studied. Scalp points give weak de qi, hence cuo needling for a stronger sensation.",
+      "cite": ["E5", "E6", "E7", "E11"]
+    },
+    {
+      "zh": "心包经与心经主病不同：他在心肌缺血病人身上常在心包经(多在郄门及其上下)摸到异常，是局部肌肉张力增高；在心律不齐病人身上常摸到心经的异常。他借心内膜、心肌膜、心外膜的解剖生理对应来解释：心的供血与心外膜相关(心包经)，节律与传导相关(心经)。上例察经为手厥阴、手少阴、足太阳异常，选足太阳、手厥阴，只取眉冲、郄门，郄门治本、眉冲治标。",
+      "en": "Pericardium and Heart channels govern different disease: in myocardial ischaemia he usually finds abnormality on the Pericardium channel (mostly at or around Ximen), a local rise in muscle tension; in arrhythmia he usually palpates abnormality on the Heart channel. He explains this with endocardium, myocardium and epicardium: blood supply relates to the epicardium (Pericardium channel), rhythm and conduction to the Heart channel. In the case above palpation showed Hand Jueyin, Hand Shaoyin and Foot Taiyang abnormal; he chose Foot Taiyang and Hand Jueyin with only Meichong and Ximen: Ximen treats the root, Meichong the branch.",
+      "cite": ["E8", "E9", "E10"]
+    },
+    {
+      "zh": "消化系统先定思路再选穴：症候有虚有实，临床常虚实夹杂，先按急性、慢性与虚实的关系决定从哪个思路下手。打嗝他分三种：嗳气声大、似从胃上来，属胃病变；噫气声小低、似从食道上来、比嗳气浅，属脾虚；呃逆呈节奏性间隔性高调短促声，由膈肌痉挛所致，属肝气滞。",
+      "en": "For the digestive tract decide the approach first: presentations may be deficient or excess and are often mixed, so first use acute versus chronic and deficiency versus excess to decide where to start. Belching he splits three ways: loud belching felt to come from the stomach belongs to the Stomach; quiet low-pitched belching felt to come from the oesophagus, shallower than the first, is a Spleen-deficiency pattern; hiccup is rhythmic, intermittent, high-pitched and short, from diaphragm spasm, a Liver qi stagnation pattern.",
+      "cite": ["E12", "E13", "E14"]
+    },
+    {
+      "zh": "消化系统的穴位逻辑是募、合、足三里：募穴帮助脏腑排除本脏腑堆积的代谢物以利功能恢复，故章门(脾募)与中脘(胃募)常用；五输穴中的合穴对消化病有重要意义，他引“合主逆气而泄”，认为合穴能调整气机降逆，所以病例治疗“不能缺少合穴”；足三里既是土经土穴、胃合穴、胃下合穴，又称肚腹总穴，但他要求把经络理论、察经和症候结构结合起来，才知何时取它。",
+      "en": "The digestive logic is mu, he-sea and Zusanli. Mu points help an organ clear its accumulated metabolic waste so function can recover, hence Zhangmen (Spleen mu) and Zhongwan (Stomach mu) are common. He-sea points matter greatly for digestive disease; he cites 'the he-sea governs counterflow qi and diarrhoea' and holds that they regulate qi and lower counterflow, so cases should not lack one. Zusanli is at once earth point of an earth channel, he-sea point, lower he-sea of the Stomach and the 'general point for the belly', but he says one knows when to take it only by combining channel theory, palpation and symptom structure.",
+      "cite": ["E15", "E16", "E17"]
+    },
+    {
+      "zh": "足三里、照海、三阴交都要按“摸”取：足三里不按教材“犊鼻下三寸、离胫骨外缘一横指”(针感不理想、疗效不明显)，而按《针灸聚英》的启发定在胫骨粗隆下缘外侧、胫骨前肌与趾长伸肌之间，距胫骨外缘的宽度因人而异，针感可循经到外踝、足背、足大趾尖；照海用内踝高点竖线与舟骨粗隆下缘(然谷)横线交点，摸两筋之间，“上有骨，下有肉，前后有筋”；三阴交循摸到内踝上第三个肉节的上缘。取穴不准会明显影响针感和疗效。",
+      "en": "Zusanli, Zhaohai and Sanyinjiao are all taken by palpation. Zusanli is not the textbook 'three cun below Dubi, one finger from the tibial edge' (poor sensation, weak effect) but, following the Zhenjiu Juying, at the lower edge of the tibial tuberosity on the outer side between tibialis anterior and extensor digitorum longus, its distance from the tibia varying with the person, and the sensation can travel down to the outer ankle, dorsum or big toe tip. Zhaohai is the crossing of a vertical line from the medial malleolus tip with a horizontal line from below the navicular tuberosity (Rangu); feel between the two tendons: 'bone above, flesh below, tendons before and behind'. Sanyinjiao is the upper border of the third fleshy segment above the medial malleolus. Inaccurate location clearly harms sensation and effect.",
+      "cite": ["E18", "E19", "E20", "E21", "E22"]
+    },
+    {
+      "zh": "泌尿系统以中极(膀胱募)为基础，再按察经和辨证加减：小便不禁、夜尿、遗尿、尿床多为阴盛阳弱的虚寒，须补阳化水，除中极、三阴交外取督脉、足少阴、足太阳(命门、肾俞、膀胱俞)并可加灸；尿床取中极、三阴交，半夜有尿不知醒加神门；小便不通兼热取中极、照海；尿频为膀胱与肾俱虚兼热邪，取中极再按经络异常加减，虚实同治。",
+      "en": "Urinary disease starts from Zhongji (Bladder mu) and is then adjusted by palpation and pattern. Incontinence, nocturia, enuresis and bed-wetting are mostly yin-excess yang-weak cold-deficiency and need yang warmed and water transformed: besides Zhongji and Sanyinjiao take the Du, Foot Shaoyin and Foot Taiyang channels (Mingmen, Shenshu, Pangguangshu), with moxa if wanted. For bed-wetting, Zhongji and Sanyinjiao, plus Shenmen if urine passes without waking; retention with heat: Zhongji and Zhaohai; frequency is Bladder and Kidney both deficient with heat, Zhongji then adjusted by channel abnormality, treating deficiency and excess together.",
+      "cite": ["E23", "E24", "E25", "E26", "E27", "E29"]
+    }
+  ],
+  "tables": [
+    {
+      "title": { "zh": "表1 他的取穴法：五个穴", "en": "Table 1. His way of locating five points" },
+      "cols": [
+        { "zh": "穴", "en": "Point" },
+        { "zh": "他引的通行取法", "en": "Standard location he cites" },
+        { "zh": "他的取法(循摸)", "en": "His palpation method" }
+      ],
+      "rows": [
+        [{ "zh": "内关", "en": "Neiguan" }, { "zh": "腕横纹上2寸，两筋间", "en": "2 cun above the wrist crease between the tendons" }, { "zh": "掌长肌腱与桡侧腕屈肌腱之间；腕横纹上约2寸横过两腱的静脉上缘，或从大陵上推到第一凹陷缝；进针在静脉上缘或静脉与肌腱交叉处、靠桡侧腕屈肌内侧", "en": "Between palmaris longus and flexor carpi radialis; upper edge of the vein crossing both tendons about 2 cun up, or the first depression pushed up from Daling; insert at the vein's upper edge or its crossing with the tendon, on the inner side of flexor carpi radialis" }],
+        [{ "zh": "公孙", "en": "Gongsun" }, { "zh": "第1跖骨与内侧楔骨关节间", "en": "Between first metatarsal and medial cuneiform" }, { "zh": "从太白沿足太阴经摸，过第1跖骨粗隆之后有较明显凹陷，比太白上1寸的标准位置靠上一点", "en": "Palpate from Taibai along the Foot Taiyin channel; past the first metatarsal tuberosity a clear depression, a little higher than the standard 1 cun above Taibai" }],
+        [{ "zh": "足三里", "en": "Zusanli" }, { "zh": "犊鼻下三寸(四指量)，离胫骨外缘一横指", "en": "3 cun below Dubi (four fingers), one finger from the tibial edge" }, { "zh": "胫骨粗隆下缘外侧，胫骨前肌与趾长伸肌之间；距胫骨外缘的宽窄因人而异(走路多、小腿短粗者较宽)", "en": "Lower edge of the tibial tuberosity, outer side, between tibialis anterior and extensor digitorum longus; distance from the tibia varies (wider in heavy walkers or stocky calves)" }],
+        [{ "zh": "照海", "en": "Zhaohai" }, { "zh": "内踝高点正下缘凹陷处；或内踝下缘下0.4寸", "en": "Depression directly below the medial malleolus tip; or 0.4 cun below its lower border" }, { "zh": "内踝高点竖线与舟骨粗隆下缘(然谷)横线交点；拇指按压，前后摸出两条筋(前为趾长屈肌)，穴在其间：上有骨、下有肉、前后有筋", "en": "Crossing of a vertical line from the malleolus tip and a horizontal line from below the navicular tuberosity (Rangu); press with the thumb and feel two tendons (the front one flexor digitorum longus), the point lies between: bone above, flesh below, tendons before and behind" }],
+        [{ "zh": "三阴交", "en": "Sanyinjiao" }, { "zh": "踝骨上3寸，胫骨后缘", "en": "3 cun above the ankle bone, behind the tibial border" }, { "zh": "循摸到内踝上第三个肉节的上缘(依“骨为干，脉为营，筋为刚，肉为墙”)", "en": "Upper border of the third fleshy segment above the medial malleolus (from 'bone is the trunk, vessel the camp, sinew the strength, flesh the wall')" }]
+      ]
+    },
+    {
+      "title": { "zh": "表2 三章絮语的选穴要点", "en": "Table 2. Selection points from the three chapters' essays" },
+      "cols": [
+        { "zh": "情况", "en": "Situation" },
+        { "zh": "他取的穴", "en": "Points" },
+        { "zh": "他给的理由", "en": "His reason" }
+      ],
+      "rows": [
+        [{ "zh": "心悸、心烦、胸闷、胸腹胀满；自主神经紊乱", "en": "Palpitation, vexation, chest oppression, chest-abdominal distension; autonomic disturbance" }, { "zh": "内关配公孙", "en": "Neiguan with Gongsun" }, { "zh": "八脉交会穴，理气降逆、调理肠胃", "en": "Confluent points; regulate qi, lower counterflow, harmonise intestines and stomach" }],
+        [{ "zh": "心绞痛(察经：手厥阴、手少阴、足太阳异常)", "en": "Angina (palpation: Hand Jueyin, Hand Shaoyin, Foot Taiyang abnormal)" }, { "zh": "右眉冲(搓针)、郄门", "en": "Right Meichong (cuo needling), Ximen" }, { "zh": "足太阳与手厥阴为治疗经脉，穴少功专；郄门治本、眉冲治标", "en": "Foot Taiyang and Hand Jueyin chosen; few points, focused; Ximen for the root, Meichong for the branch" }],
+        [{ "zh": "消化系统疾病(通则)", "en": "Digestive disease in general" }, { "zh": "募穴章门、中脘；各种合穴；足三里", "en": "Mu points Zhangmen, Zhongwan; he-sea points; Zusanli" }, { "zh": "募穴助排代谢物；“合主逆气而泄”；足三里身份特殊", "en": "Mu points aid clearing waste; 'he-sea governs counterflow and diarrhoea'; Zusanli has many roles" }],
+        [{ "zh": "打嗝：嗳气 / 噫气 / 呃逆", "en": "Belching, quiet belching, hiccup" }, { "zh": "(此篇未给固定穴)", "en": "(no fixed points given in this essay)" }, { "zh": "分别属胃病变 / 脾虚 / 肝气滞", "en": "Stomach lesion / Spleen deficiency / Liver qi stagnation" }],
+        [{ "zh": "泌尿系统疾病(通则)", "en": "Urinary disease in general" }, { "zh": "中极，再据察经辨证加减", "en": "Zhongji, then adjust by palpation and pattern" }, { "zh": "膀胱募穴", "en": "Bladder mu point" }],
+        [{ "zh": "小便不禁、夜尿、遗尿、尿床", "en": "Incontinence, nocturia, enuresis, bed-wetting" }, { "zh": "中极、三阴交；督脉、足少阴、足太阳(命门、肾俞、膀胱俞，可灸)；肾虚明显加肾俞；夜间不醒加神门", "en": "Zhongji, Sanyinjiao; Du, Foot Shaoyin, Foot Taiyang (Mingmen, Shenshu, Pangguangshu, moxa allowed); Shenshu if Kidney deficiency marked; Shenmen if not waking" }, { "zh": "阴盛阳弱虚寒，补阳化水", "en": "Yin-excess yang-weak cold-deficiency; warm yang, transform water" }],
+        [{ "zh": "小便不通兼热；小便数", "en": "Retention with heat; frequency" }, { "zh": "中极、照海；中极再按经络异常加减", "en": "Zhongji, Zhaohai; Zhongji then adjust by channel abnormality" }, { "zh": "膀胱与肾有热；膀胱与肾俱虚兼热邪，虚实同治", "en": "Heat in Bladder and Kidney; both deficient with heat, treat deficiency and excess together" }]
+      ]
+    }
+  ],
+  "evidence": [
+    { "id": "E1", "quote": "内关配公孙可理气降逆（理咽、胸膈之气），调理肠胃，常用于治疗心悸、心烦、胸闷、胸腹胀满等", "src": "王居易针灸医案讲习录·诊后絮语·关于内关、公孙穴循摸的故事 p.27" },
+    { "id": "E2", "quote": "但认识穴位，必须循摸审视，我大概用了半年才认识内关穴", "src": "王居易针灸医案讲习录·诊后絮语·内关的取穴方法 p.28" },
+    { "id": "E3", "quote": "找内关时，先找掌长肌腱与桡侧腕屈肌腱之间。在腕横纹上2寸左右有一条静脉从尺侧到桡侧横向穿过两条肌腱，内关位于此静脉的上缘", "src": "王居易针灸医案讲习录·诊后絮语·内关的取穴方法 p.28" },
+    { "id": "E4", "quote": "此静脉和肌腱边缘的缝隙就是经络，经络位于皮、脉、肉、筋、骨之间", "src": "王居易针灸医案讲习录·诊后絮语·内关的取穴方法 p.28" },
+    { "id": "E5", "quote": "先针右眉冲，惠者稍感舒服，再刺左郊门，进针20秒左右，患者心痛消失，立即平静下来", "src": "王居易针灸医案讲习录·诊后絮语·从一个病历讲起——关于眉冲的故事 p.29" },
+    { "id": "E6", "quote": "取它做搓针法，30秒钟之内，患者说疼痛已明显减轻", "src": "王居易针灸医案讲习录·诊后絮语·关于眉冲的故事 p.29" },
+    { "id": "E7", "quote": "右侧眉冲不仅能止尿道结石（包括肾结石）引起的疼痛，也能止心绞痛，但为什么仅仅是右侧，还需要进一步的研究和思考", "src": "王居易针灸医案讲习录·诊后絮语·关于眉冲的故事 p.30" },
+    { "id": "E8", "quote": "在对心肌缺血的病人做经络诊察时往往能发现心包经（多在部门或此穴的上下段）有异常反应", "src": "王居易针灸医案讲习录·诊后絮语·关于眉冲的故事 p.30" },
+    { "id": "E9", "quote": "在对心律不齐的病人做经络诊察时，往往能循摸出心经的异常反应", "src": "王居易针灸医案讲习录·诊后絮语·关于眉冲的故事 p.30" },
+    { "id": "E10", "quote": "此例治疗前经络诊察显示手厥阴经、手少阴经、足太阳经异常，选足太阳经、手厥阴经为治疗经脉。单取眉冲、都门二穴，穴少功专", "src": "王居易针灸医案讲习录·诊后絮语·关于眉冲的故事(按语) p.30" },
+    { "id": "E11", "quote": "因为头皮下的组织液较少，头部的穴位一般较难有得气感，所以针头部的瑜穴用搓针法是为了取得较强的针感", "src": "王居易针灸医案讲习录·诊后絮语·关于眉冲的故事 p.29" },
+    { "id": "E12", "quote": "消化系统疾病的症候有虚亦有实，但临床常见虚实夹杂。治疗时先按照急性、慢性与虚实的关系来决定应该先从哪个思路下手", "src": "王居易针灸医案讲习录·诊后絮语·消化系统疾病选穴体会 p.44" },
+    { "id": "E13", "quote": "暖气的声音较大，感觉似从胃上来，属胃的病变。意气的声音较小，声调较低，感觉似从食道上来，比暖气浅，属脾虚的证型", "src": "王居易针灸医案讲习录·诊后絮语·消化系统疾病选穴体会 p.44" },
+    { "id": "E14", "quote": "呢逆为节奏性、间隔性的高调声音，每股声音时间较短，由隔肌痉挛所致，属肝气滞的证型", "src": "王居易针灸医案讲习录·诊后絮语·消化系统疾病选穴体会 p.44" },
+    { "id": "E15", "quote": "募穴能帮助脏腑排除本脏腑的堆积物（代谢物）以便于其功能恢复，故章门和胃募中院常用于治疗消化系统疾病", "src": "王居易针灸医案讲习录·诊后絮语·消化系统疾病选穴体会 p.44" },
+    { "id": "E16", "quote": "五输穴中的合穴对消化系统疾病有很重要的治疗意义", "src": "王居易针灸医案讲习录·诊后絮语·消化系统疾病选穴体会 p.44" },
+    { "id": "E17", "quote": "只要懂得怎样把经络理论、经络诊察及症候结构结合起来就知道何时该取足三里了", "src": "王居易针灸医案讲习录·诊后絮语·消化系统疾病选穴体会 p.45" },
+    { "id": "E18", "quote": "发现足三里应在胫骨粗隆下缘外侧，在胫骨前肌与趾长伸肌之间取之", "src": "王居易针灸医案讲习录·诊后絮语·足三里的取穴方法 p.45" },
+    { "id": "E19", "quote": "如果取穴不准，将会明显地影响针感和疗效", "src": "王居易针灸医案讲习录·诊后絮语·足三里的取穴方法 p.45" },
+    { "id": "E20", "quote": "先从内踝高点往下画一条竖线，从舟骨粗隆下缘（即然谷穴）往后画一条横线，两线交接处代表照海穴的大概位置", "src": "王居易针灸医案讲习录·诊后絮语·照海、三阴交的取穴方法 p.52" },
+    { "id": "E21", "quote": "这样寻找照海穴时一定要记住，“上有骨，下有肉，前后有筋”", "src": "王居易针灸医案讲习录·诊后絮语·照海、三阴交的取穴方法 p.52" },
+    { "id": "E22", "quote": "因此笔者认为三阴交在取穴时应循摸到内踝上第三个肉节的上缘", "src": "王居易针灸医案讲习录·诊后絮语·照海、三阴交的取穴方法 p.53" },
+    { "id": "E23", "quote": "诸多泌尿系统疾病，一般取膀胱募穴（中极）治疗，再根据具体经络诊察", "src": "王居易针灸医案讲习录·诊后絮语·关于泌尿系统疾病的讨论 p.53" },
+    { "id": "E24", "quote": "小便不禁、夜尿、遗尿、尿床者，多为阴盛阳弱的虚寒证", "src": "王居易针灸医案讲习录·诊后絮语·关于泌尿系统疾病的讨论 p.53" },
+    { "id": "E25", "quote": "除膀胱募穴与三阴交之外，可取督脉及足少阴经与足太阳经（水之相表里经）并可加灸，即命门、肾俞、膀胱俞等", "src": "王居易针灸医案讲习录·诊后絮语·关于泌尿系统疾病的讨论 p.53" },
+    { "id": "E26", "quote": "小便不通兼有热证者，一般属于膀胱与肾有热，可取中极、照海等", "src": "王居易针灸医案讲习录·诊后絮语·关于泌尿系统疾病的讨论 p.53" },
+    { "id": "E27", "quote": "小便数者（尿频），为膀胱与肾俱虚，而兼有热邪，亦可取中极，再根据具体经络异常来加减，虚实同治", "src": "王居易针灸医案讲习录·诊后絮语·关于泌尿系统疾病的讨论 p.53" },
+    { "id": "E28", "quote": "粗隆之后能摸到一个较明显的凹陷，比太白上1寸的标准位置靠上一点", "src": "王居易针灸医案讲习录·诊后絮语·公孙的取穴方法 p.28" },
+    { "id": "E29", "quote": "尿床者，可取中极、三阴交；若半夜有尿不知醒来，可加神门", "src": "王居易针灸医案讲习录·诊后絮语·关于泌尿系统疾病的讨论 p.53" }
+  ],
+  "how_to_use": {
+    "zh": "读这三章的絮语，重点是“摸”：先用表1的方法把内关、公孙、足三里、照海、三阴交摸准，再谈配穴；心血管看是心肌供血(心包经)还是节律(心经)；消化系统按急慢虚实定思路后用募、合、足三里；泌尿系统以中极为底，虚寒补阳化水。",
+    "en": "The emphasis of these essays is palpation: first locate Neiguan, Gongsun, Zusanli, Zhaohai and Sanyinjiao as in Table 1, then think of combinations. For the heart, ask whether it is blood supply (Pericardium channel) or rhythm (Heart channel); for digestion decide acute/chronic and deficiency/excess, then use mu, he-sea and Zusanli; for urinary disease build on Zhongji and warm yang in cold-deficiency."
+  },
+  "caveats": {
+    "zh": "眉冲一节的病历由西医内科主任提供，心内膜/心肌膜/心外膜与心经/心包经的对应是他本人的解读，且“为什么仅右侧”他自己也未解决；郄门在原文OCR中作“部门”“郊门”“都门”。消化篇的“暖气、意气、呢逆”即嗳气、噫气、呃逆(OCR)。取穴描述中“趾长屈肌、长屈肌”后一条原文脱字(应为拇长屈肌)，此处未补。三阴交“第三个肉节”和公孙位置均为他个人的循摸结果。",
+    "en": "The Meichong case record was supplied by a Western-medicine internist, and the mapping of endocardium, myocardium and epicardium onto the Heart and Pericardium channels is his own interpretation; why only the right side he has not resolved. Ximen is printed as 部门, 郊门 and 都门 through OCR. In the digestive essay 暖气, 意气 and 呢逆 are OCR forms of belching, quiet belching and hiccup. In the Zhaohai description the second tendon is printed 'long flexor' with a character missing (presumably flexor hallucis longus), not supplied here. The 'third fleshy segment' for Sanyinjiao and the Gongsun position are his own palpation results."
+  },
+  "see": {
+    "cases": ["wjy-015", "wjy-016", "wjy-019", "wjy-021", "wjy-024", "wjy-025", "wjy-026", "wjy-027"],
+    "points": ["内关", "公孙", "眉冲", "郄门", "中脘", "章门", "足三里", "照海", "三阴交", "中极", "命门", "肾俞"]
+  }
+}

@@ -1,0 +1,362 @@
+code,channel_id,num,name_zh,name_pinyin,name_en,round
+LU1,LU,1,中府,Zhōng Fǔ,Central Treasury,2
+LU2,LU,2,云门,Yún Mén,Cloud Gate,3
+LU3,LU,3,天府,Tiān Fǔ,Celestial Storehouse,3
+LU4,LU,4,侠白,Xiá Bái,Guarding White,3
+LU5,LU,5,尺泽,Chǐ Zé,Cubit Marsh,1
+LU6,LU,6,孔最,Kǒng Zuì,Collection Hole,2
+LU7,LU,7,列缺,Liè Quē,Broken Sequence,1
+LU8,LU,8,经渠,Jīng Qú,Channel Ditch,3
+LU9,LU,9,太渊,Tài Yuān,Great Abyss,1
+LU10,LU,10,鱼际,Yú Jì,Fish Border,2
+LU11,LU,11,少商,Shào Shāng,Lesser Shang,2
+LI1,LI,1,商阳,Shāng Yáng,Shang Yang,2
+LI2,LI,2,二间,Èr Jiān,Second Space,3
+LI3,LI,3,三间,Sān Jiān,Third Space,3
+LI4,LI,4,合谷,Hé Gǔ,Union Valley,1
+LI5,LI,5,阳溪,Yáng Xī,Yang Ravine,3
+LI6,LI,6,偏历,Piān Lì,Veering Passage,3
+LI7,LI,7,温溜,Wēn Liū,Warm Dwelling,3
+LI8,LI,8,下廉,Xià Lián,Lower Ridge,3
+LI9,LI,9,上廉,Shàng Lián,Upper Ridge,3
+LI10,LI,10,手三里,Shǒu Sān Lǐ,Arm Three Li,2
+LI11,LI,11,曲池,Qū Chí,Pool at the Bend,1
+LI12,LI,12,肘髎,Zhǒu Liáo,Elbow Bone-Hole,3
+LI13,LI,13,手五里,Shǒu Wǔ Lǐ,Arm Five Li,3
+LI14,LI,14,臂臑,Bì Nào,Upper Arm,3
+LI15,LI,15,肩髃,Jiān Yú,Shoulder Bone,2
+LI16,LI,16,巨骨,Jù Gǔ,Great Bone,3
+LI17,LI,17,天鼎,Tiān Dǐng,Celestial Tripod,3
+LI18,LI,18,扶突,Fú Tū,Protuberance Assistant,3
+LI19,LI,19,口禾髎,Kǒu Hé Liáo,Mouth Grain Bone-Hole,3
+LI20,LI,20,迎香,Yíng Xiāng,Welcome Fragrance,1
+ST1,ST,1,承泣,Chéng Qì,Tear Container,3
+ST2,ST,2,四白,Sì Bái,Four Whites,2
+ST3,ST,3,巨髎,Jù Liáo,Great Bone-Hole,3
+ST4,ST,4,地仓,Dì Cāng,Earth Granary,2
+ST5,ST,5,大迎,Dà Yíng,Great Reception,3
+ST6,ST,6,颊车,Jiá Chē,Jawbone,2
+ST7,ST,7,下关,Xià Guān,Below the Joint,2
+ST8,ST,8,头维,Tóu Wéi,Head Corner,2
+ST9,ST,9,人迎,Rén Yíng,Man's Prognosis,3
+ST10,ST,10,水突,Shuǐ Tū,Water Prominence,3
+ST11,ST,11,气舍,Qì Shè,Qi Abode,3
+ST12,ST,12,缺盆,Quē Pén,Empty Basin,3
+ST13,ST,13,气户,Qì Hù,Qi Door,3
+ST14,ST,14,库房,Kù Fáng,Storeroom,3
+ST15,ST,15,屋翳,Wū Yì,Roof,3
+ST16,ST,16,膺窗,Yīng Chuāng,Breast Window,3
+ST17,ST,17,乳中,Rǔ Zhōng,Breast Center,3
+ST18,ST,18,乳根,Rǔ Gēn,Breast Root,3
+ST19,ST,19,不容,Bù Róng,Not Contained,3
+ST20,ST,20,承满,Chéng Mǎn,Supporting Fullness,3
+ST21,ST,21,梁门,Liáng Mén,Beam Gate,2
+ST22,ST,22,关门,Guān Mén,Pass Gate,3
+ST23,ST,23,太乙,Tài Yǐ,Supreme Unity,3
+ST24,ST,24,滑肉门,Huá Ròu Mén,Slippery Flesh Gate,3
+ST25,ST,25,天枢,Tiān Shū,Celestial Pivot,1
+ST26,ST,26,外陵,Wài Líng,Outer Mound,3
+ST27,ST,27,大巨,Dà Jù,Great Gigantic,3
+ST28,ST,28,水道,Shuǐ Dào,Waterway,3
+ST29,ST,29,归来,Guī Lái,Return,2
+ST30,ST,30,气冲,Qì Chōng,Qi Thoroughfare,3
+ST31,ST,31,髀关,Bì Guān,Thigh Joint,3
+ST32,ST,32,伏兔,Fú Tù,Crouching Rabbit,3
+ST33,ST,33,阴市,Yīn Shì,Yin Market,3
+ST34,ST,34,梁丘,Liáng Qiū,Beam Hill,2
+ST35,ST,35,犊鼻,Dú Bí,Calf's Nose,3
+ST36,ST,36,足三里,Zú Sān Lǐ,Leg Three Li,1
+ST37,ST,37,上巨虚,Shàng Jù Xū,Upper Great Hollow,2
+ST38,ST,38,条口,Tiáo Kǒu,Ribbon Opening,3
+ST39,ST,39,下巨虚,Xià Jù Xū,Lower Great Hollow,2
+ST40,ST,40,丰隆,Fēng Lóng,Abundant Bulge,1
+ST41,ST,41,解溪,Jiě Xī,Ravine Divide,2
+ST42,ST,42,冲阳,Chōng Yáng,Surging Yang,3
+ST43,ST,43,陷谷,Xiàn Gǔ,Sunken Valley,3
+ST44,ST,44,内庭,Nèi Tíng,Inner Court,1
+ST45,ST,45,厉兑,Lì Duì,Severe Mouth,2
+SP1,SP,1,隐白,Yǐn Bái,Hidden White,2
+SP2,SP,2,大都,Dà Dū,Great Metropolis,3
+SP3,SP,3,太白,Tài Bái,Supreme White,2
+SP4,SP,4,公孙,Gōng Sūn,Grandfather Grandson,1
+SP5,SP,5,商丘,Shāng Qiū,Shang Hill,3
+SP6,SP,6,三阴交,Sān Yīn Jiāo,Three Yin Intersection,1
+SP7,SP,7,漏谷,Lòu Gǔ,Leaking Valley,3
+SP8,SP,8,地机,Dì Jī,Earth Pivot,2
+SP9,SP,9,阴陵泉,Yīn Líng Quán,Yin Mound Spring,1
+SP10,SP,10,血海,Xuè Hǎi,Sea of Blood,1
+SP11,SP,11,箕门,Jī Mén,Winnower Gate,3
+SP12,SP,12,冲门,Chōng Mén,Surging Gate,3
+SP13,SP,13,府舍,Fǔ Shè,Bowel Abode,3
+SP14,SP,14,腹结,Fù Jié,Abdomen Bind,3
+SP15,SP,15,大横,Dà Héng,Great Horizontal,2
+SP16,SP,16,腹哀,Fù Āi,Abdomen Lament,3
+SP17,SP,17,食窦,Shí Dòu,Food Hole,3
+SP18,SP,18,天溪,Tiān Xī,Celestial Ravine,3
+SP19,SP,19,胸乡,Xiōng Xiāng,Chest Village,3
+SP20,SP,20,周荣,Zhōu Róng,All-Round Flourishing,3
+SP21,SP,21,大包,Dà Bāo,Great Embracement,2
+HT1,HT,1,极泉,Jí Quán,Highest Spring,2
+HT2,HT,2,青灵,Qīng Líng,Green Spirit,3
+HT3,HT,3,少海,Shào Hǎi,Lesser Sea,2
+HT4,HT,4,灵道,Líng Dào,Spirit Pathway,3
+HT5,HT,5,通里,Tōng Lǐ,Connecting Li,2
+HT6,HT,6,阴郄,Yīn Xì,Yin Cleft,2
+HT7,HT,7,神门,Shén Mén,Spirit Gate,1
+HT8,HT,8,少府,Shào Fǔ,Lesser Mansion,3
+HT9,HT,9,少冲,Shào Chōng,Lesser Surge,2
+SI1,SI,1,少泽,Shào Zé,Lesser Marsh,2
+SI2,SI,2,前谷,Qián Gǔ,Front Valley,3
+SI3,SI,3,后溪,Hòu Xī,Back Ravine,1
+SI4,SI,4,腕骨,Wàn Gǔ,Wrist Bone,3
+SI5,SI,5,阳谷,Yáng Gǔ,Yang Valley,3
+SI6,SI,6,养老,Yǎng Lǎo,Nursing the Aged,2
+SI7,SI,7,支正,Zhī Zhèng,Branch to the Correct,3
+SI8,SI,8,小海,Xiǎo Hǎi,Small Sea,3
+SI9,SI,9,肩贞,Jiān Zhēn,True Shoulder,3
+SI10,SI,10,臑俞,Nào Shū,Upper Arm Shu,3
+SI11,SI,11,天宗,Tiān Zōng,Celestial Gathering,2
+SI12,SI,12,秉风,Bǐng Fēng,Grasping the Wind,3
+SI13,SI,13,曲垣,Qū Yuán,Crooked Wall,3
+SI14,SI,14,肩外俞,Jiān Wài Shū,Outer Shoulder Shu,3
+SI15,SI,15,肩中俞,Jiān Zhōng Shū,Central Shoulder Shu,3
+SI16,SI,16,天窗,Tiān Chuāng,Celestial Window,3
+SI17,SI,17,天容,Tiān Róng,Celestial Countenance,3
+SI18,SI,18,颧髎,Quán Liáo,Cheekbone Bone-Hole,2
+SI19,SI,19,听宫,Tīng Gōng,Auditory Palace,1
+BL1,BL,1,睛明,Jīng Míng,Bright Eyes,1
+BL2,BL,2,攒竹,Zǎn Zhú,Bamboo Gathering,2
+BL3,BL,3,眉冲,Méi Chōng,Eyebrow Ascension,3
+BL4,BL,4,曲差,Qū Chā,Deviating Turn,3
+BL5,BL,5,五处,Wǔ Chù,Fifth Place,3
+BL6,BL,6,承光,Chéng Guāng,Receiving Light,3
+BL7,BL,7,通天,Tōng Tiān,Celestial Connection,3
+BL8,BL,8,络却,Luò Què,Declining Connection,3
+BL9,BL,9,玉枕,Yù Zhěn,Jade Pillow,3
+BL10,BL,10,天柱,Tiān Zhù,Celestial Pillar,1
+BL11,BL,11,大杼,Dà Zhù,Great Shuttle,2
+BL12,BL,12,风门,Fēng Mén,Wind Gate,1
+BL13,BL,13,肺俞,Fèi Shū,Lung Shu,1
+BL14,BL,14,厥阴俞,Jué Yīn Shū,Jueyin Shu,3
+BL15,BL,15,心俞,Xīn Shū,Heart Shu,1
+BL16,BL,16,督俞,Dū Shū,Governing Shu,3
+BL17,BL,17,膈俞,Gé Shū,Diaphragm Shu,1
+BL18,BL,18,肝俞,Gān Shū,Liver Shu,1
+BL19,BL,19,胆俞,Dǎn Shū,Gallbladder Shu,2
+BL20,BL,20,脾俞,Pí Shū,Spleen Shu,1
+BL21,BL,21,胃俞,Wèi Shū,Stomach Shu,1
+BL22,BL,22,三焦俞,Sān Jiāo Shū,Sanjiao Shu,2
+BL23,BL,23,肾俞,Shèn Shū,Kidney Shu,1
+BL24,BL,24,气海俞,Qì Hǎi Shū,Qi Sea Shu,3
+BL25,BL,25,大肠俞,Dà Cháng Shū,Large Intestine Shu,1
+BL26,BL,26,关元俞,Guān Yuán Shū,Origin Pass Shu,3
+BL27,BL,27,小肠俞,Xiǎo Cháng Shū,Small Intestine Shu,2
+BL28,BL,28,膀胱俞,Páng Guāng Shū,Bladder Shu,2
+BL29,BL,29,中膂俞,Zhōng Lǚ Shū,Central Backbone Shu,3
+BL30,BL,30,白环俞,Bái Huán Shū,White Ring Shu,3
+BL31,BL,31,上髎,Shàng Liáo,Upper Bone-Hole,2
+BL32,BL,32,次髎,Cì Liáo,Second Bone-Hole,1
+BL33,BL,33,中髎,Zhōng Liáo,Central Bone-Hole,3
+BL34,BL,34,下髎,Xià Liáo,Lower Bone-Hole,3
+BL35,BL,35,会阳,Huì Yáng,Meeting of Yang,3
+BL36,BL,36,承扶,Chéng Fú,Support,3
+BL37,BL,37,殷门,Yīn Mén,Gate of Abundance,3
+BL38,BL,38,浮郄,Fú Xì,Superficial Cleft,3
+BL39,BL,39,委阳,Wěi Yáng,Bend Yang,2
+BL40,BL,40,委中,Wěi Zhōng,Bend Middle,1
+BL41,BL,41,附分,Fù Fēn,Attached Branch,3
+BL42,BL,42,魄户,Pò Hù,Po Door,3
+BL43,BL,43,膏肓,Gāo Huāng,Gao Huang,2
+BL44,BL,44,神堂,Shén Táng,Spirit Hall,3
+BL45,BL,45,譩譆,Yī Xǐ,Yi Xi,3
+BL46,BL,46,膈关,Gé Guān,Diaphragm Pass,3
+BL47,BL,47,魂门,Hún Mén,Hun Gate,3
+BL48,BL,48,阳纲,Yáng Gāng,Yang Headrope,3
+BL49,BL,49,意舍,Yì Shè,Reflection Abode,3
+BL50,BL,50,胃仓,Wèi Cāng,Stomach Granary,3
+BL51,BL,51,肓门,Huāng Mén,Huang Gate,3
+BL52,BL,52,志室,Zhì Shì,Will Chamber,2
+BL53,BL,53,胞肓,Bāo Huāng,Bladder Huang,3
+BL54,BL,54,秩边,Zhì Biān,Sequential Limit,2
+BL55,BL,55,合阳,Hé Yáng,Yang Union,3
+BL56,BL,56,承筋,Chéng Jīn,Sinew Support,3
+BL57,BL,57,承山,Chéng Shān,Mountain Support,1
+BL58,BL,58,飞扬,Fēi Yáng,Taking Flight,2
+BL59,BL,59,跗阳,Fū Yáng,Instep Yang,3
+BL60,BL,60,昆仑,Kūn Lún,Kunlun Mountains,1
+BL61,BL,61,仆参,Pú Cān,Servant's Respect,3
+BL62,BL,62,申脉,Shēn Mài,Extending Vessel,1
+BL63,BL,63,金门,Jīn Mén,Metal Gate,3
+BL64,BL,64,京骨,Jīng Gǔ,Capital Bone,3
+BL65,BL,65,束骨,Shù Gǔ,Bundle Bone,3
+BL66,BL,66,足通谷,Zú Tōng Gǔ,Foot Valley Passage,3
+BL67,BL,67,至阴,Zhì Yīn,Reaching Yin,1
+KI1,KI,1,涌泉,Yǒng Quán,Gushing Spring,1
+KI2,KI,2,然谷,Rán Gǔ,Blazing Valley,3
+KI3,KI,3,太溪,Tài Xī,Great Ravine,1
+KI4,KI,4,大钟,Dà Zhōng,Great Bell,3
+KI5,KI,5,水泉,Shuǐ Quán,Water Spring,3
+KI6,KI,6,照海,Zhào Hǎi,Shining Sea,1
+KI7,KI,7,复溜,Fù Liū,Recover Flow,1
+KI8,KI,8,交信,Jiāo Xìn,Intersection Reach,3
+KI9,KI,9,筑宾,Zhù Bīn,Guest House,3
+KI10,KI,10,阴谷,Yīn Gǔ,Yin Valley,3
+KI11,KI,11,横骨,Héng Gǔ,Pubic Bone,3
+KI12,KI,12,大赫,Dà Hè,Great Manifestation,3
+KI13,KI,13,气穴,Qì Xué,Qi Hole,3
+KI14,KI,14,四满,Sì Mǎn,Fourfold Fullness,3
+KI15,KI,15,中注,Zhōng Zhù,Central Flow,3
+KI16,KI,16,肓俞,Huāng Shū,Huang Shu,3
+KI17,KI,17,商曲,Shāng Qū,Shang Bend,3
+KI18,KI,18,石关,Shí Guān,Stone Pass,3
+KI19,KI,19,阴都,Yīn Dū,Yin Metropolis,3
+KI20,KI,20,腹通谷,Fù Tōng Gǔ,Abdomen Valley Passage,3
+KI21,KI,21,幽门,Yōu Mén,Dark Gate,3
+KI22,KI,22,步廊,Bù Láng,Corridor Walk,3
+KI23,KI,23,神封,Shén Fēng,Spirit Seal,3
+KI24,KI,24,灵墟,Líng Xū,Spirit Ruins,3
+KI25,KI,25,神藏,Shén Cáng,Spirit Storehouse,3
+KI26,KI,26,彧中,Yù Zhōng,Lively Center,3
+KI27,KI,27,俞府,Shū Fǔ,Shu Mansion,2
+PC1,PC,1,天池,Tiān Chí,Celestial Pool,3
+PC2,PC,2,天泉,Tiān Quán,Celestial Spring,3
+PC3,PC,3,曲泽,Qū Zé,Marsh at the Bend,2
+PC4,PC,4,郄门,Xì Mén,Cleft Gate,2
+PC5,PC,5,间使,Jiān Shǐ,Intermediary Courier,3
+PC6,PC,6,内关,Nèi Guān,Inner Pass,1
+PC7,PC,7,大陵,Dà Líng,Great Mound,2
+PC8,PC,8,劳宫,Láo Gōng,Palace of Toil,2
+PC9,PC,9,中冲,Zhōng Chōng,Central Hub,2
+TE1,TE,1,关冲,Guān Chōng,Passage Hub,2
+TE2,TE,2,液门,Yè Mén,Humor Gate,3
+TE3,TE,3,中渚,Zhōng Zhǔ,Central Islet,2
+TE4,TE,4,阳池,Yáng Chí,Yang Pool,2
+TE5,TE,5,外关,Wài Guān,Outer Pass,1
+TE6,TE,6,支沟,Zhī Gōu,Branch Ditch,2
+TE7,TE,7,会宗,Huì Zōng,Ancestral Meeting,3
+TE8,TE,8,三阳络,Sān Yáng Luò,Three Yang Connection,3
+TE9,TE,9,四渎,Sì Dú,Four Rivers,3
+TE10,TE,10,天井,Tiān Jǐng,Celestial Well,3
+TE11,TE,11,清冷渊,Qīng Lěng Yuān,Clear Cold Abyss,3
+TE12,TE,12,消泺,Xiāo Luò,Dispersing Riverbed,3
+TE13,TE,13,臑会,Nào Huì,Upper Arm Convergence,3
+TE14,TE,14,肩髎,Jiān Liáo,Shoulder Bone-Hole,2
+TE15,TE,15,天髎,Tiān Liáo,Celestial Bone-Hole,3
+TE16,TE,16,天牖,Tiān Yǒu,Celestial Window,3
+TE17,TE,17,翳风,Yì Fēng,Wind Screen,1
+TE18,TE,18,瘈脉,Chì Mài,Spasm Vessel,3
+TE19,TE,19,颅息,Lú Xī,Skull Rest,3
+TE20,TE,20,角孙,Jiǎo Sūn,Angle Vertex,3
+TE21,TE,21,耳门,Ěr Mén,Ear Gate,2
+TE22,TE,22,耳和髎,Ěr Hé Liáo,Ear Harmony Bone-Hole,3
+TE23,TE,23,丝竹空,Sī Zhú Kōng,Silk Bamboo Hollow,2
+GB1,GB,1,瞳子髎,Tóng Zǐ Liáo,Pupil Bone-Hole,2
+GB2,GB,2,听会,Tīng Huì,Auditory Convergence,2
+GB3,GB,3,上关,Shàng Guān,Upper Gate,3
+GB4,GB,4,颔厌,Hàn Yàn,Forehead Fullness,3
+GB5,GB,5,悬颅,Xuán Lú,Suspended Skull,3
+GB6,GB,6,悬厘,Xuán Lí,Suspended Hair,3
+GB7,GB,7,曲鬓,Qū Bìn,Temporal Hairline Curve,3
+GB8,GB,8,率谷,Shuài Gǔ,Valley Lead,3
+GB9,GB,9,天冲,Tiān Chōng,Celestial Hub,3
+GB10,GB,10,浮白,Fú Bái,Floating White,3
+GB11,GB,11,头窍阴,Tóu Qiào Yīn,Head Orifice Yin,3
+GB12,GB,12,完骨,Wán Gǔ,Completion Bone,3
+GB13,GB,13,本神,Běn Shén,Root Spirit,3
+GB14,GB,14,阳白,Yáng Bái,Yang White,2
+GB15,GB,15,头临泣,Tóu Lín Qì,Head Overlooking Tears,3
+GB16,GB,16,目窗,Mù Chuāng,Eye Window,3
+GB17,GB,17,正营,Zhèng Yíng,Upright Construction,3
+GB18,GB,18,承灵,Chéng Líng,Spirit Support,3
+GB19,GB,19,脑空,Nǎo Kōng,Brain Hollow,3
+GB20,GB,20,风池,Fēng Chí,Wind Pool,1
+GB21,GB,21,肩井,Jiān Jǐng,Shoulder Well,1
+GB22,GB,22,渊腋,Yuān Yè,Armpit Abyss,3
+GB23,GB,23,辄筋,Zhé Jīn,Sinew Seat,3
+GB24,GB,24,日月,Rì Yuè,Sun and Moon,2
+GB25,GB,25,京门,Jīng Mén,Capital Gate,2
+GB26,GB,26,带脉,Dài Mài,Girdling Vessel,2
+GB27,GB,27,五枢,Wǔ Shū,Fifth Pivot,3
+GB28,GB,28,维道,Wéi Dào,Linking Path,3
+GB29,GB,29,居髎,Jū Liáo,Squatting Bone-Hole,3
+GB30,GB,30,环跳,Huán Tiào,Jumping Circle,1
+GB31,GB,31,风市,Fēng Shì,Wind Market,2
+GB32,GB,32,中渎,Zhōng Dú,Central River,3
+GB33,GB,33,膝阳关,Xī Yáng Guān,Knee Yang Joint,3
+GB34,GB,34,阳陵泉,Yáng Líng Quán,Yang Mound Spring,1
+GB35,GB,35,阳交,Yáng Jiāo,Yang Intersection,3
+GB36,GB,36,外丘,Wài Qiū,Outer Hill,3
+GB37,GB,37,光明,Guāng Míng,Bright Light,2
+GB38,GB,38,阳辅,Yáng Fǔ,Yang Assistance,3
+GB39,GB,39,悬钟,Xuán Zhōng,Suspended Bell,1
+GB40,GB,40,丘墟,Qiū Xū,Hill Ruins,2
+GB41,GB,41,足临泣,Zú Lín Qì,Foot Overlooking Tears,1
+GB42,GB,42,地五会,Dì Wǔ Huì,Earth Fivefold Convergence,3
+GB43,GB,43,侠溪,Xiá Xī,Pinched Ravine,2
+GB44,GB,44,足窍阴,Zú Qiào Yīn,Foot Orifice Yin,3
+LR1,LR,1,大敦,Dà Dūn,Large Pile,2
+LR2,LR,2,行间,Xíng Jiān,Moving Between,1
+LR3,LR,3,太冲,Tài Chōng,Supreme Surge,1
+LR4,LR,4,中封,Zhōng Fēng,Mound Center,3
+LR5,LR,5,蠡沟,Lí Gōu,Woodworm Canal,2
+LR6,LR,6,中都,Zhōng Dū,Central Metropolis,3
+LR7,LR,7,膝关,Xī Guān,Knee Joint,3
+LR8,LR,8,曲泉,Qū Quán,Spring at the Bend,2
+LR9,LR,9,阴包,Yīn Bāo,Yin Bladder,3
+LR10,LR,10,足五里,Zú Wǔ Lǐ,Leg Five Li,3
+LR11,LR,11,阴廉,Yīn Lián,Yin Corner,3
+LR12,LR,12,急脉,Jí Mài,Urgent Pulse,3
+LR13,LR,13,章门,Zhāng Mén,Completion Gate,2
+LR14,LR,14,期门,Qī Mén,Cycle Gate,1
+CV1,CV,1,会阴,Huì Yīn,Meeting of Yin,3
+CV2,CV,2,曲骨,Qū Gǔ,Curved Bone,3
+CV3,CV,3,中极,Zhōng Jí,Central Pole,1
+CV4,CV,4,关元,Guān Yuán,Origin Pass,1
+CV5,CV,5,石门,Shí Mén,Stone Gate,3
+CV6,CV,6,气海,Qì Hǎi,Sea of Qi,1
+CV7,CV,7,阴交,Yīn Jiāo,Yin Intersection,3
+CV8,CV,8,神阙,Shén Què,Spirit Gate Tower,2
+CV9,CV,9,水分,Shuǐ Fēn,Water Divide,2
+CV10,CV,10,下脘,Xià Wǎn,Lower Venter,3
+CV11,CV,11,建里,Jiàn Lǐ,Interior Strengthening,3
+CV12,CV,12,中脘,Zhōng Wǎn,Central Venter,1
+CV13,CV,13,上脘,Shàng Wǎn,Upper Venter,3
+CV14,CV,14,巨阙,Jù Què,Great Tower Gate,2
+CV15,CV,15,鸠尾,Jiū Wěi,Turtledove Tail,3
+CV16,CV,16,中庭,Zhōng Tíng,Central Courtyard,3
+CV17,CV,17,膻中,Dàn Zhōng,Chest Center,1
+CV18,CV,18,玉堂,Yù Táng,Jade Hall,3
+CV19,CV,19,紫宫,Zǐ Gōng,Purple Palace,3
+CV20,CV,20,华盖,Huá Gài,Florid Canopy,3
+CV21,CV,21,璇玑,Xuán Jī,Jade Pivot,3
+CV22,CV,22,天突,Tiān Tū,Celestial Chimney,1
+CV23,CV,23,廉泉,Lián Quán,Ridge Spring,2
+CV24,CV,24,承浆,Chéng Jiāng,Sauce Receptacle,2
+GV1,GV,1,长强,Cháng Qiáng,Long Strong,2
+GV2,GV,2,腰俞,Yāo Shū,Lumbar Shu,3
+GV3,GV,3,腰阳关,Yāo Yáng Guān,Lumbar Yang Joint,2
+GV4,GV,4,命门,Mìng Mén,Life Gate,1
+GV5,GV,5,悬枢,Xuán Shū,Suspended Pivot,3
+GV6,GV,6,脊中,Jǐ Zhōng,Spinal Center,3
+GV7,GV,7,中枢,Zhōng Shū,Central Pivot,3
+GV8,GV,8,筋缩,Jīn Suō,Sinew Contraction,3
+GV9,GV,9,至阳,Zhì Yáng,Reaching Yang,2
+GV10,GV,10,灵台,Líng Tái,Spirit Tower,3
+GV11,GV,11,神道,Shén Dào,Spirit Path,3
+GV12,GV,12,身柱,Shēn Zhù,Body Pillar,3
+GV13,GV,13,陶道,Táo Dào,Kiln Path,3
+GV14,GV,14,大椎,Dà Zhuī,Great Hammer,1
+GV15,GV,15,哑门,Yǎ Mén,Mute's Gate,2
+GV16,GV,16,风府,Fēng Fǔ,Wind Mansion,1
+GV17,GV,17,脑户,Nǎo Hù,Brain Door,3
+GV18,GV,18,强间,Qiáng Jiān,Unyielding Space,3
+GV19,GV,19,后顶,Hòu Dǐng,Behind the Vertex,3
+GV20,GV,20,百会,Bǎi Huì,Hundred Convergences,1
+GV21,GV,21,前顶,Qián Dǐng,Before the Vertex,3
+GV22,GV,22,囟会,Xìn Huì,Fontanelle Meeting,3
+GV23,GV,23,上星,Shàng Xīng,Upper Star,2
+GV24,GV,24,神庭,Shén Tíng,Spirit Courtyard,2
+GV25,GV,25,素髎,Sù Liáo,White Bone-Hole,2
+GV26,GV,26,水沟,Shuǐ Gōu,Water Trough,1
+GV27,GV,27,兑端,Duì Duān,Extremity of the Mouth,3
+GV28,GV,28,龈交,Yín Jiāo,Gum Intersection,3

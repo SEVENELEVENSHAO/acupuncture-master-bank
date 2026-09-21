@@ -1,0 +1,699 @@
+{
+  "id": "cda-21-infectious",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 21,
+  "title": {
+    "zh": "传染病：新药与隔离为主，针灸只作助治，疟疾感冒例外，消毒防传播居先",
+    "en": "Infectious Disease: Drugs and Isolation First, Acupuncture as Adjunct, Malaria and Common Cold the Exceptions, Disinfection Against Spread"
+  },
+  "summary": {
+    "zh": "这是全书最谨慎的一章。16条中8条明写“非针灸之适应证”(伤寒、副伤寒、发疹伤寒、白喉、天然痘、猩红热、麻疹、破伤风)；赤痢、霍乱、流行性脑脊髓膜炎、流行性感冒、鼠疫要送医院、由专医用新药，针灸最多“作为助治”；真正由针灸主治的只有疟疾(发作前1—2小时针陶道等)、感冒(轻刺激加灸预防)与初期麻风。他反复强调体力未衰时针才有效，11条附“消毒”、5条提预防注射，并把自己无经验或只是传闻的方法逐一标明。",
+    "en": "The most cautious chapter of the book. Eight of the 16 entries state not an indication for acupuncture (typhoid, paratyphoid, typhus, diphtheria, smallpox, scarlet fever, measles, tetanus); dysentery, cholera, meningitis, influenza and plague go to a hospital and a specialist's new drugs, with acupuncture at most an adjunct; only malaria (needle Taodao and others one to two hours before the attack), the common cold (light stimulation, moxa for prevention) and early leprosy are handled mainly by acupuncture. He stresses that needling works only while strength remains, attaches disinfection to 11 entries and prevention by injection to 5, and marks each method he has no experience of or knows only by report."
+  },
+  "takeaways": [
+    {
+      "zh": "总立场是“新药与隔离为主，针灸不当主力”。伤寒“本病应入医院，用新出有效药治疗，于针灸为不适应证”，发疹伤寒“应由专医作隔离治疗，非针灸之适应证”，白喉“应早送医院作血清治疗”。按原文计，16条中8条明写非(不)适应证，4条(赤痢/疫痢、霍乱、流行性脑脊髓膜炎、流行性感冒)写明专医药物为主、针术“助治”，鼠疫只作参考，疟疾、感冒、初期麻风才由针灸直接处理。",
+      "en": "The overall stance is drugs and isolation first, acupuncture not the main force. Typhoid should go to hospital for new effective drugs and is not an indication; typhus should be isolated and treated by a specialist; diphtheria goes early to hospital for serum. By the text, 8 of the 16 entries state non-indication, 4 (dysentery, cholera, meningitis, influenza) name specialist drugs as primary with needling as adjunct, plague is given only as a reference, and only malaria, the common cold and early leprosy are handled by acupuncture directly.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ]
+    },
+    {
+      "zh": "“体力”是针灸能否起作用的条件。赤痢条说针治“但在体力未至十分衰弱时有效；针术对于各种急性病症之有效，大都如是；及体力已衰，针术即不发生效用”；霍乱条同样说吐泻失水过多、体力已衰则“虽与针治已无效果”。这条限制与他把急性重症传染病交给专医的做法一致：针灸只能在体力尚在时抑制进展。",
+      "en": "Remaining strength is the condition for acupuncture to act. The dysentery entry says needling is effective only while strength is not yet severely depleted, as with acute disease generally, and that once strength is exhausted it has no effect; cholera says likewise that after heavy loss of fluid and strength needling no longer works. This limit is consistent with handing acute severe infections to specialists: acupuncture can only slow progress while strength remains.",
+      "cite": [
+        "E6",
+        "E7"
+      ]
+    },
+    {
+      "zh": "赤痢是助治的样板：专医用血清等药物之外，取大肠俞、中膂俞、合谷、足三里强刺激，“可减低里急后重之症状，并有抑制病症进行之效”；疫痢则在药物治疗中于大椎、身柱各灸米粒大小艾炷五至七炷，“有减低热度，增进抗力之效”。病理篇的解释是：急性下痢以第六至第十一背椎神经为目的，刺激背椎下部及腰椎两侧，再于足趾末端与足背诱导，“更能奏伟大之效果”。",
+      "en": "Dysentery is the model of adjunct use: beside serum and other drugs from a specialist, strong needling at Dachangshu, Zhonglushu, Hegu, Zusanli reduces tenesmus and inhibits progression; for epidemic dysentery, rice-grain cones x5-7 at Dazhui and Shenzhu during drug treatment lower fever and raise resistance. The pathology book explains: acute diarrhoea targets the 6th to 11th thoracic spinal nerves, stimulating the lower thoracic and both sides of the lumbar spine, then inducing at the toe ends and dorsum of the foot for a greater effect.",
+      "cite": [
+        "E8",
+        "E9",
+        "E10",
+        "E11"
+      ]
+    },
+    {
+      "zh": "霍乱写得最老实：盐水注射为主，严重时可在神阙填盐大艾炷灸二三百壮，这是“旧医之急救疗法”，“在不妨碍盐水注射之施治上，试采用之”，腓肠肌痉挛频作则针承山；旧时放十指、委中、尺泽血，针上脘、中脘、气海等穴的办法，如今“只可作为助治”，只在“穷乡僻壤之地，盐水一时不及置备时，先其所急，可作针灸之治疗”。这是他对传染病针灸的一般退路：药物不到时，才把针灸提到前面；破伤风条也是在缺新药的偏僻处才说可试用脑脊髓膜炎针法。",
+      "en": "Cholera is written most candidly: saline injection first; if severe, large salt-filled cones x200-300 at Shenque, called the old-style emergency method, to be tried only where it does not interfere with the saline, and Chengshan for frequent calf cramps. The old ways of bleeding the ten fingers, Weizhong and Chize and needling Shangwan, Zhongwan, Qihai were, once saline became universal, only adjuncts, to be used first only in remote places where saline cannot be had quickly. This is his general fallback: acupuncture moves forward only when drugs are out of reach; the tetanus entry likewise offers the meningitis scheme only where new drugs are lacking.",
+      "cite": [
+        "E12",
+        "E13",
+        "E14"
+      ]
+    },
+    {
+      "zh": "疟疾是针灸真正主治的一条：取大椎(或陶道)、间使、后溪、复溜“于病之发作前一二小时针治之”，他自己往往只取陶道一穴，中刺激，使酸感传到第六、七胸椎再出针，“往往一针而愈”；体力已衰、药与针久不效者加脾俞、肾俞、命门、关元艾条灸作强壮疗法。他说针术对疟疾“已公认”有效。感冒同理：轻刺激风池、肺俞、身柱、外关，目的是“加强抵抗力，促进发汗功能”，易感冒者每日灸风门、肺俞、足三里“持续1个月以上，即不发生”。",
+      "en": "Malaria is the one infection where acupuncture leads: Dazhui (or Taodao), Jianshi, Houxi, Fuliu needled one to two hours before the expected attack; he himself often needles Taodao alone with moderate stimulation until the sensation reaches the 6th–7th thoracic vertebra, often curing in one needling; if strength is depleted and drugs and needles have long failed, moxa stick at Pishu, Shenshu, Mingmen, Guanyuan is added as a strengthening method. He says needling for malaria is now generally accepted. The common cold is similar: light stimulation of Fengchi, Feishu, Shenzhu, Waiguan to strengthen resistance and promote sweating, and for those prone to colds daily moxa at Fengmen, Feishu, Zusanli for over a month prevents them.",
+      "cite": [
+        "E15",
+        "E16",
+        "E17",
+        "E18",
+        "E19"
+      ]
+    },
+    {
+      "zh": "流行性感冒他要求“专医用药物作主治”，针术“随其症状取穴”，列出头痛、筋骨痛、鼻塞、干咳、咽痛、呕吐、神昏谵语、背反张等10种症状各自的穴位，并先针“能退身热之大椎、身柱、曲池、合谷、三里、内庭”作药物助治。身柱在疫痢、麻疹、感冒、流感4条中出现。这是症状对症取穴，而非针对病原的疗法。",
+      "en": "For influenza he wants a specialist's drugs as the main treatment and needling chosen by symptom, listing points for 10 symptoms (headache, bone and joint pain, nasal blockage, dry cough, sore throat, vomiting, delirium, opisthotonos and others), and needling first the points that lower body heat: Dazhui, Shenzhu, Quchi, Hegu, Zusanli, Neiting, as an adjunct to the drugs. Shenzhu appears in four entries (epidemic dysentery, measles, common cold, influenza). This is symptom-directed point choice, not treatment aimed at the pathogen.",
+      "cite": [
+        "E20",
+        "E21"
+      ]
+    },
+    {
+      "zh": "他逐条标明经验的来源与强度：流脑“原无师承与文献可据”，是他在无锡应诊时，接到学针者来函询问，凭“针术有降低脑压与镇痉之效”的想法拟出的方案，每节1针从颈椎七节至胸椎九节，据报“全活数百名”，但他仍主张“用新药作主治”；鼠疫“无直接治疗经验”，放血方只是“供针灸学者之参考”；破伤风“于针术无经验”，并明言“在针术应列入不适应证”；麻疹“本病不适合针灸治疗”，只在磺胺剂之外于身柱、关元灸七壮帮助疹出；麻风初期“放血法及灸法，颇有效果”，转述况乾五之著作。共7条含编者自述经验或转述。",
+      "en": "He labels the source and strength of experience entry by entry: for meningitis he had no teacher or literature to follow and devised, from the idea of lowering intracranial pressure and calming convulsions, a scheme of one needle per vertebra from the 7th cervical to the 9th thoracic, reported to have saved several hundred, yet he still advocates new drugs as the main treatment; for plague he has no direct experience and the bleeding scheme is only for reference; for tetanus he has no needling experience and says it should be classed as not indicated; measles is not suited to acupuncture, but beside sulfa drugs he moxaed Shenzhu and Guanyuan x7 to help the rash emerge; in early leprosy needle-bleeding and moxa are said to work fairly well, on the report of a colleague's book. Seven entries contain his own account or hearsay.",
+      "cite": [
+        "E22",
+        "E35",
+        "E36",
+        "E23",
+        "E24",
+        "E25",
+        "E26",
+        "E27",
+        "E28",
+        "E29"
+      ]
+    },
+    {
+      "zh": "消毒与预防写在针灸之前：16条中11条有【消毒】，方法是排泄物用石灰乳、接触物煮沸或药液、井水用1:500次氯酸钙、病室与手指用石炭酸水，赤痢条说“必须防止传播为最主要”；霍乱、伤寒、鼠疫、白喉、天然痘5条提预防注射或牛痘，6条要求隔离。这里的“消毒”指排泄物、用具与居室的防疫，不是针具消毒(针具见无菌一篇)。预后他多引新医书：鼠疫“据新医书指示，侵入肺脏者多不良”，只有十大传染病中5条写预后。",
+      "en": "Disinfection and prevention come before acupuncture: 11 of the 16 entries carry a disinfection line (lime milk for excreta, boiling or disinfectant for things touched, calcium hypochlorite 1:500 in well water, carbolic solution for the sickroom and hands), and dysentery states that preventing spread is most important; 5 entries (cholera, typhoid, plague, diphtheria, smallpox) mention preventive injection or vaccination and 6 require isolation. Disinfection here means excreta, utensils and rooms, not needle asepsis (see the asepsis guide). For prognosis he often cites modern medical books, as for plague; only 5 of the ten major infections carry a prognosis line.",
+      "cite": [
+        "E30",
+        "E31",
+        "E32",
+        "E33",
+        "E34"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "针灸有实际作用的传染病：病 → 他的立场 → 针灸做什么与要穴 → 预后",
+        "en": "Infections where acupuncture has a role: disease → his stance → what it does and key points → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的立场",
+          "en": "His stance"
+        },
+        {
+          "zh": "针灸做什么与要穴(原书所列)",
+          "en": "What acupuncture does, points as printed"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "赤痢(附疫痢)",
+            "en": "Dysentery (with epidemic dysentery)"
+          },
+          {
+            "zh": "速送医院隔离，专医用血清等药；针灸助治",
+            "en": "Hospital, isolation, specialist serum and drugs; acupuncture adjunct"
+          },
+          {
+            "zh": "赤痢：大肠俞、中膂俞、合谷、足三里强刺激，减里急后重；疫痢：大椎、身柱，米粒大艾炷各5–7炷，退热增抗力；体力未衰才有效",
+            "en": "Dysentery: Dachangshu, Zhonglushu, Hegu, Zusanli strong; epidemic type: Dazhui, Shenzhu rice-grain cones x5–7; only while strength lasts"
+          },
+          {
+            "zh": "疫痢重症常一二日死亡，过三四日大抵得救；赤痢多恶性者死",
+            "en": "Severe epidemic dysentery often dies within 1–2 days, survivors past 3–4 days mostly recover; bacillary deaths are mostly malignant"
+          }
+        ],
+        [
+          {
+            "zh": "霍乱",
+            "en": "Cholera"
+          },
+          {
+            "zh": "预防注射；发病立即隔离、盐水注射；针灸助治，僻处药缺时可先用",
+            "en": "Prevention by injection; isolate and inject saline; acupuncture adjunct, first line only where saline is unavailable"
+          },
+          {
+            "zh": "严重时神阙填盐大艾炷灸二三百壮；转筋针承山；旧法放十指、委中、尺泽血，针上脘、中脘、气海、天枢、足三里、承山",
+            "en": "Severe: salt-filled large cones x200–300 at Shenque; Chengshan for cramps; old method: bleed ten fingers, Weizhong, Chize, needle Shangwan, Zhongwan, Qihai, Tianshu, Zusanli, Chengshan"
+          },
+          {
+            "zh": "原书未写；死亡至速",
+            "en": "Not stated; death very fast"
+          }
+        ],
+        [
+          {
+            "zh": "流行性脑脊髓膜炎",
+            "en": "Epidemic cerebrospinal meningitis"
+          },
+          {
+            "zh": "专医治疗，可以针术助治；编者主张新药为主",
+            "en": "Specialist; needling as adjunct; he advocates new drugs as main"
+          },
+          {
+            "zh": "编者自拟：颈椎七节至胸椎九节每节1针泻法，风池至胆俞，前胸线璇玑、膻中、三脘、气海，上肢曲池、合谷、外关、十井，下肢委中、承山、昆仑、行间、内庭",
+            "en": "His own scheme: one needle per vertebra C7–T9 reducing method, Fengchi to Danshu, front chest line, arm and leg points"
+          },
+          {
+            "zh": "原书未写；报告病起即针一次热退痉止",
+            "en": "Not stated; reported fever and convulsion stop after one needling if given at onset"
+          }
+        ],
+        [
+          {
+            "zh": "疟疾",
+            "en": "Malaria"
+          },
+          {
+            "zh": "奎宁多即愈；针术公认有效",
+            "en": "Quinine usually cures; needling accepted as effective"
+          },
+          {
+            "zh": "大椎(或陶道)、间使、后溪、复溜，发作前一二小时针；编者只取陶道，中刺激，酸感传至T6–7；体衰者加脾俞、肾俞、命门、关元艾条灸",
+            "en": "Dazhui (or Taodao), Jianshi, Houxi, Fuliu 1–2 hours before attack; he needles Taodao alone, moderate, sensation to T6–7; if weak add Pishu, Shenshu, Mingmen, Guanyuan moxa stick"
+          },
+          {
+            "zh": "往往一针愈，普通2–3次",
+            "en": "Often one needling, usually 2–3"
+          }
+        ],
+        [
+          {
+            "zh": "感冒(伤风)",
+            "en": "Common cold"
+          },
+          {
+            "zh": "针灸直接处理",
+            "en": "Treated directly by acupuncture"
+          },
+          {
+            "zh": "风池、肺俞、身柱、外关轻刺激，加强抵抗力、促发汗；随症加上星、合谷等；易感冒者风门、肺俞、足三里艾条灸1个月以上",
+            "en": "Fengchi, Feishu, Shenzhu, Waiguan light; add by symptom; prone patients Fengmen, Feishu, Zusanli moxa stick for over 1 month"
+          },
+          {
+            "zh": "灸后“即不发生”",
+            "en": "After moxa \"will not occur\""
+          }
+        ],
+        [
+          {
+            "zh": "流行性感冒",
+            "en": "Influenza"
+          },
+          {
+            "zh": "专医药物主治；针术随症取穴助治",
+            "en": "Specialist drugs primary; needling by symptom as adjunct"
+          },
+          {
+            "zh": "头痛：风池、头临泣、攒竹、头维；筋骨痛：曲池、外关、阳陵泉、昆仑；先针大椎、身柱、曲池、合谷、三里、内庭退热",
+            "en": "Headache: Fengchi, Toulinqi, Cuanzhu, Touwei; bone pain: Quchi, Waiguan, Yanglingquan, Kunlun; first Dazhui, Shenzhu, Quchi, Hegu, Zusanli, Neiting to reduce fever"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "鼠疫",
+            "en": "Plague"
+          },
+          {
+            "zh": "急速隔离，专医新药；编者无直接经验",
+            "en": "Isolate urgently, specialist new drugs; he has no direct experience"
+          },
+          {
+            "zh": "转述：每个淋巴肿块三棱针放黑血、敷内服紫金锭，尺泽、委中、十宣放血，针曲池、合谷、外关、三里、内庭",
+            "en": "Reported: prick each swollen node to bleed, Zijinding, bleed Chize, Weizhong, ten Xuan, needle Quchi, Hegu, Waiguan, Zusanli, Neiting"
+          },
+          {
+            "zh": "据新医书：入肺多不良，败血性一发即死",
+            "en": "Per modern books: lung involvement mostly poor, septicaemic fatal at once"
+          }
+        ],
+        [
+          {
+            "zh": "麻风",
+            "en": "Leprosy"
+          },
+          {
+            "zh": "隔离；新药迄无有效者",
+            "en": "Isolation; no effective new drug"
+          },
+          {
+            "zh": "初期针放血法及灸法颇有效，转述况乾五《大麻风针灸疗法》",
+            "en": "Early needle-bleeding and moxa fairly effective, citing Kuang Qianwu's book"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "明写非适应证的传染病：他仍写了什么",
+        "en": "Infections stated as not indicated: what he still writes"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "原书结论",
+          "en": "His statement"
+        },
+        {
+          "zh": "仍列的内容",
+          "en": "What he still gives"
+        },
+        {
+          "zh": "消毒 / 预防",
+          "en": "Disinfection / prevention"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "伤寒(湿温)",
+            "en": "Typhoid"
+          },
+          {
+            "zh": "应入医院，新药治疗，针灸不适应证",
+            "en": "Hospital, new drugs, not indicated"
+          },
+          {
+            "zh": "附国药七液丹的经验，称退热不逊氯霉素",
+            "en": "Appends his experience with Qiyedan, said not inferior to chloramphenicol"
+          },
+          {
+            "zh": "排泄物石灰乳；井水次氯酸钙1:500；病室手指石炭酸水；平时注射预防",
+            "en": "Lime milk; calcium hypochlorite 1:500 in well water; carbolic solution; preventive injection"
+          },
+          {
+            "zh": "无定",
+            "en": "Uncertain"
+          }
+        ],
+        [
+          {
+            "zh": "副伤寒(温病)",
+            "en": "Paratyphoid"
+          },
+          {
+            "zh": "同伤寒，针灸不适应证",
+            "en": "As typhoid, not indicated"
+          },
+          {
+            "zh": "无",
+            "en": "None"
+          },
+          {
+            "zh": "痰、屎尿、衣服严密消毒",
+            "en": "Strict disinfection of sputum, excreta, clothing"
+          },
+          {
+            "zh": "不定",
+            "en": "Uncertain"
+          }
+        ],
+        [
+          {
+            "zh": "发疹伤寒(发斑)",
+            "en": "Typhus"
+          },
+          {
+            "zh": "应由专医隔离治疗，非针灸适应证",
+            "en": "Specialist and isolation, not indicated"
+          },
+          {
+            "zh": "无",
+            "en": "None"
+          },
+          {
+            "zh": "接触物、排泄物、杂具、居室消毒，防传播为首要",
+            "en": "Disinfect touched things, excreta, utensils, rooms; preventing spread first"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "白喉",
+            "en": "Diphtheria"
+          },
+          {
+            "zh": "应早送医院血清治疗，非针灸适应证",
+            "en": "Early hospital serum, not indicated"
+          },
+          {
+            "zh": "无",
+            "en": "None"
+          },
+          {
+            "zh": "春冬预防注射；消毒同鼠疫条",
+            "en": "Spring and winter preventive injection; disinfect as for plague"
+          },
+          {
+            "zh": "重症多不良",
+            "en": "Severe mostly poor"
+          }
+        ],
+        [
+          {
+            "zh": "天然痘(天花)",
+            "en": "Smallpox"
+          },
+          {
+            "zh": "应由专医治疗，非针灸适应证",
+            "en": "Specialist, not indicated"
+          },
+          {
+            "zh": "无",
+            "en": "None"
+          },
+          {
+            "zh": "涕泪唾液接触物、衣被消毒；流行时一律再种牛痘",
+            "en": "Disinfect discharge-touched things, clothing, bedding; re-vaccinate everyone in an outbreak"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "猩红热(喉痧)",
+            "en": "Scarlet fever"
+          },
+          {
+            "zh": "送医院隔离治疗，非针灸适应证",
+            "en": "Hospital isolation, not indicated"
+          },
+          {
+            "zh": "无",
+            "en": "None"
+          },
+          {
+            "zh": "排泄物、衣类、被褥、器具严密防疫消毒",
+            "en": "Strict disinfection of excreta, clothing, bedding, utensils"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "麻疹",
+            "en": "Measles"
+          },
+          {
+            "zh": "应由专医治疗，非针术适应证",
+            "en": "Specialist, not indicated"
+          },
+          {
+            "zh": "按语：疹隐没易致肺炎死亡，磺胺剂之外身柱、关元小艾炷直接灸七壮，不半日疹复起",
+            "en": "Note: rash receding risks fatal pneumonia; beside sulfa drugs, direct cones x7 at Shenzhu and Guanyuan, rash returns within half a day"
+          },
+          {
+            "zh": "排泄物、接触物、卧室消毒",
+            "en": "Disinfect excreta, touched things, bedroom"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "破伤风(痉症)",
+            "en": "Tetanus"
+          },
+          {
+            "zh": "专医用破伤风血清；针术应列入不适应证",
+            "en": "Specialist with antitoxin; needling classed as not indicated"
+          },
+          {
+            "zh": "无经验；穷乡僻壤缺药时可照脑脊髓膜炎针法试治或作助治",
+            "en": "No experience; in remote places without drugs one may try the meningitis scheme or use it as adjunct"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "本病应入医院，用新出有效药治疗，于针灸为不适应证",
+      "src": "针灸处方集·第十一章 传染病·伤寒 p.281"
+    },
+    {
+      "id": "E2",
+      "quote": "本病应由专医作隔离治疗，非针灸之适应证",
+      "src": "针灸处方集·第十一章 传染病·发疹伤寒 p.281"
+    },
+    {
+      "id": "E3",
+      "quote": "如病症发现，应早送医院作血清治疗，非针灸之适应证",
+      "src": "针灸处方集·第十一章 传染病·白喉 p.282"
+    },
+    {
+      "id": "E4",
+      "quote": "由专医用赤痢血清等药物治疗之外，可取大肠俞、中膂俞、合谷、足三里，作强刺激之针治，作为助治",
+      "src": "针灸处方集·第十一章 传染病·赤痢 p.280"
+    },
+    {
+      "id": "E5",
+      "quote": "本病应由专医用药物作主治，以针术随其症状取穴，解其毒素所刺激之神经诸症",
+      "src": "针灸处方集·第十一章 传染病·流行性感冒 p.284"
+    },
+    {
+      "id": "E6",
+      "quote": "但在体力未至十分衰弱时有效；针术对于各种急性病症之有效，大都如是；及体力已衰，针术即不发生效用",
+      "src": "针灸处方集·第十一章 传染病·赤痢 p.280"
+    },
+    {
+      "id": "E7",
+      "quote": "但因吐泻失水过多，体力已衰，虽与针治已无效果",
+      "src": "针灸处方集·第十一章 传染病·霍乱 p.281"
+    },
+    {
+      "id": "E8",
+      "quote": "可减低里急后重之症状，并有抑制病症进行之效",
+      "src": "针灸处方集·第十一章 传染病·赤痢 p.280"
+    },
+    {
+      "id": "E9",
+      "quote": "在大椎、身柱两穴位上，每点用小艾炷(如米粒大)灸五至七炷，作为助治，有减低热度，增进抗力之效",
+      "src": "针灸处方集·第十一章 传染病·赤痢(附疫痢) p.280"
+    },
+    {
+      "id": "E10",
+      "quote": "急性下痢及下腹痛，以第六至第十一背椎神经为目的，于背椎之下部及全腰椎之各侧施以刺激",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·对急性下痢及下腹痛之针灸法 p.203"
+    },
+    {
+      "id": "E11",
+      "quote": "于足趾末端与足背，与以诱导之刺激，更能奏伟大之效果",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·对急性下痢及下腹痛之针灸法 p.203"
+    },
+    {
+      "id": "E12",
+      "quote": "同时可于神阙穴作大艾炷(如半枚枣核大，下填食盐)灸治二三百壮；此为旧医之急救疗法",
+      "src": "针灸处方集·第十一章 传染病·霍乱 p.281"
+    },
+    {
+      "id": "E13",
+      "quote": "在不妨碍盐水注射之施治上，试采用之",
+      "src": "针灸处方集·第十一章 传染病·霍乱 p.281"
+    },
+    {
+      "id": "E14",
+      "quote": "近年一致采用盐水注射后，针与灸，只可作为助治；唯穷乡僻壤之地，盐水一时不及置备时，先其所急，可作针灸之治疗",
+      "src": "针灸处方集·第十一章 传染病·霍乱 p.281"
+    },
+    {
+      "id": "E15",
+      "quote": "近年经多数之针灸医证明，已公认针术对疟疾有效",
+      "src": "针灸处方集·第十一章 传染病·疟疾 p.283"
+    },
+    {
+      "id": "E16",
+      "quote": "取大椎(或陶道)、间使、后溪、复溜，于病之发作前一二小时针治之",
+      "src": "针灸处方集·第十一章 传染病·疟疾 p.283"
+    },
+    {
+      "id": "E17",
+      "quote": "往往只取陶道一穴，用中刺激，使其酸感传达至第六、第七胸椎处，而后出针，往往一针而愈",
+      "src": "针灸处方集·第十一章 传染病·疟疾 p.283"
+    },
+    {
+      "id": "E18",
+      "quote": "用艾条灸治，作强壮疗法乃得愈，在临床上每治不爽",
+      "src": "针灸处方集·第十一章 传染病·疟疾 p.284"
+    },
+    {
+      "id": "E19",
+      "quote": "以加强抵抗力，促进发汗功能，并对主诉症作诱导为目的",
+      "src": "针灸处方集·第十一章 传染病·感冒 p.284"
+    },
+    {
+      "id": "E20",
+      "quote": "凡易于感冒，每日取风门、肺俞、足三里，用艾条灸治，持续1个月以上，即不发生",
+      "src": "针灸处方集·第十一章 传染病·感冒 p.284"
+    },
+    {
+      "id": "E21",
+      "quote": "尤以能退身热之大椎、身柱、曲池、合谷、三里、内庭等先针之，作为药物之助治",
+      "src": "针灸处方集·第十一章 传染病·流行性感冒 p.284"
+    },
+    {
+      "id": "E22",
+      "quote": "编者对于此症之针术治疗，原无师承与文献可据",
+      "src": "针灸处方集·第十一章 传染病·流行性脑脊髓膜炎 p.283"
+    },
+    {
+      "id": "E23",
+      "quote": "编者主张用新药作主治，不用抽脊水手术而代以针术，一定可缩短病程，减少死亡",
+      "src": "针灸处方集·第十一章 传染病·流行性脑脊髓膜炎 p.283"
+    },
+    {
+      "id": "E24",
+      "quote": "编者于本病无直接治疗经验",
+      "src": "针灸处方集·第十一章 传染病·鼠疫 p.282"
+    },
+    {
+      "id": "E25",
+      "quote": "为供针灸学者之参考，备不虞之试用耳",
+      "src": "针灸处方集·第十一章 传染病·鼠疫 p.282"
+    },
+    {
+      "id": "E26",
+      "quote": "故于针术无经验",
+      "src": "针灸处方集·第十一章 传染病·破伤风 p.284"
+    },
+    {
+      "id": "E27",
+      "quote": "在针术应列入不适应证",
+      "src": "针灸处方集·第十一章 传染病·破伤风 p.284"
+    },
+    {
+      "id": "E28",
+      "quote": "兼于身柱、关元两点，用小艾炷直接灸治七壮，可加强抗力，不半日而疹复起",
+      "src": "针灸处方集·第十一章 传染病·麻疹 p.283"
+    },
+    {
+      "id": "E29",
+      "quote": "本病初期用针放血法及灸法，颇有效果",
+      "src": "针灸处方集·第十一章 传染病·麻风 p.284"
+    },
+    {
+      "id": "E30",
+      "quote": "排泄物，用石灰乳消毒；接触物，用煮沸或消毒药液消毒；必须防止传播为最主要",
+      "src": "针灸处方集·第十一章 传染病·赤痢 p.280"
+    },
+    {
+      "id": "E31",
+      "quote": "排泄物具，用石灰乳消毒，井水中用1:500比例之次氯酸钙，病室与手指用3??石炭酸水洗涤消毒",
+      "src": "针灸处方集·第十一章 传染病·伤寒 p.281"
+    },
+    {
+      "id": "E32",
+      "quote": "平时每在夏秋必作霍乱，预防注射2～3次",
+      "src": "针灸处方集·第十一章 传染病·霍乱 p.280"
+    },
+    {
+      "id": "E33",
+      "quote": "当此症流行时，应一律再种牛痘预防之",
+      "src": "针灸处方集·第十一章 传染病·天然痘 p.282"
+    },
+    {
+      "id": "E35",
+      "quote": "嗣得报告：谓病起即针，一次而热退痉止，稍迟者二次，1周以上者有愈有不愈，全活数百名",
+      "src": "针灸处方集·第十一章 传染病·流行性脑脊髓膜炎 p.283"
+    },
+    {
+      "id": "E36",
+      "quote": "从颈椎七节至胸椎九节，每节1针，作泻法",
+      "src": "针灸处方集·第十一章 传染病·流行性脑脊髓膜炎 p.283"
+    },
+    {
+      "id": "E34",
+      "quote": "据新医书指示，侵入肺脏者多不良，败血性者，一发即死",
+      "src": "针灸处方集·第十一章 传染病·鼠疫 p.282"
+    }
+  ],
+  "caveats": {
+    "zh": "这一章的西药与检验(赤痢血清、盐水注射、奎宁、磺胺剂、氯霉素、抽脊水、破伤风血清)是1950年代前后的水平，今天已不适用，应理解为他对“针灸相对于当时新药”的定位。神阙填盐灸、放血、脑脊髓膜炎“作泻法”方案(“其时论补泻”)、鼠疫放血方，都是他自述的旧医经验或转述，他自己标明“供参考试用”，不是主张。七液丹、紫金锭等药物附记与备查药方不属穴位思路。石炭酸浓度原文印作“3??”(OCR，应是百分号被吞)，不确定具体浓度。本章“消毒”指防疫消毒，不是针具消毒。数据文件把破伤风标为“适应证”，与原文“应列入不适应证”不符，此处按原文。",
+    "en": "The drugs and tests in this chapter (dysentery serum, saline injection, quinine, sulfa drugs, chloramphenicol, spinal tap, tetanus antitoxin) are around the state of the 1950s and no longer current; read them as his positioning of acupuncture relative to the new drugs of his day. Salt-filled Shenque moxa, bleeding, the meningitis scheme using the reducing method (\"compensation and reduction were discussed then\") and the plague bleeding scheme are his own or reported old-style experience, each marked by him as for reference and trial, not an endorsement. Qiyedan, Zijinding and the appended drug list are outside the point logic. The carbolic concentration is printed as \"3??\" (OCR, the percent sign lost), so the exact strength is uncertain. Disinfection here is epidemic-control disinfection, not needle asepsis. The prescription data file flags tetanus as an indication, contradicting the text, which says it should be classed as not indicated; the text is followed here."
+  },
+  "see": {
+    "points": [
+      "大椎",
+      "身柱",
+      "陶道",
+      "神阙",
+      "合谷",
+      "足三里",
+      "曲池",
+      "内庭",
+      "风池",
+      "肺俞"
+    ],
+    "rx": [
+      "cda-rx-204",
+      "cda-rx-205",
+      "cda-rx-206",
+      "cda-rx-207",
+      "cda-rx-208",
+      "cda-rx-209",
+      "cda-rx-210",
+      "cda-rx-211",
+      "cda-rx-212",
+      "cda-rx-213",
+      "cda-rx-214",
+      "cda-rx-215",
+      "cda-rx-216",
+      "cda-rx-217",
+      "cda-rx-218",
+      "cda-rx-219"
+    ]
+  }
+}

@@ -1,0 +1,657 @@
+{
+  "id": "sxm-05-zhishen",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "刺灸法",
+    "en": "Technique"
+  },
+  "order": 5,
+  "title": {
+    "zh": "针刺治神与调神导气：医患安神、守气，以及调神法的应用",
+    "en": "Zhi Shen and Regulating Shen to Guide Qi: Calming Physician and Patient, Guarding Qi, and Where Shen Regulation Is Applied"
+  },
+  "summary": {
+    "zh": "他把《内经》“凡刺之真，必先治神”落实为两层：一是针刺时医患双方的安神与守气（六项要求：情绪稳定、入静、医者专一、得气、正确手法、医者健康）；二是治疗上的“调神”，以内关、水沟为核心，用于中风以外的厥证、郁证、百合病、顽固性疼痛、呃逆等。他的立论基础是脑主神明，心主神志从属于它。",
+    "en": "He turns the Neijing line \"in the truth of needling, first regulate shen\" into two layers: at the needle, physician and patient calm the spirit and guard qi (six requirements: steady emotion, stillness, focused physician, arrival of qi, correct manipulation, healthy physician); and in treatment, \"shen regulation\" centred on Neiguan and Shuigou, used beyond stroke for syncope, depression, lily disease, stubborn pain and hiccup. His base is that the brain governs shen and the heart's governance of spirit is subordinate."
+  },
+  "takeaways": [
+    {
+      "zh": "治神决定针刺的成败：他引《素问·宝命全形论》“凡刺之真，必先治神”，说针刺质量好坏、效果成败，“治神”起决定性作用；治神守气是针灸治疗原则中居首要地位的一条，是施治的基础和前提。",
+      "en": "Zhi shen decides whether needling succeeds: quoting Suwen \"in the truth of needling, first regulate shen\", he says the quality and outcome of needling are decided by zhi shen; zhi shen and shou qi (guarding qi) is the first of his treatment principles, the base and precondition of treatment.",
+      "cite": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "zh": "理论根基是“脑主神明”，心主神志并存但从属：脑所主之神是广义的神，包括机体的外在生命活动和内在精神活动，起决定性作用；心主神志是狭义的神，是广义神的一部分，由心主血脉派生；心神功能的发挥隶属于脑主神明。他因此说脑主神明的功能包括了针灸的“治神”。",
+      "en": "The foundation is \"the brain governs shen\", with the heart's governance coexisting but subordinate: the shen governed by the brain is broad shen, covering outward life activity and inner mental activity, and decisive; the heart governing spirit is narrow shen, part of broad shen and derived from the heart governing blood and vessels; the heart's shen function is subordinate to the brain's governance. He therefore says the brain's governance includes the needle's zhi shen.",
+      "cite": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "zh": "治神有两层含义：一是针灸施治前后注重调治病人的精神状态；二是操作过程中医者专一其神、意守神气，病人神情安定、意守感传；治神贯穿针灸治病的全过程。他又提出六项具体要求：医患情绪稳定、患者入静、医者精神专一、得气、正确的手法操作（本身就是治神的内容）、医者身体健康（表下）。",
+      "en": "Zhi shen has two layers: attending to the patient's mental state before and after treatment, and during needling the physician concentrates and guards shen-qi while the patient is settled and follows the sensation; it runs through the whole treatment. He gives six concrete requirements: steady emotion in both, stillness of the patient, a focused physician, arrival of qi, correct manipulation (itself part of zhi shen) and a healthy physician (see table).",
+      "cite": [
+        "S5",
+        "S6",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "zh": "情绪与疗效直接挂钩：情绪低潮或不稳定时人的兴奋性、生理功能、心理承受能力、免疫功能都下降；针刺的作用在于激发、推动机体的自我调整能力，这一转化过程有赖于患者情绪的支持。所以按《标幽赋》“神不朝而勿刺，神已定而可施”，对精神高度紧张、大惊、大恐、大悲之人应暂时避免针刺，以防神气散亡。",
+      "en": "Emotion is tied directly to effect: when mood is low or unstable, excitability, physiological function, psychological tolerance and immunity all fall; needling works by stimulating the body's self-regulation, and that transformation depends on the patient's emotional support. Following the Biaoyou Fu, \"do not needle if shen has not come; needle once shen is settled\", people who are highly tense or have had a great fright, terror or grief should temporarily be spared needling to avoid scattering shen-qi.",
+      "cite": [
+        "S9",
+        "S10",
+        "S11"
+      ]
+    },
+    {
+      "zh": "守气是治神的延伸：经气的到来、传行、至病所，受体质、穴位准确性、方向、角度、深度、强度、补泻手法等多种因素影响，但“医者的治神守气，病人的意守感传”往往起决定性作用；“守神也即守气，守气必先治神”。气不至，用扪、切、循、按或语言暗示诱发；气至，“密意守气”；患者平心静气、放松肌肉、意守病所，配合呼吸更好。",
+      "en": "Guarding qi extends zhi shen: arrival, travel and reaching the disease site depend on constitution, point accuracy, direction, angle, depth, intensity and manipulation, but \"the physician's zhi shen and shou qi and the patient's following of the sensation\" are often decisive; \"guarding shen is guarding qi, and guarding qi must begin with zhi shen\". If qi does not arrive, use pressing, cutting, tracing, patting or verbal suggestion; once it arrives, \"guard qi with close attention\"; the patient calms breath, relaxes muscle, keeps the mind on the disease site, and does better if breathing with the needling.",
+      "cite": [
+        "S12",
+        "S13",
+        "S14",
+        "S15"
+      ]
+    },
+    {
+      "zh": "“调神”从针法扩成治法：他把神的理论概括为四点——神之所在（脑为元神之府，心藏神）、所主（人体一切生命活动的外在表现）、所病（百病之始，皆本于神）、所治（凡刺之法，先醒其神）；并说针灸的“窍闭神匿，神不导气”是疾病的最终病机，针灸治疗要求“守神”“治神”，以达“调神”“醒神”。",
+      "en": "\"Regulating shen\" grows from a needling technique to a therapy: he sums the theory of shen in four points, where shen resides (brain is the mansion of primal spirit, heart stores shen), what it governs (the outward expression of all life activity), how it is diseased (all disease begins in shen), how it is treated (in every needling first wake shen); and he says \"orifices closed, shen hidden, shen fails to lead qi\" is the final mechanism of disease, so acupuncture requires guarding and regulating shen to achieve \"regulating\" and \"waking\" shen.",
+      "cite": [
+        "S16",
+        "S17"
+      ]
+    },
+    {
+      "zh": "调神法的核心是“神能导气，气畅则道通，通则不痛”：疼痛的病机是经脉气血不畅，而气血流行与心和神关系密切，故重用内关、水沟“调其神，令气易行”，收“以意通经”而镇痛之效；呃逆则“制其神，令气易行”。癃闭、遗尿、耳鸣、郁证、瘾病（百合病）、厥闭脱证、胸痹等，他都从神论治，取内关、水沟为主（表下）。",
+      "en": "The core of shen regulation is \"shen leads qi; when qi flows the way opens; when open there is no pain\": pain arises from poor flow of channel qi and blood, whose movement is closely bound to heart and shen, so Neiguan and Shuigou are used heavily to \"regulate its shen and make qi move easily\", pain being relieved \"by the mind opening the channels\"; for hiccup, \"restrain its shen and make qi move easily\". For urinary retention, enuresis, tinnitus, depression, hysteria (lily disease), syncope, collapse and chest impediment he also treats through shen with Neiguan and Shuigou as the base (table below).",
+      "cite": [
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "治神与手法量学是同一件事的两面",
+        "en": "Zhi shen and dosage are two faces of one matter"
+      },
+      "body": {
+        "zh": "他在“治神”里专门列了一项“正确的手法操作”，理由是针刺治病要在明辨虚实、确定穴位的基础上用手法补泻，而各种手法都是机械性刺激，无论补泻都涉及刺激量。所以治神并不只是心理层面：医者专一、患者入静，是为了让“得气—守气—量学规定的手法”这一串操作在稳定的状态下完成。具体的量学见 sxm-04。",
+        "en": "Under zhi shen he lists \"correct manipulation\" as one item, because needling treats by tonifying and reducing on the basis of a clear view of deficiency and excess and a decided point, and every manipulation is a mechanical stimulus and so involves a dose. Zhi shen is thus not merely psychological: the physician's focus and the patient's stillness are for completing the chain of qi arrival, qi guarding and dosed manipulation in a steady state. The dosage itself is in sxm-04."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "治神的六项要求（第六章第四节）",
+        "en": "The six requirements of zhi shen (chapter 6, section 4)"
+      },
+      "cols": [
+        {
+          "zh": "要求",
+          "en": "Requirement"
+        },
+        {
+          "zh": "他的说法",
+          "en": "What he says"
+        },
+        {
+          "zh": "所引经典与依据",
+          "en": "Classics and support cited"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "一 情绪稳定",
+            "en": "1 Steady emotion"
+          },
+          {
+            "zh": "医生和患者都要心情平静；情绪低潮时兴奋性、免疫功能下降，针刺激发的自我调整有赖患者情绪支持",
+            "en": "Both physician and patient calm; low mood lowers excitability and immunity, and the self-regulation needling triggers depends on the patient's emotional support"
+          },
+          {
+            "zh": "《灵枢·邪客》“持针之道，欲端以正，安以静”",
+            "en": "Lingshu Xieke: \"the way of holding the needle: upright, correct, calm and still\""
+          }
+        ],
+        [
+          {
+            "zh": "二 “入静”",
+            "en": "2 Stillness"
+          },
+          {
+            "zh": "患者神志安定才能施针；入静可使循经感传出现率明显提高，因此强调入静是为了提高疗效",
+            "en": "Needle only when the patient's shen is settled; stillness markedly raises the rate of propagated channel sensation, so it is stressed to raise effect"
+          },
+          {
+            "zh": "《标幽赋》“神不朝而勿刺，神已定而可施”",
+            "en": "Biaoyou Fu: \"do not needle if shen has not come; needle once shen is settled\""
+          }
+        ],
+        [
+          {
+            "zh": "三 医生精神专一",
+            "en": "3 Focused physician"
+          },
+          {
+            "zh": "医者注意力集中，令志在针",
+            "en": "The physician concentrates, keeping the will on the needle"
+          },
+          {
+            "zh": "《灵枢·终始》“专意一神，精气不分……必一其神，令志在针”",
+            "en": "Lingshu Zhongshi: \"single mind, single shen, essence-qi undivided ... make the will rest on the needle\""
+          }
+        ],
+        [
+          {
+            "zh": "四 得气",
+            "en": "4 Arrival of qi"
+          },
+          {
+            "zh": "得气即针感效应，患者针感与医者手感，依赖医患密切配合；感觉与脑主神明密切相关，所以治神对得气十分重要",
+            "en": "Arrival of qi is the sensation, the patient's and the physician's hand feel, needing close cooperation; sensation is tied to the brain's governance of shen, so zhi shen matters much for it"
+          },
+          {
+            "zh": "《素问·宝命全形论》“静意视义，观适之变”",
+            "en": "Suwen Baoming Quanxing: \"quiet the mind, watch for the meaning, observe the change\""
+          }
+        ],
+        [
+          {
+            "zh": "五 正确的手法操作",
+            "en": "5 Correct manipulation"
+          },
+          {
+            "zh": "在明辨虚实、确定穴位的基础上用手法补泻，是治神的重要内容；手法都涉及刺激量",
+            "en": "Tonify or reduce on the basis of clear deficiency-excess and decided points; an important part of zhi shen; every manipulation involves dose"
+          },
+          {
+            "zh": "见 sxm-04",
+            "en": "See sxm-04"
+          }
+        ],
+        [
+          {
+            "zh": "六 医生身体健康",
+            "en": "6 Healthy physician"
+          },
+          {
+            "zh": "身体健康、阴阳平衡，脑主神明才能正常发挥，医生才能更好地治神",
+            "en": "Only in health and yin-yang balance does the brain's governance of shen work properly, letting the physician regulate shen better"
+          },
+          {
+            "zh": "（据脑主神明推论）",
+            "en": "(inferred from brain governing shen)"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "治神在一次诊疗中的落实",
+        "en": "Zhi shen through one course of treatment"
+      },
+      "cols": [
+        {
+          "zh": "阶段",
+          "en": "Phase"
+        },
+        {
+          "zh": "对患者",
+          "en": "For the patient"
+        },
+        {
+          "zh": "对医者",
+          "en": "For the physician"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "施针前",
+            "en": "Before needling"
+          },
+          {
+            "zh": "创造安静舒适的治疗环境；讲清针灸治病的情况，消除紧张；调整情绪至稳定；对高度紧张或大惊、大恐、大悲者暂避针刺",
+            "en": "Quiet, comfortable room; explain how needling works and remove tension; settle mood; defer needling for the highly tense or those just frightened or bereaved"
+          },
+          {
+            "zh": "举止端庄热情；问诊查体认真仔细；努力消除患者对病和治疗的疑虑",
+            "en": "Composed and warm bearing; careful history and examination; work to dispel doubts about disease and treatment"
+          }
+        ],
+        [
+          {
+            "zh": "行针中",
+            "en": "During needling"
+          },
+          {
+            "zh": "平心静气，放松肌肉，全神贯注，意守病所；配合呼吸运动效果更好",
+            "en": "Calm breath, relaxed muscle, undivided attention, mind on the disease site; better with breathing coordination"
+          },
+          {
+            "zh": "“目无外视，手如握虎；心无内慕，如待贵人”；观察神色表情，询问感觉；气不至，扪切循按或语言暗示；气至，“密意守气”",
+            "en": "\"Eyes not straying, hand as if gripping a tiger; mind not wandering, as if awaiting a noble\"; watch complexion and expression, ask about sensation; if qi has not come, press, cut, trace, pat or suggest; once it has, \"guard qi closely\""
+          }
+        ],
+        [
+          {
+            "zh": "疗程中",
+            "en": "Across the course"
+          },
+          {
+            "zh": "疑难、慢性或情志致病者，多做思想工作，树立战胜疾病的信心，加强功能锻炼",
+            "en": "For intractable, chronic or emotion-caused disease, more counselling, build confidence, strengthen functional exercise"
+          },
+          {
+            "zh": "《圣济经》：告之以其败，语之以其善，导之以其所便，开之以其所苦",
+            "en": "Shengji Jing: tell them of the harm, speak of the good, guide them by what suits them, open up what pains them"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "“调神”的应用：病机与取穴（第七章第五节）",
+        "en": "Where shen regulation is applied: mechanism and points (chapter 7, section 5)"
+      },
+      "cols": [
+        {
+          "zh": "病证",
+          "en": "Condition"
+        },
+        {
+          "zh": "他的病机",
+          "en": "His mechanism"
+        },
+        {
+          "zh": "治法",
+          "en": "Method"
+        },
+        {
+          "zh": "取穴",
+          "en": "Points"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "中风及吞咽障碍",
+            "en": "Stroke and dysphagia"
+          },
+          {
+            "zh": "窍闭神匿，神不导气（吞咽障碍再加关窍痹阻）",
+            "en": "Orifices closed, shen hidden, shen fails to lead qi (dysphagia adds blocked passes)"
+          },
+          {
+            "zh": "醒脑开窍；调神导气、通关利窍",
+            "en": "Wake brain and open orifices; regulate shen to guide qi, open passes"
+          },
+          {
+            "zh": "内关、水沟、三阴交；风池、完骨、翳风",
+            "en": "Neiguan, Shuigou, Sanyinjiao; Fengchi, Wangu, Yifeng"
+          }
+        ],
+        [
+          {
+            "zh": "胸痹",
+            "en": "Chest impediment"
+          },
+          {
+            "zh": "心气不通、心阳不宣、心神不宁",
+            "en": "Heart qi obstructed, heart yang not spread, heart shen unsettled"
+          },
+          {
+            "zh": "调心神、益心气、通心阳",
+            "en": "Regulate heart shen, boost heart qi, free heart yang"
+          },
+          {
+            "zh": "内关、水沟，配厥阴俞、心俞、膈俞等",
+            "en": "Neiguan, Shuigou, with Jueyinshu, Xinshu, Geshu etc."
+          }
+        ],
+        [
+          {
+            "zh": "顽固性疼痛",
+            "en": "Stubborn pain"
+          },
+          {
+            "zh": "经脉气血运行不畅，而气血流行与心和神关系密切",
+            "en": "Poor flow of channel qi and blood, whose movement is bound to heart and shen"
+          },
+          {
+            "zh": "调神法，“调其神，令气易行”",
+            "en": "Shen regulation, \"regulate its shen, make qi move easily\""
+          },
+          {
+            "zh": "重用内关、水沟",
+            "en": "Neiguan and Shuigou heavily"
+          }
+        ],
+        [
+          {
+            "zh": "癃闭（排尿障碍）",
+            "en": "Urinary retention"
+          },
+          {
+            "zh": "膀胱气化失权，与膀胱经气不利、神不导气有密切关系",
+            "en": "Bladder qi transformation fails, closely linked to poor bladder-channel qi and shen not leading qi"
+          },
+          {
+            "zh": "醒神调气",
+            "en": "Wake shen, regulate qi"
+          },
+          {
+            "zh": "内关、水沟，配关元、气海、秩边",
+            "en": "Neiguan, Shuigou, with Guanyuan, Qihai, Zhibian"
+          }
+        ],
+        [
+          {
+            "zh": "小儿遗尿",
+            "en": "Childhood enuresis"
+          },
+          {
+            "zh": "精神紧张、过度疲惫是主要诱因；病机属“心神昏聩、治理无权”",
+            "en": "Nervous strain and overtiredness the chief cause; mechanism \"heart shen clouded, governance lost\""
+          },
+          {
+            "zh": "调节心神",
+            "en": "Regulate heart shen"
+          },
+          {
+            "zh": "重用水沟、印堂、百会",
+            "en": "Shuigou, Yintang, Baihui heavily"
+          }
+        ],
+        [
+          {
+            "zh": "耳聋、耳鸣",
+            "en": "Deafness and tinnitus"
+          },
+          {
+            "zh": "心神昏聩、清窍不利",
+            "en": "Heart shen clouded, clear orifices obstructed"
+          },
+          {
+            "zh": "健脑聪耳、醒神通窍",
+            "en": "Fortify brain, sharpen hearing, wake shen, open orifices"
+          },
+          {
+            "zh": "内关、水沟、百会，配翳风、听宫、听会",
+            "en": "Neiguan, Shuigou, Baihui, with Yifeng, Tinggong, Tinghui"
+          }
+        ],
+        [
+          {
+            "zh": "呃逆",
+            "en": "Hiccup"
+          },
+          {
+            "zh": "胃气不降，常以情绪波动、精神刺激为诱因",
+            "en": "Stomach qi fails to descend, often triggered by emotion or mental shock"
+          },
+          {
+            "zh": "“制其神，令气易行”",
+            "en": "\"Restrain its shen, make qi move easily\""
+          },
+          {
+            "zh": "内关、水沟，配天突、膻中、内庭",
+            "en": "Neiguan, Shuigou, with Tiantu, Danzhong, Neiting"
+          }
+        ],
+        [
+          {
+            "zh": "郁证",
+            "en": "Depression"
+          },
+          {
+            "zh": "情志内伤，肝失疏泄，脾失健运，心失所养，脏腑阴阳气血失调",
+            "en": "Emotional injury, liver fails to spread, spleen fails to transport, heart unnourished, organ imbalance"
+          },
+          {
+            "zh": "调神启闭，疏解肝郁",
+            "en": "Regulate shen and open the closure, relieve liver depression"
+          },
+          {
+            "zh": "内关、水沟，再据证加穴（血瘀加血海；肝郁化火加太冲、三阴交；痰结加丰隆、阴陵泉；食滞加足三里）",
+            "en": "Neiguan, Shuigou, then by pattern (blood stasis: Xuehai; liver fire: Taichong, Sanyinjiao; phlegm: Fenglong, Yinlingquan; food stagnation: Zusanli)"
+          }
+        ],
+        [
+          {
+            "zh": "瘾病（百合病）",
+            "en": "Hysteria (lily disease)"
+          },
+          {
+            "zh": "心窍闭阻，心神郁逆；症状多变",
+            "en": "Heart orifice blocked, heart shen depressed and reversed; symptoms shift"
+          },
+          {
+            "zh": "调神开窍，调和阴阳",
+            "en": "Regulate shen, open the orifices, harmonise yin-yang"
+          },
+          {
+            "zh": "内关、水沟，随证加减；疗效取决于取穴、手法、针感和刺激量",
+            "en": "Neiguan, Shuigou, adjusted by picture; effect depends on points, manipulation, needle sensation and dose"
+          }
+        ],
+        [
+          {
+            "zh": "厥闭脱证",
+            "en": "Syncope, closure, collapse"
+          },
+          {
+            "zh": "阴阳失和，神气逆乱",
+            "en": "Yin-yang disharmony, shen-qi in disorder"
+          },
+          {
+            "zh": "醒神苏厥，急行醒脑开窍",
+            "en": "Wake shen, revive from syncope, urgent Xingnao Kaiqiao"
+          },
+          {
+            "zh": "内关、水沟",
+            "en": "Neiguan, Shuigou"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "S1",
+      "quote": "针刺质量的好坏，针刺效果的成败，“治神”起着决定性的因素",
+      "src": "石学敏实用针灸学·第六章 第四节 针刺治神 p.244"
+    },
+    {
+      "id": "S2",
+      "quote": "治神守气是针灸施治的基础和前提，在针灸治疗原则中，应居首要地位",
+      "src": "石学敏实用针灸学·第七章 第一节 针灸治疗原则·一、治神守气 p.247"
+    },
+    {
+      "id": "S3",
+      "quote": "脑主神明与心主神志是并存的，但是脑所主之神是广义的神，它包括机体的外在生命活动和内在精神活动",
+      "src": "石学敏实用针灸学·第六章 第四节 针刺治神·一、脑主神明与心主神明 p.244"
+    },
+    {
+      "id": "S4",
+      "quote": "心神功能的发挥，隶属于脑主神明的功能之下",
+      "src": "石学敏实用针灸学·第六章 第四节 针刺治神·一 p.244"
+    },
+    {
+      "id": "S5",
+      "quote": "所谓治神，一是在针灸施治前后注重调治病人的精神状态；二是在针灸操作过程中，医者专一其神，意守神气；病人神情安定，意守感传",
+      "src": "石学敏实用针灸学·第七章 第一节 针灸治疗原则·一、治神守气 p.247"
+    },
+    {
+      "id": "S6",
+      "quote": "治神要求医生和患者都要心情平静，情绪稳定",
+      "src": "石学敏实用针灸学·第六章 第四节 针刺治神·三、（一） p.245"
+    },
+    {
+      "id": "S7",
+      "quote": "“人静”可使循经感传出现率明显提高",
+      "src": "石学敏实用针灸学·第六章 第四节 针刺治神·三、（二） p.245"
+    },
+    {
+      "id": "S8",
+      "quote": "而正确的手法操作时“治神”的重要内容之一",
+      "src": "石学敏实用针灸学·第六章 第四节 针刺治神·三、（五） p.246"
+    },
+    {
+      "id": "S9",
+      "quote": "就针刺治病而言，它的作用在于激发、推动机体的自我调整能力，调动机体固有的积极因素使机体的正气上升，邪气下降",
+      "src": "石学敏实用针灸学·第六章 第四节 针刺治神·三、（一） p.245"
+    },
+    {
+      "id": "S10",
+      "quote": "这个转化过程的实现，有赖于患者情绪的支持",
+      "src": "石学敏实用针灸学·第六章 第四节 针刺治神·三、（一） p.245"
+    },
+    {
+      "id": "S11",
+      "quote": "对于个别精神高度紧张、情绪波动不定以及大惊、大恐、大悲之人，应暂时避免针刺，以防神气散亡，造成不良后果",
+      "src": "石学敏实用针灸学·第七章 第一节 针灸治疗原则·一、（一）治神 p.248"
+    },
+    {
+      "id": "S12",
+      "quote": "医者的治神守气，病人的意守感传往往对诱发经气、加速气至、促进气行和气至病所",
+      "src": "石学敏实用针灸学·第七章 第一节 针灸治疗原则·一、（二）守气 p.248"
+    },
+    {
+      "id": "S13",
+      "quote": "守神也即守气，守气的过程也含有治神的内容，守气必先治神",
+      "src": "石学敏实用针灸学·第七章 第一节 针灸治疗原则·一、（二）守气 p.248"
+    },
+    {
+      "id": "S14",
+      "quote": "如气不至，则可适当运用扪、切、循、按等行气辅助手法，或巧妙配合语言暗示，以诱发经气的出现",
+      "src": "石学敏实用针灸学·第七章 第一节 针灸治疗原则·一、（二）守气 p.248"
+    },
+    {
+      "id": "S15",
+      "quote": "在针灸施治过程中，病人也应平心静气，放松肌肉，全神贯注，意守病所",
+      "src": "石学敏实用针灸学·第七章 第一节 针灸治疗原则·一、（二）守气 p.248"
+    },
+    {
+      "id": "S16",
+      "quote": "神之所在，心藏神，脑为元神之府；神之所主，人体一切生命活动的外在表现；神之所病，百病之始，皆本于神；神之所治，凡刺之法，先醒其神",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四 p.269"
+    },
+    {
+      "id": "S17",
+      "quote": "“窍闭神匿，神不导气”是疾病的最终病机，即疾病重则昏迷，神无所主，轻则气血运行不畅，经络阻滞。针灸在治疗中要求“守神”、“治神”，以达到“调神”、“醒神”的目的",
+      "src": "石学敏实用针灸学·第七章 第二节 针灸治疗作用·一、醒神开窍 p.254"
+    },
+    {
+      "id": "S18",
+      "quote": "神能导气，气畅则道通，通则不痛，“心寂则痛微”。故治以“调神法”，重用内关、水沟理气调神，“调其神，令气易行”，能收“以意通经”而镇痛之效",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四、（三）调神法治疗顽固性疼痛 p.274"
+    },
+    {
+      "id": "S19",
+      "quote": "而常以情绪波动，精神刺激为诱因，故尊“制其神、令气易行”经旨，取内关、水沟为主",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四、（七）安神理气法治疗呃逆 p.275"
+    },
+    {
+      "id": "S20",
+      "quote": "治则：调心神、益心气、通心阳；取穴内关、水沟",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四、（二）调神益气通阳法治疗胸痹 p.274"
+    },
+    {
+      "id": "S21",
+      "quote": "用醒脑开窍法先醒其神，配以有关穴位，关元、气海、秩边",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四、（四）醒神调气法治疗排尿功能障碍 p.274"
+    },
+    {
+      "id": "S22",
+      "quote": "是小儿遗尿的主要诱因，其病机亦应属于“心神昏督、治理无权”，故立法以调节心神为主，重用水沟、印堂、百会",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四、（四） p.274"
+    },
+    {
+      "id": "S23",
+      "quote": "其治疗重点在于调神启闭，疏解肝郁。取穴：内关、水沟，根据病证加相关穴位",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四、（八）调神启闭法治疗郁证、瘾证 p.275"
+    },
+    {
+      "id": "S24",
+      "quote": "阴阳失和，神气逆乱而生闭厥。此时当急行醒脑开窍之法，以奏苏厥救逆之效",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四、（五）醒神苏厥治疗厥闭脱证 p.274"
+    },
+    {
+      "id": "S25",
+      "quote": "故治宜健脑聪耳、醒神通窍。临床重用内关、水沟、百会等穴醒神开窍",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四、（六）醒神通窍法治疗耳聋、耳鸣 p.275"
+    },
+    {
+      "id": "S26",
+      "quote": "治疗此病证的疗效如何，不但取穴要合理而且直接取决于针刺的手法、针感和刺激量",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四、（八） p.275"
+    },
+    {
+      "id": "S27",
+      "quote": "调神导气可调动机体内在的积极因素",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·四、（一）5.吞咽障碍 p.272"
+    }
+  ],
+  "how_to_use": {
+    "zh": "临床上可以把治神拆成两个检查表：针前——环境、解释、情绪、是否处于大惊大恐；针中——医者是否专一、气至没有、是否在守气；需要“调神”的病，则先想病机里有没有情绪、精神刺激或“神不导气”的成分，再以内关、水沟打头。它没有像手法量学那样的数值，多是行为要求。",
+    "en": "Zhi shen can be run as two checklists: before needling (room, explanation, mood, any great fright); during needling (is the physician focused, has qi arrived, is qi being guarded). For a condition that needs shen regulation, ask whether its mechanism includes emotion, mental shock or shen failing to lead qi, then lead with Neiguan and Shuigou. Unlike dosage it has no numbers; it is mostly behavioural requirements."
+  },
+  "caveats": {
+    "zh": "治神部分主要是对《内经》《标幽赋》《圣济经》等传统文献的引证加他的归纳，几乎没有量化指标；“入静提高循经感传出现率”等是转引他人报告，并非他自己的数据。调神法的适应证（癌痛、内脏痛、多种精神与脑病等）来自书中的总述，书中主要以他本人的临床经验为依据。",
+    "en": "The zhi shen material is largely quotation from the Neijing, Biaoyou Fu, Shengji Jing and similar plus his synthesis, with almost no quantitative index; \"stillness raises the rate of propagated sensation\" is a report quoted from others, not his own data. The indications for shen regulation (cancer and visceral pain, many psychiatric and brain disorders) come from the book's general statements and rest mainly on his own clinical experience."
+  },
+  "see": {
+    "notes": [],
+    "points": [
+      "内关",
+      "水沟",
+      "印堂",
+      "百会",
+      "四神聪",
+      "神门",
+      "三阴交",
+      "合谷",
+      "太冲",
+      "天突",
+      "关元",
+      "气海"
+    ],
+    "rx": [
+      "sxm-rx-131",
+      "sxm-rx-135",
+      "sxm-rx-084",
+      "sxm-rx-104",
+      "sxm-rx-085",
+      "sxm-rx-143",
+      "sxm-rx-100",
+      "sxm-rx-120"
+    ],
+    "cases": [
+      "sxm-530",
+      "sxm-549",
+      "sxp-007",
+      "sxp-020",
+      "sxm-543"
+    ]
+  }
+}

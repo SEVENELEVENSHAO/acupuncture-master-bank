@@ -1,0 +1,520 @@
+{
+  "id": "sxm-02-xingnao-theory",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "醒脑开窍",
+    "en": "Xingnao Kaiqiao"
+  },
+  "order": 2,
+  "title": {
+    "zh": "醒脑开窍法的理论：“窍闭神匿，神不导气”与“上实下虚”",
+    "en": "The Theory of Xingnao Kaiqiao: \"Orifices Closed, Shen Hidden, Shen Fails to Lead Qi\" and \"Upper Excess, Lower Deficiency\""
+  },
+  "summary": {
+    "zh": "石学敏把中风的总病机定为“窍闭神匿，神不导气”：平素下焦肝肾亏虚（下虚），风、火、痰、瘀血、气逆上扰脑窍（上实）。由此得出三支治法：醒脑开窍（针对关键环节）、滋补肝肾（针对常见证型基础）、疏通经络（针对患肢气血不畅），并改变了古法“风取三阳、多用补法”的取穴与手法。",
+    "en": "Shi fixes the master pathomechanism of stroke as \"orifices closed, shen hidden, shen fails to lead qi\": a constitutional lower deficiency of liver and kidney, then wind, fire, phlegm, blood stasis and rebellious qi disturb the brain orifices (upper excess). Three lines of treatment follow: wake the brain and open the orifices (the key link), nourish liver and kidney (the commonest pattern base), free the channels (the stagnant paralysed limb), replacing the older \"for wind take the three yang, mainly tonify\"."
+  },
+  "takeaways": [
+    {
+      "zh": "总病机是一条链：平素下焦肝肾阴阳失调；遇诱因积损正衰，或阴虚阳亢、阳化风动、血随气逆而挟痰挟火，或外伤跌仆气血逆乱；上蒙清窍，则“窍闭神匿”；“神匿”表现为神志昏乱、突然昏仆，“神不导气”表现为筋肉肢体活动不利、口眼㖞僻不遂。",
+      "en": "The master mechanism is a chain: liver-kidney yin-yang imbalance below; a trigger causes exhaustion of the body's reserves, or yin deficiency with liver yang rising, wind and blood going up with phlegm and fire, or trauma disordering qi and blood; these veil the clear orifices, giving \"orifices closed, shen hidden\". Hidden shen shows as confusion and sudden collapse; failure of shen to lead qi shows as poor movement of sinews and limbs and wry mouth and hemiplegia.",
+      "cite": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    {
+      "zh": "病位在脑，不在心也不在经络：他引《素问》“血之与气并走于上”“忽忽眩冒而癫疾”，说头脑是中风病变的主要部位；“窍闭”指脑窍闭塞，“脑为元神之府”，治脑即是治神。所以他把法名定为“醒脑开窍”而不叫“醒神开窍”：在“醒神”上加了定位，也避开“心主神明”的传统干扰。",
+      "en": "The site is the brain, not the heart or channels: quoting the Suwen (\"blood and qi rush together upward\", \"sudden dizziness and a fall\") he says the head is the main site of stroke; \"orifice closure\" means closure of the brain orifices, the brain being the mansion of the primal spirit, so treating the brain is treating shen. He names the method \"wake the brain\" rather than \"wake shen\" to add a location and to avoid the old \"heart governs spirit\" confusion.",
+      "cite": [
+        "A4",
+        "A5",
+        "A6"
+      ]
+    },
+    {
+      "zh": "“上实下虚”是病机的骨架：“上实”是脑窍闭塞，其因都在肝肾亏虚的“下虚”。中风还是虚、火、风、痰、气、血六方面相互影响的结果，而以肝肾阴虚为根本，窍闭神匿、神不导气为病机关键。这就是为什么三阴交要用补法。",
+      "en": "\"Upper excess, lower deficiency\" is the skeleton: the upper excess is closure of the brain orifices, and its cause is always the lower deficiency of liver and kidney. Stroke is also the joint result of deficiency, fire, wind, phlegm, qi and blood, with liver-kidney yin deficiency as root and closed orifices with hidden shen as the key. That is why Sanyinjiao is tonified.",
+      "cite": [
+        "A7",
+        "A8",
+        "A9"
+      ]
+    },
+    {
+      "zh": "“窍闭神匿”不是昏迷的专利：他说这是各型各期中风的总病机，神志昏迷与不昏迷的中风都是脑神清窍蒙闭、神不导气所致，只是轻重不同；因为神伤不仅改变神志，也影响器官、肢体和筋肉的功能。所以无论昏迷与否都可以用醒脑开窍。",
+      "en": "\"Orifices closed, shen hidden\" is not just for coma: he calls it the master mechanism of every type and stage of stroke, conscious or unconscious alike being brain-shen orifice veiling with shen failing to lead qi, differing only in degree, because damaged shen affects organs, limbs and sinews and not only consciousness. Hence Xingnao Kaiqiao applies whether or not the patient is comatose.",
+      "cite": [
+        "A10",
+        "A11"
+      ]
+    },
+    {
+      "zh": "三支治法各有来路：“醒神（脑）开窍”来自辨病，因为切断“窍闭神匿，神不导气”这一关键环节是治疗中风的关键；“滋补肝肾”来自辨证，因为肝肾亏损是最常见、最重要的证型基础；“疏通经络”来自症状，因为脑窍闭塞或瘫后患肢活动受限，气血必然不畅。前两支为主，后一支为辅。",
+      "en": "The three lines have different origins: \"wake the brain, open the orifices\" comes from disease differentiation, because cutting the key link is the crux of stroke; \"nourish liver and kidney\" comes from pattern differentiation, because liver-kidney depletion is the commonest and most important pattern base; \"free the channels\" comes from the symptom, because the paralysed limb inevitably has poor qi and blood flow. The first two are principal, the third auxiliary.",
+      "cite": [
+        "A12",
+        "A13",
+        "A14"
+      ]
+    },
+    {
+      "zh": "主穴的配置对应病机的三个来源：五脏之神汇于脑，血为神气，所以取心包络穴内关“养心健脑、疏通气血”；髓为脑神的物质基础，肝脾肾生髓化血，所以取三阴交“补脾、滋肾、调肝”；脑与督脉相通，所以泻督脉的水沟“开窍启闭”。方义是水沟为君，内关、三阴交为臣，极泉、尺泽、委中为佐使。",
+      "en": "The main points answer three sources: the shen of the five zang gather in the brain and blood is the qi of shen, so the pericardium luo point Neiguan \"nourishes the heart and brain and frees qi and blood\"; marrow is the material base of brain-shen and liver, spleen and kidney generate it, so Sanyinjiao \"supplements spleen, nourishes kidney, regulates liver\"; the brain connects with the Du channel, so reducing Du-channel Shuigou \"opens the orifices\". Shuigou is sovereign, Neiguan and Sanyinjiao ministers, Jiquan, Chize and Weizhong assistants and envoys.",
+      "cite": [
+        "A15",
+        "A16",
+        "A17",
+        "A18"
+      ]
+    },
+    {
+      "zh": "与古法的区别落在三处：一，病机——他把中风的认识分成三个阶段，唐宋以前“外风”、唐宋以后“内风”，他开创第三阶段（醒神调神）；二，取穴——历来依“治痿独取阳明”取阳经穴，他改以阴经穴和督脉穴为主；三，手法——古代医家多“疏经活络，风取三阳”而以补法为主，他以泻法为主，并把方向、深度、手法、刺激量规定下来（量学见 sxm-04）。",
+      "en": "The break with older practice is threefold. Mechanism: he divides stroke thinking into stages, \"external wind\" before Tang-Song, \"internal wind\" after, and opens a third stage (waking and regulating shen). Points: the tradition took yang-channel points following \"for flaccidity take Yangming alone\"; he takes mainly yin-channel and Du points. Manipulation: older physicians \"freed the channels, for wind took the three yang\" with mainly tonifying; he reduces mainly and fixes direction, depth, manipulation and dose (see sxm-04 for dosage).",
+      "cite": [
+        "A19",
+        "A20",
+        "A21",
+        "A22",
+        "A23"
+      ]
+    },
+    {
+      "zh": "外风被降为诱因：他认为外风致病的特点在中风形成过程中从始到终都没体现，临床也很少有用驱风散表药奏效的，所以外风只作为诱因起一定作用，第四条病因里的“外风引动”只是引动；痰湿闭阻经络也要进一步落到“痰湿闭阻脑部经络”才成中风。",
+      "en": "External wind is demoted to a trigger: he argues the features of external-wind disease never show in the course of stroke and wind-dispersing formulas seldom work, so external wind only acts as an inducer; likewise phlegm-damp blocking the channels must go further to blocking the brain's channels before stroke arises.",
+      "cite": [
+        "A24"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "他论证“窍闭神匿”的三个立足点",
+        "en": "The three foundations he gives for the concept"
+      },
+      "body": {
+        "zh": "全集把这一总病机的确立归到三处：一是祖国医学对中风的认识和临床实践（从《内经》大厥、薄厥，到唐宋“内虚邪中”、金元“火、虚、痰”、明清“元气亏损”“肝阳化风”，近代“气血并逆，直冲犯脑”）；二是《内经》对“神”的认识（“人始生，先成精，精成而脑髓生”“两精相搏谓之神”）和现代解剖生理对脑的认识；三是中风病辨病与辨证结合的认识：把当时通行教科书列出的四条病因病机逐条拆开，发现它们的最终环节都落到“气血上逆，上蒙元神/清窍”，因而归纳出总病机。",
+        "en": "The Quanji places the concept on three bases: (1) traditional understanding and clinical practice, from the Neijing \"great syncope\" and \"thin syncope\", through Tang-Song \"internal deficiency and pathogen strike\", Jin-Yuan \"fire, deficiency, phlegm\", Ming-Qing \"original qi loss\" and \"liver yang turning to wind\", to the modern \"qi and blood rebel together and rush to the brain\"; (2) the Neijing view of shen (\"at birth essence forms first, essence forms and brain marrow arises\", \"two essences meet and are called shen\") and modern anatomy and physiology of the brain; (3) combining disease and pattern differentiation: he takes the four etiologies of the standard textbook one by one and finds each ends in \"qi and blood rebelling upward and veiling the primal spirit/clear orifices\", from which the master mechanism is derived."
+      }
+    },
+    {
+      "h": {
+        "zh": "“神”的界定",
+        "en": "How he defines shen"
+      },
+      "body": {
+        "zh": "他区分广义与狭义之“神”：广义指人体一切生命活动的外在表现（视、听、味、言、感觉、运动、共济、情感、智力、表达、思维），既受“神”主，也是判断神之常变的临床依据；狭义只指意识、精神、思维。调神大法用的是广义之神。他还把神的理论概括为四点：神之所在（脑为元神之府，心藏神）、神之所主（人体一切生命活动过程）、神之所病（百病之始，皆本于神）、神之所治（凡针之法，必先调神）。",
+        "en": "He separates broad and narrow shen: broad shen is the outward expression of all life activity (sight, hearing, taste, speech, sensation, movement, coordination, emotion, intelligence, expression, thought), both governed by shen and the clinical evidence for its normal or abnormal state; narrow shen is only consciousness, spirit and thinking. The method of shen regulation uses the broad sense. He sums up the theory in four: where shen resides (brain is the mansion of primal spirit, heart stores shen), what it governs (all life processes), how it is diseased (all disease begins in shen), how it is treated (in every needling, first regulate shen)."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "中风病因病机认识的三个阶段（他的划分）",
+        "en": "Three stages in the understanding of stroke (his periodisation)"
+      },
+      "cols": [
+        {
+          "zh": "阶段",
+          "en": "Stage"
+        },
+        {
+          "zh": "主要学说",
+          "en": "Main doctrine"
+        },
+        {
+          "zh": "治则",
+          "en": "Treatment rule"
+        },
+        {
+          "zh": "书中列举的代表",
+          "en": "Named exponents"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "一：唐宋以前",
+            "en": "One: before Tang-Song"
+          },
+          {
+            "zh": "“外风”：真气不足而邪气独留；经络空虚，风邪乘虚入中",
+            "en": "\"External wind\": true qi insufficient and pathogen lingers; empty channels let wind strike"
+          },
+          {
+            "zh": "疏风祛邪、扶助正气",
+            "en": "Dispel wind and pathogen, support right qi"
+          },
+          {
+            "zh": "《灵枢》、《金匮要略》",
+            "en": "Lingshu, Jingui Yaolue"
+          }
+        ],
+        [
+          {
+            "zh": "二：唐宋以后",
+            "en": "Two: after Tang-Song"
+          },
+          {
+            "zh": "“内风”：心火暴甚、正气自虚、湿痰生热，最终引动内风；“精血衰耗，水不涵木，肝阳偏亢，内风时起”",
+            "en": "\"Internal wind\": fierce heart fire, self-deficient right qi, damp-phlegm generating heat, all finally stirring internal wind; \"essence-blood depleted, water fails to nourish wood, liver yang hyperactive, internal wind rises\""
+          },
+          {
+            "zh": "滋液息风、补阴潜阳",
+            "en": "Nourish fluids, calm wind, supplement yin, subdue yang"
+          },
+          {
+            "zh": "刘河间、李东垣、朱丹溪、叶天士",
+            "en": "Liu Hejian, Li Dongyuan, Zhu Danxi, Ye Tianshi"
+          }
+        ],
+        [
+          {
+            "zh": "三：石学敏",
+            "en": "Three: Shi Xuemin"
+          },
+          {
+            "zh": "病位在脑，“窍闭神匿，神不导气”，立足“醒神”“调神”",
+            "en": "Site in the brain; \"orifices closed, shen hidden, shen fails to lead qi\"; rests on waking and regulating shen"
+          },
+          {
+            "zh": "醒脑开窍、滋补肝肾为主，疏通经络为辅",
+            "en": "Wake brain and open orifices, nourish liver and kidney as principal; free channels as auxiliary"
+          },
+          {
+            "zh": "（他自述为“第三阶段”）",
+            "en": "(his own claim of a \"third stage\")"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "总病机的展开：从“下虚”到“上实”",
+        "en": "Unfolding the master mechanism: from lower deficiency to upper excess"
+      },
+      "cols": [
+        {
+          "zh": "环节",
+          "en": "Link"
+        },
+        {
+          "zh": "书中所述",
+          "en": "What the text says"
+        },
+        {
+          "zh": "对应的治则",
+          "en": "Corresponding rule"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "下虚（基础）",
+            "en": "Lower deficiency (base)"
+          },
+          {
+            "zh": "长期起居失宜、情志不调、饮食不节、劳逸无度，致下焦肝肾亏虚、阴阳失调",
+            "en": "Long-standing irregular living, emotional disharmony, dietary excess and overwork lead to liver-kidney deficiency and yin-yang imbalance"
+          },
+          {
+            "zh": "滋补肝肾（补三阴交）",
+            "en": "Nourish liver and kidney (tonify Sanyinjiao)"
+          }
+        ],
+        [
+          {
+            "zh": "诱因与逆乱",
+            "en": "Trigger and disorder"
+          },
+          {
+            "zh": "积损正衰；或阴虚阳亢、阳化风动、血随气逆，夹痰夹火；或外伤跌仆、气血逆乱上冲巅顶",
+            "en": "Exhaustion of reserves; or yin deficiency with yang rising, wind, blood following qi upward with phlegm and fire; or trauma with qi and blood rushing to the vertex"
+          },
+          {
+            "zh": "（在辨证中兼顾）",
+            "en": "(handled through pattern differentiation)"
+          }
+        ],
+        [
+          {
+            "zh": "上实（关键环节）",
+            "en": "Upper excess (key link)"
+          },
+          {
+            "zh": "上蒙清窍，脑窍闭塞：窍闭神匿",
+            "en": "Veiling the clear orifices, closure of the brain orifices: orifices closed, shen hidden"
+          },
+          {
+            "zh": "醒脑开窍（内关、水沟）",
+            "en": "Wake brain, open orifices (Neiguan, Shuigou)"
+          }
+        ],
+        [
+          {
+            "zh": "神匿的表现",
+            "en": "Hidden shen shows as"
+          },
+          {
+            "zh": "神志昏乱、突然昏仆、不省人事",
+            "en": "Confusion, sudden collapse, unconsciousness"
+          },
+          {
+            "zh": "醒脑开窍",
+            "en": "Wake brain, open orifices"
+          }
+        ],
+        [
+          {
+            "zh": "神不导气的表现",
+            "en": "Failure to lead qi shows as"
+          },
+          {
+            "zh": "筋肉、肢体活动不利、口眼㖞僻不遂；日久或痿软废用，或挛急僵硬",
+            "en": "Poor movement of sinews and limbs, wry mouth and hemiplegia; later flaccid disuse or spastic stiffness"
+          },
+          {
+            "zh": "疏通经络（极泉、尺泽、委中）",
+            "en": "Free the channels (Jiquan, Chize, Weizhong)"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "主穴的立意与君臣佐使",
+        "en": "Rationale of each principal point and its role"
+      },
+      "cols": [
+        {
+          "zh": "穴",
+          "en": "Point"
+        },
+        {
+          "zh": "角色",
+          "en": "Role"
+        },
+        {
+          "zh": "他给的理由（据原文）",
+          "en": "His reason (from the text)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "水沟",
+            "en": "Shuigou"
+          },
+          {
+            "zh": "君",
+            "en": "Sovereign"
+          },
+          {
+            "zh": "督脉与脑相通，是督脉最敏感、最易得气之穴，泻之调督脉、开窍启闭、醒元神",
+            "en": "Du channel connects to the brain; the most sensitive Du point, easiest to obtain qi; reducing it regulates Du, opens orifices, wakes the primal spirit"
+          }
+        ],
+        [
+          {
+            "zh": "内关",
+            "en": "Neiguan"
+          },
+          {
+            "zh": "臣",
+            "en": "Minister"
+          },
+          {
+            "zh": "心包经络穴，通阴维；血为神气，心主血脉，故养心健脑、疏通气血、宁心安神",
+            "en": "Pericardium luo, links yinwei; blood is the qi of shen and the heart governs vessels, so it nourishes heart and brain, frees qi and blood, calms shen"
+          }
+        ],
+        [
+          {
+            "zh": "三阴交",
+            "en": "Sanyinjiao"
+          },
+          {
+            "zh": "臣",
+            "en": "Minister"
+          },
+          {
+            "zh": "肝脾肾三经交会；补三阴、益脑髓、调气血、安神志",
+            "en": "Crossing of liver, spleen and kidney; supplements the three yin, benefits brain marrow, regulates qi and blood, calms shen"
+          }
+        ],
+        [
+          {
+            "zh": "极泉、尺泽、委中",
+            "en": "Jiquan, Chize, Weizhong"
+          },
+          {
+            "zh": "佐使",
+            "en": "Assistant and envoy"
+          },
+          {
+            "zh": "疏通经络、运行气血，改善肢体运动功能",
+            "en": "Free channels, move qi and blood, improve limb movement"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "A1",
+      "quote": "无论何种证型的中风，其病因病机发展都最终要通过这一总病机，方可形成中风病",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·三、“窍闭神匿”中风总病机的确立 p.397"
+    },
+    {
+      "id": "A2",
+      "quote": "而是长期起居失宜、情志不调、饮食不节、劳逸无度而造成下焦肝肾亏虚，阴阳失调",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·四、醒脑开窍针法的组成 p.397"
+    },
+    {
+      "id": "A3",
+      "quote": "神不导气，则筋肉、肢体活动不利",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·三、醒脑开窍针法的确立 p.266"
+    },
+    {
+      "id": "A4",
+      "quote": "“忽忽眩冒而癫疾”也可以看出，头脑是中风病变的主要部位",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·三 p.395"
+    },
+    {
+      "id": "A5",
+      "quote": "所以脑是神的物质结构基础，神是脑的功能（脑神），治脑即是治神",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·一、中医学中的“神” p.390"
+    },
+    {
+      "id": "A6",
+      "quote": "神”的基础上增加了定位的含义，又避免了传统认为“心主神明”而带来的干扰",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·四 p.397"
+    },
+    {
+      "id": "A7",
+      "quote": "“上实”，即脑窍闭塞，其因皆为肝肾的亏虚，即“下虚”",
+      "src": "石学敏针灸全集·第八章 治疗各论·脑卒中·配方理论 p.424"
+    },
+    {
+      "id": "A8",
+      "quote": "虚（阴虚、气虚）、火（肝火、心火）、风（肝风）、痰（风痰、湿痰）、气（气逆）、血（血瘀）六方面相互影响、相互作用的结果",
+      "src": "石学敏针灸全集·第八章 治疗各论·脑卒中 p.420"
+    },
+    {
+      "id": "A9",
+      "quote": "结合“上实由于下虚”的理论运用补法达滋补肝肾、补精填髓之目",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·四、（二）针刺穴位的选择 p.397"
+    },
+    {
+      "id": "A10",
+      "quote": "对于中风病，无论昏迷与否，皆可运用“醒脑开窍”而治之",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·三"
+    },
+    {
+      "id": "A11",
+      "quote": "神志昏迷的中风与神志不昏迷的中风都可由脑神清窍的蒙闭、导致神不导气使然，只是存在轻重程度的不同",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·三 p.396"
+    },
+    {
+      "id": "A12",
+      "quote": "从辨病论治的角度看，切断这一关键环节，是治疗中风病的关键，故我们确立“醒神（脑）开窍”这一首要治则",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·四、（一）针刺法则的确立 p.397"
+    },
+    {
+      "id": "A13",
+      "quote": "我们又十分注重肝肾亏损这一最常见、最重要的证型基础，从而同时确立“滋补肝肾”这一治则",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·四、（一） p.397"
+    },
+    {
+      "id": "A14",
+      "quote": "根据辨病论治与辨证论治相结合的原则，我们确立了中风病的治疗法则，即“醒脑开窍、滋补肝肾为主，疏通经络为辅”",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·四、（一） p.397"
+    },
+    {
+      "id": "A15",
+      "quote": "“醒法”选取心包经络穴内关作为主穴，取其养心健脑、疏通气血",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·二、脑神与五脏 p.265"
+    },
+    {
+      "id": "A16",
+      "quote": "“醒法”用肝脾肾三经的交会穴三阴交作为主穴，具有补脾、滋肾、调肝功能，从而达到养神生髓益脑的作用",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·二、脑神与五脏 p.265"
+    },
+    {
+      "id": "A17",
+      "quote": "水沟是督脉中最敏感、最容易得气的穴位，所以在本穴施用泻法可调督脉",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·二、脑与阳气 p.265"
+    },
+    {
+      "id": "A18",
+      "quote": "其中，水沟为君，内关、三阴交为臣，极泉、尺泽、委中为佐使",
+      "src": "石学敏实用针灸学·第七章 第五节 醒脑开窍法·三 p.266"
+    },
+    {
+      "id": "A19",
+      "quote": "第一阶段以唐宋以前的“外风”学说为主",
+      "src": "石学敏针灸全集·绪言·二、以脑府立论 p.3"
+    },
+    {
+      "id": "A20",
+      "quote": "第二阶段以唐宋以后的“内风”学说为主",
+      "src": "石学敏针灸全集·绪言·二、以脑府立论 p.3"
+    },
+    {
+      "id": "A21",
+      "quote": "如果说“风”、“痰”学说是第一、二阶段的主流，那么立足于“醒神”、“调神”的醒脑开窍针刺法则开创了中医治疗中风的第三阶段",
+      "src": "石学敏实用针灸学·代前言·石学敏院士学术思想"
+    },
+    {
+      "id": "A22",
+      "quote": "改变了历代沿用的以取阳经穴为主，阴经穴为辅的治疗方法",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·四、（二） p.397"
+    },
+    {
+      "id": "A23",
+      "quote": "古代医家多以“正气本虚，风阻经络”，拟“疏经活络，风取三阳”治疗中风，故行针施术多以“补法”为主",
+      "src": "石学敏针灸全集·第八章 治疗各论·脑卒中·配方理论 p.424"
+    },
+    {
+      "id": "A24",
+      "quote": "外风作为一种诱因，对中风病病理过程的运转施加着一定的影响",
+      "src": "石学敏针灸全集·第七章 第五节 醒脑开窍法·三 p.396"
+    }
+  ],
+  "how_to_use": {
+    "zh": "遇到一个中风病例，先按他的链条读：下虚是什么（肝肾阴虚、痰湿、情志），上实表现为神志障碍还是肢体障碍，再看处方里哪几味对应哪一支治则。为什么主穴里补、泻并存，答案就在“下虚上实”：泻内关、水沟以开窍，补三阴交以填下。处方与分期见 sxm-03，手法见 sxm-04。",
+    "en": "For any stroke case read along his chain: what is the lower deficiency (liver-kidney yin, phlegm-damp, emotion), does the upper excess show as disturbed consciousness or disturbed movement, and which prescription points answer which line of treatment. Why reduce and tonify sit together in the main points is answered by \"lower deficiency, upper excess\": reduce Neiguan and Shuigou to open, tonify Sanyinjiao to fill below. Prescription and staging are in sxm-03, manipulation in sxm-04."
+  },
+  "caveats": {
+    "zh": "他用来支撑“窍闭神匿”的现代解释（如针刺水沟兴奋上行激活系统、增加颈动脉血流）是引自当代研究的论证，不属古典依据；“第三阶段”的说法是他自己对学术史的划分。原文中“中脏腑”等分期用语与现行诊断标准不一定一一对应。",
+    "en": "The modern explanations he uses to support the concept (for example needling Shuigou exciting the ascending activating system and raising carotid flow) are arguments drawn from contemporary research, not classical grounds; the \"third stage\" is his own periodisation of history. Staging terms such as \"zhong zangfu\" need not map one-to-one onto current diagnostic standards."
+  },
+  "see": {
+    "notes": [],
+    "points": [
+      "内关",
+      "水沟",
+      "三阴交",
+      "极泉",
+      "尺泽",
+      "委中",
+      "印堂"
+    ],
+    "rx": [
+      "sxm-rx-001",
+      "sxm-rx-096",
+      "sxm-rx-104",
+      "sxm-rx-002",
+      "sxm-rx-085"
+    ],
+    "cases": [
+      "sxm-001",
+      "sxm-005",
+      "sxm-097",
+      "sxp-003"
+    ]
+  }
+}

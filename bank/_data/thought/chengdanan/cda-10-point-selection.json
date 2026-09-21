@@ -1,0 +1,818 @@
+{
+  "id": "cda-10-point-selection",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "取穴与经穴",
+    "en": "Points"
+  },
+  "order": 10,
+  "title": {
+    "zh": "取穴规律：颈背骨架、直接／反射／诱导与局部并用",
+    "en": "How He Assembles a Prescription: Neck-and-Back Skeleton, Direct, Reflex, Induction and Local Points"
+  },
+  "summary": {
+    "zh": "据219条处方中列有穴位的197条统计：处方常由颈项上背与背俞的脊旁线，加四肢远端穴构成，足三里、三阴交、风池、合谷、天柱最常见。他用“直接、反射、诱导”交代取穴目的，神经痛与关节病另取患部及其上下与压痛点；两套穴多不重复，交替使用。",
+    "en": "Of 197 entries (of 219) that list points, a prescription is typically a paravertebral run (nape, upper back, back-shu) plus distal limb points; Zusanli, Sanyinjiao, Fengchi, Hegu and Tianzhu lead. He states the aim as direct, reflex or induction; neuralgia and joint disease add the affected part, points just above and below it and tender points; the two alternating sets rarely overlap."
+  },
+  "takeaways": [
+    {
+      "zh": "处方有一个反复出现的骨架：颈项·上背线(风池、天柱、大杼、身柱、风门、肩井)、脏腑对应的背俞与腰骶(肝俞、脾俞、三焦俞、肾俞、大肠俞、次髎、中髎)，再配远端的四肢穴。在有穴位的197条中，91条含风池、天柱、大杼之一，107条含风池、天柱、大杼、身柱、风门、肩井之一；180条含颈、背、腰骶区的穴位，其中165条同时配有四肢穴。(区域划分是编者按解剖部位的分组，不是承氏原话。)",
+      "en": "A skeleton recurs: the nape/upper-back line (Fengchi, Tianzhu, Dazhu, Shenzhu, Fengmen, Jianjing), organ-related back-shu and lumbosacral points (Ganshu, Pishu, Sanjiaoshu, Shenshu, Dachangshu, Ciliao, Zhongliao), plus distal limb points. Of the 197 entries with points, 91 contain Fengchi, Tianzhu or Dazhu and 107 one of Fengchi, Tianzhu, Dazhu, Shenzhu, Fengmen, Jianjing; 180 contain a neck, back or lumbosacral point and 165 of them also carry limb points. (The regions are the editor's grouping by anatomical location, not Cheng's own.)",
+      "cite": [
+        "E19",
+        "E4",
+        "E20"
+      ]
+    },
+    {
+      "zh": "他用“直接、反射、诱导”三个词交代每方的取穴目的。颜面神经痉挛一条把三者摆成三组穴：直接取穴在痉挛发作处并留针；反射取穴用风池、天柱、翳风；诱导取穴用手三里、合谷。据对处方文字的重新统计，“反射”见于44条、“诱导”见于50条、两词并见18条，合计76条(占219条的35%)；明言“直接”刺激主干神经或病部的有9条，其中8条在第五章(7条属“末梢神经疾患”一节)，另一条是肺结核。",
+      "en": "He names the aim of each set as direct, reflex or induction. Facial spasm lays the three out as three sets: direct points at the site of spasm with the needle retained; reflex points Fengchi, Tianzhu, Yifeng; induction points Shousanli, Hegu. A recount of the prescription text finds \"reflex\" in 44 entries, \"induction\" in 50, both in 18, 76 in all (35% of 219); \"direct\" stimulation of the main nerve or the diseased part is stated in 9: eight in chapter 5 (seven in its peripheral-nerve section) and pulmonary TB.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E17"
+      ]
+    },
+    {
+      "zh": "目的不同，取穴的重心也不同(按处方文字重新计数)：写明“消炎诱导”的15条(其中14条列穴)，风池、合谷各8条，三阴交7条，多是颈项穴加手部穴；写明“强壮”的19条，足三里12条、三阴交10条、脾俞与关元各9条，重心移到背俞、腹部和足三里；写明“镇静／镇痉”的23条，风池13条居首。脑充血用“诱导法”，取穴是风池、天柱加合谷、商阳、昆仑、至阴等手足端穴，作强刺激。",
+      "en": "The centre of gravity shifts with the stated aim (recounted from the text). The 15 entries stating \"anti-inflammation by induction\" (14 list points): Fengchi and Hegu 8 each, Sanyinjiao 7, i.e. nape plus hand points. The 19 stating \"strengthening\": Zusanli 12, Sanyinjiao 10, Pishu and Guanyuan 9 each, i.e. back-shu, abdomen and Zusanli. The 23 stating \"calming/antispasmodic\": Fengchi first with 13. Cerebral congestion is treated \"by induction\" with Fengchi and Tianzhu plus limb-tip points Hegu, Shangyang, Kunlun, Zhiyin, strongly.",
+      "cite": [
+        "E5",
+        "E4",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "远端与腹部穴的理由，他在几处明说。癫痫“其病在脑，其源则在消化系，故取穴偏重于刺激胃肠”；肺结核既取“关于肺脏组织功能之神经与反射管理肺脏之中枢”，又“助以激动消化系之中枢与末梢神经”，并规定“食欲不振者，每次针治时，中脘、三里必不可少”；喉头结核处写“凡慢性久病，首先注意食欲”。足三里因此遍布各系：呼吸9条、循环7条、消化26条、脑脊髓神经18条。",
+      "en": "He states the reasons for distal and abdominal points in several places. Epilepsy: \"the disease is in the brain but its source is in the digestive system\", so points lean on the stomach and bowel; pulmonary TB: both the nerves and reflex centres governing lung function and the digestive centres and peripheral nerves, with \"in poor appetite, Zhongwan and Zusanli are indispensable at every visit\"; laryngeal TB: \"in any chronic long illness, first attend to appetite\". Zusanli accordingly runs across systems: respiratory 9, circulatory 7, digestive 26, nervous 18 entries.",
+      "cite": [
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "神经痛、关节与肌肉病则把患部放进处方：颈膊神经痛“直接刺激其患侧之主干神经，再从其所患神经之径路予以刺激”；坐骨神经痛“视痛之所及，取四五穴”，压痛点针后再用吸筒；关节神经痛“于患部施术之后，再取适宜之部位诱导之”；急性关节偻麻质斯取“患部之上下稍离一二寸部位之穴”；肌肉偻麻质斯“尽可按其痛处之穴取之”。“压痛点”明写于肩凝、腰腹神经痛、坐骨神经痛3条的取穴里。",
+      "en": "Neuralgia, joint and muscle disease bring the affected part into the prescription: cervicobrachial neuralgia stimulates the main nerve of the affected side and then along its course; sciatica takes four or five points \"according to where the pain reaches\", with cupping on tender points after needling; joint neuralgia works on the affected part first and then induces from a suitable place; acute rheumatic arthritis takes points one or two inches above and below the joint; muscular rheumatism takes points \"at the painful spot\". \"Tender point\" is written into the point lists of three entries: stiff shoulder, lumbo-abdominal neuralgia, sciatica.",
+      "cite": [
+        "E17",
+        "E14",
+        "E16",
+        "E15",
+        "E21"
+      ]
+    },
+    {
+      "zh": "同一病里，穴位常分“一般取穴”与“按病位或症状加取”两层：常习性头痛以风池、大杼、合谷、申脉为一般取穴，头顶痛、前头痛、眉棱骨痛、偏头痛、后头痛、酒后头痛各加一组；急性肠炎“随病位之不同而定穴位”，十二指肠、小肠、大肠、直肠各列一组。头部穴与四肢穴的处理也不同：头部之穴中刺激后再灸，四肢之穴只用中刺激。",
+      "en": "Within one disease the points fall into a general set and add-ons by site or symptom: habitual headache has Fengchi, Dazhu, Hegu, Shenmai as the general set, and vertex, frontal, supra-orbital, migraine, occipital and post-alcohol headache each add a group; acute enteritis fixes points \"according to the site of disease\", one group each for duodenum, small bowel, large bowel and rectum. Head and limb points are also handled differently: head points medium stimulation then moxa, limb points medium stimulation only.",
+      "cite": [
+        "E11",
+        "E12",
+        "E13",
+        "E18"
+      ]
+    },
+    {
+      "zh": "“每日或间日轮换”的两套穴，通常是同一区域的邻近穴，而不是叠加：全书44条用轮换、交换、轮流、轮针、轮取等词，其中37条在原文里恰好开列两行穴位，37条中36条两行没有一个重复的穴；13条第一行有风池、第二行有天柱。脂肪心的两行是风池／天柱、心俞／督俞、中脘／建里、气海／关元；子宫内膜炎的两行是肾俞／气海俞、大肠俞／小肠俞、次髎／中髎。疗程写法见 cda-11。",
+      "en": "The two sets rotated \"daily or on alternate days\" are usually neighbouring points in the same region rather than a pile-up. 44 entries use rotation words (lun huan, jiao huan, lun liu, lun zhen, lun qu); 37 of them print exactly two point lines, and in 36 of those 37 the two lines share no point; in 13 the first line has Fengchi and the second Tianzhu. Fatty heart pairs Fengchi/Tianzhu, Xinshu/Duyu, Zhongwan/Jianli, Qihai/Guanyuan; endometritis pairs Shenshu/Qihaishu, Dachangshu/Xiaochangshu, Ciliao/Zhongliao. For course and rotation see cda-11.",
+      "cite": [
+        "E19",
+        "E20"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "骨架与编者的分区",
+        "en": "The skeleton and the editor's regions"
+      },
+      "body": {
+        "zh": "《针灸处方集》共219条，其中197条列有穴位，合计涉及282个穴名(“醪”按“髎”归并；消泺、辄筋、小骨空三个穴名未归入任何区)，每条平均约10个穴位。为了看清穴位落在哪里，编者把它们按解剖部位分成七区(表2)：颈项·肩·上背、背俞与脊旁、腰骶、胸腹、头面、上肢、下肢。这是编者的分组，不是承氏的学说。分区后可以看到：呼吸器病的16条几乎都用背俞(16/16)与颈背(14/16)；消化器病的43条背俞33、腹部31、下肢35；泌尿生殖器病与妇人科则集中在腰骶(14/17、11/16)与腹部(16/17、14/16)；五官器病的9条全有头面穴；脑脊髓神经系病的72条颈背48、下肢50、上肢46。",
+        "en": "The formulary has 219 entries, 197 of which list points, involving 282 distinct names (the misprint \"liao\" is normalised; three points, Xiaoluo, Zhejin and Xiaogukong, are not assigned to any region). Entries average about ten points. To see where points fall, the editor sorted them into seven regions by anatomy (Table 2): nape/shoulder/upper back, back-shu and paravertebral, lumbosacral, chest and abdomen, head and face, upper limb, lower limb. This is the editor's grouping, not Cheng's doctrine. It shows that almost every respiratory entry uses back-shu (16/16) and the nape/back line (14/16); digestive entries use back-shu in 33 of 43, abdomen in 31 and lower limb in 35; urogenital and gynaecological entries cluster on the lumbosacral region (14/17, 11/16) and abdomen (16/17, 14/16); all 9 ENT/eye entries have head and face points; of 72 nervous-system entries 48 have nape/back, 50 lower-limb and 46 upper-limb points."
+      }
+    },
+    {
+      "h": {
+        "zh": "直接、反射、诱导：他怎样说明取穴的目的",
+        "en": "Direct, reflex, induction: how he states the aim"
+      },
+      "body": {
+        "zh": "这三个词是民国生理学语言，在书中是取穴的“目的行”。“反射”多接在神经名或脏器神经之后(“以反射针法传达喉头神经”“以反射诱导传达心脏副交感神经”)；“诱导”多与“消炎”“镇静”“镇痛”连用(“消炎诱导”“消炎镇痛诱导”)，在急性炎症、痉挛与充血里常落在手足穴上(脑充血的商阳、昆仑、至阴；胃痉挛发作时的足三里、公孙、厉兑，见 cda-09)；“直接”则是刺激病变神经本身或其支配的局部，集中在颜面神经、三叉神经、桡骨神经、前胸廓神经、坐骨神经与指趾尖知觉异常等末梢神经病。颈膊神经痛的写法显示了次序：先直接刺激患侧主干神经，再沿其径路刺激；关节神经痛则是先在患部施术，再取适宜之部位诱导。",
+        "en": "The three words are Republican-era physiology, and in the book they occupy the \"purpose line\" of a prescription. \"Reflex\" tends to follow a nerve or visceral nerve (\"reflex needling to reach the laryngeal nerves\", \"reflex and induction reaching the cardiac parasympathetic\"); \"induction\" is usually joined with \"anti-inflammation\", \"calming\" or \"analgesia\" and, in acute inflammation, spasm and congestion, often falls on limb points (Shangyang, Kunlun, Zhiyin in cerebral congestion; Zusanli, Gongsun, Lidui in a gastric-spasm attack, see cda-09); \"direct\" means stimulating the diseased nerve or the part it supplies, concentrated in peripheral-nerve disease (facial, trigeminal, radial, anterior thoracic, sciatic nerves; paraesthesia of finger and toe tips). Cervicobrachial neuralgia shows the order: first the main nerve of the affected side directly, then along its course; joint neuralgia works on the affected part first and then takes a suitable place for induction."
+      }
+    },
+    {
+      "h": {
+        "zh": "局部与远隔、基础方与加减",
+        "en": "Local and distant, base set and add-ons"
+      },
+      "body": {
+        "zh": "取穴不是固定的“方子”，而是“基础方＋依据病位或症状的加取”。神经痛、关节病、肌肉病、眼病与外阴病更靠近患部：头痛按疼痛部位分型加穴；三叉神经痛以风池、翳风、下关、手三里、合谷为主，第一支痛加阳白、攒竹，第二支痛加太阳、四白、巨髎，第三支痛加颊车、大迎；关节神经痛的膝、腕各有一组；眼病取攒竹、睛明、四白等眼周穴，加风池、肝俞；阴道炎与外阴瘙痒取次髎、中极、血海、三阴交一类。内脏病则多用背俞加远端穴，并按病位(急性肠炎)或症状(肺结核的咳嗽、发热、盗汗、咯血、便泄各有一组)细分。肺结核还写明“肺病用针术治疗，需视病之缓急定穴”，先处理主要症状，再兼顾其他。",
+        "en": "Selection is not a fixed formula but a base set plus add-ons by site or symptom. Neuralgia, joint, muscle, eye and vulval conditions lie closer to the affected part: headache adds points by the site of pain; trigeminal neuralgia takes Fengchi, Yifeng, Xiaguan, Shousanli, Hegu as the main set, adding Yangbai and Cuanzhu for the first branch, Taiyang, Sibai and Juliao for the second, Jiache and Daying for the third; joint neuralgia has separate sets for knee and wrist; eye disease uses peri-orbital points such as Cuanzhu, Jingming, Sibai with Fengchi and Ganshu; vaginitis and vulval itching use Ciliao, Zhongji, Xuehai, Sanyinjiao and the like. Visceral disease mostly uses back-shu plus distal points, subdivided by site (acute enteritis) or by symptom (in pulmonary TB, separate sets for cough, fever, night sweats, haemoptysis and diarrhoea). For TB he adds that points are set \"according to whether the disease is acute or chronic\", treating the leading symptom first."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 最常用的20个穴(在有穴位的197条中的出现条数)",
+        "en": "Table 1. The 20 most used points (number of the 197 entries with points)"
+      },
+      "cols": [
+        {
+          "zh": "穴名",
+          "en": "Point"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        },
+        {
+          "zh": "占比",
+          "en": "Share"
+        },
+        {
+          "zh": "编者的部位分区",
+          "en": "Editor's region"
+        },
+        {
+          "zh": "主要出现的系统(条数)",
+          "en": "Systems where it recurs (entries)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "足三里",
+            "en": "足三里 Zusanli"
+          },
+          "76",
+          "39%",
+          {
+            "zh": "下肢",
+            "en": "Lower limb"
+          },
+          {
+            "zh": "消化26、脑脊髓神经18、呼吸9",
+            "en": "Dig. 26, Neuro 18, Resp. 9"
+          }
+        ],
+        [
+          {
+            "zh": "三阴交",
+            "en": "三阴交 Sanyinjiao"
+          },
+          "73",
+          "37%",
+          {
+            "zh": "下肢",
+            "en": "Lower limb"
+          },
+          {
+            "zh": "脑脊髓神经24、泌尿生殖12、妇人科12",
+            "en": "Neuro 24, Uro-gen. 12, Gyn. 12"
+          }
+        ],
+        [
+          {
+            "zh": "风池",
+            "en": "风池 Fengchi"
+          },
+          "66",
+          "34%",
+          {
+            "zh": "颈项·肩·上背",
+            "en": "Nape, shoulder, upper back"
+          },
+          {
+            "zh": "脑脊髓神经27、消化11、呼吸7",
+            "en": "Neuro 27, Dig. 11, Resp. 7"
+          }
+        ],
+        [
+          {
+            "zh": "合谷",
+            "en": "合谷 Hegu"
+          },
+          "51",
+          "26%",
+          {
+            "zh": "上肢",
+            "en": "Upper limb"
+          },
+          {
+            "zh": "脑脊髓神经21、呼吸8、消化8",
+            "en": "Neuro 21, Resp. 8, Dig. 8"
+          }
+        ],
+        [
+          {
+            "zh": "天柱",
+            "en": "天柱 Tianzhu"
+          },
+          "50",
+          "25%",
+          {
+            "zh": "颈项·肩·上背",
+            "en": "Nape, shoulder, upper back"
+          },
+          {
+            "zh": "脑脊髓神经23、消化13、循环5",
+            "en": "Neuro 23, Dig. 13, Circ. 5"
+          }
+        ],
+        [
+          {
+            "zh": "关元",
+            "en": "关元 Guanyuan"
+          },
+          "41",
+          "21%",
+          {
+            "zh": "胸腹",
+            "en": "Chest and abdomen"
+          },
+          {
+            "zh": "泌尿生殖12、脑脊髓神经9、妇人科6",
+            "en": "Uro-gen. 12, Neuro 9, Gyn. 6"
+          }
+        ],
+        [
+          {
+            "zh": "气海",
+            "en": "气海 Qihai"
+          },
+          "40",
+          "20%",
+          {
+            "zh": "胸腹",
+            "en": "Chest and abdomen"
+          },
+          {
+            "zh": "消化11、脑脊髓神经8、呼吸7",
+            "en": "Dig. 11, Neuro 8, Resp. 7"
+          }
+        ],
+        [
+          {
+            "zh": "肾俞",
+            "en": "肾俞 Shenshu"
+          },
+          "39",
+          "20%",
+          {
+            "zh": "背俞与脊旁",
+            "en": "Back-shu and paravertebral"
+          },
+          {
+            "zh": "脑脊髓神经12、泌尿生殖10、消化4",
+            "en": "Neuro 12, Uro-gen. 10, Dig. 4"
+          }
+        ],
+        [
+          {
+            "zh": "身柱",
+            "en": "身柱 Shenzhu"
+          },
+          "38",
+          "19%",
+          {
+            "zh": "颈项·肩·上背",
+            "en": "Nape, shoulder, upper back"
+          },
+          {
+            "zh": "脑脊髓神经13、呼吸9、消化6",
+            "en": "Neuro 13, Resp. 9, Dig. 6"
+          }
+        ],
+        [
+          {
+            "zh": "大杼",
+            "en": "大杼 Dazhu"
+          },
+          "38",
+          "19%",
+          {
+            "zh": "颈项·肩·上背",
+            "en": "Nape, shoulder, upper back"
+          },
+          {
+            "zh": "消化14、脑脊髓神经14、循环6",
+            "en": "Dig. 14, Neuro 14, Circ. 6"
+          }
+        ],
+        [
+          {
+            "zh": "大肠俞",
+            "en": "大肠俞 Dachangshu"
+          },
+          "37",
+          "19%",
+          {
+            "zh": "背俞与脊旁",
+            "en": "Back-shu and paravertebral"
+          },
+          {
+            "zh": "脑脊髓神经14、消化10、泌尿生殖5",
+            "en": "Neuro 14, Dig. 10, Uro-gen. 5"
+          }
+        ],
+        [
+          {
+            "zh": "中脘",
+            "en": "中脘 Zhongwan"
+          },
+          "36",
+          "18%",
+          {
+            "zh": "胸腹",
+            "en": "Chest and abdomen"
+          },
+          {
+            "zh": "消化12、脑脊髓神经9、呼吸8",
+            "en": "Dig. 12, Neuro 9, Resp. 8"
+          }
+        ],
+        [
+          {
+            "zh": "三焦俞",
+            "en": "三焦俞 Sanjiaoshu"
+          },
+          "33",
+          "17%",
+          {
+            "zh": "背俞与脊旁",
+            "en": "Back-shu and paravertebral"
+          },
+          {
+            "zh": "消化16、脑脊髓神经6、循环4",
+            "en": "Dig. 16, Neuro 6, Circ. 4"
+          }
+        ],
+        [
+          {
+            "zh": "脾俞",
+            "en": "脾俞 Pishu"
+          },
+          "32",
+          "16%",
+          {
+            "zh": "背俞与脊旁",
+            "en": "Back-shu and paravertebral"
+          },
+          {
+            "zh": "消化15、呼吸5、脑脊髓神经5",
+            "en": "Dig. 15, Resp. 5, Neuro 5"
+          }
+        ],
+        [
+          {
+            "zh": "肝俞",
+            "en": "肝俞 Ganshu"
+          },
+          "32",
+          "16%",
+          {
+            "zh": "背俞与脊旁",
+            "en": "Back-shu and paravertebral"
+          },
+          {
+            "zh": "消化17、脑脊髓神经5、五官3",
+            "en": "Dig. 17, Neuro 5, ENT/eye 3"
+          }
+        ],
+        [
+          {
+            "zh": "曲池",
+            "en": "曲池 Quchi"
+          },
+          "29",
+          "15%",
+          {
+            "zh": "上肢",
+            "en": "Upper limb"
+          },
+          {
+            "zh": "脑脊髓神经16、消化5、呼吸3",
+            "en": "Neuro 16, Dig. 5, Resp. 3"
+          }
+        ],
+        [
+          {
+            "zh": "肺俞",
+            "en": "肺俞 Feishu"
+          },
+          "28",
+          "14%",
+          {
+            "zh": "背俞与脊旁",
+            "en": "Back-shu and paravertebral"
+          },
+          {
+            "zh": "呼吸15、脑脊髓神经7、消化2",
+            "en": "Resp. 15, Neuro 7, Dig. 2"
+          }
+        ],
+        [
+          {
+            "zh": "膈俞",
+            "en": "膈俞 Geshu"
+          },
+          "25",
+          "13%",
+          {
+            "zh": "背俞与脊旁",
+            "en": "Back-shu and paravertebral"
+          },
+          {
+            "zh": "消化13、呼吸3、脑脊髓神经3",
+            "en": "Dig. 13, Resp. 3, Neuro 3"
+          }
+        ],
+        [
+          {
+            "zh": "手三里",
+            "en": "手三里 Shousanli"
+          },
+          "24",
+          "12%",
+          {
+            "zh": "上肢",
+            "en": "Upper limb"
+          },
+          {
+            "zh": "消化9、脑脊髓神经9、五官2",
+            "en": "Dig. 9, Neuro 9, ENT/eye 2"
+          }
+        ],
+        [
+          {
+            "zh": "肩井",
+            "en": "肩井 Jianjing"
+          },
+          "24",
+          "12%",
+          {
+            "zh": "颈项·肩·上背",
+            "en": "Nape, shoulder, upper back"
+          },
+          {
+            "zh": "脑脊髓神经9、循环5、消化5",
+            "en": "Neuro 9, Circ. 5, Dig. 5"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 编者按部位分的七个区：各区穴位出现在多少条处方里",
+        "en": "Table 2. Seven regions (editor's grouping): how many entries contain a point from each"
+      },
+      "cols": [
+        {
+          "zh": "区域(编者分区)",
+          "en": "Region (editor)"
+        },
+        {
+          "zh": "所含穴(举例)",
+          "en": "Points (examples)"
+        },
+        {
+          "zh": "含该区至少一穴的条数",
+          "en": "Entries with at least one"
+        },
+        {
+          "zh": "占比",
+          "en": "Share"
+        },
+        {
+          "zh": "占本系统比例最高的三个系统(条数/该系统含穴位条数)",
+          "en": "Three systems with highest share (entries / entries with points)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "颈项·肩·上背",
+            "en": "Nape, shoulder, upper back"
+          },
+          "风池、天柱、大杼、风门、身柱、大椎、肩井、肩中俞",
+          "112",
+          "57%",
+          {
+            "zh": "呼吸14/16、循环9/11、五官7/9",
+            "en": "Resp. 14/16, Circ. 9/11, ENT/eye 7/9"
+          }
+        ],
+        [
+          {
+            "zh": "背俞与脊旁",
+            "en": "Back-shu and paravertebral"
+          },
+          "肺俞、心俞、膈俞、肝俞、脾俞、三焦俞、肾俞、大肠俞",
+          "124",
+          "63%",
+          {
+            "zh": "呼吸16/16、循环9/11、消化33/43",
+            "en": "Resp. 16/16, Circ. 9/11, Dig. 33/43"
+          }
+        ],
+        [
+          {
+            "zh": "腰骶",
+            "en": "Lumbosacral"
+          },
+          "命门、腰阳关、次髎、中髎、上髎、下髎",
+          "54",
+          "27%",
+          {
+            "zh": "泌尿生殖14/17、妇人科11/16",
+            "en": "Uro-gen. 14/17, Gyn. 11/16"
+          }
+        ],
+        [
+          {
+            "zh": "胸腹",
+            "en": "Chest and abdomen"
+          },
+          "中脘、气海、关元、中极、天枢、膻中",
+          "119",
+          "60%",
+          {
+            "zh": "泌尿生殖16/17、呼吸14/16、妇人科14/16",
+            "en": "Uro-gen. 16/17, Resp. 14/16, Gyn. 14/16"
+          }
+        ],
+        [
+          {
+            "zh": "头面",
+            "en": "Head and face"
+          },
+          "百会、上星、攒竹、太阳、下关、颊车",
+          "35",
+          "18%",
+          {
+            "zh": "五官9/9",
+            "en": "ENT/eye 9/9"
+          }
+        ],
+        [
+          {
+            "zh": "上肢",
+            "en": "Upper limb"
+          },
+          "合谷、曲池、手三里、外关、尺泽、内关",
+          "114",
+          "58%",
+          {
+            "zh": "呼吸14/16、循环8/11、五官6/9",
+            "en": "Resp. 14/16, Circ. 8/11, ENT/eye 6/9"
+          }
+        ],
+        [
+          {
+            "zh": "下肢",
+            "en": "Lower limb"
+          },
+          "足三里、三阴交、阴陵泉、丰隆、行间、内庭、昆仑",
+          "148",
+          "75%",
+          {
+            "zh": "呼吸15/16、消化35/43、妇人科13/16",
+            "en": "Resp. 15/16, Dig. 35/43, Gyn. 13/16"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 写明的治疗目的与取穴倾向(按处方文字重新计数；分母为该类中列有穴位的条数)",
+        "en": "Table 3. Stated aim and point tendency (recounted from the text; denominator = entries of that class listing points)"
+      },
+      "cols": [
+        {
+          "zh": "处方里写明的目的",
+          "en": "Aim stated in the prescription"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        },
+        {
+          "zh": "最常见的五个穴",
+          "en": "Five commonest points"
+        },
+        {
+          "zh": "例(病名)",
+          "en": "Examples"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "消炎诱导",
+            "en": "Anti-inflammation by induction"
+          },
+          "15",
+          {
+            "zh": "风池8/14、合谷8/14、三阴交7/14、大杼5/14、身柱4/14",
+            "en": "风池 Fengchi 8/14, 合谷 Hegu 8/14, 三阴交 Sanyinjiao 7/14, 大杼 Dazhu 5/14, 身柱 Shenzhu 4/14"
+          },
+          {
+            "zh": "扁桃腺炎、急性咽头炎、齿痛、肾盂炎、膀胱炎",
+            "en": "tonsillitis, acute pharyngitis, toothache, pyelitis, cystitis"
+          }
+        ],
+        [
+          {
+            "zh": "强壮",
+            "en": "Strengthening (tonic)"
+          },
+          "19",
+          {
+            "zh": "足三里12/19、三阴交10/19、脾俞9/19、关元9/19、肾俞8/19",
+            "en": "足三里 Zusanli 12/19, 三阴交 Sanyinjiao 10/19, 脾俞 Pishu 9/19, 关元 Guanyuan 9/19, 肾俞 Shenshu 8/19"
+          },
+          {
+            "zh": "慢性支气管炎、肠结核、慢性肾脏炎、遗尿症、月经闭止症",
+            "en": "chronic bronchitis, intestinal TB, chronic nephritis, enuresis, amenorrhoea"
+          }
+        ],
+        [
+          {
+            "zh": "镇静／镇痉",
+            "en": "Calming / antispasmodic"
+          },
+          "23",
+          {
+            "zh": "风池13/23、天柱7/23、中脘6/23、足三里6/23、合谷6/23",
+            "en": "风池 Fengchi 13/23, 天柱 Tianzhu 7/23, 中脘 Zhongwan 6/23, 足三里 Zusanli 6/23, 合谷 Hegu 6/23"
+          },
+          {
+            "zh": "胃痉挛、心脏痉挛、癫痫、舞蹈病、常习性头痛",
+            "en": "gastric spasm, angina, epilepsy, chorea, habitual headache"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "以制止颜面神经兴奋为目的，从直接、反射、诱导，三法取穴",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颜面神经痉挛 p.259"
+    },
+    {
+      "id": "E2",
+      "quote": "直接取穴：视其痉挛发作之处，如阳白、攒竹、四白、丝竹空、地仓、颊车等穴采用，应用留针法",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颜面神经痉挛 p.259"
+    },
+    {
+      "id": "E3",
+      "quote": "反射取穴：风池、天柱、翳风等用中刺激。诱导取穴：手三里、合谷等穴用中刺激",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颜面神经痉挛 p.259"
+    },
+    {
+      "id": "E4",
+      "quote": "以诱导法降其脑部充血。取穴：风池、天柱、人中、合谷、商阳、昆仑、至阴，用强刺激法",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑充血 p.246"
+    },
+    {
+      "id": "E5",
+      "quote": "以反射法及诱导法，旺盛喉头之血行，解除其喉头炎肿为目的。取穴：以风池、液门、鱼际为主",
+      "src": "针灸处方集·第一章 呼吸器病·急性喉头炎 p.215"
+    },
+    {
+      "id": "E6",
+      "quote": "其病在脑，其源则在消化系，故取穴偏重于刺激胃肠，历年颇收良效",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·癫痫 p.262"
+    },
+    {
+      "id": "E7",
+      "quote": "以其能直接刺激关于肺脏组织功能之神经与反射管理肺脏之中枢，而得到其自行调整之功效",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.220"
+    },
+    {
+      "id": "E8",
+      "quote": "其次助以激动消化系之中枢与末梢神经，以加强营养之吸收",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.220"
+    },
+    {
+      "id": "E9",
+      "quote": "食欲不振者，每次针治时，中脘、三里必不可少",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "E10",
+      "quote": "凡慢性久病，首先注意食欲",
+      "src": "针灸处方集·第一章 呼吸器病·喉头结核 p.216"
+    },
+    {
+      "id": "E11",
+      "quote": "视疼痛部位而取穴，复兼作原因治疗",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·常习性头痛 p.247"
+    },
+    {
+      "id": "E12",
+      "quote": "头顶痛：加取百会、前顶、后顶、后溪。前头痛：加取上星、阳白、丰隆、内庭",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·常习性头痛 p.247"
+    },
+    {
+      "id": "E13",
+      "quote": "凡头部之穴：用中刺激后，再用药艾灸条灸治之，四肢之穴，只用中刺激",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·常习性头痛 p.247"
+    },
+    {
+      "id": "E14",
+      "quote": "视痛之所及，取四五穴作刺激而后留针，压痛点针后再用吸筒",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·坐骨神经痛 p.254"
+    },
+    {
+      "id": "E15",
+      "quote": "凡患部之上下稍离一二寸部位之穴，可采用针治",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·急性关节偻麻质斯 p.264"
+    },
+    {
+      "id": "E16",
+      "quote": "以调整其部之血行，抑制其兴奋为目的，于患部施术之后，再取适宜之部位诱导之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·关节神经痛 p.254"
+    },
+    {
+      "id": "E17",
+      "quote": "本病以直接刺激其患侧之主干神经，再从其所患神经之径路予以刺激，以制止其兴奋为目的",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·颈膊神经痛 p.251"
+    },
+    {
+      "id": "E18",
+      "quote": "随病位之不同而定穴位。(1)十二指肠炎：督俞、膈俞、肝俞、日月、中脘、天枢、下巨虚、足临泣，作强刺激",
+      "src": "针灸处方集·第三章 消化器病·急性肠炎 p.235"
+    },
+    {
+      "id": "E19",
+      "quote": "取穴：风池、肩井、大杼、心俞、中脘、气海、内关、足三里。天柱、风门、膏肓、督俞、建里、关元、上巨虚",
+      "src": "针灸处方集·第二章 循环器病·脂肪心 p.225"
+    },
+    {
+      "id": "E20",
+      "quote": "取穴：肾俞、大肠俞、次髎、会阳、曲泉、漏谷、水泉。气海俞、小肠俞、中髎、白环俞、血海、三阴交、商丘",
+      "src": "针灸处方集·第六章 妇人科病·急慢性子宫内膜炎 p.269"
+    },
+    {
+      "id": "E21",
+      "quote": "不限于上穴，尽可按其痛处之穴取之，兼用艾条灸治",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·肌肉偻麻质斯 p.265"
+    }
+  ],
+  "how_to_use": {
+    "zh": "读一张处方时，先看“目的行”里有没有直接、反射、诱导、消炎、强壮、镇静等词，再看穴位属于哪一层：颈项上背与背俞(反射／传导)、患部及其上下与压痛点(局部／直接)、四肢远端(诱导)。若开列两行穴位并写“轮换”，两行是替换关系而不是合并(见 cda-11)。刺激量见 cda-09，穴位常识见 cda-07。分区与计数是编者的整理，只用来定位，不代表他的分类。",
+    "en": "Read the purpose line first for direct, reflex, induction, anti-inflammation, tonic or calming, then place each point in its layer: nape/upper back and back-shu (reflex or conduction), the affected part with points above and below it and tender points (local or direct), distal limb points (induction). Two point lines with \"rotate\" are alternatives, not one list (see cda-11). Stimulus dose is in cda-09, point basics in cda-07. Regions and counts are the editor's tabulation, for orientation only, not his classification."
+  },
+  "caveats": {
+    "zh": "“反射、诱导、副交感、神经传达”是民国时期借用的生理学语言，书中未给现代意义上的机制证明；点数取自对处方文字的解析，穴名以标准名归并，个别穴名未归入分区(见正文)。",
+    "en": "\"Reflex\", \"induction\", \"parasympathetic\" and \"nerve conduction\" are borrowed Republican-era physiology, and the book gives no mechanism in the modern sense. Counts come from parsing the prescription text with names normalised to standard forms; a few points are not assigned to a region (see text)."
+  },
+  "see": {
+    "notes": [
+      "Fatty Heart (短气、虚喘之类) 脂肪心",
+      "Chronic Gastritis (嘈杂) 慢性胃炎",
+      "Facial Nerve Spasm (Jiroudong) 颜面神经痉挛",
+      "Habitual Headache (Toufeng) 常习性头痛",
+      "Cerebral Hyperemia (Ganyangshangni) 脑充血",
+      "Acute Enteritis (食泻、热泻) 急性肠炎",
+      "Epilepsy (Wuxian) 癫痫",
+      "Pulmonary Tuberculosis (痨瘵、传尸、肺痨) 肺结核",
+      "Acute and Chronic Endometritis 急慢性子宫内膜炎",
+      "Sciatica (Yaotuitong, Tuigufeng) 坐骨神经痛"
+    ],
+    "points": [
+      "风池",
+      "天柱",
+      "大杼",
+      "身柱",
+      "足三里",
+      "三阴交",
+      "合谷",
+      "肝俞",
+      "脾俞",
+      "三焦俞",
+      "次髎"
+    ],
+    "rx": [
+      "cda-rx-026",
+      "cda-rx-048",
+      "cda-rx-139",
+      "cda-rx-098",
+      "cda-rx-096",
+      "cda-rx-058",
+      "cda-rx-151",
+      "cda-rx-017",
+      "cda-rx-171",
+      "cda-rx-117"
+    ]
+  }
+}

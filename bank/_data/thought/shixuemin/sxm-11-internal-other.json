@@ -1,0 +1,593 @@
+{
+  "id": "sxm-11-internal-other",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 11,
+  "title": {
+    "zh": "其他内科：调神贯穿脏腑病，本虚标实分补泻，胃肠取足三里、中脘，背俞、刺络、灸随病加入",
+    "en": "Other Internal Medicine: Regulating the Spirit Runs Through Organ Disease, Deficiency-Excess Decides Tonify or Reduce, Zusanli and Zhongwan for the Gut, Back-shu, Bleeding and Moxa Added by Disease"
+  },
+  "summary": {
+    "zh": "内科杂病里他的做法有三条线。一是把“调神”带进脏腑病：呃逆、功能性胃肠病、神经性尿潴留都取内关、人中，称“调神通闭”“调神理气”。二是给常见病立自己的病机：高血压“气海失司”，治以“活血散风、疏肝健脾”；慢性气管炎与哮喘“本虚标实、以本虚为重”，用肺俞刺络拔罐配温肾运脾；糖尿病以肾为根本；痢疾“初痢宜通，久痢宜止”；便秘“腑气不通”；淋证初起忌补、后期兼补。三是脾胃病沿用足三里加中脘、天枢等合募配穴，慢病强调长期不间断。",
+    "en": "His internal-medicine practice runs on three lines. First, regulating the spirit is carried into organ disease: hiccup, functional gastrointestinal disease and neurogenic urinary retention all take Neiguan and Renzhong (\"regulate the spirit, open the blockage\", \"regulate the spirit, rectify qi\"). Second, common diseases get his own mechanism: hypertension \"qi sea out of control\", treated by \"activating blood, dispersing wind, soothing the liver, strengthening the spleen\"; chronic bronchitis and asthma \"root deficiency, branch excess, deficiency predominant\", with bleeding-cupping at Feishu plus warming the kidney; diabetes rooted in the kidney; dysentery \"open at first, astringe when chronic\"; constipation \"fu qi blocked\"; strangury contraindicating tonification at first, adding it later. Third, gastric disease keeps Zusanli with Zhongwan, Tianshu and other he-mu pairings, and chronic disease is treated without interruption."
+  },
+  "takeaways": [
+    {
+      "zh": "“调神”是他带进内科的固定手法：呃逆“重在以醒脑调神之法，关键在于手法及施术的量学要求”，取内关、人中“醒脑调神，镇静止呃”，另加膈俞刺络拔罐、膈俞麦粒灸和咽后壁点刺；功能性胃肠病(恶心呕吐)“在调神的基础上加以配方”，内关调神镇静，足三里、天枢、上巨虚调脾胃；神经性尿潴留治则“调神通闭、利尿”，他强调“不能仅仅着眼于膀胱”。",
+      "en": "\"Regulating the spirit\" is the constant he brings into internal medicine. Hiccup: \"the emphasis is on awakening the brain and regulating the spirit, the key is the quantified requirements of manipulation\"; Neiguan and Renzhong \"awaken the brain, regulate the spirit, calm hiccup\", plus bleeding-cupping and grain-size moxa at Geshu and pricking of the posterior pharyngeal wall. Functional gastrointestinal disease (nausea, vomiting): \"formulas are built on regulating the spirit\", Neiguan regulating and calming, Zusanli, Tianshu, Shangjuxu regulating spleen and stomach. Neurogenic urinary retention: principle \"regulate the spirit, open the blockage, promote urination\", and he stresses one must \"not look only at the bladder\".",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "高血压有他自己的病机：据“气海学说”首次提出病机为“气海失司”，治则“活血散风、疏肝健脾”，主穴人迎、曲池、合谷、足三里、太冲，再按肝阳上亢、肝风内动、痰湿中阻、瘀血阻滞、肝气郁结、阴虚阳亢、肝肾阴虚、阴阳两虚八证加穴。预后一句写明：针刺配合药物，减轻头晕、平稳降压，长期可减少合并用药。",
+      "en": "Hypertension has his own mechanism: on the \"qi sea\" theory he was first to put the mechanism as \"qi sea out of control\", principle \"activate blood, disperse wind, soothe the liver, strengthen the spleen\"; main points Renying, Quchi, Hegu, Zusanli, Taichong, with additions for eight patterns (liver yang rising, liver wind stirring, phlegm-damp, blood stasis, liver qi stagnation, yin deficiency with yang hyperactivity, liver-kidney yin deficiency, yin-yang deficiency). Prognosis stated plainly: needling with drugs eases dizziness, steadies pressure, and long-term use can reduce co-medication.",
+      "cite": [
+        "E4",
+        "E5",
+        "E6"
+      ]
+    },
+    {
+      "zh": "心系病取补法与调神并用：心悸以“益心气、养心血”为大法，取心包经原穴大陵与心经原穴神门补之，加内关、厥阴俞、心俞、膈俞；8例心悸医案中内关8、神门7、厥阴俞7、心俞7、膈俞7。胸痹(真心痛)病机“心气不足，胸阳不振，推动无力，血行不畅”，发作时“急则治其标”，先止痛；虚补实泻按阴虚、阳虚、气滞、血瘀、痰浊加穴。",
+      "en": "Heart disease combines tonification with regulating the spirit. Palpitation: \"boost heart qi, nourish heart blood\" as the main method, tonifying the pericardium source Daling and the heart source Shenmen, plus Neiguan, Jueyinshu, Xinshu, Geshu; in 8 palpitation cases Neiguan appears 8 times, Shenmen 7, Jueyinshu 7, Xinshu 7, Geshu 7. Chest bi (true heart pain): mechanism \"heart qi insufficient, chest yang not stirring, propulsion weak, blood flow not smooth\"; during an attack \"treat the branch when urgent\", relieve pain first; then add points by yin deficiency, yang deficiency, qi stagnation, blood stasis, phlegm.",
+      "cite": [
+        "E7",
+        "E8",
+        "E9"
+      ]
+    },
+    {
+      "zh": "肺病一律“本虚标实、以本虚为重”：慢性气管炎立“温肾运脾、宣肺疏邪”，哮喘“着重扶阳固本，扶正祛邪”；特色是肺俞刺络拔罐(“独到之处”)，哮喘另用华佗夹脊(2、3、5、7对)刺络和肺俞、风门、厥阴俞温灸，再取尺泽、天突、太溪、足三里、肾俞固本。预后不夸大：哮喘“尚不能根治”，针刺重在即刻缓解与缓解期预防。",
+      "en": "Lung disease is uniformly \"root deficiency, branch excess, root predominant\". Chronic bronchitis: \"warm the kidney, move the spleen, diffuse the lung, dispel evil\"; asthma: \"stress supporting yang and securing the root, supporting the right to expel evil\". His signature is bleeding-cupping at Feishu (\"the unique point\"); asthma adds bleeding at Huatuojiaji (pairs 2, 3, 5, 7) and moxa at Feishu, Fengmen, Jueyinshu, with Chize, Tiantu, Taixi, Zusanli, Shenshu to secure the root. Prognosis is not inflated: asthma \"cannot yet be radically cured\", needling serves immediate relief and prevention in remission.",
+      "cite": [
+        "E10",
+        "E11",
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "zh": "脾胃肠病的骨架是足三里：胃肠类75例医案中33例(胃脘痛、呕吐、泄泻、便秘)，足三里占22例；慢性胃炎“以健脾养胃、化瘀止痛为主”，胃下垂“升举中气”并强调腹肌锻炼；泄泻/痢疾提炼为“初痢宜通，久痢宜止，通以清热利湿为先，止以培固脾土为本，然通腑除滞贯彻始终”，并对各型泄泻通用拔罐、灸足三里、关元、天枢；便秘的关键是“腑气不通”，主穴丰隆加左侧水道、归来一组，体虚老年者温灸神阙、气海、关元。",
+      "en": "The gut frame is Zusanli: of the 75 organ-disease cases, 33 are gastrointestinal (stomach pain, vomiting, diarrhoea, constipation) and Zusanli is in 22. Chronic gastritis: \"mainly strengthen the spleen, nourish the stomach, resolve stasis, relieve pain\"; gastroptosis: \"lift the middle qi\", with abdominal-muscle exercise. Diarrhoea/dysentery is condensed as \"open at first, astringe when chronic; open by clearing heat and draining damp first, astringe by securing the spleen earth, while moving fu-organs and clearing stagnation runs throughout\", with cupping for all types and grain-size moxa at Zusanli, Guanyuan, Tianshu. Constipation: the key is \"fu qi blocked\", main points Fenglong with the left-sided Shuidao, Guilai group; warm moxa at Shenque, Qihai, Guanyuan for the old and weak.",
+      "cite": [
+        "E14",
+        "E15",
+        "E16",
+        "E17"
+      ]
+    },
+    {
+      "zh": "糖尿病以肾为根本：“注重肾虚发病为主的理论，制订调节肾之阴阳为主、调整五脏为辅的治疗方案”，“脏腑阴亏为本，燥热为标”；分阴虚内热(益阴泻热：脾俞、肾俞、足三里、曲池、太溪、列缺、照海、胰俞)与气虚阳衰(温阳益气：气海、中脘、足三里、尺泽、三阴交)两型，并配耳针。要求长期：首月“不可间断治疗”，共1~2个月，稳定期3~6个月。",
+      "en": "Diabetes is rooted in the kidney: \"stress kidney deficiency as the chief cause, with a plan of regulating kidney yin and yang mainly and the other five zang secondarily\"; \"yin depletion of the zang-fu is the root, dryness-heat the branch\". Two types: yin deficiency with internal heat (boost yin, drain heat: Pishu, Shenshu, Zusanli, Quchi, Taixi, Lieque, Zhaohai, Yishu) and qi deficiency with yang decline (warm yang, boost qi: Qihai, Zhongwan, Zusanli, Chize, Sanyinjiao), with auricular therapy added. Long treatment is required: no interruption in the first month, 1-2 months in all, 3-6 months in the stable stage.",
+      "cite": [
+        "E18",
+        "E19",
+        "E20"
+      ]
+    },
+    {
+      "zh": "泌尿病有“先泻后补”的边界：淋证“初起多为实热，治宜通利，忌用补法；后期多虚或虚中夹实，治宜兼用补法”，主穴膀胱俞、肾俞、三焦俞、中极、秩边透水道，排尿困难者加气海、关元，针后加灸；神经性尿潴留则不同，从“神不导气”入手，取内关、人中加秩边透水道、中极、关元。",
+      "en": "Urinary disease has a \"reduce first, tonify later\" boundary. Strangury: \"in the early stage mostly excess heat, promote flow, do not tonify; later mostly deficient or mixed, tonify as well\"; main points Pangguangshu, Shenshu, Sanjiaoshu, Zhongji, Zhibian through to Shuidao, with Qihai and Guanyuan plus moxa for difficult voiding. Neurogenic retention is treated differently, from \"spirit failing to guide qi\": Neiguan and Renzhong with Zhibian through Shuidao, Zhongji, Guanyuan.",
+      "cite": [
+        "E21",
+        "E3"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "其他内科：病 → 治则/病机 → 要穴 → 技术 → 备注",
+        "en": "Other internal: disease → principle → key points → technique → note"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "治则(病机)",
+          "en": "Principle (mechanism)"
+        },
+        {
+          "zh": "要穴",
+          "en": "Key points"
+        },
+        {
+          "zh": "技术",
+          "en": "Technique"
+        },
+        {
+          "zh": "备注",
+          "en": "Note"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "高血压",
+            "en": "Hypertension"
+          },
+          {
+            "zh": "活血散风、疏肝健脾(气海失司)",
+            "en": "Activate blood, disperse wind, soothe liver, strengthen spleen (qi sea out of control)"
+          },
+          "人迎、曲池、合谷、足三里、太冲；八证加穴",
+          {
+            "zh": "捻转补泻；按证加涌泉、丰隆、血海、太溪等",
+            "en": "Twirling tonify/reduce; extra points by pattern"
+          },
+          {
+            "zh": "针药合用，减少合并用药",
+            "en": "With drugs; fewer co-medications"
+          }
+        ],
+        [
+          {
+            "zh": "心悸",
+            "en": "Palpitation"
+          },
+          {
+            "zh": "益气养阴、安神定悸；益心气、养心血",
+            "en": "Boost qi, nourish yin, calm spirit; boost heart qi, nourish blood"
+          },
+          "内关、神门、大陵、厥阴俞、心俞、膈俞",
+          {
+            "zh": "补法为主",
+            "en": "Mainly tonification"
+          },
+          {
+            "zh": "房颤初期一周可转复(原文)",
+            "en": "Early AF may convert in a week (text)"
+          }
+        ],
+        [
+          {
+            "zh": "胸痹(真心痛)",
+            "en": "Chest bi (true heart pain)"
+          },
+          {
+            "zh": "通心阳、益心气、养心血；急则治其标",
+            "en": "Free heart yang, boost qi, nourish blood; treat the branch when urgent"
+          },
+          "内关；另两主穴原文残损；阴虚三阴交、太溪、肾俞，阳虚关元、大椎，血瘀血海",
+          {
+            "zh": "发作时平卧，捻转1~3分钟，每10分钟行针至痛止；每日2~3次",
+            "en": "Supine, twirl 1-3 min, repeat every 10 min until pain stops; 2-3 times daily"
+          },
+          {
+            "zh": "观察生命指征、心电图",
+            "en": "Monitor vitals and ECG"
+          }
+        ],
+        [
+          {
+            "zh": "咳嗽(慢性气管炎)",
+            "en": "Cough (chronic bronchitis)"
+          },
+          {
+            "zh": "温肾运脾、宣肺疏邪；肺炎清泻肺热、益气凉血",
+            "en": "Warm kidney, move spleen, diffuse lung; pneumonia clear lung heat"
+          },
+          "肺俞、尺泽、天突、肾俞、太溪、足三里；鱼际、曲池、膈俞",
+          {
+            "zh": "大椎、肺俞刺络拔罐",
+            "en": "Bleeding-cupping at Dazhui and Feishu"
+          },
+          {
+            "zh": "连续约10日症状可缓解，入冬前预防治疗",
+            "en": "About 10 days to relief; preventive course before winter"
+          }
+        ],
+        [
+          {
+            "zh": "支气管哮喘",
+            "en": "Bronchial asthma"
+          },
+          {
+            "zh": "宣肺散邪、固肾宣气；扶阳固本",
+            "en": "Diffuse lung, scatter evil, secure kidney; support yang"
+          },
+          "尺泽、天突、太溪、足三里、丰隆、肾俞；肺俞、风门、厥阴俞灸",
+          {
+            "zh": "华佗夹脊(2、3、5、7对)刺络；温灸",
+            "en": "Bleeding at Huatuojiaji pairs 2, 3, 5, 7; warming moxa"
+          },
+          {
+            "zh": "易反复，尚不能根治",
+            "en": "Recurs; not radically curable"
+          }
+        ],
+        [
+          {
+            "zh": "呃逆",
+            "en": "Hiccup"
+          },
+          {
+            "zh": "醒脑调神、宽胸降逆",
+            "en": "Awaken brain, regulate spirit, relax chest, lower counterflow"
+          },
+          "内关、人中、膈俞、内庭、太冲、中脘",
+          {
+            "zh": "膈俞刺络拔罐或麦粒灸；咽后壁点刺；重手法量学",
+            "en": "Bleeding-cupping or grain moxa at Geshu; pharyngeal wall pricking; quantified manipulation"
+          },
+          {
+            "zh": "危重患者的呃逆须查病因",
+            "en": "Hiccup in critical patients: find the cause"
+          }
+        ],
+        [
+          {
+            "zh": "功能性胃肠病(恶心呕吐)",
+            "en": "Functional GI disease (nausea, vomiting)"
+          },
+          {
+            "zh": "调神理气、和胃止呕",
+            "en": "Regulate spirit, rectify qi, harmonise stomach, stop vomiting"
+          },
+          "内关、足三里、天枢、上巨虚",
+          {
+            "zh": "捻转补法、提插泻法",
+            "en": "Twirling tonification; lifting-thrusting reduction"
+          },
+          {
+            "zh": "预后良好；按食滞、气虚、血瘀、痰积加减",
+            "en": "Good; adjust for food stagnation, qi deficiency, stasis, phlegm"
+          }
+        ],
+        [
+          {
+            "zh": "泄泻",
+            "en": "Diarrhoea"
+          },
+          {
+            "zh": "健脾和胃、除湿理肠；痢疾初通久止",
+            "en": "Strengthen spleen, harmonise stomach, drain damp, regulate gut; dysentery open first, astringe later"
+          },
+          "上巨虚、天枢、关元、足三里、三阴交、脾俞、胃俞",
+          {
+            "zh": "麦粒灸；天枢、关元等拔罐(各型通用)；耳针",
+            "en": "Grain moxa; cupping for all types; auricular"
+          },
+          {
+            "zh": "早期针刺急性痢疾疗效良好",
+            "en": "Early needling of acute dysentery good"
+          }
+        ],
+        [
+          {
+            "zh": "便秘",
+            "en": "Constipation"
+          },
+          {
+            "zh": "疏通脾胃、通便导滞；宣通腑气",
+            "en": "Free spleen and stomach, move stool; free fu qi"
+          },
+          "丰隆、左水道、左归来、左外水道、左外归来；虚者脾俞、胃俞、足三里",
+          {
+            "zh": "冷痛艰涩加气海、关元并灸；老年体虚温灸",
+            "en": "Cold pain: Qihai, Guanyuan with moxa; old and weak: warm moxa"
+          },
+          {
+            "zh": "功能性便秘预后良好",
+            "en": "Functional constipation good"
+          }
+        ],
+        [
+          {
+            "zh": "糖尿病",
+            "en": "Diabetes"
+          },
+          {
+            "zh": "阴虚内热：益阴泻热；气虚阳衰：温阳益气",
+            "en": "Yin deficiency heat: boost yin, drain heat; qi-yang decline: warm yang, boost qi"
+          },
+          "脾俞、肾俞、足三里、曲池、太溪、列缺、照海、胰俞；气海、中脘、三阴交",
+          {
+            "zh": "补法留针20~30min；气虚型灸5壮；耳针",
+            "en": "Tonification 20-30 min; moxa 5 cones in qi-deficiency; auricular"
+          },
+          {
+            "zh": "首月不可间断，疗程1~2月，稳定期3~6月",
+            "en": "No break in month 1; 1-2 months; stable stage 3-6 months"
+          }
+        ],
+        [
+          {
+            "zh": "泌尿系统感染(淋证)",
+            "en": "Urinary infection (strangury)"
+          },
+          {
+            "zh": "疏利膀胱、通淋止痛；初实后兼补",
+            "en": "Soothe bladder, free strangury, relieve pain; excess first, tonify later"
+          },
+          "膀胱俞、肾俞、三焦俞、中极、秩边透水道；发热加合谷、外关",
+          {
+            "zh": "提插泻法、电针；排尿难加气海、关元，针后灸",
+            "en": "Lifting-thrusting reduction, electro-acupuncture; moxa after needling"
+          },
+          {
+            "zh": "及时治疗预后良好",
+            "en": "Good if treated promptly"
+          }
+        ],
+        [
+          {
+            "zh": "神经性尿潴留(癃闭)",
+            "en": "Neurogenic retention (long-bi)"
+          },
+          {
+            "zh": "调神通闭、利尿",
+            "en": "Regulate spirit, open the blockage, promote urination"
+          },
+          "内关、人中、秩边透水道、中极、归来、关元",
+          {
+            "zh": "秩边透水道；脾肾阳虚加肾俞、脾俞并温针",
+            "en": "Zhibian through to Shuidao; warmed needle for spleen-kidney yang deficiency"
+          },
+          {
+            "zh": "预后与原发病相关",
+            "en": "Depends on the primary disease"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "内科杂病75例医案的用穴与技术计数",
+        "en": "Points and techniques across 75 organ-disease cases"
+      },
+      "cols": [
+        {
+          "zh": "病类",
+          "en": "Group"
+        },
+        {
+          "zh": "例数",
+          "en": "n"
+        },
+        {
+          "zh": "足三里",
+          "en": "Zusanli"
+        },
+        {
+          "zh": "内关",
+          "en": "Neiguan"
+        },
+        {
+          "zh": "含背俞穴",
+          "en": "Back-shu"
+        },
+        {
+          "zh": "灸",
+          "en": "Moxa"
+        },
+        {
+          "zh": "刺络/放血",
+          "en": "Bleeding"
+        },
+        {
+          "zh": "拔罐",
+          "en": "Cupping"
+        },
+        {
+          "zh": "透刺",
+          "en": "Penetrating"
+        }
+      ],
+      "rows": [
+        [
+          "心悸",
+          "8",
+          "4",
+          "8",
+          "7",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "咳嗽·哮喘",
+          "12",
+          "3",
+          "4",
+          "11",
+          "4",
+          "3",
+          "2",
+          "0"
+        ],
+        [
+          "胃脘痛·呕吐·泄泻·便秘",
+          "33",
+          "22",
+          "11",
+          "16",
+          "6",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "糖尿病·消渴",
+          "4",
+          "0",
+          "0",
+          "4",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "淋证·癃闭·乳糜尿",
+          "18",
+          "2",
+          "2",
+          "14",
+          "0",
+          "0",
+          "0",
+          "5"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "重在以醒脑调神之法，关键在于手法及施术的量学要求",
+      "src": "石学敏针灸全集·治疗各论·呃逆 p.481"
+    },
+    {
+      "id": "E2",
+      "quote": "在调神的基础上加以配方，注重辨证取穴，标本兼顾",
+      "src": "石学敏针灸全集·治疗各论·功能性胃肠病 p.482"
+    },
+    {
+      "id": "E3",
+      "quote": "石学敏院士认为：对该病的治疗，应强调对病机的认识，不能仅仅着眼于膀胱",
+      "src": "石学敏针灸全集·治疗各论·神经性尿潴留 p.496"
+    },
+    {
+      "id": "E4",
+      "quote": "首次提出了高血压病的病机为“气海失司”",
+      "src": "石学敏针灸全集·治疗各论·高血压 p.439"
+    },
+    {
+      "id": "E5",
+      "quote": "其治疗原则为“活血散风、疏肝健脾”",
+      "src": "石学敏针灸全集·治疗各论·高血压 p.439"
+    },
+    {
+      "id": "E6",
+      "quote": "针刺配合药物治疗高血压，可减轻头晕症状，有利于平稳降压、减少血压波动性",
+      "src": "石学敏针灸全集·治疗各论·高血压 p.440"
+    },
+    {
+      "id": "E7",
+      "quote": "提出以益心气、养心血为治疗大法",
+      "src": "石学敏针灸全集·治疗各论·心悸 p.471"
+    },
+    {
+      "id": "E8",
+      "quote": "方中取心包经原穴大陵与心经原穴神门补之是谓大法",
+      "src": "石学敏针灸全集·治疗各论·心悸 p.472"
+    },
+    {
+      "id": "E9",
+      "quote": "所以治疗应以急则治其标的原则，先予止痛",
+      "src": "石学敏实用针灸学·胸痹 p.308"
+    },
+    {
+      "id": "E10",
+      "quote": "慢性气管炎属于本虚标实证而且以本虚为重。提出温肾运脾、宣肺疏邪的治疗法则",
+      "src": "石学敏针灸全集·治疗各论·咳嗽 p.476"
+    },
+    {
+      "id": "E11",
+      "quote": "其独到之处为采用肺俞穴刺络拔罐之法",
+      "src": "石学敏针灸全集·治疗各论·咳嗽 p.477"
+    },
+    {
+      "id": "E12",
+      "quote": "注重该病的病因病机属本虚标实证的特点，而且以本虚为主，所以治疗时着重扶阳固本，扶正祛邪",
+      "src": "石学敏针灸全集·治疗各论·支气管哮喘 p.479"
+    },
+    {
+      "id": "E13",
+      "quote": "支气管哮喘易反复发作，无特效的治疗方法，尚不能根治",
+      "src": "石学敏针灸全集·治疗各论·支气管哮喘 p.480"
+    },
+    {
+      "id": "E14",
+      "quote": "应以健脾养胃、化瘀止痛为主",
+      "src": "石学敏针灸全集·治疗各论·慢性胃炎 p.484"
+    },
+    {
+      "id": "E15",
+      "quote": "患者密切配合，加强腹肌锻炼，可缩短疗程，提高疗效",
+      "src": "石学敏针灸全集·治疗各论·胃下垂 p.491"
+    },
+    {
+      "id": "E16",
+      "quote": "通以清热利湿为先，止以培固脾土为本，然通腑除滞贯彻始终",
+      "src": "石学敏针灸全集·治疗各论·泄泻 p.484"
+    },
+    {
+      "id": "E17",
+      "quote": "石学敏院士认为：该病的关键在于腑气不通",
+      "src": "石学敏针灸全集·治疗各论·便秘 p.489"
+    },
+    {
+      "id": "E18",
+      "quote": "制订了调节肾之阴阳为主、调整五脏为辅的治疗方案",
+      "src": "石学敏针灸全集·治疗各论·糖尿病 p.491"
+    },
+    {
+      "id": "E19",
+      "quote": "脏腑阴亏为本，燥热为标",
+      "src": "石学敏针灸全集·治疗各论·糖尿病 p.493"
+    },
+    {
+      "id": "E20",
+      "quote": "1个月内不可间断治疗",
+      "src": "石学敏针灸全集·治疗各论·糖尿病 p.492"
+    },
+    {
+      "id": "E21",
+      "quote": "该病初起多为实热，治宜通利，忌用补法；后期多虚或虚中夹实，治宜兼用补法",
+      "src": "石学敏针灸全集·治疗各论·泌尿系统感染 p.494"
+    }
+  ],
+  "caveats": {
+    "zh": "胸痹一条(实用针灸学)主穴中两穴原文OCR残损(“门”“腹中”，疑为郄门、膻中)，本指南只引未残损者，并在表中注明。哮喘、咳嗽、高血压等的病名与病理沿用现代医学，机理陈述(气海学说、针刺对排尿中枢的作用等)是院士团队的解释，非古法通例。医案计数为本指南对已结构化医案的统计，各病例数很小(咳嗽3例、糖尿病3例)，只可看作倾向。",
+    "en": "In the chest-bi entry (practical text) two of the main points are OCR-damaged (\"men\", \"fuzhong\", probably Ximen and Danzhong); the guide cites only the intact ones and says so in the table. Disease names and pathology for asthma, cough, hypertension and others follow modern medicine, and mechanistic statements (qi-sea theory, action on the micturition centre) are the explanations of his team, not classical common ground. Case counts are this guide's tallies of the structured cases; several diseases have very few cases (cough 3, diabetes 3), so they show tendency only."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-005",
+      "sxm-rx-014",
+      "sxm-rx-100",
+      "sxm-rx-015",
+      "sxm-rx-016",
+      "sxm-rx-017",
+      "sxm-rx-018",
+      "sxm-rx-020",
+      "sxm-rx-021",
+      "sxm-rx-023",
+      "sxm-rx-024",
+      "sxm-rx-025"
+    ],
+    "cases": [
+      "sxm-260",
+      "sxm-271",
+      "sxm-280",
+      "sxm-293",
+      "sxm-309",
+      "sxm-321"
+    ],
+    "points": [
+      "足三里",
+      "内关",
+      "中脘",
+      "天枢",
+      "肺俞",
+      "膈俞",
+      "脾俞",
+      "肾俞",
+      "关元",
+      "中极",
+      "三阴交",
+      "神门"
+    ]
+  }
+}

@@ -1,0 +1,973 @@
+{
+  "id": "cda-30-not-indicated",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 30,
+  "title": {
+    "zh": "哪些病他明说不宜针灸：急危重症、特效疗法已有、癌肿与外科病",
+    "en": "Where He Says Acupuncture Is Not Indicated: Emergencies, Diseases With a Specific Cure, Cancers and Surgical Lesions"
+  },
+  "summary": {
+    "zh": "219条中，原文明说“非适应证”“不适应”或“非针术可治”的有21条(数据库标出其中20条，肺水肿一条仍标“适应”)：喉头癌、声门水肿、肺水肿、气胸、食管癌，以及伤寒、白喉、天然痘等传染病。他的理由是两类：要争取时间用药或手术的急危重症，与已有血清、疫苗、新药的病；癌肿则坦言“无适当治法”。多数条目只是“不作主治”，仍留有辅助的余地。",
+    "en": "In 219 entries the text itself says \"not an indication\", \"not suited\" or \"cannot be treated by needling\" in 21 (20 flagged in the database; pulmonary oedema is still flagged as indicated): laryngeal cancer, glottic oedema, pulmonary oedema, pneumothorax, oesophageal cancer, and infectious diseases such as typhoid, diphtheria, smallpox. His reasons are of two kinds: emergencies that need drugs or surgery against the clock, and diseases with serum, vaccine or new drugs; for cancers he admits there is no appropriate treatment. Most entries mean only \"not as the main treatment\", leaving room for an adjunct."
+  },
+  "takeaways": [
+    {
+      "zh": "明说不宜针灸的共21条，占219条的近一成(9.6%)。数据库把其中20条标为“不适应”(14条)或“有条件”(6条)，列于表1；肺水肿一条原文写“不适应用针灸”，数据库仍标“适应”。按章分：呼吸器6条，消化器5条，妇人科1条，内分泌1条，传染病8条，即传染病一章16条里有半数明说不宜。用语有三组：“非(针灸)之适应证”9条，“为不适应证／不适应症”6条，“不适应(用)／不适用／不适宜／非针术可治”6条。",
+      "en": "Twenty-one entries say plainly that acupuncture is not suited, almost a tenth (9.6%) of 219. The database flags 20 of them as not indicated (14) or conditional (6), listed in Table 1; pulmonary oedema, whose text says \"acupuncture not applicable\", is still flagged as indicated. By chapter: respiratory 6, digestive 5, gynaecology 1, endocrine 1, infectious 8, half of the 16 infectious entries. The wording falls in three groups: \"is not an indication\" 9, \"is a non-indicated condition\" 6, and \"not applicable / not suited / cannot be treated by needling\" 6.",
+      "cite": [
+        "G1",
+        "G4",
+        "G10",
+        "G18",
+        "G25"
+      ]
+    },
+    {
+      "zh": "第一类是急、危、重而必须争取时间的病。声门水肿“危险殊甚，必须有适当之药物急救”，预后“用药物早治能效，迟则不治”；肺脓疡“必争取时间由专家用药物治疗”；气胸“由专医诊治”，并行穿刺；急性腹膜炎“应争取时间立即送医院诊治”；食物、药物中毒或细菌感染而高热剧痛的急性胃炎“速送医院诊治”；由中毒而致的肠炎“非针术可治”。关键词是“争取时间”“急救”“速送”。",
+      "en": "The first class is acute, dangerous, severe disease where time is short. Glottic oedema is \"extremely dangerous and needs appropriate drug rescue\", prognosis \"early drugs work, late does not\"; lung abscess must \"race against time, drugs by a specialist\"; pneumothorax to the specialist, with puncture; acute peritonitis \"race to hospital immediately\"; acute gastritis from poisoning or infection with high fever and severe pain \"send to hospital quickly\"; enteritis from poisoning \"cannot be treated by needling\". The key words are race against time, rescue, send quickly.",
+      "cite": [
+        "G3",
+        "G38",
+        "G5",
+        "G7",
+        "G13",
+        "G10",
+        "G11"
+      ]
+    },
+    {
+      "zh": "第二类是已有专门疗法的传染病。伤寒“用新出有效药治疗”，白喉“早送医院作血清治疗”并“春冬作预防注射”，天然痘靠牛痘预防，发疹伤寒、猩红热隔离治疗；他把这些写成“非针灸之适应证”。传染病一章有11条附“消毒”一项，赤痢条说“必须防止传播为最主要”，可见他把隔离、消毒、预防放在针灸之前。",
+      "en": "The second class is infectious disease that already has its own therapy. Typhoid needs \"new effective drugs\", diphtheria \"early hospital serum\" with \"preventive injection in spring and winter\", smallpox is prevented by vaccination, typhus and scarlet fever are treated in isolation; he writes all of these as not an indication. Eleven entries in the infectious chapter carry a \"disinfection\" item, and the dysentery entry says \"preventing spread matters most\", placing isolation, disinfection and prevention ahead of acupuncture.",
+      "cite": [
+        "G19",
+        "G21",
+        "G22",
+        "G20",
+        "G27",
+        "G28"
+      ]
+    },
+    {
+      "zh": "第三类是癌肿与无效方的病，他直说没有办法，并不掩饰。食管癌“现无适当治法，患者每在半年至两年中死亡”；指端肥厚症“非针灸之适应证，现时亦无相当之效方”；胃癌“针术上只可作缓解疼痛之暂时设法”，隔蒜片加麝香的灸法只是“姑作万一幸效之试验”；子宫癌肿“不适宜针术治疗，但亦无其他有特效之治法”，编者的灸法有解除、有减轻、有无效，因“病例不多，不能确定”与镭锭同效。",
+      "en": "The third class is cancer and diseases without a working remedy; he says plainly that there is no way. Oesophageal cancer: \"no appropriate treatment at present, death within half a year to two years\"; acromegaly: \"not an indication and no suitable remedy\"; gastric cancer: needling \"can only relieve pain temporarily\", with garlic-musk moxa \"a trial in the faint hope of an effect\"; uterine cancer: \"not suited to needling, yet no other specific treatment\", his moxa relieved some, eased some and failed in some, and \"with few cases it cannot be confirmed\" as equal to radium.",
+      "cite": [
+        "G8",
+        "G18",
+        "G14",
+        "G15",
+        "G16",
+        "G17"
+      ]
+    },
+    {
+      "zh": "第四类是结构性或化脓性病变，要靠手术或穿刺。食管狭窄“除属咽下受伤而致者外，概不适应针灸治疗，应由专家用手术医治”；肋膜炎化脓性、出血性、腐败性者“非针灸之适应证，应速请专医治疗”，积液过多“由专医用穿刺术吸出”；对未列入不适应的乳腺炎，也写明“已有化脓现象，应由外科医师早行切开法”，副鼻腔炎“久久不愈，需用外科手术”。",
+      "en": "The fourth class is structural or purulent lesion needing surgery or puncture. Oesophageal stricture, \"except from swallowing injury, not indicated; surgery by a specialist\"; purulent, haemorrhagic or putrid pleurisy \"not an indication, call a specialist quickly\", excess fluid \"drawn off by puncture\"; even in entries not declared unsuited, mastitis with pus \"should be incised early by a surgeon\" and sinusitis that will not clear \"needs surgery\".",
+      "cite": [
+        "G9",
+        "G6",
+        "G37",
+        "G35",
+        "G36"
+      ]
+    },
+    {
+      "zh": "“不适应”多数只是“不作主治”，条文里常留一个有限的辅助位置。腹膜炎“为针灸之不适应证”，但局限性慢性者“可作药物治疗之辅助”；肋膜炎、急性肠炎、食管狭窄只排除其中一型或一因；麻疹“非针术适应证”，编者仍记按语：疹隐没时随磺胺剂加灸身柱、关元七壮，“可作麻疹隐没之帮助”；破伤风“应列入不适应证”，但缺药缺医时“可照脑脊髓膜炎之针法试治之”。",
+      "en": "\"Not indicated\" mostly means \"not the main treatment\", and the text often leaves a limited adjunct role. Peritonitis is \"not indicated\", yet localised chronic cases \"may take it as an adjunct to drugs\"; pleurisy, acute enteritis and oesophageal stricture exclude only one type or cause; measles is \"not an indication\", yet the editor's note adds moxa on Shenzhu and Guanyuan, 7 cones, with sulfa when the rash recedes, \"an aid for a receded rash\"; tetanus \"to be listed as not indicated\", yet where drugs and doctors are absent \"one may try the meningitis needling method\".",
+      "cite": [
+        "G12",
+        "G24",
+        "G26",
+        "G23"
+      ]
+    },
+    {
+      "zh": "他把这21条的去处写得很具体，按各条首先点名的去处计：交专医、专家或专科11条(含与专医共同诊治)，送医院6条，药物急救1条，明说无适当疗法3条(食管癌、子宫癌肿、指端肥厚症)。可见“不宜针灸”在他这里是“转诊”的表达，而不是“无治”。同类的转诊与助治写法，见 cda-32。",
+      "en": "He names the destination concretely; counting the first one named in each of the 21: specialist or specialist department 11 (including joint treatment with a specialist), hospital 6, drug rescue 1, and 3 said to have no suitable therapy (oesophageal cancer, uterine cancer, acromegaly). \"Not for acupuncture\" is therefore, in his usage, a way of saying \"refer\", not \"untreatable\". The same referral and adjunct wording is treated in cda-32.",
+      "cite": [
+        "G2",
+        "G4",
+        "G10",
+        "G8"
+      ]
+    },
+    {
+      "zh": "除了整病不宜，他还写了“某处、某法、某人不宜”的局部禁忌：脾癌肿“绝对禁止局部刺针”；胃溃疡“禁止胃部深针”；腹膜炎“于腹腔部绝对避免用针”；腹水“腹部诸穴，概不用针，只用艾条或温灸器”；急痫的下脘、天枢“孕妇不针”；肺结核“重刺激手术，绝对避免”。这些禁忌落在部位、手法或患者状况上，表3列出。",
+      "en": "Beside whole diseases he writes prohibitions of a place, a method or a patient: splenic cancer \"local needling strictly forbidden\"; gastric ulcer \"deep needling of the stomach region forbidden\"; peritonitis \"strictly avoid needling the abdominal cavity\"; ascites \"abdominal points never needled, only moxa stick or warm-moxa box\"; in acute convulsion Xiawan and Tianshu \"not needled in pregnancy\"; pulmonary TB \"heavy stimulation strictly avoided\". These fall on site, technique or patient condition (Table 3).",
+      "cite": [
+        "G29",
+        "G30",
+        "G31",
+        "G32",
+        "G33",
+        "G34"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "他怎样写“不适应”",
+        "en": "How he writes \"not indicated\""
+      },
+      "body": {
+        "zh": "“不适应”几乎总写在【处方】的第一句，紧接着写去处，如“应由专医诊治”“应送医院”，或写没有办法。这一句往往就是全条，没有取穴，表1中的“不适应”条大多没有穴位(伤寒等传染病条数据库穴位为0)。凡是留有取穴的条目(肋膜炎、食管狭窄、急性肠炎、腹膜炎、急性胃炎)，则同时写明限制条件，如化脓性除外、咽下受伤除外、中毒性除外、腹腔部不用针。",
+        "en": "\"Not indicated\" is nearly always written in the first sentence of the prescription, followed at once by the destination, as in \"to be treated by a specialist\" or \"send to hospital\", or by an admission that nothing can be done. That sentence is often the whole entry with no points (the \"not indicated\" entries in Table 1 mostly list none; the infectious ones have zero points in the database). Entries that keep points (pleurisy, oesophageal stricture, acute enteritis, peritonitis, acute gastritis) state the limits alongside: purulent form excluded, swallowing injury excepted, poisoning excluded, no needling of the abdominal cavity."
+      }
+    },
+    {
+      "h": {
+        "zh": "这一判断的时代背景",
+        "en": "The period behind the judgement"
+      },
+      "body": {
+        "zh": "本书以1951年中国针灸学研究社版为底本。这些“不适应”是那个年代的判断：他依据的是血清、疫苗、磺胺、盐水注射等当时的新疗法与外科手术，而在缺医少药的地方，他又保留了“试用”的余地(破伤风、鼠疫、脑脊髓膜炎的记述即是；见 cda-32)。不要把这一份清单当作现代适应证标准，只用它来理解他如何划分“针灸主治”与“转诊”的边界。",
+        "en": "The book rests on the 1951 edition of the China Acupuncture Research Society. These judgements are of that time: he relies on serum, vaccines, sulfa, saline infusion and surgery, the new therapies then, while for places short of doctors and drugs he keeps room for a trial (see the tetanus, plague and meningitis entries, cda-32). This list should not be read as a modern indication standard, only as a way to see where he drew the line between acupuncture as the main treatment and referral."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 数据库标为“不适应”或“有条件”的20条(逐条对照原文)",
+        "en": "Table 1. The 20 entries flagged \"not indicated\" or \"conditional\" (checked against the text)"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "标记",
+          "en": "Flag"
+        },
+        {
+          "zh": "他怎么说(要点)",
+          "en": "What he says (gist)"
+        },
+        {
+          "zh": "他建议的去处",
+          "en": "What he advises instead"
+        },
+        {
+          "zh": "页",
+          "en": "Page"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "喉头癌",
+            "en": "Laryngeal cancer"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "“本病非针灸治疗之适应证”",
+            "en": "\"Not an indication for acupuncture\""
+          },
+          {
+            "zh": "专科治疗；注意营养；预后不良",
+            "en": "Specialist treatment; attend to nutrition; prognosis poor"
+          },
+          "p.216"
+        ],
+        [
+          {
+            "zh": "声门水肿",
+            "en": "Glottic oedema"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "急性、危险殊甚，必须药物急救；非针灸术之适应证",
+            "en": "Acute and highly dangerous; needs drug rescue; not an indication"
+          },
+          {
+            "zh": "适当药物急救；早治能效，迟则不治",
+            "en": "Appropriate drugs urgently; early treatment works, late does not"
+          },
+          "p.217"
+        ],
+        [
+          {
+            "zh": "肺脓疡与肺坏疽",
+            "en": "Lung abscess and gangrene"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "“必争取时间由专家用药物治疗”",
+            "en": "\"Must race against time, drugs by a specialist\""
+          },
+          {
+            "zh": "专家用药；绝对安静，禁肉食；另附犀黄、《千金》苇茎汤、芥菜卤(见 cda-32)",
+            "en": "Specialist drugs; absolute rest, no meat; appendix lists Xihuang, Qianjin Weijing decoction, mustard-brine (see cda-32)"
+          },
+          "p.221"
+        ],
+        [
+          {
+            "zh": "肋膜炎",
+            "en": "Pleurisy"
+          },
+          {
+            "zh": "有条件",
+            "en": "Conditional"
+          },
+          {
+            "zh": "干性、湿性照常取穴；化脓性、出血性、腐败性非适应证",
+            "en": "Dry and wet forms are treated as usual; purulent, haemorrhagic and putrid forms are not indicated"
+          },
+          {
+            "zh": "速请专医；积液过多由专医穿刺吸出",
+            "en": "Call a specialist quickly; excess fluid to be drawn off by puncture"
+          },
+          "p.222"
+        ],
+        [
+          {
+            "zh": "气胸",
+            "en": "Pneumothorax"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "不适用针灸治疗",
+            "en": "Acupuncture not applicable"
+          },
+          {
+            "zh": "专医诊治，穿刺手术；预后不定，有危险性者多",
+            "en": "Specialist and puncture; prognosis uncertain, often dangerous"
+          },
+          "p.222"
+        ],
+        [
+          {
+            "zh": "食管癌",
+            "en": "Oesophageal cancer"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "针灸术不适应症；现无适当治法；“每在半年至两年中死亡”",
+            "en": "Not indicated; no appropriate treatment at present; death \"within half a year to two years\""
+          },
+          {
+            "zh": "书中未指去处",
+            "en": "No destination named"
+          },
+          "p.231"
+        ],
+        [
+          {
+            "zh": "食管狭窄",
+            "en": "Oesophageal stricture"
+          },
+          {
+            "zh": "有条件",
+            "en": "Conditional"
+          },
+          {
+            "zh": "除咽下受伤所致者外，概不适应；仍列11个穴，间日针，10次无少效仍属不治",
+            "en": "Except stricture from swallowing injury, not indicated; still lists 11 points, alternate days, incurable if no effect after 10"
+          },
+          {
+            "zh": "专家手术；情志休养",
+            "en": "Surgery by a specialist; calm mind and rest"
+          },
+          "p.231"
+        ],
+        [
+          {
+            "zh": "急性胃炎",
+            "en": "Acute gastritis"
+          },
+          {
+            "zh": "有条件",
+            "en": "Conditional"
+          },
+          {
+            "zh": "一般取穴治疗；但食物中毒、药物中毒、细菌感染而高热剧痛者“于针术为不适应证”",
+            "en": "Treated by points in general; but in food or drug poisoning or bacterial infection with high fever and severe pain \"not indicated for needling\""
+          },
+          {
+            "zh": "速送医院诊治；病状进行中不与食物，仅饮温开水或薄荷水",
+            "en": "Send to hospital quickly; no food while it advances, only warm water or mint water"
+          },
+          "p.232"
+        ],
+        [
+          {
+            "zh": "急性肠炎",
+            "en": "Acute enteritis"
+          },
+          {
+            "zh": "有条件",
+            "en": "Conditional"
+          },
+          {
+            "zh": "“由中毒而致之肠炎，非针术可治”；其余按十二指肠、小肠、大肠、直肠四组取穴",
+            "en": "Poisoning enteritis \"cannot be treated by needling\"; the rest by four site groups: duodenum, small bowel, large bowel, rectum"
+          },
+          {
+            "zh": "宜与专医用药物共同诊治；暂停食物，多饮开水",
+            "en": "Treat together with a specialist using drugs; fast for a time, drink plenty of water"
+          },
+          "p.235"
+        ],
+        [
+          {
+            "zh": "腹膜炎",
+            "en": "Peritonitis"
+          },
+          {
+            "zh": "有条件",
+            "en": "Conditional"
+          },
+          {
+            "zh": "“针灸之不适应证”，唯局限性慢性者可行镇痛消炎针法作辅助；腹腔部绝对避免用针",
+            "en": "Not indicated, but localised chronic peritonitis may take analgesic anti-inflammatory needling as adjunct; abdomen strictly not needled"
+          },
+          {
+            "zh": "急性者争取时间送医院；慢性者与专医合作诊疗",
+            "en": "Acute: race to hospital; chronic: work with a specialist"
+          },
+          "p.238"
+        ],
+        [
+          {
+            "zh": "子宫癌肿",
+            "en": "Uterine cancer"
+          },
+          {
+            "zh": "有条件",
+            "en": "Conditional"
+          },
+          {
+            "zh": "“不适宜针术治疗，但亦无其他有特效之治法”，镭锭亦只轻症收效；编者以隔蒜片加麝香灸试治，“不能确定”与镭锭同效",
+            "en": "\"Not suited to needling, yet no other specific treatment\"; radium helps mild cases only; the editor tried garlic-slice moxa with musk and \"cannot confirm\" it equals radium"
+          },
+          {
+            "zh": "无镭锭设备之处“可试为之”；灸后流出液猝停则减炷或暂停",
+            "en": "Where there is no radium it \"may be tried\"; if the discharge suddenly stops, fewer cones or pause"
+          },
+          "p.269"
+        ],
+        [
+          {
+            "zh": "指端肥厚症",
+            "en": "Acromegaly (digital hypertrophy)"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "“非针灸之适应证，现时亦无相当之效方”，经过缓慢，无生命危险",
+            "en": "\"Not an indication, and no suitable remedy at present\"; slow course, no danger to life"
+          },
+          {
+            "zh": "书中未指去处",
+            "en": "No destination named"
+          },
+          "p.275"
+        ],
+        [
+          {
+            "zh": "伤寒",
+            "en": "Typhoid fever"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "“于针灸为不适应证”",
+            "en": "\"Not indicated for acupuncture\""
+          },
+          {
+            "zh": "入医院，新出有效药；平时注射预防；编者记七液丹经验",
+            "en": "Hospital and new effective drugs; preventive injection; the editor records his experience with Qiye Dan"
+          },
+          "p.281"
+        ],
+        [
+          {
+            "zh": "副伤寒",
+            "en": "Paratyphoid"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "同伤寒条，于针灸为不适应证",
+            "en": "As for typhoid; not indicated"
+          },
+          {
+            "zh": "医院新药；严密消毒",
+            "en": "Hospital drugs; strict disinfection"
+          },
+          "p.281"
+        ],
+        [
+          {
+            "zh": "发疹伤寒",
+            "en": "Typhus"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "“非针灸之适应证”",
+            "en": "\"Not an indication\""
+          },
+          {
+            "zh": "专医隔离治疗；消毒以防传播为首要",
+            "en": "Specialist isolation treatment; disinfection to prevent spread comes first"
+          },
+          "p.281"
+        ],
+        [
+          {
+            "zh": "白喉",
+            "en": "Diphtheria"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "“非针灸之适应证”；重症多不良",
+            "en": "\"Not an indication\"; severe cases mostly poor"
+          },
+          {
+            "zh": "春冬预防注射；病发早送医院血清治疗",
+            "en": "Preventive injection in spring and winter; on onset early to hospital for serum"
+          },
+          "p.282"
+        ],
+        [
+          {
+            "zh": "天然痘",
+            "en": "Smallpox"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "“非针灸适应证”",
+            "en": "\"Not an indication\""
+          },
+          {
+            "zh": "专医治疗；牛痘接种预防，流行时一律再种",
+            "en": "Specialist; vaccination, everyone revaccinated in an epidemic"
+          },
+          "p.282"
+        ],
+        [
+          {
+            "zh": "猩红热",
+            "en": "Scarlet fever"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "“非针灸之适应证”",
+            "en": "\"Not an indication\""
+          },
+          {
+            "zh": "送医院，隔离治疗；严密消毒",
+            "en": "Hospital, isolation; strict disinfection"
+          },
+          "p.282"
+        ],
+        [
+          {
+            "zh": "麻疹",
+            "en": "Measles"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "“非针术适应证”；按语另记：疹隐没时可加灸身柱、关元",
+            "en": "\"Not an indication\"; a note adds moxa on Shenzhu and Guanyuan when the rash recedes"
+          },
+          {
+            "zh": "专医治疗；消毒；编者兼用磺胺剂",
+            "en": "Specialist; disinfection; the editor also used sulfa drugs"
+          },
+          "p.283"
+        ],
+        [
+          {
+            "zh": "破伤风",
+            "en": "Tetanus"
+          },
+          {
+            "zh": "不适应",
+            "en": "Not indicated"
+          },
+          {
+            "zh": "“在针术应列入不适应证”；缺药缺医的偏远处可照脑脊髓膜炎针法试治",
+            "en": "\"To be listed as not indicated for needling\"; in remote places without drugs or doctors one may try the meningitis needling method"
+          },
+          {
+            "zh": "专医用破伤风血清；旧医用紫金锭与发汗疗法亦有效(见 cda-32)",
+            "en": "Specialist tetanus serum; the old physicians' Zijin Ding and sweating also work (see cda-32)"
+          },
+          "p.284"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 原文明说不宜针灸的21条，按性质归类(含仍标“适应”的肺水肿)",
+        "en": "Table 2. The 21 entries where the text says acupuncture is not suited, by kind (including pulmonary oedema, still flagged \"indicated\")"
+      },
+      "cols": [
+        {
+          "zh": "性质",
+          "en": "Kind"
+        },
+        {
+          "zh": "病",
+          "en": "Diseases"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        },
+        {
+          "zh": "他建议的去处",
+          "en": "What he suggests instead"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "急、危、重，须争取时间",
+            "en": "Acute, dangerous, urgent"
+          },
+          {
+            "zh": "声门水肿、肺水肿、肺脓疡与肺坏疽、气胸、急性胃炎(中毒或感染型)、急性肠炎(中毒型)、腹膜炎(急性)",
+            "en": "Glottic oedema, pulmonary oedema, lung abscess and gangrene, pneumothorax, acute gastritis (poison or infection), acute enteritis (poison), peritonitis (acute)"
+          },
+          "7",
+          {
+            "zh": "药物急救、专医、医院、穿刺",
+            "en": "Drug rescue, specialist, hospital, puncture"
+          }
+        ],
+        [
+          {
+            "zh": "已有专门疗法的传染病",
+            "en": "Infectious disease with its own therapy"
+          },
+          {
+            "zh": "伤寒、副伤寒、发疹伤寒、白喉、天然痘、猩红热、麻疹、破伤风",
+            "en": "Typhoid, paratyphoid, typhus, diphtheria, smallpox, scarlet fever, measles, tetanus"
+          },
+          "8",
+          {
+            "zh": "医院新药、血清、预防注射、牛痘、隔离与消毒",
+            "en": "Hospital drugs, serum, preventive injection, vaccination, isolation and disinfection"
+          }
+        ],
+        [
+          {
+            "zh": "癌肿与无效方之病",
+            "en": "Cancer and no working remedy"
+          },
+          {
+            "zh": "喉头癌、食管癌、子宫癌肿、指端肥厚症",
+            "en": "Laryngeal cancer, oesophageal cancer, uterine cancer, acromegaly"
+          },
+          "4",
+          {
+            "zh": "专科(喉头癌)；其余书中说无适当疗法",
+            "en": "Specialist (laryngeal cancer); the others are said to have no suitable therapy"
+          }
+        ],
+        [
+          {
+            "zh": "结构性或化脓性病变",
+            "en": "Structural or purulent lesion"
+          },
+          {
+            "zh": "食管狭窄、肋膜炎(化脓性、出血性、腐败性)",
+            "en": "Oesophageal stricture, pleurisy (purulent, haemorrhagic, putrid)"
+          },
+          "2",
+          {
+            "zh": "手术、专医、穿刺",
+            "en": "Surgery, specialist, puncture"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 不是整病，而是某处、某法、某人不宜",
+        "en": "Table 3. Not the whole disease but a site, a method or a patient"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "限制的对象",
+          "en": "What is restricted"
+        },
+        {
+          "zh": "原文",
+          "en": "The text"
+        },
+        {
+          "zh": "页",
+          "en": "Page"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "脾脏肿大",
+            "en": "Splenomegaly"
+          },
+          {
+            "zh": "如为脾癌肿",
+            "en": "If it is splenic cancer"
+          },
+          {
+            "zh": "绝对禁止局部刺针",
+            "en": "Local needling strictly forbidden"
+          },
+          "p.240"
+        ],
+        [
+          {
+            "zh": "胃溃疡",
+            "en": "Gastric ulcer"
+          },
+          {
+            "zh": "胃部",
+            "en": "Stomach region"
+          },
+          {
+            "zh": "“本病禁止胃部深针”",
+            "en": "\"Deep needling of the stomach region forbidden\""
+          },
+          "p.233"
+        ],
+        [
+          {
+            "zh": "腹膜炎",
+            "en": "Peritonitis"
+          },
+          {
+            "zh": "腹腔部",
+            "en": "Abdominal cavity"
+          },
+          {
+            "zh": "“绝对避免用针”",
+            "en": "\"Strictly avoid needling\""
+          },
+          "p.238"
+        ],
+        [
+          {
+            "zh": "腹水",
+            "en": "Ascites"
+          },
+          {
+            "zh": "腹部诸穴",
+            "en": "Abdominal points"
+          },
+          {
+            "zh": "概不用针，只用药艾条或温灸器灸",
+            "en": "Never needled; only medicated moxa stick or warm-moxa box"
+          },
+          "p.239"
+        ],
+        [
+          {
+            "zh": "急痫",
+            "en": "Acute convulsion"
+          },
+          {
+            "zh": "下脘、天枢",
+            "en": "Xiawan, Tianshu"
+          },
+          {
+            "zh": "孕妇不针",
+            "en": "Not needled in pregnancy"
+          },
+          "p.262"
+        ],
+        [
+          {
+            "zh": "肺结核",
+            "en": "Pulmonary TB"
+          },
+          {
+            "zh": "手法",
+            "en": "Technique"
+          },
+          {
+            "zh": "“重刺激手术，绝对避免”",
+            "en": "\"Heavy stimulation strictly avoided\""
+          },
+          "p.221"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "G1",
+      "quote": "本病非针灸治疗之适应证",
+      "src": "针灸处方集·第一章 呼吸器病·喉头癌 p.216"
+    },
+    {
+      "id": "G2",
+      "quote": "注意营养，应由专科治疗",
+      "src": "针灸处方集·第一章 呼吸器病·喉头癌 p.216"
+    },
+    {
+      "id": "G3",
+      "quote": "必须有适当之药物急救，方能解除其危险性，非针灸术之适应证",
+      "src": "针灸处方集·第一章 呼吸器病·声门水肿 p.217"
+    },
+    {
+      "id": "G4",
+      "quote": "本病不适应用针灸，应急速送专医治疗",
+      "src": "针灸处方集·第一章 呼吸器病·肺水肿 p.219"
+    },
+    {
+      "id": "G5",
+      "quote": "本病必争取时间由专家用药物治疗，不适用针灸治疗",
+      "src": "针灸处方集·第一章 呼吸器病·肺脓疡与肺坏疽 p.221"
+    },
+    {
+      "id": "G6",
+      "quote": "本病如属化脓性、出血性、腐败性者，非针灸之适应证，应速请专医治疗",
+      "src": "针灸处方集·第一章 呼吸器病·肋膜炎 p.222"
+    },
+    {
+      "id": "G7",
+      "quote": "不适用针灸治疗，应由专医诊治之",
+      "src": "针灸处方集·第一章 呼吸器病·气胸 p.222"
+    },
+    {
+      "id": "G8",
+      "quote": "针灸术不适应症；现无适当治法，患者每在半年至两年中死亡",
+      "src": "针灸处方集·第三章 消化器病·食管癌 p.231"
+    },
+    {
+      "id": "G9",
+      "quote": "除属咽下受伤而致者外，概不适应针灸治疗，应由专家用手术医治",
+      "src": "针灸处方集·第三章 消化器病·食管狭窄 p.231"
+    },
+    {
+      "id": "G10",
+      "quote": "如为食物中毒、药物中毒、细菌感染，有高热剧痛症状者，速送医院诊治，于针术为不适应证",
+      "src": "针灸处方集·第三章 消化器病·急性胃炎 p.232"
+    },
+    {
+      "id": "G11",
+      "quote": "由中毒而致之肠炎，非针术可治，其他概以反射的刺激与诱导，减少肠蠕动，调整血循环为目的",
+      "src": "针灸处方集·第三章 消化器病·急性肠炎 p.235"
+    },
+    {
+      "id": "G12",
+      "quote": "本病为针灸之不适应证，唯对于局限性慢性之腹膜炎，行镇痛消炎之针法，可作药物治疗之辅助",
+      "src": "针灸处方集·第三章 消化器病·腹膜炎 p.238"
+    },
+    {
+      "id": "G13",
+      "quote": "急性腹膜炎症，应争取时间立即送医院诊治",
+      "src": "针灸处方集·第三章 消化器病·腹膜炎 p.238"
+    },
+    {
+      "id": "G14",
+      "quote": "针术上只可作缓解疼痛之暂时设法",
+      "src": "针灸处方集·第三章 消化器病·胃癌 p.232"
+    },
+    {
+      "id": "G15",
+      "quote": "如有反应，多停数日，以其为必死之症，姑作万一幸效之试验",
+      "src": "针灸处方集·第三章 消化器病·胃癌 p.232"
+    },
+    {
+      "id": "G16",
+      "quote": "本病不适宜针术治疗，但亦无其他有特效之治法，镭锭照射，亦只轻症收效",
+      "src": "针灸处方集·第六章 妇人科病·子宫癌肿 p.269"
+    },
+    {
+      "id": "G17",
+      "quote": "以病例不多，不能确定灸法与镭锭收同等效用，姑述编者之灸法如下",
+      "src": "针灸处方集·第六章 妇人科病·子宫癌肿 p.269"
+    },
+    {
+      "id": "G18",
+      "quote": "本病非针灸之适应证，现时亦无相当之效方，但以经过缓慢，无生命危险",
+      "src": "针灸处方集·第八章 内分泌障碍·指端肥厚症 p.275"
+    },
+    {
+      "id": "G19",
+      "quote": "本病应入医院，用新出有效药治疗，于针灸为不适应证，平时应作注射预防",
+      "src": "针灸处方集·第十一章 传染病·伤寒 p.281"
+    },
+    {
+      "id": "G20",
+      "quote": "本病应由专医作隔离治疗，非针灸之适应证",
+      "src": "针灸处方集·第十一章 传染病·发疹伤寒 p.281"
+    },
+    {
+      "id": "G21",
+      "quote": "本病必早作预防，于春冬作预防注射，如病症发现，应早送医院作血清治疗，非针灸之适应证",
+      "src": "针灸处方集·第十一章 传染病·白喉 p.282"
+    },
+    {
+      "id": "G22",
+      "quote": "如有发生，应由专医治疗，非针灸适应证",
+      "src": "针灸处方集·第十一章 传染病·天然痘 p.282"
+    },
+    {
+      "id": "G23",
+      "quote": "本病不适合针灸治疗，但小儿抗力薄弱，往往疹透不足或透而隐没，每致肺炎死亡",
+      "src": "针灸处方集·第十一章 传染病·麻疹 p.283"
+    },
+    {
+      "id": "G24",
+      "quote": "兼于身柱、关元两点，用小艾炷直接灸治七壮，可加强抗力，不半日而疹复起，可作麻疹隐没之帮助",
+      "src": "针灸处方集·第十一章 传染病·麻疹 p.283"
+    },
+    {
+      "id": "G25",
+      "quote": "本病应由专医用新药破伤风血清治疗，偏僻之处，无此类药物，旧医用紫金锭与发汗疗法亦有效，在针术应列入不适应证",
+      "src": "针灸处方集·第十一章 传染病·破伤风 p.284"
+    },
+    {
+      "id": "G26",
+      "quote": "就理想，在穷乡僻壤中，缺乏新药或并稍有经验之旧医而亦无时，可照脑脊髓膜炎之针法试治之",
+      "src": "针灸处方集·第十一章 传染病·破伤风 p.284"
+    },
+    {
+      "id": "G27",
+      "quote": "应送医院外，隔离治疗，非针灸之适应证",
+      "src": "针灸处方集·第十一章 传染病·猩红热 p.282"
+    },
+    {
+      "id": "G28",
+      "quote": "必须防止传播为最主要",
+      "src": "针灸处方集·第十一章 传染病·赤痢(附疫痢) p.280"
+    },
+    {
+      "id": "G29",
+      "quote": "注意：如为脾癌肿，绝对禁止局部刺针",
+      "src": "针灸处方集·第三章 消化器病·脾脏肿大 p.240"
+    },
+    {
+      "id": "G30",
+      "quote": "本病禁止胃部深针",
+      "src": "针灸处方集·第三章 消化器病·胃溃疡 p.233"
+    },
+    {
+      "id": "G31",
+      "quote": "唯于腹腔部绝对避免用针",
+      "src": "针灸处方集·第三章 消化器病·腹膜炎 p.238"
+    },
+    {
+      "id": "G32",
+      "quote": "腹部诸穴，概不用针，只用念盈药艾灸条或温灸器灸治",
+      "src": "针灸处方集·第三章 消化器病·腹水 p.239"
+    },
+    {
+      "id": "G33",
+      "quote": "下脘(孕妇不针)、天枢(同上)",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·急痫 p.262"
+    },
+    {
+      "id": "G34",
+      "quote": "重刺激手术，绝对避免",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "G35",
+      "quote": "如已有化脓现象，应由外科医师早行切开法，收口可速",
+      "src": "针灸处方集·第六章 妇人科病·乳腺炎 p.271"
+    },
+    {
+      "id": "G36",
+      "quote": "如久久不愈，需用外科手术",
+      "src": "针灸处方集·第十章 五官器病·副鼻腔炎 p.278"
+    },
+    {
+      "id": "G37",
+      "quote": "如膜间液体过多，应由专医用穿刺术吸出之",
+      "src": "针灸处方集·第一章 呼吸器病·肋膜炎 p.222"
+    },
+    {
+      "id": "G38",
+      "quote": "用药物早治能效，迟则不治",
+      "src": "针灸处方集·第一章 呼吸器病·声门水肿 p.217"
+    }
+  ],
+  "how_to_use": {
+    "zh": "读到一条没有取穴或开头写“不适应”的处方，先看他的去处(专医、医院、手术、药物、预防、消毒)，不要把它当作“针灸无效”，而是他划的“主治归谁”。读有条件的条目，先看排除的类型(化脓、中毒、腹腔部)再用取穴。数据库的 indication 字段只有肺水肿一条与原文不一致(原文不适应，库中标适应)。表2按原文把21条归为四类。相关阅读：转诊与针药关系见 cda-32，各系统条目见 cda-12 至 cda-16。",
+    "en": "When an entry has no points or opens with \"not indicated\", read the destination first (specialist, hospital, surgery, drugs, prevention, disinfection): it is not \"acupuncture does not work\" but who takes the main treatment. In a conditional entry, read the excluded type (purulent, poisoning, abdominal cavity) before using the points. The database indication field differs from the text in one entry only (pulmonary oedema); Table 2 groups all 21 by kind. See also cda-32 for referral and drug relationships and cda-12 to cda-16 for the systems."
+  },
+  "caveats": {
+    "zh": "这些“不适应”是1951年前后的判断，依据的是当时的血清、疫苗、磺胺与外科，不代表今日的适应证；数据库的适应证标记有1条(肺水肿)与原文不一致。",
+    "en": "These \"not indicated\" judgements date from about 1951 and rest on the serum, vaccines, sulfa and surgery of the time; they do not represent today's indications. One database indication flag (pulmonary oedema) disagrees with the text."
+  },
+  "see": {
+    "notes": [
+      "Laryngeal Cancer 喉头癌",
+      "Glottic Edema (马脾风之类) 声门水肿",
+      "Lung Abscess and Gangrene (肺痈) 肺脓疡与肺坏疽",
+      "Pleuritis (胸痛、悬饮) 肋膜炎",
+      "Esophageal Stricture (热膈、痰膈) 食管狭窄",
+      "Peritonitis (飞尸、遁痊、腹漏痛) 腹膜炎",
+      "Uterine Cancer (崩漏) 子宫癌肿",
+      "Typhoid Fever (湿温) 伤寒",
+      "Measles 麻疹",
+      "Tetanus (痉症) 破伤风"
+    ],
+    "points": [],
+    "rx": [
+      "cda-rx-004",
+      "cda-rx-007",
+      "cda-rx-019",
+      "cda-rx-044",
+      "cda-rx-058",
+      "cda-rx-070",
+      "cda-rx-174",
+      "cda-rx-206",
+      "cda-rx-214",
+      "cda-rx-216"
+    ]
+  }
+}

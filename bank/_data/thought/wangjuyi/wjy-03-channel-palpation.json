@@ -1,0 +1,685 @@
+{
+  "id": "wjy-03-channel-palpation",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "临床思维",
+    "en": "Clinical reasoning"
+  },
+  "order": 3,
+  "title": {
+    "zh": "经络诊察：审、切、循、扪、按，异常反应与它们的含义",
+    "en": "Channel Examination: Inspect, Press, Trace, Palpate, Push, and What the Abnormal Reactions Mean"
+  },
+  "summary": {
+    "zh": "经络诊察是他在《内经》理论下总结的物理诊断法：以审、切、循、扪、按收集经络的客观反应（结节、结络、结块、脆络、滞涩、凹陷、隆起等），并规范了望诊范围、切诊路线、体位和手法。发现的异常经脉不一定是当下病症的经脉，必须再与症候对接。",
+    "en": "Channel examination is the physical diagnostic method he distilled under Neijing theory: inspecting, pressing, tracing, palpating and pushing to collect objective channel reactions (nodules, node-collaterals, lumps, brittle collaterals, sluggishness, hollows, bulges), with standardised inspection field, palpation routes, posture and hand method. The abnormal channels found need not be the channel of the present complaint and must be matched with the symptoms."
+  },
+  "takeaways": [
+    {
+      "zh": "经络诊察是一套规定好的物理诊断：审、切、循、扪、按，取得经络的客观反应，较准确地掌握经络功能状态；常见反应有结节、结络、结块、脆络、滞涩、凹陷、隆起、水泡、气泡。他把《内经》中零散的内容整理成规范方法：望诊范围、切诊路线、不同经脉切诊时患者的体位与医者手法，以及各经各穴常见的异常。",
+      "en": "Examination is a prescribed physical diagnosis: inspect, press, trace, palpate and push to collect objective channel reactions and judge functional state; usual reactions are nodule, node-collateral, lump, brittle collateral, sluggishness, hollow, bulge, blister, bubble. He gathered the scattered Neijing material into a standard method: inspection field, palpation routes, patient posture and hand method for each channel, and the usual abnormalities of each channel and point.",
+      "cite": [
+        "C1",
+        "C2",
+        "C3"
+      ]
+    },
+    {
+      "zh": "察到的异常经脉不等于当下病症的经脉：经络会记住既往病症并留下印记，也会在症状未出现时先有反应；所以异常经络要再与症候对接才成“病经”。在他的案例里，三阴三阳里被察出异常的经与最后所选的经，只有约四分之一完全相同（91案中22案），多数案例二者并不等同。",
+      "en": "An abnormal channel found is not automatically the channel of the present illness: channels remember past illness and show changes before symptoms appear, so the abnormal channels must still be matched with the symptoms to become the \"disease channels\". In his cases only about a quarter (22 of 91) have exactly the same set of six-channel abnormalities as the channels finally chosen.",
+      "cite": [
+        "C4",
+        "C5"
+      ]
+    },
+    {
+      "zh": "每一个发现都要“解读”，他在括号里把所见对应到症状或脏腑：案7右孔最深部结络对慢性气管病变，中府下结络对肺病(也可能与吸烟史有关)，督脉4、5椎结络对气管；案83温溜结节对胃灼热、打嗝和慢性食道炎；案39神门硬结络对心律不齐。",
+      "en": "Every finding is \"read\": in brackets he ties what he feels to a symptom or organ: case 7, a deep node-collateral at right Kongzui for chronic airway disease, one below Zhongfu for lung disease (possibly linked to smoking), one at du T4-5 for the trachea; case 83, a nodule at Wenliu for heartburn, belching and chronic oesophagitis; case 39, a hard node-collateral at Shenmen for arrhythmia.",
+      "cite": [
+        "C6",
+        "C7",
+        "C8"
+      ]
+    },
+    {
+      "zh": "“没有异常”本身也是信息：案102左尺泽下有结节、凹陷，但手少阴经无异常，他据此说明不是心脏病变；案16里选上脘还是中脘，最终由按压时有无压痛、发硬、松软塌陷、肠鸣来定。",
+      "en": "Absence of abnormality is also information: in case 102 nodules and a hollow below left Chize but a normal hand shaoyin channel let him say the chest pain was not cardiac; in case 16 whether to use Shangwan or Zhongwan is finally decided by pressing for tenderness, hardness, soft collapse or gurgling.",
+      "cite": [
+        "C9",
+        "C10"
+      ]
+    },
+    {
+      "zh": "心包经与心经的察经所见不同：他在眉冲一文中写，心肌缺血的病人常在心包经查到异常反应，一般是局部肌肉紧张度增高；心律不齐的病人则常在心经循摸出异常。这来自察经，而不是先有理论再套穴。",
+      "en": "Pericardium and heart channels show different findings: in the Meichong essay he writes that in patients with myocardial ischaemia examination often finds abnormal reactions on the pericardium channel, generally raised local muscle tension, whereas in arrhythmia abnormalities are often felt on the heart channel. This comes from examination, not from theory applied to points afterwards.",
+      "cite": [
+        "C11",
+        "C12"
+      ]
+    },
+    {
+      "zh": "察经的结果直接决定用不用某个穴或某个部位：左通天处指下松软或僵硬、或按压酸痛，才用搓针法治久咳；同名经对应取穴时，若对应部位摸不到反应，就不必治疗，因为不会有效；他又要求循摸穴位时医生手感与病人的感觉相一致，而不能只靠病人说酸痛。",
+      "en": "The examination result decides whether a point or site is used at all: only when Left Tongtian feels soft or stiff under the finger, or is sore on pressure, does he use the rubbing-needle method for chronic cough; in same-name corresponding-point treatment, if no reaction is found at the corresponding site it should not be treated because it will not work; and when palpating a point the physician's finger feel should agree with the patient's sensation, not rely on the patient's soreness alone.",
+      "cite": [
+        "C13",
+        "C14",
+        "C15",
+        "C16"
+      ]
+    },
+    {
+      "zh": "察的层次不同，处理不同：经筋的筋结在肌肉起止点重按能摸到结块、结节、结络、脆络，用结筋法；络脉的“异常络脉”部位很浅，形细小，色鲜红、紫或黑，用三棱针放血(如委中下紫色浮络放出黑血数滴即愈)。",
+      "en": "What is felt at different layers is handled differently: sinew-channel knots are found by pressing at muscle origins and insertions (lumps, nodules, node-collaterals, brittle collaterals) and treated by the sinew-binding method; collateral abnormalities are very superficial, fine, bright red, purple or black, and are pricked with a three-edged needle (a purple floating vessel below Weizhong bled a few drops of black blood and the leg pain was cured).",
+      "cite": [
+        "C17",
+        "C18",
+        "C19"
+      ]
+    },
+    {
+      "zh": "察经使同一病得到不同的选经：四例周围性面瘫，分别以太阳经、少阳经与阳明经等不同经脉异常为主；皮肤病虽常取太阴经，他也强调不能误以为一切皮肤病都取太阴，仍须经络诊察识别后再选。",
+      "en": "Examination gives different channel choices for the same disease: four cases of peripheral facial palsy had different dominant abnormal channels (taiyang, shaoyang, yangming); and although skin disease often involves taiyin he warns against assuming every skin disease takes taiyin points, which must still be identified by examination.",
+      "cite": [
+        "C20",
+        "C21",
+        "C22"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "所见→他的解读（均取自案例与诊后絮语）",
+        "en": "Finding → his reading (all from the cases and essays)"
+      },
+      "cols": [
+        {
+          "zh": "所见",
+          "en": "Finding"
+        },
+        {
+          "zh": "出处",
+          "en": "Source"
+        },
+        {
+          "zh": "他的解读",
+          "en": "His reading"
+        },
+        {
+          "zh": "随后的处理",
+          "en": "What followed"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "右孔最深部结络",
+            "en": "Deep node-collateral, right Kongzui"
+          },
+          "案7",
+          {
+            "zh": "慢性气管病变",
+            "en": "chronic airway disease"
+          },
+          {
+            "zh": "取孔最(右)",
+            "en": "Kongzui (right)"
+          }
+        ],
+        [
+          {
+            "zh": "中府下结络",
+            "en": "Node-collateral below Zhongfu"
+          },
+          "案7",
+          {
+            "zh": "肺病，也可能跟吸烟史有关",
+            "en": "lung disease, possibly related to smoking"
+          },
+          {
+            "zh": "中府用操法",
+            "en": "cao manipulation at Zhongfu"
+          }
+        ],
+        [
+          {
+            "zh": "督脉4、5椎结络",
+            "en": "Node-collateral at du T4-5"
+          },
+          "案7",
+          {
+            "zh": "气管",
+            "en": "trachea"
+          },
+          {
+            "zh": "神道灸",
+            "en": "moxa Shendao"
+          }
+        ],
+        [
+          {
+            "zh": "孔最段条索；尺泽下发硬；经渠结络",
+            "en": "Cord at Kongzui segment; hardness below Chize; node-collateral at Jingqu"
+          },
+          "案8",
+          {
+            "zh": "条索：外感咳嗽、气管病变；尺泽下发硬：肺、气管、咽喉；经渠结络：外感咳嗽",
+            "en": "cord: external cough, airway disease; hardness: lung, trachea, throat; Jingqu: external cough"
+          },
+          {
+            "zh": "尺泽、阴陵泉、孔最、左通天",
+            "en": "Chize, Yinlingquan, Kongzui, Left Tongtian"
+          }
+        ],
+        [
+          {
+            "zh": "三阴交、阴陵泉松软；丘墟异常",
+            "en": "Softness at Sanyinjiao and Yinlingquan; Qiuxu abnormal"
+          },
+          "案8",
+          {
+            "zh": "脾的运化功能差；泛酸",
+            "en": "weak spleen transport; acid regurgitation"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "尺泽下2寸压痛、有结块",
+            "en": "Tenderness and lump 2 cun below Chize"
+          },
+          "案20",
+          {
+            "zh": "肺气不降",
+            "en": "lung qi not descending"
+          },
+          {
+            "zh": "尺泽、阴陵泉、下脘",
+            "en": "Chize, Yinlingquan, Xiawan"
+          }
+        ],
+        [
+          {
+            "zh": "阳谷有结络",
+            "en": "Node-collateral at Yanggu"
+          },
+          "案20",
+          {
+            "zh": "脑鸣、颈椎病",
+            "en": "tinnitus in the head, cervical spine disease"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "神门硬结络",
+            "en": "Hard node-collateral at Shenmen"
+          },
+          "案39",
+          {
+            "zh": "心律不齐(装起搏器)",
+            "en": "arrhythmia (pacemaker)"
+          },
+          {
+            "zh": "神门、阴郄、复溜",
+            "en": "Shenmen, Yinxi, Fuliu"
+          }
+        ],
+        [
+          {
+            "zh": "神门、水泉脆络",
+            "en": "Brittle collaterals at Shenmen and Shuiquan"
+          },
+          "案42",
+          {
+            "zh": "少阴经异常",
+            "en": "shaoyin channel abnormal"
+          },
+          {
+            "zh": "神门(加灸15分钟)、太溪",
+            "en": "Shenmen (with 15 min moxa), Taixi"
+          }
+        ],
+        [
+          {
+            "zh": "温溜结节",
+            "en": "Nodule at Wenliu"
+          },
+          "案83",
+          {
+            "zh": "肩痛；胃灼热、打嗝、慢性食道炎",
+            "en": "shoulder pain; heartburn, belching, chronic oesophagitis"
+          },
+          {
+            "zh": "膏肓灸、顶结节、后顶",
+            "en": "moxa Gaohuang, vertex nodule, Houding"
+          }
+        ],
+        [
+          {
+            "zh": "上廉至手三里结节；右绝骨压痛有结节",
+            "en": "Nodules from Shanglian to Shousanli; tender nodule at right Juegu"
+          },
+          "案67",
+          {
+            "zh": "胃泛酸、嗳气；肝囊肿",
+            "en": "acid reflux, belching; liver cyst"
+          },
+          {
+            "zh": "阴陵泉、曲池、足三里",
+            "en": "Yinlingquan, Quchi, Zusanli"
+          }
+        ],
+        [
+          {
+            "zh": "手少阴经无异常",
+            "en": "Hand shaoyin normal"
+          },
+          "案102",
+          {
+            "zh": "说明不是心脏病变",
+            "en": "so not a cardiac disease"
+          },
+          {
+            "zh": "强间、身柱、神道、胸3夹脊",
+            "en": "Qiangjian, Shenzhu, Shendao, T3 jiaji"
+          }
+        ],
+        [
+          {
+            "zh": "右行间～太冲结块；右三阴交压痛",
+            "en": "Lump from right Xingjian to Taichong; tender right Sanyinjiao"
+          },
+          "案114",
+          {
+            "zh": "妇科病",
+            "en": "gynaecological disease"
+          },
+          {
+            "zh": "外关、足临泣、风池等",
+            "en": "Waiguan, Zulinqi, Fengchi etc."
+          }
+        ],
+        [
+          {
+            "zh": "左通天松软/僵硬/按之酸痛",
+            "en": "Left Tongtian soft, stiff or sore on pressure"
+          },
+          "诊后絮语(久咳)",
+          {
+            "zh": "久咳不愈的特殊穴，用搓针法",
+            "en": "special point for stubborn cough; rubbing-needle method"
+          },
+          {
+            "zh": "搓针左通天",
+            "en": "rubbing-needle Left Tongtian"
+          }
+        ],
+        [
+          {
+            "zh": "委中下紫色浮现脉络",
+            "en": "Purple superficial vessel below Weizhong"
+          },
+          "诊后絮语(决脉法)",
+          {
+            "zh": "络脉瘀堵，腿痛遗留",
+            "en": "stagnant collateral, leg pain left over"
+          },
+          {
+            "zh": "放血，出黑血数滴即愈",
+            "en": "bleeding: a few drops of black blood, cured"
+          }
+        ],
+        [
+          {
+            "zh": "心肌缺血：心包经局部肌肉紧张；心律不齐：心经异常",
+            "en": "Myocardial ischaemia: tense muscle on pericardium channel; arrhythmia: heart channel abnormal"
+          },
+          "诊后絮语(眉冲)",
+          {
+            "zh": "心包经与心经的主病区别",
+            "en": "the different domains of pericardium and heart channels"
+          },
+          {
+            "zh": "选足太阳、手厥阴经；眉冲、郄门",
+            "en": "chose foot taiyang and hand jueyin; Meichong, Ximen"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "异常反应的名称与他的用法",
+        "en": "The names of abnormal reactions and how he uses them"
+      },
+      "cols": [
+        {
+          "zh": "名称",
+          "en": "Term"
+        },
+        {
+          "zh": "在书中的意思/用法",
+          "en": "Meaning or use in the book"
+        },
+        {
+          "zh": "见于",
+          "en": "Seen in"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "结节、结块",
+            "en": "Nodule, lump"
+          },
+          {
+            "zh": "肌肉起止点、经上局部的硬结；结筋法要“重按”摸到",
+            "en": "Firm knots on the channel or at muscle attachments; found by heavy pressing for the sinew-binding method"
+          },
+          "案20、案67、诊后絮语(结筋法)"
+        ],
+        [
+          {
+            "zh": "结络",
+            "en": "Node-collateral"
+          },
+          {
+            "zh": "络脉上的结；多注明对应哪个脏腑症状",
+            "en": "A knot on a collateral; the bracket usually names the matching organ symptom"
+          },
+          "案7、案8、案39"
+        ],
+        [
+          {
+            "zh": "脆络",
+            "en": "Brittle collateral"
+          },
+          {
+            "zh": "少阴经神门、水泉处的脆络定少阴异常",
+            "en": "Brittle collaterals at Shenmen and Shuiquan settled a shaoyin abnormality"
+          },
+          "案42"
+        ],
+        [
+          {
+            "zh": "条索、发硬",
+            "en": "Cord, hardness"
+          },
+          {
+            "zh": "孔最段条索、尺泽下发硬，对外感咳嗽与气管、咽喉",
+            "en": "A cord at the Kongzui segment and hardness below Chize, read as external cough and airway/throat"
+          },
+          "案8"
+        ],
+        [
+          {
+            "zh": "松软、塌陷",
+            "en": "Softness, collapse"
+          },
+          {
+            "zh": "漏谷、地机、阴陵泉松软塌陷；三阴交松软示脾运化差",
+            "en": "Soft collapse at Lougu, Diji, Yinlingquan; softness at Sanyinjiao means weak spleen transport"
+          },
+          "案21、案8"
+        ],
+        [
+          {
+            "zh": "滞涩(发涩)",
+            "en": "Sluggishness"
+          },
+          {
+            "zh": "右大陵、右公孙发涩",
+            "en": "Right Daling and Gongsun feel sluggish"
+          },
+          "案114"
+        ],
+        [
+          {
+            "zh": "凹陷",
+            "en": "Hollow"
+          },
+          {
+            "zh": "左尺泽下2寸有凹陷；穴位循摸要有缝隙、塌陷",
+            "en": "A hollow 2 cun below left Chize; a point must show a gap or hollow on palpation"
+          },
+          "案102、诊后絮语(以摸为准)"
+        ],
+        [
+          {
+            "zh": "压痛/酸痛",
+            "en": "Tenderness, soreness"
+          },
+          {
+            "zh": "是重要线索，但不能只靠病人感觉，要与医者手感一致",
+            "en": "An important clue, but not to be relied on alone; the physician's finger feel must agree"
+          },
+          "案20、诊后絮语(以摸为准)"
+        ],
+        [
+          {
+            "zh": "隆起、水泡、气泡",
+            "en": "Bulge, blister, bubble"
+          },
+          {
+            "zh": "导读列为常见反应，本书解读中未见展开说明",
+            "en": "Listed as usual reactions in the introduction; not elaborated in the commentaries"
+          },
+          "医案导读"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "察出的异常经与所选经的对照(案例统计)",
+        "en": "Abnormal channels found vs channels chosen (count over cases)"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "数值",
+          "en": "Value"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "同时有“经络诊察”与“选经”两栏的案数",
+            "en": "Cases with both an examination line and a channel-choice line"
+          },
+          "91"
+        ],
+        [
+          {
+            "zh": "察出三阴三阳异常经数（平均）",
+            "en": "Six-channel abnormalities found (mean)"
+          },
+          "2.4"
+        ],
+        [
+          {
+            "zh": "所选三阴三阳经数（平均）",
+            "en": "Six-channel channels chosen (mean)"
+          },
+          "2.1"
+        ],
+        [
+          {
+            "zh": "所选与所察完全相同",
+            "en": "Chosen set identical to found set"
+          },
+          "22"
+        ],
+        [
+          {
+            "zh": "察出经数多于所选",
+            "en": "More channels found than chosen"
+          },
+          "38"
+        ],
+        [
+          {
+            "zh": "所选含未察出异常的经",
+            "en": "Chosen set includes a channel not found abnormal"
+          },
+          "37"
+        ],
+        [
+          {
+            "zh": "经络诊察一栏列出三条及以上异常经的案数",
+            "en": "Cases whose examination line lists three or more abnormal channels"
+          },
+          {
+            "zh": "52 (共124案有该栏)",
+            "en": "52 (of 124 with an examination line)"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "通过审、切、循、扪、按等方法收集经络的客观反应，较为准确地掌握经络的功能状态",
+      "src": "王居易针灸医案讲习录·医案导读 p.001"
+    },
+    {
+      "id": "C2",
+      "quote": "见的经络异常反应有结节、结络、结块、脆络、滞涩、凹陷、隆起、水泡、气泡等多种",
+      "src": "王居易针灸医案讲习录·医案导读 p.002"
+    },
+    {
+      "id": "C3",
+      "quote": "规范了望诊的范围、切诊的路线，标准化了切诊不同经脉时患者的体位及医者的手法，以及总结每条经脉及穴常见的异常反应",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.002"
+    },
+    {
+      "id": "C4",
+      "quote": "通过诊察经络（察经）发现的异常变动经络并不一定是与患者当下病症直接相关的经络",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.002"
+    },
+    {
+      "id": "C5",
+      "quote": "经络有记忆既往病症的功能，既往的病症即使症状消失，也可能在经络上留有印记",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.002"
+    },
+    {
+      "id": "C6",
+      "quote": "右孔最有深部结络（慢性气管病变），中府下有结络（肺病，也可能跟吸烟史有关），督脉4、5脊椎有结络（气管）",
+      "src": "王居易针灸医案讲习录·案7 p.006"
+    },
+    {
+      "id": "C7",
+      "quote": "左温溜有结节（肩痛；胃灼热、打隔、慢性食道炎）",
+      "src": "王居易针灸医案讲习录·案83 p.154"
+    },
+    {
+      "id": "C8",
+      "quote": "神门有硬结络（心律不齐",
+      "src": "王居易针灸医案讲习录·案39 p.077"
+    },
+    {
+      "id": "C9",
+      "quote": "手少阴经无异常（说明不是心脏病变）",
+      "src": "王居易针灸医案讲习录·案102 p.178"
+    },
+    {
+      "id": "C10",
+      "quote": "最终根据经络诊察，即按压时有无异常反应，例如压痛、发硬、松软塌陷、按压引起肠鸣等",
+      "src": "王居易针灸医案讲习录·案16·医案解读 p.033"
+    },
+    {
+      "id": "C11",
+      "quote": "在对心肌缺血的病人做经络诊察时往往能发现心包经",
+      "src": "王居易针灸医案讲习录·诊后絮语·从一个病历讲起——关于眉冲的故事 p.030"
+    },
+    {
+      "id": "C12",
+      "quote": "在对心律不齐的病人做经络诊察时，往往能循摸出心经的异常反应",
+      "src": "王居易针灸医案讲习录·诊后絮语·从一个病历讲起——关于眉冲的故事 p.030"
+    },
+    {
+      "id": "C13",
+      "quote": "有松软或僵硬的指下感，或按压时患者有酸痛感，可用搓针",
+      "src": "王居易针灸医案讲习录·诊后絮语·治疗久咳不愈的两组腧穴 p.020"
+    },
+    {
+      "id": "C14",
+      "quote": "采用同名经对应取穴法时，如果未发现任何反应，就不必在该部位进行治疗，因为不会取得疗效",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.195"
+    },
+    {
+      "id": "C15",
+      "quote": "医生手感与病人的感觉一致则最好",
+      "src": "王居易针灸医案讲习录·诊后絮语·以摸为准，认识腧穴移位的现象 p.199"
+    },
+    {
+      "id": "C16",
+      "quote": "而不能完全依靠病人的酸痛感为确认穴位置的依据",
+      "src": "王居易针灸医案讲习录·诊后絮语·以摸为准，认识腧穴移位的现象 p.200"
+    },
+    {
+      "id": "C17",
+      "quote": "所谓“异常络脉”指部位很浅很明显，形状一般细小，颜色或鲜红，或紫，或黑",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.196"
+    },
+    {
+      "id": "C18",
+      "quote": "审察腿部脉络发现委中下有紫色脉络浮现，在此放血，出黑血数滴即愈",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于上古俞跗特殊治疗手法的讨论 p.194"
+    },
+    {
+      "id": "C19",
+      "quote": "在肌肉起止点（肌腱部位）重按有筋膜粘连或有结块、结节、结络、脆络的部位",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于上古俞跗特殊治疗手法的讨论 p.193"
+    },
+    {
+      "id": "C20",
+      "quote": "李某的病以太阳经为主伴阳明经异常；徐某以少阳经和阳明经异常为主",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于针灸治疗面瘫的体会 p.073"
+    },
+    {
+      "id": "C21",
+      "quote": "但是不要误认为一切皮肤病都要取太阴经的穴，仍须通过经络诊察的识别分析，再选经配穴，才能有效",
+      "src": "王居易针灸医案讲习录·诊后絮语(皮肤科) p.139"
+    },
+    {
+      "id": "C22",
+      "quote": "用经络诊察，对疾病的认识会加深，治疗的思路会扩大",
+      "src": "王居易针灸医案讲习录·诊后絮语·乳腺增生小结 p.115"
+    }
+  ],
+  "how_to_use": {
+    "zh": "读案时先看“经络诊察”一栏括号里的话：他把每个所见对到一个症状或脏腑，这是他“解读”察经的方式。再看被察出的经与最终选的经是否一致，不一致时看他为什么改选(症候、表里、同名、局部)。要学的是“摸到什么—意味着什么—怎么处理”，不是套用某个穴。具体选经见 wjy-04，选穴与循摸见 wjy-05。",
+    "en": "When reading a case, look first at the brackets in the examination line: each finding is tied to a symptom or organ, which is how he \"reads\" the channels. Then compare the channels found with those finally chosen and see why they differ (symptoms, exterior-interior, same-name, local). Learn \"what is felt, what it means, what to do\", not a point recipe. Channel choice: wjy-04; point choice and palpation: wjy-05."
+  },
+  "caveats": {
+    "zh": "本表中的“所见→解读”是他在括号或解读里写下的对应，不是可套用的诊断标准；隆起、水泡、气泡在书中只被列名。统计根据案例栏目自动解析，案例中OCR残缺处(如“阴经”应为厥阴经)已按厥阴处理，数字为近似值。",
+    "en": "The \"finding → reading\" pairs are what he wrote in brackets or commentary, not diagnostic standards to apply; bulge, blister and bubble are only listed. Counts are parsed from the case fields, garbled OCR (\"阴经\" for jueyin) read as jueyin, so numbers are approximate."
+  },
+  "see": {
+    "cases": [
+      "wjy-007",
+      "wjy-008",
+      "wjy-039",
+      "wjy-042",
+      "wjy-083",
+      "wjy-102",
+      "wjy-114"
+    ],
+    "points": [
+      "孔最",
+      "中府",
+      "尺泽",
+      "神门",
+      "温溜",
+      "阳谷",
+      "通天",
+      "委中",
+      "眉冲",
+      "郄门"
+    ]
+  }
+}

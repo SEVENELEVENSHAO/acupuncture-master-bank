@@ -1,0 +1,637 @@
+{
+  "id": "cda-05-asepsis",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "针灸原理",
+    "en": "Principles"
+  },
+  "order": 5,
+  "title": {
+    "zh": "消毒与卫生观",
+    "en": "Sterilisation and Hygiene"
+  },
+  "summary": {
+    "zh": "他把消毒视为“上工治未病”的具体做法，并强调针灸医生更要严格，因为针与灸都要破坏组织，病菌最易从创口侵入。针具用70%酒精或2%石炭酸浸15分钟或煮沸；手指经肥皂、刷洗、2%石炭酸或来苏尔浸5分钟；灸点视同创口，灸前后都消毒并以纱布覆盖。",
+    "en": "Sterilisation is 'treating the not-yet-ill'; acupuncturists must be stricter because needle and moxa break tissue. Needles: 70% alcohol or 2% carbolic acid for 15 minutes, or boil; fingers: soap, brush, 2% carbolic or Lysol 5 minutes; a moxa point is a wound, sterilised before and after and covered."
+  },
+  "takeaways": [
+    {
+      "zh": "消毒的意义就是预防：病原体无处不在，要“防患于未然”，即古人所谓“上工治未病”，所以必须杀灭致病的细菌、原虫等。",
+      "en": "Sterilisation means prevention: pathogens are everywhere and one must guard 'before the harm', which is what the ancients meant by the superior doctor treating the not-yet-ill; so disease-causing bacteria and protozoa must be destroyed.",
+      "cite": [
+        "C1"
+      ]
+    },
+    {
+      "zh": "针灸医生要求更严：针灸的治疗方法“定要破坏组织”，病菌最易从创口侵袭；他也提示化脓球菌可从健康皮肤的毛孔汗腺侵入，破伤之处更易感染。但书中的手指消毒是针对针灸医生的，不是外科无菌手术式的消毒。",
+      "en": "Acupuncturists must be stricter: the treatment 'must destroy tissue' and germs enter most readily through the wound; he adds that pyogenic cocci can enter through the pores and sweat glands of healthy skin and infect broken skin more easily. The finger sterilisation given is for acupuncturists and is not surgical aseptic technique.",
+      "cite": [
+        "C2",
+        "C3",
+        "C4"
+      ]
+    },
+    {
+      "zh": "概念要分清：消毒是杀灭有害病原体或抑制其生长繁殖；灭菌是无论有害无害一律扑灭；无菌是某区域内无细菌；清洁是保持身体及周围事物干净合卫生。他的实践目标是消毒，而不是灭菌或无菌。",
+      "en": "Keep the concepts apart: disinfection kills or checks harmful pathogens; sterilisation kills all bacteria whether harmful or not; asepsis means no bacteria in an area; cleanliness is keeping the body and surroundings clean. His working aim is disinfection, not sterilisation or asepsis.",
+      "cite": [
+        "C5",
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "zh": "方法按对象选：理学消毒(光、干热、湿热、高压蒸汽)彻底、适合大批器械，但需设备，且多会损伤皮肤，除光线外不用于人体；化学消毒便携、稀释后可用于人体和房间，但配错浓度也会刺激甚至伤害组织。",
+      "en": "Choose method by object: physical methods (light, dry heat, moist heat, autoclave) are thorough and suit large batches of instruments but need equipment and mostly injure skin, so except light they are not used on the body; chemical methods are portable and, diluted, usable on the body and rooms, but a wrong concentration can irritate or injure tissue.",
+      "cite": [
+        "C8",
+        "C9"
+      ]
+    },
+    {
+      "zh": "酒精的理由是浓度：70%的酒精极易渗透菌体，杀菌力最强，高于或低于此浓度杀菌力渐降，所以极纯的酒精在消毒学上没有价值。",
+      "en": "Alcohol is a matter of concentration: 70% alcohol penetrates the germ body most easily and kills best; above or below it the effect falls, so pure alcohol has no value in disinfection.",
+      "cite": [
+        "C10"
+      ]
+    },
+    {
+      "zh": "针灸术的消毒顺序：针浸70%酒精或2%石炭酸15分钟(或煮沸数分钟)，医生两手用肥皂洗净，患者施术部位用70%酒精，已消毒的针用消毒棉球擦干后施术，术后针具再消毒；他并补充临床经验：针用后可用砂纸用力摩擦，靠摩擦生热杀菌，下一位患者前再用酒精棉花擦过。",
+      "en": "Order in acupuncture: soak needles in 70% alcohol or 2% carbolic acid for 15 minutes (or boil a few minutes), wash the operator's hands with soap, treat the patient's site with 70% alcohol, wipe the sterilised needle with a sterile cotton ball and treat, then sterilise the needles again; from clinical experience he adds that after use a needle can be scoured hard with sandpaper, the frictional heat killing germs, and wiped with alcohol cotton before the next patient.",
+      "cite": [
+        "C11",
+        "C12",
+        "C13"
+      ]
+    },
+    {
+      "zh": "灸点“好像是一个创口”，必须好好护理才能避免病原菌侵犯：灸前后灸部与术者手指都要完全消毒；灸创最易被化脓菌、丹毒球菌、破伤风杆菌、结核杆菌侵入；灸后用消毒纱布覆盖，防止抓破与衣服擦伤。",
+      "en": "A moxa point is 'like a wound' and must be well tended to avoid infection: sterilise the site and the operator's fingers fully before and after; moxa wounds are most readily invaded by pyogenic cocci, erysipelas cocci, tetanus bacilli and tubercle bacilli; cover with sterile gauze afterwards to prevent scratching and clothing friction.",
+      "cite": [
+        "C14",
+        "C15",
+        "C16"
+      ]
+    },
+    {
+      "zh": "选药有标准且知毒性：杀菌力要强，不毁物件，对人体适当浓度下不应刺激皮肤或被吸收中毒；他逐一说明升汞剧毒、腐蚀金属、误服要多食鸡蛋解，石炭酸气味强、浓则腐蚀等。卫生不止于器械，也包括诊室、体温表、厕所、水源。",
+      "en": "Agents are chosen by criteria and with knowledge of toxicity: strong germicidal power, no damage to objects, and at proper concentration no irritation or poisoning; he sets out that mercuric chloride is highly toxic and corrodes metal, with eggs as the remedy if swallowed, and that carbolic acid smells strongly and corrodes when concentrated. Hygiene reaches beyond instruments to clinic, thermometer, toilets and water sources.",
+      "cite": [
+        "C17",
+        "C18",
+        "C19"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "他为何用微生物学来讲卫生",
+        "en": "Why he frames hygiene through microbiology"
+      },
+      "body": {
+        "zh": "第二篇先讲病原体：细菌、原虫、滤过性病毒、立克次氏小体、脏虫(寄生虫)、霉菌，以及细菌的形态、侵入途径(皮肤、呼吸道、消化道、黏膜、胎盘)与传播方式(接触、空气、间接、动物媒介)。病原体为害有毒素作用、机械作用与营养剥夺。这套知识是为了说明为什么要消毒，也解释了针灸创口为何是薄弱环节。",
+        "en": "The second part begins with pathogens: bacteria, protozoa, filterable viruses, rickettsiae, worms and moulds, with bacterial forms, routes of entry (skin, respiratory tract, digestive tract, mucosa, placenta) and modes of spread (contact, air, indirect, animal vectors). Pathogens harm through toxins, mechanical action and nutrient robbery. This knowledge explains why to sterilise and why acupuncture wounds are a weak point."
+      }
+    },
+    {
+      "h": {
+        "zh": "灸后化脓的解释与处理",
+        "en": "Suppuration after moxa: explanation and handling"
+      },
+      "body": {
+        "zh": "灸后表皮破坏、起水疱，化脓菌侵入繁殖，白细胞聚集与细菌毒素作用，死亡后成为脓液；所以预防只靠严密消毒。处理有两版：消毒篇说小者用消毒针刺破挤脓再灸，用高热烧死化脓菌，大者放脓后用2%来苏尔洗、涂磺胺类油膏、纱布棉花每日洗换；灸科篇说小者再灸二三壮并四周消毒，大而疼者用川黄连煎汤洗、外盖硼酸软膏。",
+        "en": "After moxa the epidermis is broken and blistered, pyogenic bacteria enter and multiply, white cells gather and, acted on by bacterial toxins, die and become pus; so prevention rests on strict sterilisation. Two handlings are given: the hygiene part says pierce a small pustule with a sterile needle, squeeze out the pus and moxa again so heat kills the germs, and for a large one drain, wash with 2% Lysol, apply sulfa ointment and change gauze and cotton daily; the moxa part says for a small one add two or three cones and sterilise round about, for a large painful one wash with Coptis decoction and cover with boric ointment."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "针灸临床的消毒安排",
+        "en": "Sterilisation routine in the acupuncture clinic"
+      },
+      "cols": [
+        {
+          "zh": "对象",
+          "en": "Object"
+        },
+        {
+          "zh": "做法",
+          "en": "Method"
+        },
+        {
+          "zh": "出处(印刷页)",
+          "en": "Where (printed p.)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "针具",
+            "en": "Needles"
+          },
+          {
+            "zh": "浸2%石炭酸水或2%来苏尔水，或70%酒精中15分钟(或煮沸数分钟)；用后可砂纸用力摩擦，再用酒精棉花拭过",
+            "en": "Soak 15 min in 2% carbolic, 2% Lysol or 70% alcohol (or boil a few minutes); after use scour with sandpaper, then wipe with alcohol cotton"
+          },
+          "p.79, p.81"
+        ],
+        [
+          {
+            "zh": "注射针筒针头",
+            "en": "Syringe and needle"
+          },
+          {
+            "zh": "洗刷干净，蒸馏水煮沸10分钟，或普通水煮沸15分钟",
+            "en": "Wash clean; boil 10 min in distilled water or 15 min in ordinary water"
+          },
+          "p.79"
+        ],
+        [
+          {
+            "zh": "术者手指",
+            "en": "Operator's fingers"
+          },
+          {
+            "zh": "剪短指甲；微温水、肥皂、软毛刷洗净；换清水；浸2%石炭酸水或2%来苏尔液5分钟；再用消毒水冲洗，消毒纱布拭干",
+            "en": "Trim nails; wash with lukewarm water, soap and soft brush; fresh water; soak 5 min in 2% carbolic or Lysol; rinse with sterile water; dry with sterile gauze"
+          },
+          "p.81"
+        ],
+        [
+          {
+            "zh": "患者施术部位",
+            "en": "Patient's site"
+          },
+          {
+            "zh": "70%酒精；碘酒亦用于皮肤施术部与施术前手指",
+            "en": "70% alcohol; iodine tincture also for the site and pre-procedure fingers"
+          },
+          "p.79, p.84"
+        ],
+        [
+          {
+            "zh": "灸部",
+            "en": "Moxa site"
+          },
+          {
+            "zh": "灸前灸后与术者手指完全消毒；灰烬用杀菌棉花轻拭；以2%来苏尔水浸透杀菌棉花或纱布消毒；水疱放液后以杀菌纱布覆盖",
+            "en": "Fully sterilise site and fingers before and after; wipe ash gently with sterile cotton; sterilise with sterile cotton or gauze soaked in 2% Lysol; drain a blister and cover with sterile gauze"
+          },
+          "p.110"
+        ],
+        [
+          {
+            "zh": "体温表",
+            "en": "Thermometer"
+          },
+          {
+            "zh": "浸70%酒精至少10分钟后才可给第二位患者",
+            "en": "70% alcohol at least 10 min before the next patient"
+          },
+          "p.86"
+        ],
+        [
+          {
+            "zh": "诊室",
+            "en": "Consulting room"
+          },
+          {
+            "zh": "空气流通、温度适宜；墙壁器具地板清洁；备接受污物的器具；不能吸烟",
+            "en": "Ventilated, suitable temperature; clean walls, furniture, floor; a container for soiled items; no smoking"
+          },
+          "p.86"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "常用消毒药剂与浓度",
+        "en": "Disinfectants and concentrations"
+      },
+      "cols": [
+        {
+          "zh": "药剂",
+          "en": "Agent"
+        },
+        {
+          "zh": "浓度/用量",
+          "en": "Strength"
+        },
+        {
+          "zh": "用途",
+          "en": "Use"
+        },
+        {
+          "zh": "他的提示",
+          "en": "His notes"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "酒精",
+            "en": "Alcohol"
+          },
+          "70%",
+          {
+            "zh": "皮肤及器皿",
+            "en": "Skin and vessels"
+          },
+          {
+            "zh": "无恶臭、不腐蚀皮肤；不宜咯痰粪便；力弱于石炭酸；70%最强，极纯者无价值",
+            "en": "Odourless, does not corrode skin; not for sputum or faeces; weaker than carbolic; 70% is strongest, pure has no value"
+          }
+        ],
+        [
+          {
+            "zh": "石炭酸",
+            "en": "Carbolic acid"
+          },
+          "2%–3%",
+          {
+            "zh": "外科治疗器；针具、手指(2%)；衣服(3%浸2小时)；排泄物(3%等量2小时)",
+            "en": "Surgical instruments; needles and fingers (2%); clothes (3%, 2 h); excreta (3%, equal volume, 2 h)"
+          },
+          {
+            "zh": "效力强、可任意配制、适用排泄物；气味强烈，稍浓即腐蚀；局部先痛后麻痹、溃疡，全身中毒则痉挛、呼吸中枢麻痹而死",
+            "en": "Strong, freely made up, suits excreta; strong smell, corrosive if a little strong; locally pain then numbness and ulcer, systemically convulsions and death by respiratory-centre paralysis"
+          }
+        ],
+        [
+          {
+            "zh": "来苏尔",
+            "en": "Lysol"
+          },
+          "2%",
+          {
+            "zh": "施术前手指、患者用具、排泄物；食具浸2小时；针具15分钟；灸后灸部",
+            "en": "Pre-procedure fingers, patient's things, excreta; utensils 2 h; needles 15 min; moxa site afterwards"
+          },
+          {
+            "zh": "食具用它时间较久，急用不宜",
+            "en": "Slow for utensils, not for urgent use"
+          }
+        ],
+        [
+          {
+            "zh": "升汞",
+            "en": "Mercuric chloride"
+          },
+          {
+            "zh": "0.02%–0.1%；配方0.5‰–1‰(升汞1克加等量精盐溶于1升蒸馏水)",
+            "en": "0.02%–0.1%; recipe 0.5-1 per mille (1 g with equal salt in 1 L distilled water)"
+          },
+          {
+            "zh": "非金属器具",
+            "en": "Non-metal instruments"
+          },
+          {
+            "zh": "杀菌力强、无臭、价廉；但无色无臭易误用、剧毒、腐蚀金属与组织、凝固蛋白不适用于排泄物咯痰；误饮即多食鸡蛋",
+            "en": "Strong, odourless, cheap; but colourless and odourless so misused, highly toxic, corrodes metal and tissue, coagulates protein so not for excreta or sputum; if swallowed eat many eggs"
+          }
+        ],
+        [
+          {
+            "zh": "硼酸",
+            "en": "Boric acid"
+          },
+          "3%",
+          {
+            "zh": "眼睛、口腔",
+            "en": "Eye, mouth"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "过锰酸钾",
+            "en": "Potassium permanganate"
+          },
+          "0.01%–0.02%",
+          {
+            "zh": "溃烂皮肤；鸦片、吗啡中毒洗胃",
+            "en": "Ulcerated skin; stomach lavage in opium or morphine poisoning"
+          },
+          {
+            "zh": "另有1‰用于水果、淋病洗剂等",
+            "en": "Also 1 per mille for fruit and gonorrhoea washes"
+          }
+        ],
+        [
+          {
+            "zh": "碘酒",
+            "en": "Iodine tincture"
+          },
+          {
+            "zh": "含碘2.5%酒精溶液",
+            "en": "2.5% iodine in alcohol"
+          },
+          {
+            "zh": "皮肤与手术患部；施术部及术前手指",
+            "en": "Skin and operative site; site and pre-procedure fingers"
+          },
+          {
+            "zh": "配法：碘化钾2.5–5克溶于10毫升蒸馏水，加等量碘及酒精成100毫升",
+            "en": "Made from 2.5-5 g potassium iodide in 10 ml distilled water plus equal iodine and alcohol to 100 ml"
+          }
+        ],
+        [
+          {
+            "zh": "龙胆紫",
+            "en": "Gentian violet"
+          },
+          "1%",
+          {
+            "zh": "皮肤与黏膜溃烂部分",
+            "en": "Ulcerated skin and mucosa"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "过氧化氢(双氧水)",
+            "en": "Hydrogen peroxide"
+          },
+          "3%",
+          {
+            "zh": "伤口",
+            "en": "Wounds"
+          },
+          {
+            "zh": "放氧的机械作用可冲去脓汁、凝血与坏死组织，兼作清洁剂",
+            "en": "Its oxygen release flushes pus, clot and necrotic tissue, also a cleanser"
+          }
+        ],
+        [
+          {
+            "zh": "漂白粉",
+            "en": "Bleaching powder"
+          },
+          {
+            "zh": "含30%氯；百万分之一氯即有杀菌作用",
+            "en": "30% chlorine; one part chlorine per million kills germs"
+          },
+          {
+            "zh": "井水、自来水",
+            "en": "Well and tap water"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "石灰乳",
+            "en": "Lime milk"
+          },
+          {
+            "zh": "生石灰1份加水4份",
+            "en": "1 part quicklime to 4 parts water"
+          },
+          {
+            "zh": "厕所、垃圾箱、排泄物",
+            "en": "Toilets, bins, excreta"
+          },
+          "—"
+        ],
+        [
+          {
+            "zh": "福尔马林蒸汽",
+            "en": "Formalin vapour"
+          },
+          {
+            "zh": "每立方米15毫升，蒸发完再密闭六七小时",
+            "en": "15 ml per cubic metre, then seal 6-7 hours"
+          },
+          {
+            "zh": "病室、室内",
+            "en": "Sickroom, rooms"
+          },
+          {
+            "zh": "气体消毒宜同时散发水蒸气，室温20–25℃，戴口罩穿消毒衣",
+            "en": "Add water vapour, room at 20-25 C, wear mask and gown"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "理学消毒法",
+        "en": "Physical methods"
+      },
+      "cols": [
+        {
+          "zh": "方法",
+          "en": "Method"
+        },
+        {
+          "zh": "条件",
+          "en": "Conditions"
+        },
+        {
+          "zh": "适用/说明",
+          "en": "Use / remarks"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "光线(日光)",
+            "en": "Sunlight"
+          },
+          {
+            "zh": "紫外光杀菌",
+            "en": "Ultraviolet"
+          },
+          {
+            "zh": "穿透力极弱，只作用于表面；病房宜建于阳光充足处；书籍、寝具、毛织品等日晒(毛织品至少6小时)",
+            "en": "Very weak penetration, surface only; sickrooms should get sun; books, bedding, woollens sunned (woollens at least 6 h)"
+          }
+        ],
+        [
+          {
+            "zh": "干热",
+            "en": "Dry heat"
+          },
+          {
+            "zh": "普通细菌100℃ 1.5小时；芽孢菌160℃ 1小时；不怕火的器具可直接火焰燃烧",
+            "en": "Ordinary germs 100 C 1.5 h; spores 160 C 1 h; fireproof tools by direct flame"
+          },
+          {
+            "zh": "力量不大",
+            "en": "Not strong"
+          }
+        ],
+        [
+          {
+            "zh": "煮沸",
+            "en": "Boiling"
+          },
+          {
+            "zh": "半小时；食具5分钟或浸沸水10余分钟",
+            "en": "Half an hour; utensils 5 min or over 10 min in boiling water"
+          },
+          {
+            "zh": "饮食用具、衣被",
+            "en": "Eating utensils, clothes and bedding"
+          }
+        ],
+        [
+          {
+            "zh": "巴氏间歇法",
+            "en": "Pasteur intermittent"
+          },
+          {
+            "zh": "60–70℃ 30分钟，放24小时，再同法，共3次",
+            "en": "60-70 C for 30 min, rest 24 h, repeat, three times"
+          },
+          {
+            "zh": "不耐热的物体",
+            "en": "Heat-sensitive objects"
+          }
+        ],
+        [
+          {
+            "zh": "蒸汽",
+            "en": "Steam"
+          },
+          {
+            "zh": "0.5–1小时",
+            "en": "0.5-1 hour"
+          },
+          {
+            "zh": "饮食菜蔬最适当",
+            "en": "Best for food and vegetables"
+          }
+        ],
+        [
+          {
+            "zh": "高压蒸汽",
+            "en": "Autoclave"
+          },
+          {
+            "zh": "加压15磅(6.8千克)，沸点升至120℃，20分钟",
+            "en": "15 lb (6.8 kg) pressure, boiling point 120 C, 20 min"
+          },
+          {
+            "zh": "效果极好，医院与药厂多用",
+            "en": "Excellent, widely used in hospitals and drug works"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "我们为防患于未然，即古人所谓“上工治未病”",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.75"
+    },
+    {
+      "id": "C2",
+      "quote": "针灸医生对消毒的执行，更应严格，因针灸的治疗方法，定要破坏组织，病菌最易从创口侵袭之故",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.77"
+    },
+    {
+      "id": "C3",
+      "quote": "化脓性球菌，能从健全皮肤的毛孔中及汗腺中侵入；破伤之处，更易感染",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.76"
+    },
+    {
+      "id": "C4",
+      "quote": "其中手指消毒一题，是针对针灸医生而言，行外科无菌手术消毒，不在此例",
+      "src": "针灸精华·凡例五 p.5"
+    },
+    {
+      "id": "C5",
+      "quote": "杀灭有害于人体的病原体，或设法抑制其生长繁殖，使它不能发挥毒素作用而为害于人叫消毒",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.77"
+    },
+    {
+      "id": "C6",
+      "quote": "不论细菌对人有无利害，皆被扑灭，称为灭菌",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.77"
+    },
+    {
+      "id": "C7",
+      "quote": "清洁是指凡与身体所接触的周围事物及身体本身能保持干净，合于卫生而言",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.84"
+    },
+    {
+      "id": "C8",
+      "quote": "除了光线消毒法外，一般不适用于人体消毒，因能损伤皮肤、破坏组织",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.78"
+    },
+    {
+      "id": "C9",
+      "quote": "若剂量调配失当，稀释错误，也可能刺激皮肤，甚至伤害，使组织破坏",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.78"
+    },
+    {
+      "id": "C10",
+      "quote": "所以极纯的酒精在消毒学上是没有价值的",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.79"
+    },
+    {
+      "id": "C11",
+      "quote": "或2%石炭酸溶液15分钟，或煮沸数分钟亦可",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.79"
+    },
+    {
+      "id": "C12",
+      "quote": "用70%酒精消毒患者施术部位，取已消毒过的针具用消毒棉球擦干后施术",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.79"
+    },
+    {
+      "id": "C13",
+      "quote": "针具用过后，只须将砂纸用力摩擦，在摩擦之时，能发生很高的热力，借此杀菌",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.79"
+    },
+    {
+      "id": "C14",
+      "quote": "灸的部分，好像是一个创口，必须要好好地护理，方才能避免病原菌的侵犯",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.84"
+    },
+    {
+      "id": "C15",
+      "quote": "丹毒球菌、破伤风杆菌、结核杆菌等最易侵入",
+      "src": "针灸精华·第四篇 灸科常识 p.109"
+    },
+    {
+      "id": "C16",
+      "quote": "在施灸前后，灸部与术者手指，完全消毒",
+      "src": "针灸精华·第四篇 灸科常识 p.110"
+    },
+    {
+      "id": "C17",
+      "quote": "用于人体的消毒药品，在适当浓度的时候，不应刺激皮肤或在局部吸收发生中毒作用",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.82"
+    },
+    {
+      "id": "C18",
+      "quote": "误饮升汞水时，即刻多食鸡蛋，如此升汞便能和蛋白凝固而失去作用",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.83"
+    },
+    {
+      "id": "C19",
+      "quote": "用过的体温表，必须浸入70%酒精，至少经10分钟后，始能给第二个患者应用",
+      "src": "针灸精华·第二篇 消毒卫生常识 p.86"
+    }
+  ],
+  "how_to_use": {
+    "zh": "把每一次针灸都当作制造一个创口：针具、手指、皮肤三处按他的顺序消毒，灸点前后消毒并覆盖；选药先想浓度与毒性；出现针后硬块或灸后化脓，先自查消毒是否完全。这一篇的价值在于消毒被当作针灸技术的一部分，而不是附属事项。",
+    "en": "Treat every needling or moxa as making a wound: sterilise needle, fingers and skin in his order, sterilise and cover a moxa point before and after; choose agents by concentration and toxicity; when lumps follow needling or suppuration follows moxa, first check whether sterilisation was complete. What this part contributes is treating sterilisation as part of technique, not an afterthought."
+  },
+  "caveats": {
+    "zh": "所列药剂(升汞、石炭酸、来苏尔、磺胺油膏等)、滴滴涕与福尔马林熏蒸均为民国时期的做法，其中不少已不再使用或不符合现行规范；OCR中百分号多丢失(如“70??酒精”)，本模块据上下文还原为%；书中同一药剂的浓度有不同写法(如升汞0.02%–0.1%与0.5‰–1‰)，本模块并列保留；病原体分类为当时的分类。",
+    "en": "The agents listed (mercuric chloride, carbolic acid, Lysol, sulfa ointment, DDT, formalin fumigation) are Republican-era practice, many no longer used or not in line with current standards; the OCR often lost percent signs (e.g. '70??alcohol') and they are restored here from context; the book states some agents' strengths in two ways (mercuric chloride 0.02%-0.1% and 0.5-1 per mille) and both are kept; the pathogen classification is that of its day."
+  },
+  "see": {
+    "notes": [
+      "01 病原体与传播 Pathogens and Transmission",
+      "02 消毒方法总论 General Sterilization Methods",
+      "03 消毒药剂应用与卫生实务 Disinfectant Application and Clinic Hygiene"
+    ],
+    "points": []
+  }
+}

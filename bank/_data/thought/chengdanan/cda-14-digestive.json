@@ -1,0 +1,638 @@
+{
+  "id": "cda-14-digestive",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 14,
+  "title": {
+    "zh": "消化器病：消炎诱导、调节胃肠神经与背俞—足三里",
+    "en": "Digestive Diseases: Anti-inflammation by Induction, Regulating Gut Nerves, Back-shu with Zusanli"
+  },
+  "summary": {
+    "zh": "消化器病是处方集最大的内科章(45条)。口咽炎症以“消炎诱导”、颈项上肢穴重刺激；胃肠功能病则按神经状态分向：亢进者镇静(强刺激缓解发作)，衰弱者强壮(轻中刺激加灸，久治)。骨架是肝俞、脾俞、三焦俞等背俞配中脘、天枢与足三里(26条)，两组穴交换；腹部宜浅刺或不针，癌肿、腹膜炎、中毒等转专医。",
+    "en": "The largest internal-medicine chapter (45 entries). Oral and pharyngeal inflammations: anti-inflammation by induction with strong stimulation at neck and upper-limb points. Functional gut disease goes by nerve state: overactive is calmed (strong stimulation to break attacks), weak is strengthened (light-to-moderate stimulation plus moxa, long treatment). The frame is back-shu (Ganshu, Pishu, Sanjiaoshu) with Zhongwan, Tianshu and Zusanli (26 entries), two groups alternated; the abdomen is needled shallowly or not at all; cancer, peritonitis and poisoning go to a specialist."
+  },
+  "takeaways": [
+    {
+      "zh": "口腔、咽头、耳下腺的急性炎症一律“以消炎诱导为目的”(该句在7条中出现，含口腔炎、耳下腺炎、扁桃腺炎、急性咽炎和直肠炎)，取风池、天柱、大杼、曲池、手三里、合谷等颈项上肢穴，用26号针“重刺激”，扁桃腺炎取少商、商阳，急性咽炎则明写少商、商阳出血；转入慢性时才换28号针中等刺激，慢性咽炎目的也变为“消炎强壮”。",
+      "en": "Acute inflammation of mouth, pharynx and parotid is uniformly aimed at anti-inflammation by induction (the phrase heads seven entries, including proctitis), at neck and upper-limb points such as Fengchi, Tianzhu, Dazhu, Quchi, Shousanli, Hegu, with a No. 26 needle and heavy stimulation; tonsillitis adds Shaoshang and Shangyang, and acute pharyngitis has them bled; only chronic cases change to No. 28 moderate stimulation, and chronic pharyngitis is aimed at anti-inflammation plus strengthening.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ]
+    },
+    {
+      "zh": "胃肠功能病的目的写成“调节自主神经”，方向随状态而定：胃痉挛“镇静胃之副交感神经”；胃肌衰弱“加强副交感神经之兴奋，抑制交感神经”；神经性消化不良“调整交感神经之紧张”；肠弛缓“抑制肠部交感神经之紧张”。同一套穴位，靠强度与灸来分“镇”与“强”。",
+      "en": "For functional stomach and gut disease the aim is written as autonomic regulation, its direction set by the state: gastric spasm calms the parasympathetic; weak stomach muscle strengthens parasympathetic excitation and inhibits the sympathetic; nervous dyspepsia adjusts sympathetic tension; atonic bowel suppresses sympathetic tension. The same point sets serve both, distinguished by intensity and moxa.",
+      "cite": [
+        "E5",
+        "E6",
+        "E7",
+        "E8"
+      ]
+    },
+    {
+      "zh": "慢性、衰弱型病以“强壮”为目的，必须久治：慢性胃炎“必须作长久之治疗”，可取肝俞、脾俞、中脘、足三里每日灸小炷各五壮“持久不辍”；神经性消化不良“需二三个月以上之针疗”；胃下垂“唯先天性者，久治亦难有效果”，肠狭窄“年久者难愈”。",
+      "en": "Chronic and weak types are aimed at strengthening and need long treatment: chronic gastritis \"must be treated for a long time\", and Ganshu, Pishu, Zhongwan, Zusanli with five small cones daily \"without interruption\" is also good; nervous dyspepsia needs two or three months or more; congenital gastroptosis stays refractory, long-standing intestinal stenosis is hard to cure.",
+      "cite": [
+        "E9",
+        "E10",
+        "E11"
+      ]
+    },
+    {
+      "zh": "取穴骨架：足三里出现于有穴位的43条中的26条；背俞以肝俞(17)、三焦俞(16)、脾俞(15)为主，另有胃俞、大肠俞、气海俞；颈背上部大杼(14)、天柱(13)、风池(11)、膈俞(13)；腹部中脘(12)、气海(11)、天枢(10)。8条把穴位分成两组“交换”或“轮换”针治(如慢性胃炎、胃痉挛、胃溃疡、肝硬化)。",
+      "en": "Skeleton: Zusanli in 26 of the 43 entries that list points; back-shu led by Ganshu (17), Sanjiaoshu (16), Pishu (15), plus Weishu, Dachangshu, Qihaishu; upper neck-back Dazhu (14), Tianzhu (13), Fengchi (11), Geshu (13); abdomen Zhongwan (12), Qihai (11), Tianshu (10). Eight entries split the points into two groups \"alternated\" (chronic gastritis, gastric spasm, gastric ulcer, cirrhosis and others).",
+      "cite": [
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "zh": "强度按急缓分：发作或急性时用强刺激(急性胃炎的四肢穴、胃痉挛发作取足三里、公孙、厉兑、神经性呕吐取大陵、肠疝痛、胆石痛，共11条提到强刺激)，平时与衰弱型改轻、中刺激(7条明写轻刺激)，并加灸(18条用灸，9条用“念盈药艾灸条”，3条用温针)。",
+      "en": "Intensity follows acute versus chronic: at an attack or acute stage strong stimulation (limb points in acute gastritis; Zusanli, Gongsun, Lidui at a gastric spasm attack; Daling in nervous vomiting; intestinal colic; biliary colic — 11 entries name strong stimulation), between attacks and in weak types light or moderate (7 entries state light), with moxa added (18 entries use moxa, 9 the proprietary medicated moxa stick, 3 warmed needle).",
+      "cite": [
+        "E14",
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "zh": "腹部要慎：胃溃疡“禁止胃部深针”；急性肠炎腹腔之穴“浅刺轻针”；急性胃炎中脘“宜浅刺而留针”；腹膜炎“于腹腔部绝对避免用针”；腹水腹部诸穴“概不用针，只用……灸治”；脾肿大若为脾癌肿“绝对禁止局部刺针”。腹水一条即以灸代针。",
+      "en": "Care over the abdomen: no deep needling of the stomach region in gastric ulcer; shallow light needling of abdominal points in acute enteritis; shallow retained needling at Zhongwan in acute gastritis; peritonitis, absolutely no needling of the abdomen; ascites, no abdominal needling, only moxa; enlarged spleen from splenic cancer, no local needling at all. In ascites moxa replaces the needle on the abdomen.",
+      "cite": [
+        "E17",
+        "E18",
+        "E19"
+      ]
+    },
+    {
+      "zh": "他为针灸划出转诊界线：食管癌是“针灸术不适应症”，胃癌针“只可作缓解疼痛之暂时设法”，腹膜炎属不适应证(仅局限性慢性者可作药物辅助)，盲肠炎、急性中毒性胃肠炎、痔的彻底治法须专医；肝硬化、黄疸、胆石痛、腹水则强调“与专医配合药物治疗”。全章有18条在处方或调护里提到专医、药物或手术。",
+      "en": "He draws referral lines: oesophageal cancer is \"not an indication for acupuncture\", in gastric cancer needling can only give temporary pain relief, peritonitis is not indicated (only localized chronic cases as a drug adjunct), appendicitis, toxic gastroenteritis and definitive treatment of haemorrhoids belong to a specialist; cirrhosis, jaundice, biliary colic and ascites are to be co-treated with a specialist's drugs. Eighteen entries mention specialist, drugs or surgery in the prescription or care text.",
+      "cite": [
+        "E20",
+        "E21",
+        "E22",
+        "E23"
+      ]
+    },
+    {
+      "zh": "调护与预后紧贴病因：调护以饮食为主(30条提到食物，如禁刺激性食物、少食多餐、温开水)，其次是情志(8条，如神经性消化不良“情志愉快为第一”)、腹部保温、背腹按摩；预后常写“视原因之不同”“去其原因，能久治者，良”，神经性消化不良“生命上无危险，但为顽固”，胃溃疡“如有并发症者危险”。",
+      "en": "Care and prognosis track the cause: care lines are mostly about food (30 entries: no irritating food, small frequent meals, warm water), then mood (8 entries; nervous dyspepsia \"a cheerful mind comes first\"), abdominal warmth and massage; prognosis is often \"depends on the cause\" or \"good if the cause is removed and treatment is long\"; nervous dyspepsia is no danger to life but stubborn; ulcer with complications is dangerous.",
+      "cite": [
+        "E24",
+        "E25",
+        "E26"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "消化器病：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Digestive: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "扁桃腺炎",
+            "en": "Tonsillitis"
+          },
+          {
+            "zh": "消炎诱导",
+            "en": "Anti-inflammation by induction"
+          },
+          "急：风池、天柱、大杼、尺泽、少商、商阳；慢：天柱、大杼、鱼际、液门",
+          {
+            "zh": "急性26号针重刺激；慢性28号针中等刺激；日1次",
+            "en": "Acute No. 26 heavy; chronic No. 28 moderate; daily"
+          },
+          {
+            "zh": "多良",
+            "en": "Mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "急性胃炎",
+            "en": "Acute gastritis"
+          },
+          {
+            "zh": "反射诱导，加强胃黏膜新陈代谢；中毒、高热剧痛者非适应证",
+            "en": "Reflex and induction; poisoning or high fever with severe pain not indicated"
+          },
+          "膈俞、胆俞、胃俞、天突、中脘、手三里、内关、足三里、公孙",
+          {
+            "zh": "四肢穴26号针强刺激；中脘浅刺留针；日1次",
+            "en": "Limbs No. 26 strong; Zhongwan shallow, retained; daily"
+          },
+          {
+            "zh": "早期治疗则良",
+            "en": "Good if treated early"
+          }
+        ],
+        [
+          {
+            "zh": "慢性胃炎",
+            "en": "Chronic gastritis"
+          },
+          {
+            "zh": "促进胃组织紧张性与活动性，催进胃腺分泌，加强消化",
+            "en": "Raise tone and activity of gastric tissue, secretion, digestion"
+          },
+          "肝俞、胃俞、上脘、建里、不容、梁门、内关、足三里；另组脾俞、三焦俞、中脘等",
+          {
+            "zh": "两组交换，中等度刺激，温针或艾条；或灸肝俞、脾俞、中脘、足三里各5壮",
+            "en": "Two groups alternated, moderate, warmed needle or moxa stick; or 5 cones at four points"
+          },
+          {
+            "zh": "视原因而不一致",
+            "en": "Depends on cause"
+          }
+        ],
+        [
+          {
+            "zh": "胃痉挛",
+            "en": "Gastric spasm"
+          },
+          {
+            "zh": "镇静胃之副交感神经，缓解胃运动紧张",
+            "en": "Calm gastric parasympathetic, relax gastric motility"
+          },
+          "肝俞、脾俞、三焦俞、中脘、气海、足三里、内庭；发作取足三里、公孙、厉兑",
+          {
+            "zh": "平时中刺激，两组交换；发作时强刺激诱导",
+            "en": "Moderate between attacks, two groups; strong induction at attack"
+          },
+          {
+            "zh": "多良，原因不去多反复",
+            "en": "Mostly good; relapses unless cause removed"
+          }
+        ],
+        [
+          {
+            "zh": "胃溃疡",
+            "en": "Gastric ulcer"
+          },
+          {
+            "zh": "强壮胃肌新生力，促进愈合，减少胃酸分泌",
+            "en": "Strengthen gastric muscle regeneration, aid healing, reduce acid"
+          },
+          "风池、大杼、膈俞、胆俞、脾俞、足三里；另组天柱、肩井、肝俞、胃俞、三焦俞、上巨虚；出血取足三里、内庭、公孙",
+          {
+            "zh": "轻刺激持续；出血时强刺激；禁止胃部深针",
+            "en": "Light and sustained; strong if bleeding; no deep needling of stomach area"
+          },
+          {
+            "zh": "全治者有之；并发症危险",
+            "en": "Some fully cured; complications dangerous"
+          }
+        ],
+        [
+          {
+            "zh": "神经性消化不良",
+            "en": "Nervous dyspepsia"
+          },
+          {
+            "zh": "旺盛胃功能，催进胃液，调整交感神经紧张",
+            "en": "Boost stomach function and juice, adjust sympathetic tension"
+          },
+          "天柱、膈俞、脾俞、三焦俞、上脘、建里、气海、足三里；另组大杼、肝俞、胃俞、意舍、巨阙、中脘",
+          {
+            "zh": "两组交换，中等度刺激，需二三个月以上",
+            "en": "Two groups, moderate, 2–3+ months"
+          },
+          {
+            "zh": "无生命危险，顽固",
+            "en": "No danger to life; stubborn"
+          }
+        ],
+        [
+          {
+            "zh": "急性肠炎",
+            "en": "Acute enteritis"
+          },
+          {
+            "zh": "反射诱导，减少肠蠕动，调整血循环；中毒者非针术可治",
+            "en": "Reflex and induction; reduce peristalsis; poisoning not treatable by needle"
+          },
+          "按病位分十二指肠炎、小肠炎、大肠炎、直肠炎四组，如督俞、膈俞、肝俞、中脘、天枢、下巨虚",
+          {
+            "zh": "强刺激；腹腔之穴浅刺轻针",
+            "en": "Strong; abdominal points shallow and light"
+          },
+          {
+            "zh": "大多良好；宜与专医药物同治",
+            "en": "Mostly good; co-treat with drugs"
+          }
+        ],
+        [
+          {
+            "zh": "慢性肠炎",
+            "en": "Chronic enteritis"
+          },
+          {
+            "zh": "回复肠肌细胞功能，旺盛血循环，促进吸收",
+            "en": "Restore gut muscle function, circulation, absorption"
+          },
+          "三焦俞、气海俞、大肠俞、中脘、天枢、气海、水道、足三里",
+          {
+            "zh": "药艾条每日灸治",
+            "en": "Medicated moxa stick daily"
+          },
+          {
+            "zh": "随原因而异；并发症多不良",
+            "en": "Varies with cause; complications mostly poor"
+          }
+        ],
+        [
+          {
+            "zh": "肠疝痛",
+            "en": "Intestinal colic"
+          },
+          {
+            "zh": "发作时缓解肠肌痉挛；平时旺盛血行、调整蠕动",
+            "en": "At attack relax spasm; between attacks circulation and peristalsis"
+          },
+          "发作：气海、天枢、足三里、三阴交、行间；平时：脾俞、三焦俞、气海俞、大肠俞、天枢、关元",
+          {
+            "zh": "发作强刺激或中艾炷灸3壮；平时药艾条日灸",
+            "en": "Strong or medium cones ×3 at attack; moxa stick daily otherwise"
+          },
+          {
+            "zh": "通常佳良，易复发",
+            "en": "Usually good; relapses easily"
+          }
+        ],
+        [
+          {
+            "zh": "常习性便秘",
+            "en": "Habitual constipation"
+          },
+          {
+            "zh": "加强肠肌力，促进蠕动",
+            "en": "Strengthen gut muscle, promote peristalsis"
+          },
+          "大肠俞、小肠俞、中髎、天枢、肓俞、外陵、水道、支沟、足三里、承山、太白",
+          {
+            "zh": "每日或间日中等度刺激",
+            "en": "Moderate, daily or alternate days"
+          },
+          {
+            "zh": "有脑脊髓疾患者不良",
+            "en": "Poor with cerebrospinal disease"
+          }
+        ],
+        [
+          {
+            "zh": "肝脏硬化症",
+            "en": "Liver cirrhosis"
+          },
+          {
+            "zh": "刺激内脏神经，疏通血行，加强门脉循环；配药物",
+            "en": "Stimulate visceral nerves, clear circulation, strengthen portal flow; with drugs"
+          },
+          "督俞、肝俞、脾俞、肾俞、期门、阴陵泉；另组膈俞、胆俞、三焦俞、章门、血海、三阴交",
+          {
+            "zh": "两组每日交换针治",
+            "en": "Two groups alternated daily"
+          },
+          {
+            "zh": "难全治，调摄得宜可延年",
+            "en": "Hard to cure fully; good care prolongs life"
+          }
+        ],
+        [
+          {
+            "zh": "胆石痛",
+            "en": "Biliary colic"
+          },
+          {
+            "zh": "促进胆液活动，缓解疼痛；配药物或手术",
+            "en": "Promote bile flow, relieve pain; with drugs or surgery"
+          },
+          "肝俞、胆俞、腕骨、阳陵泉、足临泣、行间",
+          {
+            "zh": "强刺激",
+            "en": "Strong"
+          },
+          {
+            "zh": "多良",
+            "en": "Mostly good"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "消化器中他不主张单用针灸的病",
+        "en": "Digestive conditions where he does not rely on acupuncture alone"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "原书结论",
+          "en": "His statement"
+        },
+        {
+          "zh": "针灸还做什么",
+          "en": "What acupuncture still does"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "食管癌",
+            "en": "Oesophageal cancer"
+          },
+          {
+            "zh": "针灸术不适应症",
+            "en": "Not an indication"
+          },
+          {
+            "zh": "无",
+            "en": "Nothing"
+          },
+          {
+            "zh": "每在半年至两年中死亡",
+            "en": "Death typically within half a year to two years"
+          }
+        ],
+        [
+          {
+            "zh": "食管狭窄",
+            "en": "Oesophageal stricture"
+          },
+          {
+            "zh": "除咽下受伤所致者外概不适应，应由专家手术",
+            "en": "Not indicated except after swallowing injury; surgery"
+          },
+          {
+            "zh": "仍列大杼、肩井、天突、膻中、上脘、内关等；10次无效即不治",
+            "en": "Lists points; hopeless if no effect after 10 sessions"
+          },
+          {
+            "zh": "不良者多",
+            "en": "Mostly poor"
+          }
+        ],
+        [
+          {
+            "zh": "胃癌",
+            "en": "Gastric cancer"
+          },
+          {
+            "zh": "难治之症",
+            "en": "Difficult, incurable"
+          },
+          {
+            "zh": "膈俞、胃俞、三焦俞、内关、足三里，只缓解疼痛；另附大蒜片隔麝香灸的试验设想",
+            "en": "Temporary pain relief only; adds a speculative garlic-slice moxa experiment"
+          },
+          {
+            "zh": "迟早必死(其按语)",
+            "en": "Sooner or later fatal, per his note"
+          }
+        ],
+        [
+          {
+            "zh": "盲肠炎",
+            "en": "Appendicitis"
+          },
+          {
+            "zh": "应由专医诊治",
+            "en": "Belongs to a specialist"
+          },
+          {
+            "zh": "路远时先用针诱导消炎镇痛，再送医",
+            "en": "If far from a hospital, needle first for anti-inflammation and analgesia, then transfer"
+          },
+          {
+            "zh": "早期得治大多良好；化脓致腹膜炎者不良",
+            "en": "Early good; suppuration with peritonitis poor"
+          }
+        ],
+        [
+          {
+            "zh": "腹膜炎",
+            "en": "Peritonitis"
+          },
+          {
+            "zh": "针灸之不适应证；仅局限性慢性者可辅助",
+            "en": "Not indicated; only localized chronic as adjunct"
+          },
+          {
+            "zh": "血海、足三里、三阴交、行间强刺激置针；腹腔绝对避免用针",
+            "en": "Strong retained needling at four points; no abdominal needling"
+          },
+          {
+            "zh": "急性不良；慢性缠绵",
+            "en": "Acute poor; chronic lingering"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "以消炎诱导为目的。",
+      "src": "针灸处方集·第三章 消化器病·卡他性口腔炎 p.219"
+    },
+    {
+      "id": "E2",
+      "quote": "每日用26号针作重刺激。发热时，配合风池、身柱、曲池诸穴",
+      "src": "针灸处方集·第三章 消化器病·卡他性口腔炎 p.228"
+    },
+    {
+      "id": "E3",
+      "quote": "急性取穴：风池、天柱、大杼、尺泽、少商、商阳。每日1次，26号针作重刺激",
+      "src": "针灸处方集·第三章 消化器病·扁桃腺炎 p.229"
+    },
+    {
+      "id": "E4",
+      "quote": "以消炎强壮为目的",
+      "src": "针灸处方集·第三章 消化器病·咽头疾患·慢性喉头炎 p.230"
+    },
+    {
+      "id": "E5",
+      "quote": "以镇静胃之副交感神经，缓解胃运动之紧张为目的",
+      "src": "针灸处方集·第三章 消化器病·胃痉挛 p.233"
+    },
+    {
+      "id": "E6",
+      "quote": "以活泼胃运动，紧张胃肌肉，加强副交感神经之兴奋，抑制交感神经为目的",
+      "src": "针灸处方集·第三章 消化器病·胃肌衰弱 p.235"
+    },
+    {
+      "id": "E7",
+      "quote": "以旺盛胃之功能，催进胃液之分泌，调整交感神经之紧张为目的",
+      "src": "针灸处方集·第三章 消化器病·神经性消化不良 p.234"
+    },
+    {
+      "id": "E8",
+      "quote": "以抑制肠部交感神经之紧张与促进肠肌之强壮为目的",
+      "src": "针灸处方集·第三章 消化器病·肠弛缓症 p.236"
+    },
+    {
+      "id": "E9",
+      "quote": "催进胃腺分泌，加强消化功能为目的，必须作长久之治疗",
+      "src": "针灸处方集·第三章 消化器病·慢性胃炎 p.232"
+    },
+    {
+      "id": "E10",
+      "quote": "或取肝俞、脾俞、中脘、足三里，每日灸小炷各五壮，持久不辍，亦有良效",
+      "src": "针灸处方集·第三章 消化器病·慢性胃炎 p.232"
+    },
+    {
+      "id": "E11",
+      "quote": "唯先天性者，久治亦难有效果",
+      "src": "针灸处方集·第三章 消化器病·胃下垂 p.234"
+    },
+    {
+      "id": "E12",
+      "quote": "每日或间日交换作中等度之刺激，需二三个月以上之针疗",
+      "src": "针灸处方集·第三章 消化器病·神经性消化不良 p.234"
+    },
+    {
+      "id": "E13",
+      "quote": "每日或间日轮换作中等度之刺激，加用温针法，或念盈药条灸治，收效更速",
+      "src": "针灸处方集·第三章 消化器病·慢性胃炎 p.232"
+    },
+    {
+      "id": "E14",
+      "quote": "每日针治1次，四肢之穴，用26号针作强刺激；中脘宜浅刺而留针",
+      "src": "针灸处方集·第三章 消化器病·急性胃炎 p.232"
+    },
+    {
+      "id": "E15",
+      "quote": "在发作时，取足三里、公孙、厉兑，用强刺激，作诱导法缓解之",
+      "src": "针灸处方集·第三章 消化器病·胃痉挛 p.233"
+    },
+    {
+      "id": "E16",
+      "quote": "每日用小艾炷灸治，或予轻刺激之针法，或用药艾条灸，作持久之针灸有效",
+      "src": "针灸处方集·第三章 消化器病·肠弛缓症 p.237"
+    },
+    {
+      "id": "E17",
+      "quote": "本病禁止胃部深针",
+      "src": "针灸处方集·第三章 消化器病·胃溃疡 p.233"
+    },
+    {
+      "id": "E18",
+      "quote": "腹腔之穴浅刺轻针，余作强刺激",
+      "src": "针灸处方集·第三章 消化器病·急性肠炎 p.235"
+    },
+    {
+      "id": "E19",
+      "quote": "唯于腹腔部绝对避免用针",
+      "src": "针灸处方集·第三章 消化器病·腹膜炎 p.238"
+    },
+    {
+      "id": "E20",
+      "quote": "针灸术不适应症；现无适当治法，患者每在半年至两年中死亡",
+      "src": "针灸处方集·第三章 消化器病·食管癌 p.231"
+    },
+    {
+      "id": "E21",
+      "quote": "本病为难治之症；针术上只可作缓解疼痛之暂时设法",
+      "src": "针灸处方集·第三章 消化器病·胃癌 p.232"
+    },
+    {
+      "id": "E22",
+      "quote": "本病为针灸之不适应证，唯对于局限性慢性之腹膜炎，行镇痛消炎之针法，可作药物治疗之辅助",
+      "src": "针灸处方集·第三章 消化器病·腹膜炎 p.238"
+    },
+    {
+      "id": "E23",
+      "quote": "针灸刺激内脏之神经，疏通血行，加强门脉循环，比较合乎理想，一面与专医配合药物治疗为适宜",
+      "src": "针灸处方集·第三章 消化器病·肝脏硬化症 p.239"
+    },
+    {
+      "id": "E24",
+      "quote": "情志愉快为第一",
+      "src": "针灸处方集·第三章 消化器病·神经性消化不良 p.234"
+    },
+    {
+      "id": "E25",
+      "quote": "去其原因，能久治者，良",
+      "src": "针灸处方集·第三章 消化器病·胃扩张 p.233"
+    },
+    {
+      "id": "E26",
+      "quote": "全治者有之，如有并发症者危险",
+      "src": "针灸处方集·第三章 消化器病·胃溃疡 p.234"
+    }
+  ],
+  "caveats": {
+    "zh": "病名与解剖为民国西医名词(卡他性、亚布答性口内炎、胃扩张、肠疝痛、虫样突起炎等)，自主神经(交感、副交感)的调节说是他当时的解释框架。“念盈药艾灸条”是书中出现的成药艾条，按原文保留。大蒜片隔麝香灸治胃癌一段是他自述的“姑作万一幸效之试验”，并非既有疗法，不可当作主张。药物辅助方(锡类散、参三七等)属他附记的经验，不列入穴位思路。",
+    "en": "Disease names and anatomy are Republican-era Western terms, and autonomic (sympathetic and parasympathetic) regulation is his framework of the day. \"Nianying medicated moxa stick\" is a proprietary product named in the text and kept as printed. The garlic-slice and musk moxa for gastric cancer is his own admitted last-ditch experiment, not an established method. Drug adjuncts (Xilei San, Sanqi etc.) are his side notes and not part of the point logic."
+  },
+  "see": {
+    "points": [
+      "足三里",
+      "肝俞",
+      "三焦俞",
+      "脾俞",
+      "大杼",
+      "天柱",
+      "膈俞",
+      "中脘",
+      "天枢",
+      "大肠俞"
+    ],
+    "rx": [
+      "cda-rx-036",
+      "cda-rx-043",
+      "cda-rx-044",
+      "cda-rx-047",
+      "cda-rx-048",
+      "cda-rx-049",
+      "cda-rx-050",
+      "cda-rx-052",
+      "cda-rx-054",
+      "cda-rx-058",
+      "cda-rx-059",
+      "cda-rx-060",
+      "cda-rx-062",
+      "cda-rx-064",
+      "cda-rx-070",
+      "cda-rx-072",
+      "cda-rx-076"
+    ]
+  }
+}

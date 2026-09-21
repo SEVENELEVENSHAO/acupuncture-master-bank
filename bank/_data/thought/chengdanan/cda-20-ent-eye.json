@@ -1,0 +1,575 @@
+{
+  "id": "cda-20-ent-eye",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 20,
+  "title": {
+    "zh": "五官器病：眼周局部穴调血行、风池合谷诱导消炎，灸与洗涤并用",
+    "en": "Eye, Ear and Nose Disease: Periorbital Points for Local Circulation, Fengchi and Hegu for Induction, Moxa with Local Washing"
+  },
+  "summary": {
+    "zh": "五官只有9条(眼5、耳鼻4)。眼病以“调整局部血行、消炎”为目的，取攒竹(眼5条全有)、睛明、四白等眼周穴，配风池、合谷，眼周用轻、中刺激，背部与远端肝俞等穴另行小炷灸(泪囊炎灸一个月以上)，并配温硼酸水洗涤。耳鼻病以“诱导法消炎”为目的，风池、合谷4条全有，鼻病加上星、迎香并用灸，中耳炎强刺激；中耳炎与副鼻腔炎他明说应由专医治疗、针术只作助治。",
+    "en": "Only 9 entries (5 eye, 4 ear and nose). Eye disease is aimed at regulating local circulation and reducing inflammation, using periorbital points such as Cuanzhu (in all 5 eye entries), Jingming and Sibai with Fengchi and Hegu, light or moderate stimulation round the eye, small moxa cones at back and distal points such as Ganshu (for over a month in dacryocystitis), and warm boric-acid washing. Ear and nose disease is aimed at anti-inflammation by induction, Fengchi and Hegu in all 4 entries, nose disease adding Shangxing and Yingxiang with moxa, otitis media strong stimulation; he says otitis media and sinusitis should be treated by a specialist with needling as adjunct."
+  },
+  "takeaways": [
+    {
+      "zh": "目的分眼与耳鼻两套话：眼病写局部血行——结膜充血“用诱导法调整局部血行为目的”，眼睑缘炎、泪囊炎、颗粒性结膜炎“调整局部之血行及消炎”(眼5条中4条写局部血行)；耳鼻病写诱导消炎——中耳炎、副鼻腔炎“以诱导法消炎为目的”，鼻炎“以诱导消炎为目的”；衄血则是“调整血行及图鼻腔血管之收缩”。夜盲症例外，目的是“促进营养之吸收”，病理篇更写明要“十分增加营养，旺盛消化功能，以强壮视力”。",
+      "en": "Two vocabularies of aim. Eye disease speaks of local circulation: conjunctival congestion is aimed at regulating local circulation by induction, and lid-margin inflammation, dacryocystitis and granular conjunctivitis at regulating local circulation and reducing inflammation (4 of the 5 eye entries). Ear and nose disease speaks of anti-inflammation by induction: otitis media, sinusitis and rhinitis; nosebleed aims at regulating blood flow and constricting nasal vessels. Night blindness is the exception, aimed at promoting nutrient absorption, and the pathology book adds greatly increasing nutrition and boosting digestion to strengthen vision.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6"
+      ]
+    },
+    {
+      "zh": "取穴是“局部加远端”：眼周穴攒竹见于眼5条全部，睛明4条，光明3条；耳鼻4条全部含风池与合谷，鼻病(副鼻腔炎、鼻炎、衄血)含上星，副鼻腔炎、鼻炎再加迎香。他给针灸治鼻炎的理由是“刺激之作用，促进分泌物之吸收，患部之新陈代谢功能旺盛”。",
+      "en": "Points are local plus distant: periorbital Cuanzhu is in all 5 eye entries, Jingming in 4, Guangming in 3; all 4 ear and nose entries contain Fengchi and Hegu, the nose entries (sinusitis, rhinitis, nosebleed) contain Shangxing, and sinusitis and rhinitis add Yingxiang. His reason why acupuncture works in rhinitis is stimulation that promotes absorption of secretions and heightens tissue metabolism.",
+      "cite": [
+        "E7",
+        "E8",
+        "E9",
+        "E5"
+      ]
+    },
+    {
+      "zh": "刺激量眼轻耳强：眼病5条只用轻或中刺激(泪囊炎眼周四穴、夜盲症“用轻刺激”，结膜充血、眼睑缘炎、颗粒性结膜炎中刺激)；强刺激只出现在中耳炎“用强刺激针治之”和衄血“尤以两肢之穴加强刺激”。衄血一条按血管收缩的目的用强刺激，止不住再用中炷直接灸。",
+      "en": "Light for the eye, strong for the ear: the 5 eye entries use only light or moderate stimulation (the four periorbital points in dacryocystitis and all of night blindness light; conjunctival congestion, lid-margin inflammation and granular conjunctivitis moderate); strong stimulation appears only in otitis media and in nosebleed, where limb points are stimulated especially strongly. Nosebleed uses strong stimulation for its vasoconstricting aim and medium direct cones if bleeding does not stop.",
+      "cite": [
+        "E10",
+        "E11",
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "zh": "9条中7条用灸：眼病是眼周针、远端与背部灸——眼睑缘炎大小骨空小艾炷七壮，泪囊炎肝俞、三焦俞、角孙小艾炷五壮“持续1个月以上”，颗粒性结膜炎“每日灸听宫、肝俞各三小炷”，夜盲症“背部诸穴并行灸治”；鼻病则灸上星与膈俞或百会、通天、风门(副鼻腔炎中炷直接灸五至七壮)，鼻炎“多灸皆收良效”。眼周穴(攒竹、睛明、四白、阳白等)只见针、不见灸，灸的是大小骨空、听宫、角孙和背部穴。",
+      "en": "Seven of the 9 entries use moxa. In the eye the needle goes round the eye and moxa goes to distal and back points: lid-margin inflammation small cones x7 at the Da and Xiao Gukong, dacryocystitis Ganshu, Sanjiaoshu, Jiaosun x5 for over a month, granular conjunctivitis three small cones daily at Tinggong and Ganshu, night blindness the back points; in the nose Shangxing with Geshu or Baihui, Tongtian, Fengmen, medium direct cones x5-7 in sinusitis, and in chronic rhinitis moxa is said to bring good results in most cases. The periorbital points (Cuanzhu, Jingming, Sibai, Yangbai and others) are needled, not moxaed; moxa goes to Gukong, Tinggong, Jiaosun and back points.",
+      "cite": [
+        "E14",
+        "E15",
+        "E16",
+        "E17",
+        "E18"
+      ]
+    },
+    {
+      "zh": "局部护理写进了处方：眼病4条配洗涤(结膜充血“温而不宜冷”的硼酸水或淡盐水，眼睑缘炎热硼酸水洗后外涂黄汞油膏，泪囊炎、颗粒性结膜炎温硼酸水)；眼睑缘炎还“眼睑边缘用针尖点刺放血”，是9条里唯一的放血。其余调护有避冷风强光(结膜充血)、口鼻罩保温(鼻炎)、仰卧安静并冷水罨前额(衄血)、多服鸡肝鱼肝油(夜盲)。",
+      "en": "Local care is part of the prescription: four eye entries carry washing (conjunctival congestion warm rather than cold boric-acid or weak saline water; lid-margin inflammation hot boric-acid wash then yellow mercury ointment; warm boric-acid wash in dacryocystitis and granular conjunctivitis). Lid-margin inflammation also has the lid edge pricked with the needle tip to bleed, the only bleeding in the 9 entries. Other care: avoid cold wind and strong light (conjunctival congestion), mask for warmth (rhinitis), lie quiet with a cold compress to the forehead (nosebleed), chicken liver and cod-liver oil (night blindness).",
+      "cite": [
+        "E19",
+        "E20",
+        "E21",
+        "E22"
+      ]
+    },
+    {
+      "zh": "转诊界线清楚：中耳炎“本病应由专医用消炎治疗，针术只作助治”，副鼻腔炎“初起应兼与专医作药物消炎治疗，如久久不愈，需用外科手术”；他还附上自己治慢性中耳炎的药酒方(川黄连、麝香浸高粱酒)，说乡僻之处“可置用之”。病理篇对眼病更保守：脓漏眼“在理论方面属针术之不适应证”，只在实验上有加速消炎之功；角膜实质炎“非针灸适合”，沙眼“本症不适用针术”。",
+      "en": "The referral line is clear: otitis media should be treated by a specialist with anti-inflammatory therapy and needling only as adjunct; sinusitis at onset should be co-treated with a specialist's drugs and needs surgery if it persists. He also appends his own medicated-wine remedy for chronic otitis media (coptis powder and musk steeped in sorghum liquor), usable in remote places. The pathology book is more cautious on eye disease: gonorrhoeal conjunctivitis is in theory not indicated though experience shows it speeds resolution, interstitial keratitis is not suited to acupuncture, and trachoma is not suited to needling.",
+      "cite": [
+        "E23",
+        "E24",
+        "E25",
+        "E26",
+        "E27",
+        "E28"
+      ]
+    },
+    {
+      "zh": "预后只在少数条里写：副鼻腔炎“早经适当之治疗者良，否则经年难愈”，衄血、结膜充血等为良，眼科5条中只有结膜充血写了预后。他谈疗程时的说法更具体，如泪囊炎灸治须“持续1个月以上”。因此对五官病的疗效他很少下断语，主要给的是方法与转诊界线。",
+      "en": "Prognosis is stated in few entries: sinusitis is good if treated early and appropriately, otherwise hard to cure for years; nosebleed and conjunctival congestion are good, and only conjunctival congestion of the 5 eye entries states a prognosis. His more concrete remarks concern the course, such as dacryocystitis moxa for over a month. He seldom passes judgment on results in this chapter and mainly supplies method and referral lines.",
+      "cite": [
+        "E29",
+        "E11"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "五官器病：病 → 目的 → 要穴 → 手法 → 预后",
+        "en": "Eye, ear and nose disease: disease → aim → key points → technique → prognosis"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "他的目的",
+          "en": "His aim"
+        },
+        {
+          "zh": "要穴(原书所列)",
+          "en": "Key points as printed"
+        },
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后",
+          "en": "Prognosis"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "结膜充血症(赤目)",
+            "en": "Conjunctival congestion"
+          },
+          {
+            "zh": "诱导法调整局部血行",
+            "en": "Induction to regulate local circulation"
+          },
+          "风池、攒竹、睛明、太阳、合谷、光明",
+          {
+            "zh": "中刺激；温硼酸水或淡盐水洗，避风避强光",
+            "en": "Moderate; warm boric-acid or saline wash; avoid wind and glare"
+          },
+          {
+            "zh": "佳良",
+            "en": "Very good"
+          }
+        ],
+        [
+          {
+            "zh": "夜盲症(雀盲)",
+            "en": "Night blindness"
+          },
+          {
+            "zh": "促进营养吸收",
+            "en": "Promote nutrient absorption"
+          },
+          "肝俞、胆俞、风池、睛明、合谷、足三里；魂门、阳纲、完骨、攒竹、手三里、光明",
+          {
+            "zh": "日或间日轮换轻刺激；背部诸穴并灸；多服鸡肝、鱼肝油、鳗鱼",
+            "en": "Light, groups alternated; moxa at back points; chicken liver, cod-liver oil, eel"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "眼睑缘炎(烂弦风)",
+            "en": "Lid-margin inflammation"
+          },
+          {
+            "zh": "调整局部血行及消炎",
+            "en": "Regulate local circulation, reduce inflammation"
+          },
+          "攒竹、睛明、四白、瞳子髎、大小骨空",
+          {
+            "zh": "眼睑边缘针尖点刺放血；前四穴中刺激；大小骨空小艾炷灸7壮；外用热硼酸水洗、黄汞油膏",
+            "en": "Prick lid edge to bleed; first four moderate; Da/Xiao Gukong cones x7; hot boric-acid wash, ointment"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "泪囊炎(眼漏)",
+            "en": "Dacryocystitis"
+          },
+          {
+            "zh": "调整局部血行及消炎",
+            "en": "Regulate local circulation, reduce inflammation"
+          },
+          "攒竹、睛明、四白、阳白；肝俞、三焦俞、角孙",
+          {
+            "zh": "前四穴轻刺激；后三穴小艾炷各5壮，日或间日，持续1个月以上；温硼酸水洗",
+            "en": "First four light; last three cones x5, daily or alternate days for over 1 month; warm boric-acid wash"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "颗粒性结膜炎(沙眼)",
+            "en": "Granular conjunctivitis (trachoma)"
+          },
+          {
+            "zh": "调整局部血行消炎",
+            "en": "Regulate local circulation, reduce inflammation"
+          },
+          "阳白、攒竹、瞳子髎、风池、肝俞、听宫、光明、地五会",
+          {
+            "zh": "间日中刺激；每日灸听宫、肝俞各3小炷；温硼酸水洗2次",
+            "en": "Moderate on alternate days; daily 3 small cones at Tinggong, Ganshu; warm boric-acid wash twice"
+          },
+          {
+            "zh": "原书未写",
+            "en": "Not stated"
+          }
+        ],
+        [
+          {
+            "zh": "中耳炎(聤耳)",
+            "en": "Otitis media"
+          },
+          {
+            "zh": "诱导法消炎",
+            "en": "Anti-inflammation by induction"
+          },
+          "风池、翳风、耳门、曲池、合谷",
+          {
+            "zh": "强刺激；专医消炎治疗为主，针术助治",
+            "en": "Strong; specialist anti-inflammatory therapy first, needling adjunct"
+          },
+          {
+            "zh": "多良",
+            "en": "Mostly good"
+          }
+        ],
+        [
+          {
+            "zh": "副鼻腔炎(脑漏)",
+            "en": "Sinusitis"
+          },
+          {
+            "zh": "诱导法消炎",
+            "en": "Anti-inflammation by induction"
+          },
+          "风池、肩中俞、上星、迎香、手三里、合谷；灸膈俞、上星",
+          {
+            "zh": "间日中刺激；膈俞、上星中炷直接灸5–7壮；初起兼专医药物，久不愈需手术",
+            "en": "Moderate on alternate days; medium direct cones x5–7 at Geshu, Shangxing; specialist drugs at onset, surgery if persistent"
+          },
+          {
+            "zh": "早治良，否则经年难愈",
+            "en": "Good if treated early, otherwise hard to cure for years"
+          }
+        ],
+        [
+          {
+            "zh": "急慢性鼻炎(鼻渊)",
+            "en": "Acute and chronic rhinitis"
+          },
+          {
+            "zh": "诱导消炎",
+            "en": "Induction, anti-inflammation"
+          },
+          "风池、天柱、上星、迎香、合谷；久不愈：百会、通天、上星、风门(灸)",
+          {
+            "zh": "中刺激，上星并灸；久不愈用灸；出行戴口鼻罩保温",
+            "en": "Moderate, Shangxing with moxa; long-standing moxa alone; mask for warmth"
+          },
+          {
+            "zh": "多灸皆收良效",
+            "en": "Moxa mostly gives good results"
+          }
+        ],
+        [
+          {
+            "zh": "衄血(鼻衄)",
+            "en": "Nosebleed"
+          },
+          {
+            "zh": "调整血行，收缩鼻腔血管",
+            "en": "Regulate blood flow, constrict nasal vessels"
+          },
+          "风池、肩中俞、上星、合谷、足三里、太冲",
+          {
+            "zh": "强刺激，尤其两肢穴；不止则中炷直接灸；仰卧安静，前额冷水罨",
+            "en": "Strong, especially limb points; medium direct cones if bleeding continues; lie quiet, cold compress"
+          },
+          {
+            "zh": "良",
+            "en": "Good"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "病理篇对眼病的界线与提示",
+        "en": "Pathology-book lines and pointers for eye and nose disease"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "病理篇说法",
+          "en": "Pathology book"
+        },
+        {
+          "zh": "与处方集的关系",
+          "en": "Relation to prescriptions book"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "脓漏眼(淋毒性结膜炎)",
+            "en": "Gonorrhoeal conjunctivitis"
+          },
+          {
+            "zh": "理论上针术不适应；实验上取风池、太阳、攒竹、迎香、合谷可加速消炎",
+            "en": "In theory not indicated; experience: Fengchi, Taiyang, Cuanzhu, Yingxiang, Hegu speed resolution"
+          },
+          {
+            "zh": "处方集无此条",
+            "en": "No such entry"
+          }
+        ],
+        [
+          {
+            "zh": "角膜实质炎",
+            "en": "Interstitial keratitis"
+          },
+          {
+            "zh": "非针灸适合",
+            "en": "Not suited to acupuncture"
+          },
+          {
+            "zh": "处方集无此条",
+            "en": "No such entry"
+          }
+        ],
+        [
+          {
+            "zh": "沙眼",
+            "en": "Trachoma"
+          },
+          {
+            "zh": "本症不适用针术",
+            "en": "Not suited to needling"
+          },
+          {
+            "zh": "处方集有颗粒性结膜炎(沙眼)的针灸方，两书未调和",
+            "en": "The prescriptions book still gives a needle-and-moxa prescription for granular conjunctivitis (trachoma); the two are not reconciled"
+          }
+        ],
+        [
+          {
+            "zh": "夜盲症",
+            "en": "Night blindness"
+          },
+          {
+            "zh": "十分增加营养，旺盛消化功能，强壮视力；风池、攒竹、睛明、肩井、肝俞、养老、光明",
+            "en": "Greatly increase nutrition and digestion to strengthen vision; Fengchi, Cuanzhu, Jingming, Jianjing, Ganshu, Yanglao, Guangming"
+          },
+          {
+            "zh": "同一取穴思路，处方集另加胆俞、魂门、阳纲等背部灸穴",
+            "en": "Same idea; the prescriptions book adds back points Danshu, Hunmen, Yanggang with moxa"
+          }
+        ],
+        [
+          {
+            "zh": "鼻炎",
+            "en": "Rhinitis"
+          },
+          {
+            "zh": "风池、肩井、手三里、上星、迎香、阳白",
+            "en": "Fengchi, Jianjing, Shousanli, Shangxing, Yingxiang, Yangbai"
+          },
+          {
+            "zh": "处方集保留风池、上星、迎香，改加合谷、天柱并灸上星",
+            "en": "The prescriptions book keeps Fengchi, Shangxing, Yingxiang, adds Hegu, Tianzhu and moxa at Shangxing"
+          }
+        ],
+        [
+          {
+            "zh": "衄血",
+            "en": "Nosebleed"
+          },
+          {
+            "zh": "风池、上星、曲池、合谷针灸之",
+            "en": "Fengchi, Shangxing, Quchi, Hegu, needle and moxa"
+          },
+          {
+            "zh": "处方集为风池、肩中俞、上星、合谷、足三里、太冲，强刺激",
+            "en": "The prescriptions book uses Fengchi, Jianzhongshu, Shangxing, Hegu, Zusanli, Taichong with strong stimulation"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "用诱导法调整局部血行为目的",
+      "src": "针灸处方集·第十章 五官器病·结膜充血症 p.277"
+    },
+    {
+      "id": "E2",
+      "quote": "以调整局部之血行及消炎为目的",
+      "src": "针灸处方集·第十章 五官器病·眼睑缘炎 p.277"
+    },
+    {
+      "id": "E3",
+      "quote": "以诱导法消炎为目的",
+      "src": "针灸处方集·第十章 五官器病·中耳炎 p.278"
+    },
+    {
+      "id": "E4",
+      "quote": "以诱导消炎为目的",
+      "src": "针灸处方集·第十章 五官器病·急性及慢性鼻炎 p.279"
+    },
+    {
+      "id": "E5",
+      "quote": "针灸治效之理由，由于刺激之作用，促进分泌物之吸收，患部之新陈代谢功能旺盛",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·鼻炎之种类症状，及针灸奏效之理论 p.178"
+    },
+    {
+      "id": "E6",
+      "quote": "以调整血行及图鼻腔血管之收缩为目的",
+      "src": "针灸处方集·第十章 五官器病·衄血 p.279"
+    },
+    {
+      "id": "E7",
+      "quote": "必十分增加营养，旺盛消化功能，以强壮视力为目的",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·夜盲症 p.197"
+    },
+    {
+      "id": "E8",
+      "quote": "取穴：风池、攒竹、睛明、太阳、合谷、光明，用中刺激之针治",
+      "src": "针灸处方集·第十章 五官器病·结膜充血症 p.277"
+    },
+    {
+      "id": "E9",
+      "quote": "取穴：风池、天柱、上星、迎香、合谷，用中刺激之针治，上星并用灸治",
+      "src": "针灸处方集·第十章 五官器病·急性及慢性鼻炎 p.279"
+    },
+    {
+      "id": "E10",
+      "quote": "每日或间日轮换针治，用轻刺激，背部诸穴并行灸治",
+      "src": "针灸处方集·第十章 五官器病·夜盲症 p.277"
+    },
+    {
+      "id": "E11",
+      "quote": "上四穴用轻刺激针治，下三穴用小艾炷各灸五壮，每日或间日施行1次，持续1个月以上",
+      "src": "针灸处方集·第十章 五官器病·泪囊炎 p.278"
+    },
+    {
+      "id": "E12",
+      "quote": "用强刺激针治之",
+      "src": "针灸处方集·第十章 五官器病·中耳炎 p.278"
+    },
+    {
+      "id": "E13",
+      "quote": "作强刺激之针治，尤以两肢之穴加强刺激；如血仍不止时，可用中炷直接灸治之",
+      "src": "针灸处方集·第十章 五官器病·衄血 p.279"
+    },
+    {
+      "id": "E14",
+      "quote": "上四穴作中刺激之针治，大小骨空用小艾炷灸七壮",
+      "src": "针灸处方集·第十章 五官器病·眼睑缘炎 p.277"
+    },
+    {
+      "id": "E15",
+      "quote": "间日用中刺激之针治，并每日灸听宫、肝俞各三小炷；用温硼酸水洗涤2次",
+      "src": "针灸处方集·第十章 五官器病·颗粒性结膜炎 p.278"
+    },
+    {
+      "id": "E16",
+      "quote": "间日作中刺激之针治；并于膈俞、上星行中炷之直接灸五至七壮",
+      "src": "针灸处方集·第十章 五官器病·副鼻腔炎 p.278"
+    },
+    {
+      "id": "E17",
+      "quote": "如久久不愈，取百会、通天、上星、风门，用灸治法",
+      "src": "针灸处方集·第十章 五官器病·急性及慢性鼻炎 p.279"
+    },
+    {
+      "id": "E18",
+      "quote": "多灸皆收良效",
+      "src": "针灸处方集·第十章 五官器病·急性及慢性鼻炎 p.279"
+    },
+    {
+      "id": "E19",
+      "quote": "洗涤之硼酸水或淡盐水，宜温而不宜冷，常以纱布夹棉花护目，避免冷风与强光之刺激",
+      "src": "针灸处方集·第十章 五官器病·结膜充血症 p.277"
+    },
+    {
+      "id": "E20",
+      "quote": "眼睑边缘用针尖点刺放血",
+      "src": "针灸处方集·第十章 五官器病·眼睑缘炎 p.277"
+    },
+    {
+      "id": "E21",
+      "quote": "用热硼酸水洗涤清洁，外涂黄汞油膏",
+      "src": "针灸处方集·第十章 五官器病·眼睑缘炎 p.278"
+    },
+    {
+      "id": "E22",
+      "quote": "仰卧安静，前额部可用冷水罨之",
+      "src": "针灸处方集·第十章 五官器病·衄血 p.279"
+    },
+    {
+      "id": "E23",
+      "quote": "本病应由专医用消炎治疗，针术只作助治",
+      "src": "针灸处方集·第十章 五官器病·中耳炎 p.278"
+    },
+    {
+      "id": "E24",
+      "quote": "编者治慢性中耳炎，用川黄连末一钱，麝香一分，浸高粱酒一两",
+      "src": "针灸处方集·第十章 五官器病·中耳炎 p.278"
+    },
+    {
+      "id": "E25",
+      "quote": "初起应兼与专医作药物消炎治疗，如久久不愈，需用外科手术",
+      "src": "针灸处方集·第十章 五官器病·副鼻腔炎 p.278"
+    },
+    {
+      "id": "E26",
+      "quote": "本病在理论方面属针术之不适应证。在实验方面取风池、太阳、攒竹、迎香、合谷，有加速使其消炎之功用",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·脓漏眼 p.196"
+    },
+    {
+      "id": "E27",
+      "quote": "非针灸适合",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·角膜实质炎 p.197"
+    },
+    {
+      "id": "E28",
+      "quote": "本症不适用针术",
+      "src": "针灸精华·第六篇 病理诊断治疗常识·沙眼 p.197"
+    },
+    {
+      "id": "E29",
+      "quote": "早经适当之治疗者良，否则经年难愈",
+      "src": "针灸处方集·第十章 五官器病·副鼻腔炎 p.278"
+    }
+  ],
+  "caveats": {
+    "zh": "病名为民国西医与旧称并用(结膜充血症、颗粒性结膜炎、副鼻腔炎、衄血等，括号内旧称按原书保留)。病理篇说沙眼“不适用针术”，而处方集又给出颗粒性结膜炎(沙眼)的针灸方，两处并存，此处如实并列，不作调和。“黄汞油膏”“硼酸水”等外治与药酒方(川黄连、麝香浸高粱酒)是他附记的药物经验，不属穴位思路。全章只有9条，计数很小。",
+    "en": "Disease names mix Republican-era Western terms with old names (the old names in brackets are kept as printed). The pathology book says trachoma is not suited to needling, yet the prescriptions book gives a needle-and-moxa prescription under granular conjunctivitis (trachoma); both are reported as printed, not reconciled. Boric-acid wash, yellow mercury ointment and the coptis-and-musk medicated wine are drug side notes outside the point logic. With only 9 entries, counts are small."
+  },
+  "see": {
+    "points": [
+      "风池",
+      "合谷",
+      "攒竹",
+      "睛明",
+      "光明",
+      "肝俞",
+      "上星",
+      "迎香"
+    ],
+    "rx": [
+      "cda-rx-195",
+      "cda-rx-196",
+      "cda-rx-197",
+      "cda-rx-198",
+      "cda-rx-199",
+      "cda-rx-200",
+      "cda-rx-201",
+      "cda-rx-202",
+      "cda-rx-203"
+    ]
+  }
+}

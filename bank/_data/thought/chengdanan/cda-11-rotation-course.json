@@ -1,0 +1,989 @@
+{
+  "id": "cda-11-rotation-course",
+  "doctor": "chengdanan",
+  "group": {
+    "zh": "刺灸法",
+    "en": "Technique"
+  },
+  "order": 11,
+  "title": {
+    "zh": "轮换取穴与疗程：耐性久治，按反应换档、放疏与停",
+    "en": "Rotation and Course: Persist Patiently, Change Gear, Space Out or Stop According to the Response"
+  },
+  "summary": {
+    "zh": "处方里的“每日或间日(45条)”“轮换／交换(共44条)”说的是：把两套穴交替使用，书中不规定何时每日、何时间日。他反复强调耐性久治、不求速效；急性期强刺激、慢性期转轻刺激加灸；症状消退后拉长间隔(肺结核、癫痫)，遇疲倦、发热或流出液变化就休息、减炷或暂停。",
+    "en": "In the prescriptions \"daily or alternate days\" (45 entries) and \"rotate/exchange\" (44 entries in all) mean two point sets used in turn, with no rule for choosing between them. He stresses patient, long treatment and no hope of quick results; strong needling in the acute stage and light needling plus moxa in the chronic; spacing lengthens as symptoms recede (TB, epilepsy), and fatigue, fever or a change in discharge means rest, fewer cones or a pause."
+  },
+  "takeaways": [
+    {
+      "zh": "“轮换”是把两套穴交替使用，而不是叠加。全书44条用轮换、交换、轮流、轮针、轮取、轮用、轮灸等词，其中37条在原文里恰好开列两行穴位；频次多写“每日或间日”(45条)，对每日还是间日，书中不作规定。脑脊髓神经系一章最集中(44条中18条；桡骨、尺骨、腓骨神经麻痹等多配皮肤针沿神经线捶击)；慢性脊髓前角炎写作“间日轮换，针灸互用”。",
+      "en": "\"Rotate\" means using two sets in turn, not stacking them. 44 entries use rotate, exchange, take-turns or similar words, and 37 of them print exactly two point lines; the frequency is mostly \"daily or alternate days\" (45 entries) with no rule for choosing. The nervous-system chapter has most (18 of the 44; radial, ulnar, peroneal paralysis and so on, mostly with skin-needle tapping along the nerve); chronic anterior horn myelitis reads \"alternate days, rotate, needle and moxa in turn\".",
+      "cite": [
+        "C2",
+        "C3",
+        "C4",
+        "C1"
+      ]
+    },
+    {
+      "zh": "他明确不求速效，要求耐性久治。慢性喉头炎“患者与医家，必须耐性作1个月以上之持续针治”；心脏瓣膜症“不必按症立法，只需耐心久治”；肺结核“绝不可存速效之心”；脑溢血“本病无速效之理”；偏头痛“不易收捷效”。全书明言“耐性／耐心”的5条，“久治、持久、久久不断”一类字样的25条。",
+      "en": "He plainly does not expect quick results. Chronic laryngitis: \"patient and physician must persist patiently for over a month\"; valvular heart disease: \"no need to treat by symptom, only patient long treatment\"; TB: \"never harbour hope of a quick effect\"; cerebral haemorrhage: \"no such thing as quick effect\"; migraine: \"not easy to get a quick effect\". Five entries say patience outright and 25 use long-course wording.",
+      "cite": [
+        "C1",
+        "C5",
+        "C6",
+        "C7",
+        "C8"
+      ]
+    },
+    {
+      "zh": "疗程的长短，他用月来表达慢性病：易感冒者每日灸“持续1个月以上，即不发生”；神经性心悸亢进症“持续二三个月”，神经性消化不良“需二三个月以上”，歇斯底里“必须持续数月”，慢性支气管炎的药艾条“能灸治二三个月以上”。短程的病以次或日计：急性喉头炎“针二三次”，急性支气管炎“连针3数日”，疟疾“普通二三次而愈”；脚气则在预后里给出时程：浮肿型“一二周收效”，萎缩型“非一二个月不可”。",
+      "en": "Chronic disease is timed in months: for the cold-prone, daily moxa \"for over a month and it does not occur\"; nervous palpitation \"two to three months\", nervous dyspepsia \"over two to three months\", hysteria \"months\", chronic bronchitis medicated moxa stick \"two to three months or more\". Short courses are timed in sessions or days: acute laryngitis \"two or three sessions\", acute bronchitis \"three or so days\", malaria \"usually two or three\"; beriberi gives its timescale in the prognosis: oedematous form \"one or two weeks\", atrophic \"one or two months at least\".",
+      "cite": [
+        "C9",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C14",
+        "C16",
+        "C43"
+      ]
+    },
+    {
+      "zh": "同一病随阶段换档：急性期强刺激、每日，慢性期改轻刺激或中刺激，并加灸。扁桃腺炎急性26号针重刺激、慢性28号针中等刺激；膀胱炎急性强刺激、慢性日用温灸；睾丸炎强刺激数次即消，转成慢性改药艾条灸；子宫内膜炎急性每日中刺激、慢性轻刺激加艾条；膝关节炎急性每日中刺激加吸筒、慢性间日针加艾条。刺激分档的意义见 cda-09。",
+      "en": "One disease changes gear by stage: strong and daily in the acute stage, then light or medium plus moxa in the chronic. Tonsillitis: acute 26-gauge heavy, chronic 28-gauge medium; cystitis: strong, then daily warm moxa; orchitis: strong, gone in a few sessions, and if chronic medicated moxa stick; endometritis: acute daily medium, chronic light plus moxa stick; knee arthritis: acute daily medium with cupping, chronic alternate-day needling plus moxa. For the grades see cda-09.",
+      "cite": [
+        "C17",
+        "C18",
+        "C19",
+        "C20",
+        "C15",
+        "C4",
+        "C21",
+        "C22",
+        "C23"
+      ]
+    },
+    {
+      "zh": "症状退下后，他把间隔拉长直到停针。肺结核：症状减轻后“越三四日1次”，一切症状消失后“每周针治1次”，X线示钙化后“续针二三个月(每周针1次)乃可停止”；癫痫的间隔由间一二日渐为三四日、五六日、一周、十日、半月，半年不发仍按月针，年余不发一二个月针一次。相反，食管狭窄给出了停针的界线：间日针治，“10次以上之针治无少效者，仍属不治”。",
+      "en": "As symptoms recede he spaces sessions out until stopping. Pulmonary TB: once symptoms ease \"every third or fourth day\", once all are gone \"weekly\", after X-ray calcification \"two to three more months, weekly, then stop\"; epilepsy: from every 1-2 days to 3-4, 5-6, a week, ten days, a fortnight, monthly after half a year free, every 1-2 months after a year. Conversely oesophageal stricture has a cut-off: every other day, and \"no effect after more than 10 sessions means still incurable\".",
+      "cite": [
+        "C25",
+        "C26",
+        "C24",
+        "C29",
+        "C30",
+        "C33"
+      ]
+    },
+    {
+      "zh": "由针转灸是另一种“换档”，理由是灸能持久：肺结核“热度盗汗等重要症状消失，脉搏亦退到90至以下时，可以改用灸治”；支气管喘息“发作停止1周之后”改每日小艾炷灸，连续二三个月“有持久不发良效”；慢性支气管炎初针数次“颇著显效”，但“因过劳或气候变易，可能恢复原状”，故用药艾条灸二三个月以上。",
+      "en": "Switching from needle to moxa is another change of gear, because moxa lasts: in TB once fever and night sweats have cleared and the pulse is under 90 \"one may switch to moxa\"; in asthma \"one week after the attack stops\" daily small cones for two to three months give \"a lasting effect\"; chronic bronchitis responds strikingly to the first few needlings but \"may return with overwork or a change of weather\", hence medicated moxa stick for two to three months or more.",
+      "cite": [
+        "C28",
+        "C40",
+        "C41",
+        "C42",
+        "C10"
+      ]
+    },
+    {
+      "zh": "他按患者的反应调整，而不是按日程表硬做。肺结核每次不多穴，“如发生疲倦，宜休息一二日再行针治”；麻痹狂“针后体倦思睡，尽其酣睡，经一二日醒后再针”，若初针未见倦睡则逐日针，并且初起半年内收效较速、一二年以上则效迟、3年以上更难；压迫性脊髓炎蒜灸后发热体疲，“多间一二日，俟其恢复未灸时之状况时再灸，其灸炷酌量减少之”；子宫癌肿初灸三炷，多则发热体疲，无反应可加至五炷，流出液“猝然停止”即减炷或暂停；脊髓痨轮灸“仅使其感觉灼痛为止”。",
+      "en": "He adjusts by the patient's response rather than by calendar. TB: few points a visit and \"if fatigue appears, rest a day or two before needling again\"; mania: after needling the patient tires and sleeps, \"needle again a day or two after waking\", daily if the first needling brought no sleep, and response is faster within half a year of onset, slower after one or two years, hardest after three; compressive myelitis: after garlic moxa with fever and fatigue, \"wait a day or two until back to the pre-moxa state, then moxa again, with fewer cones\"; uterine cancer: start with three cones, more brings fever and fatigue, add up to five if no reaction, and if the discharge \"suddenly stops\" reduce or pause; tabes: moxa \"only until burning pain is felt\".",
+      "cite": [
+        "C27",
+        "C31",
+        "C32",
+        "C35",
+        "C36",
+        "C37",
+        "C34"
+      ]
+    },
+    {
+      "zh": "针的时机也是疗程的一部分：疟疾“于病之发作前一二小时针治”；喉头结核的潮热“宜在发热前1小时针之”、盗汗“宜在睡前针之”；月经困难症从经前四五日开始间日针治，连续几个周期；船晕“应作预防法，于乘船前，先针风池、天柱、身柱、足三里”。",
+      "en": "Timing of the needle is part of the course too: malaria \"one or two hours before the attack\"; the tidal fever of laryngeal TB \"an hour before the fever\" and night sweats \"before sleep\"; dysmenorrhoea from four or five days before the period for several cycles; motion sickness prevented by needling Fengchi, Tianzhu, Shenzhu and Zusanli before boarding.",
+      "cite": [
+        "C16",
+        "C39",
+        "C38",
+        "C44"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h": {
+        "zh": "“每日或间日”与“轮换”：频次与两套穴",
+        "en": "\"Daily or alternate days\" and \"rotate\": frequency and two sets"
+      },
+      "body": {
+        "zh": "处方的频次写法只有几种：“每日”“每日或间日”“间日”，以及“每间一二日”“间三四日”这类拉长的说法。“每日或间日”出现于45条，书中没有规定何时每日、何时间日(肺结核一条明说“不须每日针治”，并给出每日针时只取一主穴二辅穴的办法)。“轮换”的对象是两套穴：原文先列两行穴位，再写“每日或间日轮换作中刺激之针治”，两行之间没有重复(见 cda-10)。表1把各种用语与条数列出。",
+        "en": "Frequency is written in only a few ways: daily, daily or alternate days, alternate days, and lengthened forms such as every 1-2 or 3-4 days. \"Daily or alternate days\" appears in 45 entries with no rule for choosing (the TB entry says outright that daily needling is unnecessary and gives a way of using one main and two auxiliary points if daily). \"Rotate\" refers to two sets: the text prints two lines of points and then \"rotate, medium stimulation, daily or alternate days\", the two lines sharing no point (see cda-10). Table 1 lists the wording and counts."
+      }
+    },
+    {
+      "h": {
+        "zh": "肺结核：一个完整的疗程样本",
+        "en": "Pulmonary TB: a full worked course"
+      },
+      "body": {
+        "zh": "肺结核一条把他的疗程观写得最完整。开始：“医者与病家，绝不可存速效之心。多针多取穴，得不偿失”，每次用穴不超过8个，以四五穴为宜，如每日针只取一主穴二辅穴，或单日取增加营养吸收之穴、双日取加强肺脏组织之穴；疲倦则休息一二日。中期：各重要症状消失，仅有轻微咳嗽咯痰时，越三四日1次；一切症状消失后每周1次；X线示钙化后续针二三个月(每周1次)乃可停止，并仍需摄生以防复发。另一路：症状消退、脉搏退到90以下时改用灸，只取肺俞、身柱、督俞、关元、足三里，每日小艾炷三至五壮，半月之后渐见咳稀痰减，二三个月后体重增加。这一份日程只写在肺结核一条，不宜推到其他病。",
+        "en": "The TB entry gives his fullest picture of a course. Start: \"never hope for a quick effect; many needles and many points cost more than they gain\", no more than eight points a visit and four or five best, or on daily needling one main and two auxiliary points, or nutrition-absorption points on odd days and lung-strengthening points on even days; if fatigued rest a day or two. Middle: when the leading symptoms are gone and only mild cough and sputum remain, every third or fourth day; once all symptoms are gone weekly; after X-ray calcification two to three more months weekly before stopping, while continuing hygiene against relapse. The other path: when symptoms recede and the pulse is under 90 switch to moxa on Feishu, Shenzhu, Duyu, Guanyuan, Zusanli, small cones 3-5 daily; after a fortnight cough and sputum lessen, after two or three months weight rises. This schedule is written only in the TB entry and should not be extended to other diseases."
+      }
+    },
+    {
+      "h": {
+        "zh": "换档、放疏与停：书中给出的信号",
+        "en": "Change, space out, stop: the signals the text gives"
+      },
+      "body": {
+        "zh": "书中给出的信号大致有五类：阶段(急性→慢性，急救→吸收，见表2)；症状消退(拉长间隔至停针：肺结核、癫痫)；反应(疲倦、酣睡、发热体疲、流出液猝停，则休息、减炷或暂停：肺结核、麻痹狂、压迫性脊髓炎、子宫癌肿)；无效的界线(食管狭窄10次以上无少效仍属不治)；以及时间点(发作前、发热前、睡前、经前，见要点8)。这些多是逐条散见的指示，不是全书统一的规程。",
+        "en": "The signals fall into five kinds: stage (acute to chronic, first aid to absorption, Table 2); symptoms receding (spacing out to stopping: TB, epilepsy); response (fatigue, deep sleep, fever with fatigue, sudden stop of discharge mean rest, fewer cones or pause: TB, mania, compressive myelitis, uterine cancer); a cut-off for no effect (oesophageal stricture, no benefit after more than 10 sessions); and time points (before the attack, before the fever, before sleep, before the period, see takeaway 8). Most are scattered entry-by-entry instructions rather than a uniform rule."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 频次与“轮换”用语(对处方文字的重新统计)",
+        "en": "Table 1. Frequency and rotation wording (recount of the prescription text)"
+      },
+      "cols": [
+        {
+          "zh": "用语",
+          "en": "Wording"
+        },
+        {
+          "zh": "书中用法",
+          "en": "How it is used"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        },
+        {
+          "zh": "例",
+          "en": "Examples"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "每日或间日",
+            "en": "Daily or alternate days"
+          },
+          {
+            "zh": "最常见的频次写法，书中不规定二者何时取舍；常与“中刺激”“轻刺激”连写",
+            "en": "The commonest frequency phrase; the book does not say when to choose which; often written with \"medium\" or \"light\""
+          },
+          "45",
+          {
+            "zh": "慢性喉头炎、肺气肿、神经性消化不良、常习性便秘、舞蹈病",
+            "en": "chronic laryngitis, emphysema, nervous dyspepsia, habitual constipation, chorea"
+          }
+        ],
+        [
+          {
+            "zh": "轮换／交换",
+            "en": "Rotate / exchange"
+          },
+          {
+            "zh": "取穴分两行(两套)，隔次或隔日交替使用；“交换”“轮换”在书中同义",
+            "en": "The points are printed in two lines (two sets) used alternately; \"jiaohuan\" and \"lunhuan\" are synonyms here"
+          },
+          "19 / 9",
+          {
+            "zh": "慢性喉头炎、心脏瓣膜症、胃溃疡、腹水、子宫内膜炎、甲状腺肥大",
+            "en": "chronic laryngitis, valvular heart disease, gastric ulcer, ascites, endometritis, goitre"
+          }
+        ],
+        [
+          {
+            "zh": "轮流／轮针／轮取／轮用",
+            "en": "Take turns (other terms)"
+          },
+          {
+            "zh": "同为两套穴交替，用词不同；坐骨神经麻痹“间日轮流”，舞蹈病“每日或间日轮取”",
+            "en": "Same alternation with other words; sciatic paralysis \"alternate days in turn\", chorea \"daily or alternate days in turn\""
+          },
+          "3 / 7 / 5 / 1",
+          {
+            "zh": "桡骨、尺骨、腓骨神经麻痹，偏执狂，百日咳，月经闭止症",
+            "en": "radial, ulnar and peroneal nerve paralysis, monomania, whooping cough, amenorrhoea"
+          }
+        ],
+        [
+          {
+            "zh": "轮灸",
+            "en": "Rotate the moxa"
+          },
+          {
+            "zh": "不是两套穴，而是脊髓痨中把大椎至尾闾分三部，按日序轮灸(表见正文)",
+            "en": "Not two point sets: in tabes the spine from Dazhui to the coccyx is divided in three and moxaed in turn by day number"
+          },
+          "1",
+          {
+            "zh": "脊髓痨",
+            "en": "tabes dorsalis"
+          }
+        ],
+        [
+          {
+            "zh": "含“间日”类字样",
+            "en": "Any \"every other day\" wording"
+          },
+          {
+            "zh": "“间日”“间一二日”“间三四日”等，包括上面的“每日或间日”",
+            "en": "Includes every-other-day, every 1-2 days, every 3-4 days, and the \"daily or alternate\" entries above"
+          },
+          "73",
+          {
+            "zh": "支气管扩张、遗精症、癫痫(间隔渐长)、月经困难症",
+            "en": "bronchiectasis, spermatorrhoea, epilepsy (spacing lengthens), dysmenorrhoea"
+          }
+        ],
+        [
+          {
+            "zh": "耐性／耐心",
+            "en": "Patience"
+          },
+          {
+            "zh": "明言病家与医者须有耐性的条目；多见于慢性与神经麻痹",
+            "en": "Entries that say patient and physician must be patient; mostly chronic disease and nerve paralysis"
+          },
+          "5",
+          {
+            "zh": "慢性喉头炎、心脏瓣膜症、压迫性脊髓炎、慢性脊髓前角炎、尺骨神经麻痹",
+            "en": "chronic laryngitis, valvular heart disease, compressive myelitis, chronic anterior horn myelitis, ulnar paralysis"
+          }
+        ],
+        [
+          {
+            "zh": "久治／久针／持久／长久／久灸",
+            "en": "Long course words"
+          },
+          {
+            "zh": "“需久治乃效”“必须久治”“久久不断”等，在本书出现于此数(已剔除“久久不愈”“电疗久治”两处误中)",
+            "en": "\"Effective only after long treatment\", \"must be long\", \"keep at it\" and so on; the count excludes two false hits, \"long unhealed\" and \"long electrotherapy\""
+          },
+          "25",
+          {
+            "zh": "心脏痉挛、胃扩张、胃下垂、常习性头痛、舞蹈病、子宫肌肿",
+            "en": "angina, gastric dilatation, gastroptosis, habitual headache, chorea, uterine myoma"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 急性与慢性(或阶段)：同一病的两种做法",
+        "en": "Table 2. Acute versus chronic (or stage): two regimens for one disease"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "急性／初起",
+          "en": "Acute / first"
+        },
+        {
+          "zh": "慢性／转成慢性／后一阶段",
+          "en": "Chronic / later stage"
+        },
+        {
+          "zh": "页",
+          "en": "Page"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "扁桃腺炎",
+            "en": "Tonsillitis"
+          },
+          {
+            "zh": "26号针重刺激，每日1次",
+            "en": "26-gauge, heavy, daily"
+          },
+          {
+            "zh": "28号针中等刺激，每日1次",
+            "en": "28-gauge, medium, daily"
+          },
+          "p.229"
+        ],
+        [
+          {
+            "zh": "肋膜炎",
+            "en": "Pleurisy"
+          },
+          {
+            "zh": "26号针强刺激，每日1次",
+            "en": "26-gauge, strong, daily"
+          },
+          {
+            "zh": "体温已正常而胸胁痛未已(转成慢性)：小艾炷日灸三至五壮",
+            "en": "Once temperature is normal but chest pain remains (turned chronic): small cones daily, 3-5"
+          },
+          "p.222"
+        ],
+        [
+          {
+            "zh": "膀胱炎",
+            "en": "Cystitis"
+          },
+          {
+            "zh": "强刺激",
+            "en": "Strong"
+          },
+          {
+            "zh": "日用温灸",
+            "en": "Warm moxa daily"
+          },
+          "p.242"
+        ],
+        [
+          {
+            "zh": "睾丸炎",
+            "en": "Orchitis"
+          },
+          {
+            "zh": "强刺激日针1次，数次即消",
+            "en": "Strong, daily; \"a few sessions and it subsides\""
+          },
+          {
+            "zh": "转成慢性：药艾灸条灸治，并灸关元、腰俞、三阴交，每日1次，渐消",
+            "en": "Turned chronic: medicated moxa stick on the testis plus Guanyuan, Yaoshu, Sanyinjiao, daily; gradual resolution"
+          },
+          "p.245"
+        ],
+        [
+          {
+            "zh": "淋疾",
+            "en": "Gonorrhoea"
+          },
+          {
+            "zh": "日用强刺激1次",
+            "en": "Strong once daily"
+          },
+          {
+            "zh": "轻刺激后以药艾灸条灸治，“不数次即愈”",
+            "en": "Light needling then medicated moxa stick, \"cured in a few sessions\""
+          },
+          "p.245"
+        ],
+        [
+          {
+            "zh": "摄护腺炎",
+            "en": "Prostatitis"
+          },
+          {
+            "zh": "以消炎诱导为目的，强刺激",
+            "en": "Aim anti-inflammation by induction, strong"
+          },
+          {
+            "zh": "以强壮为目的，轻刺激后药艾灸条，每日1次",
+            "en": "Aim strengthening, light needling then medicated moxa stick, daily"
+          },
+          "p.245"
+        ],
+        [
+          {
+            "zh": "子宫内膜炎",
+            "en": "Endometritis"
+          },
+          {
+            "zh": "每日轮换针治，中刺激",
+            "en": "Daily, rotate, medium"
+          },
+          {
+            "zh": "轻刺激，兼艾条灸",
+            "en": "Light, plus moxa stick"
+          },
+          "p.269"
+        ],
+        [
+          {
+            "zh": "卵巢炎",
+            "en": "Oophoritis"
+          },
+          {
+            "zh": "强刺激",
+            "en": "Strong"
+          },
+          {
+            "zh": "中刺激并艾条灸",
+            "en": "Medium plus moxa stick"
+          },
+          "p.270"
+        ],
+        [
+          {
+            "zh": "膝关节炎",
+            "en": "Knee arthritis"
+          },
+          {
+            "zh": "每日中刺激1次，膝周加吸筒，间日1次",
+            "en": "Medium daily; cupping every other day"
+          },
+          {
+            "zh": "间日针治1次，并艾条灸，亦需吸筒",
+            "en": "Needle every other day plus moxa stick and cupping"
+          },
+          "p.266"
+        ],
+        [
+          {
+            "zh": "脑溢血(以阶段分)",
+            "en": "Cerebral haemorrhage (by stage)"
+          },
+          {
+            "zh": "初发急救：大炷灸关元；商阳、中冲、三阴交、涌泉强刺激，每日1次",
+            "en": "First aid: large-cone Guanyuan; strong on Shangyang, Zhongchong, Sanyinjiao, Yongquan, daily"
+          },
+          {
+            "zh": "知觉渐复后促进吸收：先针能动一侧强刺激，次针不能动一侧轻刺激，每间一日或二三日1次",
+            "en": "Once sensation returns, to hasten absorption: strong on the mobile side, then light on the paralysed side, every 1-3 days"
+          },
+          "p.247"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 坚持多久、何时放疏、何时停",
+        "en": "Table 3. How long to persist, when to space out, when to stop"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "原文所说",
+          "en": "What the text says"
+        },
+        {
+          "zh": "类型",
+          "en": "Kind"
+        },
+        {
+          "zh": "页",
+          "en": "Page"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "慢性喉头炎",
+            "en": "Chronic laryngitis"
+          },
+          {
+            "zh": "每日或间日轮换，患者与医家须耐性作1个月以上之持续针治",
+            "en": "Rotate daily or alternate days; patient and physician must persist for over a month"
+          },
+          {
+            "zh": "持续",
+            "en": "Persist"
+          },
+          "p.215"
+        ],
+        [
+          {
+            "zh": "泪囊炎",
+            "en": "Dacryocystitis"
+          },
+          {
+            "zh": "上四穴轻刺激，下三穴小艾炷各灸五壮，每日或间日1次，持续1个月以上",
+            "en": "Upper four points light needling, lower three small cones 5 each, daily or alternate days, for over a month"
+          },
+          {
+            "zh": "持续",
+            "en": "Persist"
+          },
+          "p.278"
+        ],
+        [
+          {
+            "zh": "感冒(易感冒者)",
+            "en": "Common cold (the susceptible)"
+          },
+          {
+            "zh": "每日灸风门、肺俞、足三里，持续1个月以上，即不发生",
+            "en": "Moxa Fengmen, Feishu, Zusanli daily for over a month and it does not occur"
+          },
+          {
+            "zh": "预防性灸",
+            "en": "Preventive moxa"
+          },
+          "p.284"
+        ],
+        [
+          {
+            "zh": "神经性心悸亢进症",
+            "en": "Nervous palpitation"
+          },
+          {
+            "zh": "每日或间日交换针治，持续二三个月",
+            "en": "Exchange sets daily or alternate days for two to three months"
+          },
+          {
+            "zh": "持续",
+            "en": "Persist"
+          },
+          "p.226"
+        ],
+        [
+          {
+            "zh": "神经性消化不良",
+            "en": "Nervous dyspepsia"
+          },
+          {
+            "zh": "每日或间日交换，需二三个月以上之针疗",
+            "en": "Exchange sets; needs over two to three months of needling"
+          },
+          {
+            "zh": "持续",
+            "en": "Persist"
+          },
+          "p.234"
+        ],
+        [
+          {
+            "zh": "慢性支气管炎",
+            "en": "Chronic bronchitis"
+          },
+          {
+            "zh": "药艾灸条能灸治二三个月以上，可持续数年不发",
+            "en": "Medicated moxa stick for two to three months or more; stays away for years"
+          },
+          {
+            "zh": "灸的持久",
+            "en": "Sustained moxa"
+          },
+          "p.218"
+        ],
+        [
+          {
+            "zh": "支气管喘息",
+            "en": "Bronchial asthma"
+          },
+          {
+            "zh": "发作停止1周之后转灸，连续灸治二三个月，有持久不发良效",
+            "en": "One week after the attack stops switch to moxa, continued two to three months, lasting effect"
+          },
+          {
+            "zh": "针转灸",
+            "en": "Needle to moxa"
+          },
+          "p.218"
+        ],
+        [
+          {
+            "zh": "歇斯底里",
+            "en": "Hysteria"
+          },
+          {
+            "zh": "间日或间三四日轻刺激1次，必须持续数月；关元每日灸",
+            "en": "Light needling every 1-4 days, must persist for months; Guanyuan moxa daily"
+          },
+          {
+            "zh": "持续",
+            "en": "Persist"
+          },
+          "p.263"
+        ],
+        [
+          {
+            "zh": "肺结核",
+            "en": "Pulmonary TB"
+          },
+          {
+            "zh": "症状减轻后越三四日1次，全消后每周1次，X线示钙化后续针二三个月(每周1次)乃可停止",
+            "en": "After symptoms ease every 3-4 days, after all gone weekly, after X-ray calcification two to three more months weekly, then stop"
+          },
+          {
+            "zh": "拉长间隔至停针",
+            "en": "Lengthen then stop"
+          },
+          "p.221"
+        ],
+        [
+          {
+            "zh": "癫痫",
+            "en": "Epilepsy"
+          },
+          {
+            "zh": "间隔由间一二日渐为三四日、五六日、一周、十日、半月；半年不发仍按月针一二次，年余不发一二个月一次",
+            "en": "Spacing lengthens from 1-2 days to 3-4, 5-6, a week, ten days, a fortnight; after half a year free still monthly, after a year every 1-2 months"
+          },
+          {
+            "zh": "拉长间隔",
+            "en": "Lengthen"
+          },
+          "p.262"
+        ],
+        [
+          {
+            "zh": "食管狭窄",
+            "en": "Oesophageal stricture"
+          },
+          {
+            "zh": "间日针治，10次以上无少效者仍属不治",
+            "en": "Every other day; if no effect after more than 10 sessions it is still incurable"
+          },
+          {
+            "zh": "设停针界线",
+            "en": "A cut-off"
+          },
+          "p.231"
+        ],
+        [
+          {
+            "zh": "急性喉头炎",
+            "en": "Acute laryngitis"
+          },
+          {
+            "zh": "每日1次，针二三次",
+            "en": "Daily, two or three sessions"
+          },
+          {
+            "zh": "短程",
+            "en": "Short course"
+          },
+          "p.215"
+        ],
+        [
+          {
+            "zh": "急性支气管炎",
+            "en": "Acute bronchitis"
+          },
+          {
+            "zh": "日针1次，连针3数日，重者需助以药物",
+            "en": "Daily for three or so days; add drugs if severe"
+          },
+          {
+            "zh": "短程",
+            "en": "Short course"
+          },
+          "p.217"
+        ],
+        [
+          {
+            "zh": "疟疾",
+            "en": "Malaria"
+          },
+          {
+            "zh": "发作前一二小时针治，多一次即愈，普通二三次",
+            "en": "Needle one or two hours before the attack; often one session, usually two or three"
+          },
+          {
+            "zh": "短程与时机",
+            "en": "Short course, timing"
+          },
+          "p.283"
+        ],
+        [
+          {
+            "zh": "脚气",
+            "en": "Beriberi"
+          },
+          {
+            "zh": "浮肿性治疗一二周收效；萎缩性非一二个月不可",
+            "en": "Oedematous form responds in one or two weeks; atrophic form needs one or two months"
+          },
+          {
+            "zh": "预后中的时程",
+            "en": "Timescale in the prognosis"
+          },
+          "p.261"
+        ],
+        [
+          {
+            "zh": "月经困难症",
+            "en": "Dysmenorrhoea"
+          },
+          {
+            "zh": "经前四五日起间日针，经将终时针四五次，下期经前再针四五次；第三个月往往不再痛，仍再针三四次",
+            "en": "From 4-5 days before the period every other day, 4-5 sessions until it ends, again 4-5 before the next; often painless by the third month, then 3-4 more"
+          },
+          {
+            "zh": "按月经周期",
+            "en": "By menstrual cycle"
+          },
+          "p.272"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "每日或间日轮换作中刺激之针治，患者与医家，必须耐性作1个月以上之持续针治",
+      "src": "针灸处方集·第一章 呼吸器病·慢性喉头炎 p.215"
+    },
+    {
+      "id": "C2",
+      "quote": "每日轮针并灸之，并以皮肤针每日沿神经分布线捶击1次",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·尺骨神经麻痹 p.256"
+    },
+    {
+      "id": "C3",
+      "quote": "间日轮换，针灸互用，耐心久治",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·慢性脊髓前角炎 p.250"
+    },
+    {
+      "id": "C4",
+      "quote": "急性每日轮换针治，作中刺激法，慢性则用轻刺激，兼用艾条灸治",
+      "src": "针灸处方集·第六章 妇人科病·急慢性子宫内膜炎 p.269"
+    },
+    {
+      "id": "C5",
+      "quote": "不必按症立法，只需耐心久治",
+      "src": "针灸处方集·第二章 循环器病·心脏瓣膜症 p.225"
+    },
+    {
+      "id": "C6",
+      "quote": "肺病之于针治，医者与病家，绝不可存速效之心。多针多取穴，得不偿失",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C7",
+      "quote": "本病无速效之理，全视其脑部溢血之吸收迟速为症状好转之迟速",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脑溢血 p.247"
+    },
+    {
+      "id": "C8",
+      "quote": "本病属慢性，不易收捷效，生命无问题，在各种疗法中，以针灸治疗最适宜",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·偏头痛 p.264"
+    },
+    {
+      "id": "C9",
+      "quote": "凡易于感冒，每日取风门、肺俞、足三里，用艾条灸治，持续1个月以上，即不发生",
+      "src": "针灸处方集·第十一章 传染病·感冒 p.284"
+    },
+    {
+      "id": "C10",
+      "quote": "病家畏痛者，可用念盈药艾灸条，能灸治二三个月以上，平日再注意摄生，可以持续数年不发",
+      "src": "针灸处方集·第一章 呼吸器病·慢性支气管炎 p.218"
+    },
+    {
+      "id": "C11",
+      "quote": "间日或间三四日作轻刺激针治1次，必须持续数月。关元则每日用温灸器或艾条灸治之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·歇斯底里 p.263"
+    },
+    {
+      "id": "C12",
+      "quote": "每日或间日交换作中等度之刺激，需二三个月以上之针疗",
+      "src": "针灸处方集·第三章 消化器病·神经性消化不良 p.234"
+    },
+    {
+      "id": "C13",
+      "quote": "有感冒者，再加风府、外关、合谷诸穴。每日1次，针二三次",
+      "src": "针灸处方集·第一章 呼吸器病·急性喉头炎 p.215"
+    },
+    {
+      "id": "C14",
+      "quote": "日针1次，连针3数日，重者需助以药物",
+      "src": "针灸处方集·第一章 呼吸器病·急性支气管炎 p.217"
+    },
+    {
+      "id": "C15",
+      "quote": "用强刺激日针1次，数次即消。转成慢性时，以药艾灸条对准睾丸灸治，并灸关元、腰俞、三阴交，每日1次，渐消",
+      "src": "针灸处方集·第四章 泌尿生殖器病·睾丸炎 p.245"
+    },
+    {
+      "id": "C16",
+      "quote": "于病之发作前一二小时针治之，每多一次即愈，普通二三次而愈",
+      "src": "针灸处方集·第十一章 传染病·疟疾 p.283"
+    },
+    {
+      "id": "C17",
+      "quote": "急性取穴：风池、天柱、大杼、尺泽、少商、商阳。每日1次，26号针作重刺激",
+      "src": "针灸处方集·第三章 消化器病·扁桃腺炎 p.229"
+    },
+    {
+      "id": "C18",
+      "quote": "慢性取穴：天柱、大杼、鱼际、液门。每日1次，28号针作中等刺激",
+      "src": "针灸处方集·第三章 消化器病·扁桃腺炎 p.229"
+    },
+    {
+      "id": "C19",
+      "quote": "急性取穴：大肠俞、膀胱俞、上髎、中髎、足三里、血海、阴陵泉、三阴交，作强刺激",
+      "src": "针灸处方集·第四章 泌尿生殖器病·膀胱炎 p.242"
+    },
+    {
+      "id": "C20",
+      "quote": "慢性取穴：肾俞、上髎、中髎、气海、中极，日用温灸",
+      "src": "针灸处方集·第四章 泌尿生殖器病·膀胱炎 p.242"
+    },
+    {
+      "id": "C21",
+      "quote": "急性者：每日用中刺激针治1次，并于两膝眼及阴市与膝头两侧加用吸筒，间日1次",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·膝关节炎 p.266"
+    },
+    {
+      "id": "C22",
+      "quote": "慢性者：间日针治1次，并用艾条灸治之，亦需用吸筒",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·膝关节炎 p.266"
+    },
+    {
+      "id": "C23",
+      "quote": "如体温已正常，而胸胁痛未已，转成慢性症状时……各取小艾炷日灸三至五壮",
+      "src": "针灸处方集·第一章 呼吸器病·肋膜炎 p.222"
+    },
+    {
+      "id": "C24",
+      "quote": "故不须每日针治。如每日针治，只可取一主穴二辅穴；或单日取增加营养吸收之穴，双日取加强肺脏组织之穴",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C25",
+      "quote": "及至各重要症状消失，仅有咳嗽咯痰亦已相当减轻时，可以越三四日1次。至一切症状消失后，还需每周针治1次",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C26",
+      "quote": "经X线检查已钙化后，续针二三个月(每周针1次)乃可停止",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C27",
+      "quote": "如发生疲倦，宜休息一二日再行针治",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C28",
+      "quote": "肺病初期，或针治已将热度盗汗等重要症状消失，脉搏亦退到90至以下时，可以改用灸治",
+      "src": "针灸处方集·第一章 呼吸器病·肺结核 p.221"
+    },
+    {
+      "id": "C29",
+      "quote": "针治方式，亦由间一二日，渐为三四日、五六日、一周、十日、半月之间隔针治",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·癫痫 p.262"
+    },
+    {
+      "id": "C30",
+      "quote": "如有半年以上不发，仍需按月针治一二次；年余不发，则一二个月针治一次以防止之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·癫痫 p.262"
+    },
+    {
+      "id": "C31",
+      "quote": "每经针后，体倦思睡，尽其酣睡，经一二日醒后再针，如初针未见倦睡，则逐日针治之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·麻痹狂 p.248"
+    },
+    {
+      "id": "C32",
+      "quote": "本病初起，半年以内者，收效较速……如病经一二年以上则效迟，3年以上者更难收效",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·麻痹狂 p.248"
+    },
+    {
+      "id": "C33",
+      "quote": "间日针治之，如经10次以上之针治无少效者，仍属不治",
+      "src": "针灸处方集·第三章 消化器病·食管狭窄 p.231"
+    },
+    {
+      "id": "C34",
+      "quote": "一、四、七日灸上部7节；二、五、八日灸中部7节；三、六、九日灸下部7节；每灸仅使其感觉灼痛为止，往返轮灸",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脊髓痨 p.249"
+    },
+    {
+      "id": "C35",
+      "quote": "如蒜灸后，发生热度升高，体疲无神时，多间一二日，俟其恢复未灸时之状况时再灸，其灸炷酌量减少之",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·压迫性脊髓炎 p.249"
+    },
+    {
+      "id": "C36",
+      "quote": "初灸三炷，多则发热体疲；如无反应，可加为五炷，间日或间二三日灸1次",
+      "src": "针灸处方集·第六章 妇人科病·子宫癌肿 p.269"
+    },
+    {
+      "id": "C37",
+      "quote": "如见灸后流出液猝然停止，灸炷亦需减少或暂停灸治，因不正常之停止，蓄积于中，久必崩溃也",
+      "src": "针灸处方集·第六章 妇人科病·子宫癌肿 p.269"
+    },
+    {
+      "id": "C38",
+      "quote": "编者每于月经来前四五日开始作间日针治，至月经将终时，针四五次，至下期经前，复照上穴针治四五次",
+      "src": "针灸处方集·第六章 妇人科病·月经困难症 p.272"
+    },
+    {
+      "id": "C39",
+      "quote": "潮热加陶道、间使。宜在发热前1小时针之。盗汗加阴郄、后溪。宜在睡前针之",
+      "src": "针灸处方集·第一章 呼吸器病·喉头结核 p.216"
+    },
+    {
+      "id": "C40",
+      "quote": "发作停止1周之后，以肺俞、督俞、身柱、灵台、气海、足三里，每日用小艾炷各灸三至七壮",
+      "src": "针灸处方集·第一章 呼吸器病·支气管喘息 p.218"
+    },
+    {
+      "id": "C41",
+      "quote": "连续灸治二三个月，有持久不发良效",
+      "src": "针灸处方集·第一章 呼吸器病·支气管喘息 p.218"
+    },
+    {
+      "id": "C42",
+      "quote": "每日交换作中刺激之针治，初针数次，颇著显效；第因过劳或气候变易，可能恢复原状",
+      "src": "针灸处方集·第一章 呼吸器病·慢性支气管炎 p.218"
+    },
+    {
+      "id": "C43",
+      "quote": "浮肿性者易愈，治疗一二周收效；萎缩性者，非一二个月不可",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·脚气 p.261"
+    },
+    {
+      "id": "C44",
+      "quote": "本病应作预防法，于乘船前，先针风池、天柱、身柱、足三里等穴",
+      "src": "针灸处方集·第五章 脑及脊髓及神经系病·船晕 p.263"
+    }
+  ],
+  "how_to_use": {
+    "zh": "读一张处方的末尾几行：先看是否写了两行穴位和“轮换”(两套交替)，再看“每日或间日”(书中未规定取舍)，并留意有无“耐性”“久治”“持续X个月”“越几日1次”“转成慢性”“改用灸”等提示；有反应类的话(疲倦、发热、流出液)优先按反应处理。刺激分档见 cda-09，取穴构成见 cda-10。疗程的具体日数只在少数条目写明，不要从肺结核或癫痫的样本推到全书。",
+    "en": "At the tail of a prescription look for two point lines with \"rotate\" (two sets in alternation); read \"daily or alternate days\" as left open by the text; and watch for \"patience\", \"long treatment\", \"for X months\", \"every few days\", \"turned chronic\" or \"switch to moxa\". Statements about response (fatigue, fever, discharge) take priority. For grades see cda-09, for point construction cda-10. Concrete schedules appear in only a few entries; do not extend the TB or epilepsy sample to the whole book."
+  },
+  "caveats": {
+    "zh": "频次、轮换与疗程的条数是对原书中文的重新统计，其中“久治”类已剔除两处误中；“每日或间日”等多为民国临床习惯，书中没有对应的现代疗程标准。",
+    "en": "Counts of frequency, rotation and course are a recount of the Chinese text, with two false \"long treatment\" hits removed. \"Daily or alternate days\" reflects Republican-era practice; the book gives no schedule standards in the modern sense."
+  },
+  "see": {
+    "notes": [
+      "Chronic Laryngitis (阴虚喉痛) 慢性喉头炎",
+      "Pulmonary Tuberculosis (痨瘵、传尸、肺痨) 肺结核",
+      "Epilepsy (Wuxian) 癫痫",
+      "Paralytic Insanity (Dianguang) 麻痹狂",
+      "Compressive Myelitis (Guibei) 压迫性脊髓炎",
+      "Uterine Cancer (崩漏) 子宫癌肿",
+      "Chronic Bronchitis (老咳、痰饮咳嗽) 慢性支气管炎",
+      "Bronchial Asthma (喘急、气喘、喘促、哮喘) 支气管喘息",
+      "Tabes Dorsalis 脊髓痨",
+      "Radial Nerve Palsy (Shouwanwuli) 桡骨神经麻痹",
+      "Dysmenorrhea (痛经) 月经困难症"
+    ],
+    "points": [
+      "肺俞",
+      "身柱",
+      "关元",
+      "足三里",
+      "风门",
+      "风池",
+      "天柱",
+      "陶道"
+    ],
+    "rx": [
+      "cda-rx-002",
+      "cda-rx-017",
+      "cda-rx-151",
+      "cda-rx-100",
+      "cda-rx-105",
+      "cda-rx-174",
+      "cda-rx-010",
+      "cda-rx-012",
+      "cda-rx-104",
+      "cda-rx-183"
+    ]
+  }
+}

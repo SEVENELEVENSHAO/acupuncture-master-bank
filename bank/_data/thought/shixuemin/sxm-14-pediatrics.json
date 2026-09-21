@@ -1,0 +1,438 @@
+{
+  "id": "sxm-14-pediatrics",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 14,
+  "title": {
+    "zh": "儿科：脑与神志病用头针与醒神，小儿脾胃取足三里加四缝而手法宜轻，遗尿温补脾肾",
+    "en": "Pediatrics: Scalp Needling and Spirit-Awakening for Brain and Mind Disorders, Zusanli plus Sifeng with Gentle Technique for Children's Digestion, Warm-Tonifying Spleen and Kidney for Enuresis"
+  },
+  "summary": {
+    "zh": "儿科在书中只有7个病，可分三类。脑性瘫痪、多发性抽搐症、儿童多动综合征属脑与神志病：经穴之外加头皮针、耳针、舌针，治则是“开窍益智、培补肝肾”“平肝息风、宁心安神”“醒神调督、调和阴阳”，疗程按月计(3个月、2个月)，多动症建议至少8个月。再发性腹痛、消化不良、厌食是小儿脾胃病：以足三里为核心(7条中6条用)，消化不良与厌食加四缝点刺，并强调“不宜留针过久，针刺手法不宜过重”。遗尿按虚寒论治，“温补脾肾、益气固摄”，取任脉与三阴经穴。",
+    "en": "Pediatrics has only seven diseases in the book and falls into three groups. Cerebral palsy, tic disorder and hyperactivity are brain and mind disorders: beside body points come scalp, auricular and tongue needling, with principles \"open the orifices, benefit intelligence, nourish liver and kidney\", \"calm liver, quell wind, quiet heart, settle spirit\", \"awaken spirit, regulate du, harmonise yin and yang\"; courses run in months (3, 2), and at least 8 months is advised for hyperactivity. Recurrent abdominal pain, dyspepsia and anorexia are children's spleen-stomach disease: Zusanli is the core (in 6 of the 7 entries), dyspepsia and anorexia add pricking of Sifeng, and he stresses \"do not retain the needle long, do not use heavy manipulation\". Enuresis is treated as deficiency cold, \"warm and tonify spleen and kidney, boost qi and secure\", with ren-channel and three-yin points."
+  },
+  "takeaways": [
+    {
+      "zh": "脑性瘫痪病位“在脑，与肝肾密切相关”，治则“开窍益智，培补肝肾”(另补益气血)：主穴百会、四神聪、头维、风池、华佗夹脊、关元、足三里、三阴交，再按症状分部加穴——控头不佳加大椎、天柱、完骨，言语吞咽加地仓、廉泉、承浆，上下肢各有加穴；同时用头皮针八条线、舌针、耳针。重症有合并症预后差，强调“早期发现、早期干预、综合康复”。",
+      "en": "Cerebral palsy: site \"in the brain, closely tied to liver and kidney\", principle \"open the orifices, benefit intelligence, nourish liver and kidney\" (with boosting qi-blood). Main points Baihui, Sishencong, Touwei, Fengchi, Huatuojiaji, Guanyuan, Zusanli, Sanyinjiao, then points by body part: poor head control adds Dazhui, Tianzhu, Wangu; speech and swallowing Dicang, Lianquan, Chengjiang; upper and lower limbs each have additions; scalp needling on eight lines, tongue and auricular needling alongside. Severe cases with complications have a poor outlook; he stresses \"early detection, early intervention, comprehensive rehabilitation\".",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "抽动与多动两个行为神志病都靠醒神与调督：多发性抽搐症治则“平肝息风、宁心安神”，加“适当的心理疏导也可调节气机”，主穴百会、人中、风池、印堂、四白、地仓、合谷、太冲；儿童多动综合征“醒神调督、调和阴阳”，取内关、人中、神门、大椎、百会、太溪。多动症“建议治疗时间至少为8个月”，抽动症重症可“针药结合”。",
+      "en": "Tic and hyperactivity, both behavioural-mental, rely on awakening the spirit and regulating the du channel. Tic disorder: principle \"calm liver, quell wind, quiet heart, settle spirit\", with \"appropriate psychological guidance also regulating qi\"; main points Baihui, Renzhong, Fengchi, Yintang, Sibai, Dicang, Hegu, Taichong. Hyperactivity: \"awaken spirit, regulate du, harmonise yin and yang\" with Neiguan, Renzhong, Shenmen, Dazhui, Baihui, Taixi. For hyperactivity \"at least 8 months of treatment is advised\"; severe tic may add \"acupuncture with drugs\".",
+      "cite": [
+        "E4",
+        "E5",
+        "E6",
+        "E7"
+      ]
+    },
+    {
+      "zh": "小儿脾胃病共用足三里(7条儿科处方中6条)：再发性腹痛“治疗关键在于健脾和中、行气止痛”，主穴足三里、合谷、三阴交，按脐上、脐下、脐周、侧腹加中脘、关元、中极、天枢、气海、阳陵泉；消化不良“调补脾胃、消积导滞”，厌食“行气导滞，健脾和胃”，两者都加四缝并配耳针。",
+      "en": "Children's spleen-stomach disease shares Zusanli (6 of the 7 pediatric entries). Recurrent abdominal pain: \"the key is to strengthen the spleen, harmonise the centre, move qi, stop pain\", main points Zusanli, Hegu, Sanyinjiao, with Zhongwan, Guanyuan, Zhongji, Tianshu, Qihai, Yanglingquan by site of pain; dyspepsia \"regulate and tonify spleen and stomach, remove accumulation\"; anorexia \"move qi, remove stagnation, strengthen spleen, harmonise stomach\"; both add Sifeng and auricular points.",
+      "cite": [
+        "E8",
+        "E9",
+        "E10",
+        "E11"
+      ]
+    },
+    {
+      "zh": "对小儿的手法单独写明：厌食“经穴刺法中等刺激不留针”，“不宜留针过久，针刺手法不宜过重”；再发性腹痛留针仅15min；四缝每周点刺1次，4次为1个疗程。这与成人病常用的大量、强手法不同。",
+      "en": "Manipulation for children is written out separately. Anorexia: \"moderate stimulation, needle not retained\", \"do not retain the needle long, do not use heavy manipulation\"; recurrent abdominal pain retains the needle only 15 min; Sifeng is pricked once a week, 4 times a course. This differs from the strong, heavy manipulation common in adult disease.",
+      "cite": [
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "zh": "遗尿按虚寒论治：“多与脾、肾、膀胱的功能失调有关，多属虚寒性病变”，提出“温补脾肾、益气固摄”，“手法掌握以温补为主”，“主要选用任脉和三阴经的穴位”：肾俞、膀胱俞、关元、中极、百会、三阴交。神经性尿失禁则借神经科做法：脑血管病所致加内关、人中，脊髓损伤所致加华佗夹脊。医案3例遗尿，关元、百会、三阴交、肾俞均出现3次。",
+      "en": "Enuresis is treated as deficiency cold: \"mostly related to spleen, kidney, bladder dysfunction, mostly deficiency-cold\", principle \"warm and tonify spleen and kidney, boost qi and secure\", \"manipulation mainly warm-tonifying\", \"chiefly ren and three-yin channel points\": Shenshu, Pangguangshu, Guanyuan, Zhongji, Baihui, Sanyinjiao. Neurogenic incontinence borrows from neurology: Neiguan and Renzhong after cerebrovascular disease, Huatuojiaji after spinal injury. In the 3 enuresis cases Guanyuan, Baihui, Sanyinjiao and Shenshu each appear 3 times.",
+      "cite": [
+        "E14",
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "zh": "儿科多法并用，疗程以“月”计：7条处方中耳针5条、头皮针3条、艾灸3条(脑瘫、再发性腹痛、遗尿)、舌针2条、四缝点刺2条；脑瘫与抽搐症“每日1次，每周5次，3个月为1个疗程”。预后写得直白：再发性腹痛“不易复发”，遗尿“可完全治愈”，抽动症与多动症需长期，重症脑瘫差。",
+      "en": "Pediatrics combines methods and counts courses in months: of 7 entries, auricular 5, scalp 3, moxa 3 (cerebral palsy, recurrent abdominal pain, enuresis), tongue 2, Sifeng pricking 2; cerebral palsy and tic \"once daily, five times a week, 3 months a course\". Prognosis is stated plainly: recurrent abdominal pain \"does not easily relapse\", enuresis \"can be completely cured\", tic and hyperactivity need long treatment, severe cerebral palsy is poor.",
+      "cite": [
+        "E17",
+        "E18",
+        "E14"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "儿科：病 → 治则 → 要穴 → 技术 → 预后/疗程",
+        "en": "Pediatrics: disease → principle → key points → technique → prognosis and course"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "治则",
+          "en": "Principle"
+        },
+        {
+          "zh": "要穴",
+          "en": "Key points"
+        },
+        {
+          "zh": "技术",
+          "en": "Technique"
+        },
+        {
+          "zh": "预后与疗程",
+          "en": "Prognosis and course"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "脑性瘫痪",
+            "en": "Cerebral palsy"
+          },
+          {
+            "zh": "开窍益智，培补肝肾，补益气血",
+            "en": "Open orifices, benefit intelligence, nourish liver-kidney, boost qi-blood"
+          },
+          "百会、四神聪、头维、风池、华佗夹脊、关元、足三里、三阴交；按肢体加穴",
+          {
+            "zh": "头皮针、舌针、耳针、温针灸",
+            "en": "Scalp, tongue, auricular, warmed needle"
+          },
+          {
+            "zh": "每周5次，3个月1疗程；重症并发症者差",
+            "en": "5 times a week, 3 months a course; poor with complications"
+          }
+        ],
+        [
+          {
+            "zh": "多发性抽搐症",
+            "en": "Tic disorder"
+          },
+          {
+            "zh": "宁心安神、平肝息风、化痰开窍",
+            "en": "Quiet heart, settle spirit, calm liver, quell wind, transform phlegm"
+          },
+          "百会、人中、风池、印堂、四白、地仓、合谷、太冲",
+          {
+            "zh": "头皮针(顶前斜线等)、耳针；心理疏导",
+            "en": "Scalp, auricular; psychological guidance"
+          },
+          {
+            "zh": "可降低发作频率；重症可针药结合",
+            "en": "Lowers attack frequency; severe: with drugs"
+          }
+        ],
+        [
+          {
+            "zh": "儿童多动综合征",
+            "en": "Hyperactivity"
+          },
+          {
+            "zh": "醒神调督、调和阴阳",
+            "en": "Awaken spirit, regulate du, harmonise yin-yang"
+          },
+          "内关、人中、神门、大椎、百会、太溪",
+          {
+            "zh": "头皮针、耳针、舌针",
+            "en": "Scalp, auricular, tongue"
+          },
+          {
+            "zh": "至少8个月；早期干预重要",
+            "en": "At least 8 months; early intervention matters"
+          }
+        ],
+        [
+          {
+            "zh": "再发性腹痛",
+            "en": "Recurrent abdominal pain"
+          },
+          {
+            "zh": "行气活血、通络止痛；健脾和中",
+            "en": "Move qi, activate blood, unblock, stop pain; strengthen spleen"
+          },
+          "足三里、合谷、三阴交；脐上中脘、脐下关元中极、脐周天枢气海",
+          {
+            "zh": "留针15min；温灸每穴5~10min；调护禁寒凉",
+            "en": "Retain 15 min; moxa 5-10 min per point; avoid cold food"
+          },
+          {
+            "zh": "近期疗效显著，不易复发",
+            "en": "Good short-term, does not easily relapse"
+          }
+        ],
+        [
+          {
+            "zh": "消化不良(食积)",
+            "en": "Dyspepsia"
+          },
+          {
+            "zh": "调补脾胃、消积导滞",
+            "en": "Tonify spleen-stomach, remove accumulation"
+          },
+          "足三里、中脘、建里、气海、四缝；脾俞、胃俞、公孙",
+          {
+            "zh": "四缝点刺；耳针",
+            "en": "Sifeng pricking; auricular"
+          },
+          {
+            "zh": "预后较好；10次1疗程",
+            "en": "Good; 10 sessions a course"
+          }
+        ],
+        [
+          {
+            "zh": "厌食症",
+            "en": "Anorexia"
+          },
+          {
+            "zh": "行气导滞，健脾和胃",
+            "en": "Move qi, remove stagnation, strengthen spleen, harmonise stomach"
+          },
+          "足三里、脾俞、胃俞、中脘、四缝",
+          {
+            "zh": "中等刺激不留针；四缝每周1次；耳针",
+            "en": "Moderate, no retention; Sifeng weekly; auricular"
+          },
+          {
+            "zh": "预后良好；10次1疗程",
+            "en": "Good; 10 sessions a course"
+          }
+        ],
+        [
+          {
+            "zh": "遗尿症",
+            "en": "Enuresis"
+          },
+          {
+            "zh": "益肾固摄；温补脾肾、益气固摄",
+            "en": "Boost kidney, secure; warm-tonify spleen-kidney"
+          },
+          "肾俞、膀胱俞、关元、中极、百会、三阴交",
+          {
+            "zh": "温补手法；神经性者加内关、人中或夹脊",
+            "en": "Warm-tonifying manipulation; neurogenic adds Neiguan, Renzhong or Jiaji"
+          },
+          {
+            "zh": "预后良好，可完全治愈；1个月1疗程",
+            "en": "Good, can be cured; 1 month a course"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "儿科7条处方中的方法计数",
+        "en": "Method counts across the 7 pediatric entries"
+      },
+      "cols": [
+        {
+          "zh": "方法或穴",
+          "en": "Method or point"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        },
+        {
+          "zh": "出现于",
+          "en": "Where"
+        }
+      ],
+      "rows": [
+        [
+          "足三里",
+          "6",
+          "脑瘫、抽搐、多动、再发性腹痛、消化不良、厌食"
+        ],
+        [
+          "三阴交",
+          "5",
+          "脑瘫、多动、再发性腹痛、厌食、遗尿"
+        ],
+        [
+          "耳针",
+          "5",
+          "脑瘫、抽搐、多动、消化不良、厌食"
+        ],
+        [
+          "百会",
+          "4",
+          "脑瘫、抽搐、多动、遗尿"
+        ],
+        [
+          "头皮针",
+          "3",
+          "脑瘫、抽搐、多动"
+        ],
+        [
+          "艾灸/温灸",
+          "3",
+          "脑瘫、再发性腹痛、遗尿"
+        ],
+        [
+          "人中(醒脑)",
+          "3",
+          "抽搐、多动、遗尿"
+        ],
+        [
+          "舌针",
+          "2",
+          "脑瘫、多动"
+        ],
+        [
+          "四缝点刺",
+          "2",
+          "消化不良、厌食"
+        ],
+        [
+          "华佗夹脊",
+          "2",
+          "脑瘫、遗尿"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "表现为肢体功能障碍，肌力、肌张力的异常，治疗应开窍益智，培补肝肾",
+      "src": "石学敏针灸全集·治疗各论·脑性瘫痪 p.540"
+    },
+    {
+      "id": "E2",
+      "quote": "经穴刺法及头皮针疗法每日1次，每周5次，3个月为1个疗程",
+      "src": "石学敏针灸全集·治疗各论·脑性瘫痪 p.540"
+    },
+    {
+      "id": "E3",
+      "quote": "该病应早期发现、早期干预、综合康复治疗",
+      "src": "石学敏针灸全集·治疗各论·脑性瘫痪 p.541"
+    },
+    {
+      "id": "E4",
+      "quote": "其治疗以平肝息风、宁心安神为原则，适当的心理疏导也可调节气机",
+      "src": "石学敏针灸全集·治疗各论·多发性抽搐症 p.542"
+    },
+    {
+      "id": "E5",
+      "quote": "对于重症患儿可针药结合治疗",
+      "src": "石学敏针灸全集·治疗各论·多发性抽搐症 p.542"
+    },
+    {
+      "id": "E6",
+      "quote": "石学敏院士确立醒神调督、调和阴阳为其治疗法则",
+      "src": "石学敏针灸全集·治疗各论·儿童多动综合征 p.544"
+    },
+    {
+      "id": "E7",
+      "quote": "建议治疗时间至少为8个月，能够达到临床基本治愈的效果",
+      "src": "石学敏针灸全集·治疗各论·儿童多动综合征 p.544"
+    },
+    {
+      "id": "E8",
+      "quote": "石学敏院士认为，该病治疗关键在于健脾和中、行气止痛",
+      "src": "石学敏针灸全集·治疗各论·再发性腹痛 p.546"
+    },
+    {
+      "id": "E9",
+      "quote": "针刺治疗该病，有明显调补脾胃、消积导滞之功效",
+      "src": "石学敏针灸全集·治疗各论·消化不良 p.546"
+    },
+    {
+      "id": "E10",
+      "quote": "四缝穴是经外奇穴，可以通畅百脉，调合脏腑",
+      "src": "石学敏针灸全集·治疗各论·消化不良 p.547"
+    },
+    {
+      "id": "E11",
+      "quote": "石学敏院士认为在针刺选穴及手法操作中应遵循行气导滞，健脾和胃为主，用于小儿治疗",
+      "src": "石学敏针灸全集·治疗各论·厌食症 p.548"
+    },
+    {
+      "id": "E12",
+      "quote": "不宜留针过久，针刺手法不宜过重",
+      "src": "石学敏针灸全集·治疗各论·厌食症 p.548"
+    },
+    {
+      "id": "E13",
+      "quote": "经穴刺法中等刺激不留针，每日1次，10次为1个疗程",
+      "src": "石学敏针灸全集·治疗各论·厌食症 p.548"
+    },
+    {
+      "id": "E14",
+      "quote": "该病预后良好。针刺治疗遗尿临床疗效显著。可完全治愈",
+      "src": "石学敏针灸全集·治疗各论·遗尿症 p.550"
+    },
+    {
+      "id": "E15",
+      "quote": "该病的发生多与脾、肾、膀胱的功能失调有关，在八纲辨证多属虚寒性病变",
+      "src": "石学敏针灸全集·治疗各论·遗尿症 p.550"
+    },
+    {
+      "id": "E16",
+      "quote": "主要选用任脉和三阴经的穴位",
+      "src": "石学敏针灸全集·治疗各论·遗尿症 p.550"
+    },
+    {
+      "id": "E17",
+      "quote": "针灸治疗再发性腹痛止痛效果较好，通过临床观察，近期疗效显著，且疗后不易复发",
+      "src": "石学敏针灸全集·治疗各论·再发性腹痛 p.546"
+    },
+    {
+      "id": "E18",
+      "quote": "重症脑瘫有合并症者，预后差",
+      "src": "石学敏针灸全集·治疗各论·脑性瘫痪 p.541"
+    }
+  ],
+  "caveats": {
+    "zh": "儿科只有7个病，医案仅8例(遗尿3例，其余各1例)，医案计数没有统计意义，本指南的计数以处方为主。舌针(附蒂穴、脑枢穴等)为书中列出的专门穴位，非经穴，未列入穴位清单。抽动症、多动症的诊断与药物内容属西医部分。“再发性腹痛”一条概述段的检查方式(水合氯醛)不是针灸主张，未引用。",
+    "en": "Pediatrics has only seven diseases and just 8 cases (3 enuresis, one each for the rest), so case counts carry no statistical weight; counts here are from the entries. Tongue-needling points (Futi, Naoshu and others) are special points listed in the book, not channel points, and are omitted from the point list. Diagnosis and drug content for tic and hyperactivity belong to the Western section. The examination method (chloral hydrate) in the recurrent abdominal pain overview is not an acupuncture position and is not cited."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-049",
+      "sxm-rx-050",
+      "sxm-rx-051",
+      "sxm-rx-052",
+      "sxm-rx-053",
+      "sxm-rx-054",
+      "sxm-rx-055"
+    ],
+    "cases": [
+      "sxm-433",
+      "sxm-434",
+      "sxm-435",
+      "sxm-436",
+      "sxm-437",
+      "sxm-438"
+    ],
+    "points": [
+      "足三里",
+      "三阴交",
+      "百会",
+      "关元",
+      "肾俞",
+      "水沟",
+      "风池",
+      "内关",
+      "神门",
+      "合谷"
+    ]
+  }
+}

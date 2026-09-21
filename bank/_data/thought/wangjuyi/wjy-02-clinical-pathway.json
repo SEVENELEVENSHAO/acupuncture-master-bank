@@ -1,0 +1,448 @@
+{
+  "id": "wjy-02-clinical-pathway",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "临床思维",
+    "en": "Clinical reasoning"
+  },
+  "order": 2,
+  "title": {
+    "zh": "临床诊疗思维过程：捕捉主症→症候收集→经络诊察→辨经→选经→选穴→疗效判定",
+    "en": "The Clinical Reasoning Pathway: Chief Complaint → Symptom Collection → Channel Examination → Differentiation → Channel Choice → Point Choice → Outcome"
+  },
+  "summary": {
+    "zh": "《医案导读》把他的诊疗过程列为七个环节：捕捉主症、症候收集、经络诊察、辨经、选经、选穴、疗效判定。核心是两次“对接”：症候结构对接异常经脉（辨经），再由所选经脉结合症候结构配穴。一次无效就回头改思路，随症候变化与辨经加减。",
+    "en": "The case-book introduction sets out seven links: catch the chief complaint, collect symptoms, examine the channels, differentiate the channels, choose channels, choose points, judge the outcome. The core is two \"matchings\": symptom structure to abnormal channels (differentiation), then points assembled from the chosen channels together with the symptom structure. If a session fails he goes back and rethinks, adjusting to symptom change and differentiation."
+  },
+  "takeaways": [
+    {
+      "zh": "起点是主症：患者就诊时最痛苦的症状，书中以主诉呈现。围绕主症问诊，收集与之关联的一系列症候，与舌象、脉象一起构成“症候结构”；他还要求尽可能完整地收集其他症候表现，以及相关的治疗经过和变化。",
+      "en": "The start is the chief complaint, the symptom most distressing to the patient, recorded as the presenting complaint. He then asks about the symptoms linked to it; these plus tongue and pulse form the symptom-complex structure, and he also wants the other symptoms and the treatment history and its changes gathered as completely as possible.",
+      "cite": [
+        "C1",
+        "C2",
+        "C3"
+      ]
+    },
+    {
+      "zh": "察经是必经的一步，而且要“对接”症候：他写到经络诊察的结果必须对接症候结构，例如咳嗽要问有无痰、黄痰白痰、寒热虚实、急慢性；先问性质、部位、伴随症状与发病时间，分析症候结构，再与察经结合，才能准确把握证治。",
+      "en": "Examination is a fixed step and its result must be matched to the symptoms: in cough, for instance, the channel findings must be matched with sputum, its colour, cold/heat and deficiency/excess, and acute or chronic course; he asks about nature, site, accompanying symptoms and onset, analyses the symptom structure and combines it with examination to grasp the pattern and treatment accurately.",
+      "cite": [
+        "C4",
+        "C5",
+        "C6"
+      ]
+    },
+    {
+      "zh": "辨经就是对接：把主症的症候结构与异常经脉对接，同时把病经以外的其他异常经脉也尽量与其他症候一一对上，以判断病症累及哪几条病变经脉。案51里阳明经异常原因不能确定，但舌脉属虚、辨为脾虚，就与太阴经异常对上，定太阴、厥阴为病经。",
+      "en": "Differentiation is matching: the symptom structure of the chief complaint is matched to abnormal channels, and the abnormal channels outside the main disease channel are also matched, as far as possible, to the other symptoms, to establish which channels the illness involves. In case 51 the cause of the yangming abnormality was uncertain, but tongue and pulse were deficient and pointed to spleen deficiency, matching the taiyin finding, so taiyin and jueyin were taken as the disease channels.",
+      "cite": [
+        "C7",
+        "C8",
+        "C9"
+      ]
+    },
+    {
+      "zh": "选经与选穴是两步：选经是按辨经结果确定治疗经脉（案7辨病在太阴经，选了太阴、足阳明、督脉、任脉）；选穴是在所选经脉上结合症候结构做穴配伍，最后再按症候性质选最合适的针灸方法。",
+      "en": "Choosing channels and choosing points are two steps: channels are chosen from the differentiation result (case 7: disease in taiyin, channels chosen were taiyin, foot yangming, du and ren); points are then assembled on the chosen channels with the symptom structure in view, and finally the most suitable needling or moxa method is picked from the nature of the symptoms.",
+      "cite": [
+        "C10",
+        "C11",
+        "C12",
+        "C13"
+      ]
+    },
+    {
+      "zh": "不奏效就回头改思路，不死守一组穴：案19一诊取尺泽、列缺、公孙，针后症状无变化，改变思路，二诊换内关配公孙、中脘配足三里，三诊胃胀满与头痛都消失；他的结论是任何常规病都不能死守“经验穴”“规范穴”，要随症候结构和经络变动调整选经与配穴。",
+      "en": "When a session does not work he goes back and rethinks instead of clinging to one point group: in case 19 the first visit used Chize, Lieque and Gongsun with no change, so the second visit switched to Neiguan with Gongsun and Zhongwan with Zusanli, and by the third both stomach fullness and headache were gone; his conclusion is that no common disease should be locked to a fixed \"experience\" or \"standard\" point set, but channel and point choice adjusted to symptom structure and channel change.",
+      "cite": [
+        "C14",
+        "C15",
+        "C16"
+      ]
+    },
+    {
+      "zh": "复诊要重新察经：每次随症候变化与辨经加减穴（案117共27诊，症状复发时再察经发现孔最有结节、四渎阳谷异常，重新辨为太阴、少阳、太阳）；案7二诊则因针后翌日疲劳，加点刺身柱，并用表里经同治。",
+      "en": "Follow-ups re-examine: at each visit points are adjusted to symptom change and differentiation (case 117 ran 27 visits; when symptoms returned, re-examination found a nodule at Kongzui and abnormality at Sidu and Yanggu, and taiyin, shaoyang and taiyang were differentiated afresh); in case 7 the second visit, because of fatigue the day after needling, added pricking of Shenzhu and used exterior-interior channels together.",
+      "cite": [
+        "C17",
+        "C18"
+      ]
+    },
+    {
+      "zh": "最后是疗效判定与随访：把疗效分临床痊愈、显效、有效、无效四级，所有病例都用定期电话或其他方式追踪随访；案7在3个月后因便秘来诊时确认咳嗽已愈。",
+      "en": "Finally, outcome and follow-up: outcomes are graded clinical recovery, marked effect, effective, or ineffective, and every case was followed up by regular telephone or other means; in case 7 the cough was confirmed cured when the patient returned months later for constipation.",
+      "cite": [
+        "C19",
+        "C20"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "七个环节：导读怎么说、案中记在哪一栏",
+        "en": "The seven links: what the introduction says and which line of a case records it"
+      },
+      "cols": [
+        {
+          "zh": "环节",
+          "en": "Link"
+        },
+        {
+          "zh": "《医案导读》所述",
+          "en": "The introduction says"
+        },
+        {
+          "zh": "案中栏目",
+          "en": "Case field"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "1 捕捉主症",
+            "en": "1 Catch chief complaint"
+          },
+          {
+            "zh": "主症为患者就诊最为痛苦的症状，以主诉为表现形式",
+            "en": "Chief complaint = the most distressing symptom, recorded as the presenting complaint"
+          },
+          "主诉"
+        ],
+        [
+          {
+            "zh": "2 症候收集",
+            "en": "2 Collect symptoms"
+          },
+          {
+            "zh": "问诊搜集与主症相关联的一系列症候，与舌脉构成症候结构；尽可能完整地收集其他症候和治疗经过",
+            "en": "Ask for symptoms linked to the chief complaint; with tongue and pulse they form the structure; collect other symptoms and treatment history as fully as possible"
+          },
+          "症候"
+        ],
+        [
+          {
+            "zh": "3 经络诊察",
+            "en": "3 Examine channels"
+          },
+          {
+            "zh": "审、切、循、扪、按，收集经络的客观反应，掌握经络功能状态；常见结节、结络、结块、脆络、滞涩、凹陷、隆起、水泡、气泡",
+            "en": "Inspect, press, trace, palpate, push to collect objective channel reactions; usual: nodule, node-collateral, lump, brittle collateral, sluggishness, hollow, bulge, blister, bubble"
+          },
+          "经络诊察"
+        ],
+        [
+          {
+            "zh": "4 辨经",
+            "en": "4 Differentiate channels"
+          },
+          {
+            "zh": "把主症症候结构与异常经脉对接，也尽可能把病经以外的异常经脉与其他症候一一对接",
+            "en": "Match the chief-complaint structure to the abnormal channels, and match other abnormal channels to other symptoms"
+          },
+          "辨经"
+        ],
+        [
+          {
+            "zh": "5 选经",
+            "en": "5 Choose channels"
+          },
+          {
+            "zh": "根据辨经结果选择治疗经脉：本经、同名经、表里经、相生相克经、奇经八脉五法",
+            "en": "Choose treatment channels from the differentiation: own channel, same-name, exterior-interior, generating/controlling, extraordinary vessels"
+          },
+          "选经"
+        ],
+        [
+          {
+            "zh": "6 选穴",
+            "en": "6 Choose points"
+          },
+          {
+            "zh": "据所选经脉结合症候结构配穴；少而精，以特定穴为主，循摸准确才进针，每针皆有感传",
+            "en": "Assemble points from the chosen channels and the structure; few and refined, mainly specific points, exact palpation before needling, every needle propagating"
+          },
+          "选穴 (及各诊)"
+        ],
+        [
+          {
+            "zh": "7 疗效判定",
+            "en": "7 Outcome"
+          },
+          {
+            "zh": "临床痊愈、显效、有效、无效四级；定期电话等随访",
+            "en": "Four grades: clinical recovery, marked effect, effective, ineffective; regular phone follow-up"
+          },
+          "疗效"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "三案对照：同一条链怎样走",
+        "en": "Three cases side by side: how the same chain runs"
+      },
+      "cols": [
+        {
+          "zh": "环节",
+          "en": "Link"
+        },
+        {
+          "zh": "案7 咳嗽1年余",
+          "en": "Case 7: cough over a year"
+        },
+        {
+          "zh": "案51 月经过多",
+          "en": "Case 51: heavy menses"
+        },
+        {
+          "zh": "案19 胃胀满、头痛",
+          "en": "Case 19: stomach fullness, headache"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "主症/症候",
+            "en": "Complaint / symptoms"
+          },
+          {
+            "zh": "咳白痰涎，食欲差，苔白，脉沉细；吸烟15年",
+            "en": "White phlegm cough, poor appetite, white coat, deep thin pulse; smoked 15 years"
+          },
+          {
+            "zh": "月经过多数年，此次出血11天不止，色深有血块；舌淡苔薄，脉沉弱细；曾因此贫血",
+            "en": "Heavy menses for years, now 11 days of bleeding, dark with clots; pale tongue, thin coat, deep weak thin pulse; past anaemia"
+          },
+          {
+            "zh": "胃胀满、吞酸、嗳气、大便黏；发作性眉棱骨痛",
+            "en": "Stomach fullness, acid regurgitation, belching, sticky stool; brow-ridge headaches"
+          }
+        ],
+        [
+          {
+            "zh": "经络诊察",
+            "en": "Examination"
+          },
+          {
+            "zh": "右孔最深部结络，中府下结络，督脉4、5椎结络",
+            "en": "Deep node-collateral at right Kongzui, node-collateral below Zhongfu, at du T4-5"
+          },
+          {
+            "zh": "厥阴经、太阴经、阳明经异常",
+            "en": "Jueyin, taiyin, yangming abnormal"
+          },
+          {
+            "zh": "手太阴经等异常，脾经与阳明经无异常",
+            "en": "Hand taiyin abnormal; spleen and yangming channels normal"
+          }
+        ],
+        [
+          {
+            "zh": "辨经",
+            "en": "Differentiation"
+          },
+          {
+            "zh": "病在太阴经，属肺脾两虚、卫气不足",
+            "en": "Disease in taiyin: lung-spleen deficiency, insufficient defence qi"
+          },
+          {
+            "zh": "病在太阴经、厥阴经",
+            "en": "Disease in taiyin and jueyin"
+          },
+          {
+            "zh": "肺失肃降致脾胃病；脾经无异常故单取尺泽",
+            "en": "Lung descent failure causing stomach-spleen disease; spleen channel normal so Chize alone"
+          }
+        ],
+        [
+          {
+            "zh": "选经",
+            "en": "Channel choice"
+          },
+          {
+            "zh": "太阴、足阳明、督脉、任脉",
+            "en": "Taiyin, foot yangming, du, ren"
+          },
+          {
+            "zh": "足太阴、足厥阴",
+            "en": "Foot taiyin, foot jueyin"
+          },
+          {
+            "zh": "太阴经、阴维脉",
+            "en": "Taiyin, yinwei"
+          }
+        ],
+        [
+          {
+            "zh": "选穴",
+            "en": "Points"
+          },
+          {
+            "zh": "一诊中府(操)、神道(灸)、孔最、中脘、丰隆；二诊加点刺身柱，列缺、公孙、太渊、足三里",
+            "en": "Visit 1 Zhongfu (cao), Shendao (moxa), Kongzui, Zhongwan, Fenglong; visit 2 adds pricking Shenzhu, Lieque, Gongsun, Taiyuan, Zusanli"
+          },
+          {
+            "zh": "隐白(灸20分钟)、太冲、曲泉；二诊灸隐白、针太冲、蠡沟",
+            "en": "Yinbai (moxa 20 min), Taichong, Ququan; visit 2 moxa Yinbai, needle Taichong, Ligou"
+          },
+          {
+            "zh": "尺泽、列缺、公孙；无变化，二诊改内关、公孙、中脘、足三里",
+            "en": "Chize, Lieque, Gongsun; no change, visit 2 changed to Neiguan, Gongsun, Zhongwan, Zusanli"
+          }
+        ],
+        [
+          {
+            "zh": "疗效",
+            "en": "Outcome"
+          },
+          {
+            "zh": "共两诊痊愈，追访咳嗽已愈",
+            "en": "2 visits, cured; cough gone at follow-up"
+          },
+          {
+            "zh": "共3诊，临床痊愈",
+            "en": "3 visits, clinical recovery"
+          },
+          {
+            "zh": "共3诊，临床痊愈；追访未复发",
+            "en": "3 visits, clinical recovery; no relapse at follow-up"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C1",
+      "quote": "主症为患者就诊最为痛苦的症状，本书中以主诉为表现形式",
+      "src": "王居易针灸医案讲习录·医案导读 p.001"
+    },
+    {
+      "id": "C2",
+      "quote": "这些症候与主症及舌象、脉象便构成主症的症候结构",
+      "src": "王居易针灸医案讲习录·医案导读 p.001"
+    },
+    {
+      "id": "C3",
+      "quote": "在症候收集环节还应尽可能完整地收集患者其他的症候表现，以及相关的治疗经过和变化",
+      "src": "王居易针灸医案讲习录·医案导读 p.001"
+    },
+    {
+      "id": "C4",
+      "quote": "经络诊察的结果也必须对接其症候结构",
+      "src": "王居易针灸医案讲习录·诊后絮语·咳嗽的辨经与选经 p.017"
+    },
+    {
+      "id": "C5",
+      "quote": "分析症候结构，再把症候与经络诊察结合，才能准确把握证治",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于咳嗽症候的讨论 p.019"
+    },
+    {
+      "id": "C6",
+      "quote": "通过经络诊察的反应与患者症候的对接方可辨经、选经、选穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.227"
+    },
+    {
+      "id": "C7",
+      "quote": "即将主症症候结构与异常经脉进行对接",
+      "src": "王居易针灸医案讲习录·医案导读 p.002"
+    },
+    {
+      "id": "C8",
+      "quote": "将与主症症候相关的病经以外的异常经脉与其他症候一一对接",
+      "src": "王居易针灸医案讲习录·医案导读 p.002"
+    },
+    {
+      "id": "C9",
+      "quote": "尚不能确定，而舌象脉象属虚证，辨证为脾虚",
+      "src": "王居易针灸医案讲习录·案51·医案解读 p.099"
+    },
+    {
+      "id": "C10",
+      "quote": "是根据辨经的结果选择治疗经脉的方法",
+      "src": "王居易针灸医案讲习录·医案导读 p.002"
+    },
+    {
+      "id": "C11",
+      "quote": "是根据所选经脉结合病症的症候结构进行穴配伍",
+      "src": "王居易针灸医案讲习录·医案导读 p.002"
+    },
+    {
+      "id": "C12",
+      "quote": "最后，根据症候的性质选择最适宜的针灸方法",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.002"
+    },
+    {
+      "id": "C13",
+      "quote": "病在太阴经，属肺脾两虚，卫气不足",
+      "src": "王居易针灸医案讲习录·案7 p.006"
+    },
+    {
+      "id": "C14",
+      "quote": "针后症无变化，因此改变思路",
+      "src": "王居易针灸医案讲习录·案19·医案解读 p.035"
+    },
+    {
+      "id": "C15",
+      "quote": "两个主诉有时候属同一个病，需要通过经络诊察来判断有无关系",
+      "src": "王居易针灸医案讲习录·案19·医案解读 p.035"
+    },
+    {
+      "id": "C16",
+      "quote": "必须根据症候结构和经络变动，调整选经、配穴思路，才能取得较好效果",
+      "src": "王居易针灸医案讲习录·案19·按语 p.036"
+    },
+    {
+      "id": "C17",
+      "quote": "随症候变化与辨经来加减穴",
+      "src": "王居易针灸医案讲习录·案117·医案解读 p.208"
+    },
+    {
+      "id": "C18",
+      "quote": "治疗与足太阴相表里的足阳明胃经，表里经同治",
+      "src": "王居易针灸医案讲习录·案7·医案解读 p.006"
+    },
+    {
+      "id": "C19",
+      "quote": "所有病例均通过定期电话或其他形式进行追踪随访",
+      "src": "王居易针灸医案讲习录·医案导读 p.002"
+    },
+    {
+      "id": "C20",
+      "quote": "共两诊，1年多的咳嗽经过两次治疗痊愈",
+      "src": "王居易针灸医案讲习录·案7 p.006"
+    }
+  ],
+  "how_to_use": {
+    "zh": "把每一案按七格填一遍：主诉/症候结构→察经发现→辨经（对接了什么）→选经→选穴→刺灸法→疗效。学他的关键不在记住哪几个穴，而在看他如何用症候结构去“解释”察经所见，并在复诊时怎样因症候变化而改选经。察经的细节见 wjy-03，选经见 wjy-04。",
+    "en": "Fill each case into seven boxes: complaint and symptom structure → examination findings → differentiation (what was matched) → channels → points → technique → outcome. What to learn is not which points, but how symptom structure is used to explain the examination findings and how channels are re-chosen at follow-up. Examination: wjy-03; channel choice: wjy-04."
+  },
+  "caveats": {
+    "zh": "病例均来自他自己2006–2013年的门诊，疗效为医案自述，不是对照研究；《导读》所说四级疗效之外，个别案例还写“好转”或只描述症状变化。",
+    "en": "The cases are his own clinic patients from 2006–2013 and outcomes are self-reported, not controlled; besides the four grades in the introduction, a few cases say \"improved\" or just describe symptom change."
+  },
+  "see": {
+    "cases": [
+      "wjy-007",
+      "wjy-016",
+      "wjy-019",
+      "wjy-051",
+      "wjy-117",
+      "wjy-075"
+    ],
+    "points": [
+      "尺泽",
+      "列缺",
+      "公孙",
+      "内关",
+      "中脘",
+      "足三里",
+      "隐白",
+      "太冲",
+      "曲泉",
+      "孔最"
+    ]
+  }
+}
