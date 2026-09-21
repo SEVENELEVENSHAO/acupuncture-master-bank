@@ -1,0 +1,723 @@
+{
+  "id": "wjy-10-sweat-allergy",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "分科心得",
+    "en": "By condition group"
+  },
+  "order": 10,
+  "title": {
+    "zh": "汗证与过敏性疾病：汗先取心经、依部位与察经定病经；过敏病多取太阴经，尺泽、阴陵泉一对",
+    "en": "Sweating and Allergic Disease: Sweat Starts with the Heart Channel and Is Placed by Site and Palpation; Allergy Mostly Takes Taiyin, the Chize-Yinlingquan Pair"
+  },
+  "summary": {
+    "zh": "汗证他先想到手少阴心经，再按盗汗、自汗、绝汗、外感无汗分别选穴，并说出汗部位只是线索、须与察经结合。过敏性疾病他认为经络参与所有疾病并能调整之；本章7例中6例察出太阴经异常，皮肤病尤其常取尺泽、阴陵泉，呼吸道过敏则常配复溜；此外还记了列缺的取法。",
+    "en": "For sweating he thinks first of Hand Shaoyin, then chooses points separately for night sweat, spontaneous sweat, collapse sweat and external-type no-sweat, and says the site of sweating is only a clue to be joined to palpation. For allergic disease he holds that channels take part in every disease and can regulate it; in the chapter 6 of 7 cases showed Taiyin changes, skin cases often take Chize and Yinlingquan, respiratory allergy often adds Fuliu; he also records how to find Lieque."
+  },
+  "takeaways": [
+    {
+      "zh": "汗首先想到手少阴心经，再按类型选穴：血汗同源、心主血，所以汗的异常排出首先考虑手少阴。盗汗(睡中出汗醒后止)为心肾不交，取阴郄配复溜(案38解读称阴郄能活血补心气、复溜为肾经母穴滋肾水调汗液)；自汗(醒时或急躁、热饮、运动则汗)为营卫不和、卫表不固，太阳经与督脉主“开”，故取阴郄配后溪；按气虚所在再加本脏原穴，阳虚自汗加大椎固表并可灸；大汗淋漓的绝汗(脱汗)灸神阙、气海。",
+      "en": "Sweat first suggests Hand Shaoyin: blood and sweat share a source and the Heart governs blood, so abnormal sweating first calls for Hand Shaoyin. Night sweat (sweating in sleep, stopping on waking) is Heart-Kidney disharmony: Yinxi with Fuliu (Case 38 comment: Yinxi moves blood and supplements Heart qi, Fuliu is the Kidney mother point that nourishes Kidney water and regulates sweat). Spontaneous sweat (on waking, agitation, hot drink or exertion) is disharmony of ying and wei with an unsecured surface; Taiyang and Du govern \"opening\", so Yinxi with Houxi. Add the yuan-source point of the deficient organ; in yang-deficient sweat add Dazhui to secure the surface, moxa allowed; profuse \"collapse\" sweat calls for moxa on Shenque and Qihai.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7"
+      ]
+    },
+    {
+      "zh": "出汗部位提示病经，但最后以察经为准：足心汗多为足少阴与足太阳，手心汗属手厥阴郁热熏蒸，背部汗多属太阳经；他随即说要把汗的性质、部位和其他症状与经络诊察结合，才能判断哪条经或哪个脏腑异常。案42的手足心汗如洗，察出的是少阴经异常(神门、水泉有脆络)，他即取少阴经，而不是套用“手心汗属手厥阴”。",
+      "en": "The site of sweating hints at the channel, but palpation has the last word: sweat of the soles is usually Foot Shaoyin with Foot Taiyang, of the palms Hand Jueyin stifling heat, of the back mostly Taiyang. He then says the character, site and other symptoms must be joined to channel palpation to decide which channel or organ is abnormal. In Case 42 (palms and soles sweating as if washed) palpation found Shaoyin (brittle vessels at Shenmen and Shuiquan), and he treated Shaoyin rather than applying \"palm sweat = Hand Jueyin\".",
+      "cite": [
+        "E8",
+        "E9",
+        "E10",
+        "E11"
+      ]
+    },
+    {
+      "zh": "阳虚的手足心汗，取少阴原穴并在神门加灸：案42认为手足心大量出汗是阳气不足的自汗，阳气主要由心肾所主，故取手足少阴原穴神门、太溪，神门加灸15分钟温补心肾阳气；针感传至手指脚趾，灸完手心转暖、汗出随即停止(1诊，显效)。这与盗汗取阴郄、复溜的滋阴思路不同，区别在于虚在阳还是阴。",
+      "en": "For yang-deficient palm and sole sweat he takes the Shaoyin yuan points and adds moxa at Shenmen. Case 42 reads profuse palm-sole sweat as spontaneous sweat from insufficient yang, which is chiefly governed by Heart and Kidney, so Shenmen and Taixi (yuan points of Hand and Foot Shaoyin), with 15 minutes of moxa on Shenmen to warm Heart and Kidney yang; needle sensation reached fingers and toes, the palms warmed after moxa and sweat stopped at once (1 visit, marked effect). This differs from the yin-nourishing Yinxi-Fuliu used for night sweat: the difference is yang versus yin deficiency.",
+      "cite": [
+        "E11",
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "zh": "外感发热无汗，用太阴经穴帮助太阳宣发：《伤寒论》所谓太阳实证汗不出，他取经渠、大都，再加手阳明原穴合谷；合谷加大椎也能解表。案40的自汗则从相反方向用同一思路：太阴主开，肺卫不固，取经渠宣肺、太白与手足三里温补脾胃，大椎上的崇骨反应明显，点刺加灸15分钟，3次汗症临床痊愈。",
+      "en": "For external fever without sweat he uses Taiyin points to help Taiyang disperse wei qi: in what the Shanghan Lun calls Taiyang excess with no sweating, Jingqu and Dadu plus the Hand Yangming yuan point Hegu; Hegu with Dazhui also releases the exterior. Case 40 (spontaneous sweat) uses the same channel logic from the other side: Taiyin governs opening, Lung wei is unsecured, so Jingqu to disperse the Lung, Taibai with Hand and Foot Zusanli to warm Spleen and Stomach, Chonggu (reactive above Dazhui) pricked and moxaed 15 minutes; sweat cured clinically in 3 visits.",
+      "cite": [
+        "E14",
+        "E15",
+        "E16",
+        "E17"
+      ]
+    },
+    {
+      "zh": "过敏性病是经络能调整的：他把过敏性鼻炎、哮喘、过敏性结肠炎、荨麻疹算作四个主要的变态反应病，视为对刺激反应过激；引《内经》“经脉者，决死生，处百病，调虚实”，说所有疾病皆有经络参与，经络对所有疾病有调整作用，此作用很强，甚至有时超过药物。皮肤、气管过敏常与食物过敏并列，是因肺与大肠相表里。",
+      "en": "He holds allergic disease to be adjustable through the channels: allergic rhinitis, asthma, allergic colitis and urticaria are the four main allergic diseases, an over-reaction to a stimulus. Quoting the Neijing line that the channels \"determine life and death, handle the hundred diseases, regulate deficiency and excess\", he says every disease involves the channels and the channels can regulate every disease, sometimes more strongly than drugs. Skin or airway allergy is paired with food allergy because the Lung and Large Intestine are exterior-interior.",
+      "cite": [
+        "E18",
+        "E19",
+        "E20",
+        "E21"
+      ]
+    },
+    {
+      "zh": "过敏性皮肤病多是太阴经异常，取尺泽、阴陵泉一对：案46～49的荨麻疹或干裂脱屑性皮疹都察出太阴经异常，都取尺泽加阴陵泉(手足太阴合穴，调气机、化湿，肺主皮毛)，再依证配曲池、血海、大椎、足三里等；他说案46是“典型”运用，20年荨麻疹回顾病例也取此对穴，8次痊愈。但皮肤科诊后絮语同时提醒：不要以为一切皮肤病都取太阴经，仍须察经再选经。",
+      "en": "Allergic skin disease is mostly Taiyin, and he takes the Chize-Yinlingquan pair. Cases 46-49 (urticaria or dry, scaling rash) all showed Taiyin changes and all took Chize plus Yinlingquan (he-sea points of Hand and Foot Taiyin, regulating qi movement and resolving damp, the Lung governing skin and hair), adding Quchi, Xuehai, Dazhui, Zusanli and so on by pattern. He calls Case 46 a \"typical\" use, and the 20-year urticaria review case also used this pair, cured in 8 visits. The skin chapter essay adds a limit: not every skin disease takes Taiyin; palpate first.",
+      "cite": [
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ]
+    },
+    {
+      "zh": "呼吸道过敏是肺肾一线：案43(过敏性哮喘，14诊后一年未发)以尺泽、太渊、列缺、足三里、点刺大椎为主，四诊起加复溜，他解释肺为肾之母、尺泽与复溜为母子经相应穴，有“金水相生”作用，故常取尺泽、复溜治疗过敏性疾病；案44过敏性鼻炎则说大部分属肺肾两虚，常取尺泽配复溜，晨起发作属阳虚卫气不固，另用督脉穴和灸。",
+      "en": "In respiratory allergy he works the Lung-Kidney line. Case 43 (allergic asthma, no relapse a year after 14 visits) used Chize, Taiyuan, Lieque, Zusanli and pricked Dazhui, adding Fuliu from the fourth visit; he explains that the Lung is mother of the Kidney, Chize and Fuliu are mother-child corresponding points with a \"metal-water generating\" action, so Chize with Fuliu is often taken for allergic disease. In Case 44 (allergic rhinitis) he says most such cases are Lung-Kidney deficiency and often take Chize with Fuliu; morning onset was read as yang deficiency with unsecured wei qi, so Du points and moxa were added.",
+      "cite": [
+        "E27",
+        "E28",
+        "E29",
+        "E30"
+      ]
+    },
+    {
+      "zh": "两个操作点：一是针后可能先加重，荨麻疹回顾案中针后当日皮疹骤成片，他称之为“疾病反应”，并嘱不要再服抗过敏药，3次后不再发；二是列缺要取在手太阴经的缝隙：他认为“以手交叉取食指尽处”应理解为两手掌相贴，从太渊沿手太阴经往肘推，用心循摸到骨上凹陷点即列缺，取在手阳明经上则未起到应有疗效。案45还说明皮肤病也可用灸：阳池、中泉悬灸，3诊痊愈。",
+      "en": "Two operating points. First, the reaction after needling may worsen first: in the urticaria review case the rash came out in sheets on the day of needling, which he calls a \"disease reaction\", and he told the patient not to take antihistamines again; it did not recur after 3 visits. Second, Lieque must be found in the gap of the Hand Taiyin channel: he reads \"the tip of the index finger with hands crossed\" as the two palms pressed together, pushing from Taiyuan along Hand Taiyin toward the elbow and feeling with the mind for the bony hollow; taken on the Hand Yangming channel it gave no proper effect. Case 45 also shows that moxa can be used on skin disease: suspended moxa at Yangchi and Zhongquan, cured in 3 visits.",
+      "cite": [
+        "E31",
+        "E32",
+        "E33",
+        "E34",
+        "E35",
+        "E36"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 汗证的分类选穴(《关于汗的讨论》)",
+        "en": "Table 1. Sweating by type (essay on sweat)"
+      },
+      "cols": [
+        {
+          "zh": "类型/线索",
+          "en": "Type / clue"
+        },
+        {
+          "zh": "他取的经穴",
+          "en": "Channel and points"
+        },
+        {
+          "zh": "理由",
+          "en": "Rationale"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "盗汗：睡中出汗，醒后止",
+            "en": "Night sweat"
+          },
+          {
+            "zh": "阴郄配复溜(原文OCR作“阴”)",
+            "en": "Yinxi with Fuliu (printed 阴)"
+          },
+          {
+            "zh": "心肾不交",
+            "en": "Heart-Kidney disharmony"
+          }
+        ],
+        [
+          {
+            "zh": "自汗：醒时或急躁、热饮、运动则汗",
+            "en": "Spontaneous sweat"
+          },
+          {
+            "zh": "阴郄配后溪；按气虚所在加本脏原穴",
+            "en": "Yinxi with Houxi; add yuan point of the deficient organ"
+          },
+          {
+            "zh": "营卫不和、卫表不固；太阳经、督脉主“开”",
+            "en": "Ying-wei disharmony, unsecured surface; Taiyang and Du govern \"opening\""
+          }
+        ],
+        [
+          {
+            "zh": "阳虚自汗",
+            "en": "Yang-deficient spontaneous sweat"
+          },
+          {
+            "zh": "加大椎，可灸",
+            "en": "Add Dazhui, moxa allowed"
+          },
+          {
+            "zh": "固表",
+            "en": "Secure the surface"
+          }
+        ],
+        [
+          {
+            "zh": "绝汗(脱汗)：大汗淋漓",
+            "en": "Collapse sweat"
+          },
+          {
+            "zh": "灸神阙、气海",
+            "en": "Moxa Shenque, Qihai"
+          },
+          {
+            "zh": "阳气外亡，津随阳脱",
+            "en": "Yang qi escaping, fluid following it"
+          }
+        ],
+        [
+          {
+            "zh": "外感发热汗不出",
+            "en": "External fever, no sweat"
+          },
+          {
+            "zh": "经渠、大都，加合谷；合谷加大椎亦可",
+            "en": "Jingqu, Dadu plus Hegu; Hegu with Dazhui also"
+          },
+          {
+            "zh": "太阴经穴帮助太阳宣发卫气",
+            "en": "Taiyin points help Taiyang disperse wei qi"
+          }
+        ],
+        [
+          {
+            "zh": "足心汗 / 手心汗 / 背汗",
+            "en": "Sole / palm / back sweat"
+          },
+          {
+            "zh": "足少阴与足太阳 / 手厥阴 / 太阳经(作为线索，仍须察经)",
+            "en": "Foot Shaoyin and Foot Taiyang / Hand Jueyin / Taiyang (clue only; still palpate)"
+          },
+          {
+            "zh": "出汗部位提示病经",
+            "en": "Site of sweat suggests the channel"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 汗证病例(案38～42)：察经所见与选穴",
+        "en": "Table 2. Sweating cases 38-42: palpation and points"
+      },
+      "cols": [
+        {
+          "zh": "案",
+          "en": "Case"
+        },
+        {
+          "zh": "主诉",
+          "en": "Complaint"
+        },
+        {
+          "zh": "察经/辨经",
+          "en": "Palpation / channel"
+        },
+        {
+          "zh": "首诊选穴",
+          "en": "First-visit points"
+        },
+        {
+          "zh": "疗效",
+          "en": "Result"
+        }
+      ],
+      "rows": [
+        [
+          "38",
+          {
+            "zh": "更年期综合征：烘热、自汗盗汗、睡浅",
+            "en": "Menopausal syndrome: flushing, spontaneous and night sweat, light sleep"
+          },
+          {
+            "zh": "手少阴、手厥阴、太阴；病在手少阴，心肾不交",
+            "en": "Hand Shaoyin, Hand Jueyin, Taiyin; disease in Hand Shaoyin, Heart-Kidney disharmony"
+          },
+          {
+            "zh": "少府、神门、三阴交、公孙、关元",
+            "en": "Shaofu, Shenmen, Sanyinjiao, Gongsun, Guanyuan"
+          },
+          {
+            "zh": "5诊，临床痊愈",
+            "en": "5 visits, clinical cure"
+          }
+        ],
+        [
+          "39",
+          {
+            "zh": "早醒、自汗盗汗2年(心房颤动，装起搏器后)",
+            "en": "Early waking, spontaneous and night sweat 2 years (atrial fibrillation, after pacemaker)"
+          },
+          {
+            "zh": "少阴、太阳；病在少阴、太阳",
+            "en": "Shaoyin, Taiyang"
+          },
+          {
+            "zh": "神门、阴郄、复溜",
+            "en": "Shenmen, Yinxi, Fuliu"
+          },
+          {
+            "zh": "3诊，显效",
+            "en": "3 visits, marked effect"
+          }
+        ],
+        [
+          "40",
+          {
+            "zh": "自汗多汗20余年",
+            "en": "Spontaneous profuse sweat 20+ years"
+          },
+          {
+            "zh": "太阴、阳明；选督脉、太阴、阳明",
+            "en": "Taiyin, Yangming; selected Du, Taiyin, Yangming"
+          },
+          {
+            "zh": "崇骨(点，加灸15分钟)、经渠、太白、手足三里",
+            "en": "Chonggu (prick, add 15 min moxa), Jingqu, Taibai, Hand and Foot Zusanli"
+          },
+          {
+            "zh": "3次汗症临床痊愈",
+            "en": "Sweat clinically cured in 3 visits"
+          }
+        ],
+        [
+          "41",
+          {
+            "zh": "脑梗后头汗出6个月",
+            "en": "Head sweat 6 months after cerebral infarct"
+          },
+          {
+            "zh": "多条经异常",
+            "en": "Many channels abnormal"
+          },
+          {
+            "zh": "涌泉、复溜、太溪",
+            "en": "Yongquan, Fuliu, Taixi"
+          },
+          {
+            "zh": "2次明显好转，有效",
+            "en": "Clear improvement in 2 visits, effective"
+          }
+        ],
+        [
+          "42",
+          {
+            "zh": "手足心汗如洗25年",
+            "en": "Palm and sole sweat like washing, 25 years"
+          },
+          {
+            "zh": "少阴(神门、水泉有脆络)",
+            "en": "Shaoyin (brittle vessels Shenmen, Shuiquan)"
+          },
+          {
+            "zh": "神门(加灸15分钟)、太溪",
+            "en": "Shenmen (add 15 min moxa), Taixi"
+          },
+          {
+            "zh": "1诊，显效",
+            "en": "1 visit, marked effect"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 过敏性疾病病例(案43～49及荨麻疹回顾)",
+        "en": "Table 3. Allergic disease cases 43-49 and the urticaria review"
+      },
+      "cols": [
+        {
+          "zh": "病例",
+          "en": "Case"
+        },
+        {
+          "zh": "察经",
+          "en": "Palpation"
+        },
+        {
+          "zh": "主要穴",
+          "en": "Main points"
+        },
+        {
+          "zh": "疗效",
+          "en": "Result"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "案43 过敏性哮喘",
+            "en": "C43 allergic asthma"
+          },
+          {
+            "zh": "太阴、阳明",
+            "en": "Taiyin, Yangming"
+          },
+          {
+            "zh": "尺泽、太渊、列缺、足三里、点刺大椎；四诊起加复溜",
+            "en": "Chize, Taiyuan, Lieque, Zusanli, prick Dazhui; Fuliu from visit 4"
+          },
+          {
+            "zh": "14诊，一年后未发，临床痊愈",
+            "en": "14 visits, no relapse at 1 year"
+          }
+        ],
+        [
+          {
+            "zh": "案44 过敏性鼻炎",
+            "en": "C44 allergic rhinitis"
+          },
+          {
+            "zh": "手太阴(尺泽下2寸结节)",
+            "en": "Hand Taiyin (nodule 2 cun below Chize)"
+          },
+          {
+            "zh": "沿手太阴经操法；灸大椎、足三里",
+            "en": "Cao along Hand Taiyin; moxa Dazhui, Zusanli"
+          },
+          {
+            "zh": "14诊，显效",
+            "en": "14 visits, marked effect"
+          }
+        ],
+        [
+          {
+            "zh": "案45 金属过敏皮炎",
+            "en": "C45 metal-allergy dermatitis"
+          },
+          {
+            "zh": "望诊：少阳经(络脉不通)",
+            "en": "Inspection: Shaoyang (blocked collaterals)"
+          },
+          {
+            "zh": "八邪、外关、阳池、中泉；阳池、中泉悬灸",
+            "en": "Baxie, Waiguan, Yangchi, Zhongquan; suspended moxa Yangchi, Zhongquan"
+          },
+          {
+            "zh": "3诊，临床痊愈",
+            "en": "3 visits, clinical cure"
+          }
+        ],
+        [
+          {
+            "zh": "案46 荨麻疹1年",
+            "en": "C46 urticaria 1 year"
+          },
+          {
+            "zh": "太阴、阳明、手少阴；大椎有结络",
+            "en": "Taiyin, Yangming, Hand Shaoyin; nodular collateral at Dazhui"
+          },
+          {
+            "zh": "尺泽下、阴陵泉、大椎(刺血拔罐)+中药",
+            "en": "Below Chize, Yinlingquan, Dazhui (bleed and cup) plus herbs"
+          },
+          {
+            "zh": "1诊，临床痊愈",
+            "en": "1 visit, clinical cure"
+          }
+        ],
+        [
+          {
+            "zh": "案47 顽固荨麻疹20余年",
+            "en": "C47 intractable urticaria 20+ years"
+          },
+          {
+            "zh": "太阴、督脉",
+            "en": "Taiyin, Du"
+          },
+          {
+            "zh": "尺泽、阴陵泉、复溜、灸大椎",
+            "en": "Chize, Yinlingquan, Fuliu, moxa Dazhui"
+          },
+          {
+            "zh": "6诊显效",
+            "en": "6 visits, marked effect"
+          }
+        ],
+        [
+          {
+            "zh": "案48 干裂脱屑皮疹17年",
+            "en": "C48 dry scaling rash 17 years"
+          },
+          {
+            "zh": "太阴、手阳明",
+            "en": "Taiyin, Hand Yangming"
+          },
+          {
+            "zh": "尺泽、阴陵泉、曲池、足三里、上脘",
+            "en": "Chize, Yinlingquan, Quchi, Zusanli, Shangwan"
+          },
+          {
+            "zh": "约半年，显效",
+            "en": "About half a year, marked effect"
+          }
+        ],
+        [
+          {
+            "zh": "案49 反复皮疹7个月",
+            "en": "C49 recurrent rash 7 months"
+          },
+          {
+            "zh": "太阴、少阴等多经；病在太阴及少阴",
+            "en": "Taiyin, Shaoyin and others; disease in Taiyin and Shaoyin"
+          },
+          {
+            "zh": "尺泽、阴陵泉、血海、复溜",
+            "en": "Chize, Yinlingquan, Xuehai, Fuliu"
+          },
+          {
+            "zh": "2次明显好转，显效",
+            "en": "Marked improvement in 2 visits"
+          }
+        ],
+        [
+          {
+            "zh": "荨麻疹回顾(30岁女，20年)",
+            "en": "Urticaria review (woman 30, 20 years)"
+          },
+          {
+            "zh": "太阴、阳明",
+            "en": "Taiyin, Yangming"
+          },
+          {
+            "zh": "尺泽、阴陵泉、曲池、三阴交、建里、合谷、太冲",
+            "en": "Chize, Yinlingquan, Quchi, Sanyinjiao, Jianli, Hegu, Taichong"
+          },
+          {
+            "zh": "8次痊愈",
+            "en": "Cured in 8 visits"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "汗的异常排出，首先要考虑取手少阴心经",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于汗的讨论 p.82"
+    },
+    {
+      "id": "E2",
+      "quote": "盗汗者，即睡眠中出汗，醒后汗止，为心肾不交引起",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于汗的讨论 p.82"
+    },
+    {
+      "id": "E3",
+      "quote": "自汗者，即醒时或急躁、或热饮、或运动则容易出汗，因营卫不和、卫表不固所致",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于汗的讨论 p.82"
+    },
+    {
+      "id": "E4",
+      "quote": "太阳经、督脉主“开”，控制汗液的排出，故阴部配后溪能治疗自汗",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于汗的讨论 p.82"
+    },
+    {
+      "id": "E5",
+      "quote": "根据气虚的表现，例如肺气虚、心气虚、脾气虚、肾气虚，可加本脏的原穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于汗的讨论 p.82"
+    },
+    {
+      "id": "E6",
+      "quote": "大汗淋漓，又称“绝汗”或“脱汗”，即阳气外亡，津随阳脱，应灸神阙、气海",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于汗的讨论 p.82"
+    },
+    {
+      "id": "E7",
+      "quote": "阴、复溜能补心肾、滋阴、泻虚火，常用于心肾阴虚引起的自汗、盗汗",
+      "src": "王居易针灸医案讲习录·案38·医案解读"
+    },
+    {
+      "id": "E8",
+      "quote": "足心汗出一般为足少阴经与足太阳经的病变，手心汗出属手厥阴经郁热熏蒸的表现，背部出汗多属太阳经",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于汗的讨论 p.82"
+    },
+    {
+      "id": "E9",
+      "quote": "临证时，根据出汗的性质、部位及其他症状结合经络诊察，可以判断哪条经脉或哪个脏腑异常",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于汗的讨论 p.82"
+    },
+    {
+      "id": "E10",
+      "quote": "经络诊察发现该例患者主要变动经脉为少阴经",
+      "src": "王居易针灸医案讲习录·案42·医案解读"
+    },
+    {
+      "id": "E11",
+      "quote": "针刺神门、太溪针感传至手指、脚趾。艾灸结束后，手心转暖，汗出随即停止",
+      "src": "王居易针灸医案讲习录·案42"
+    },
+    {
+      "id": "E12",
+      "quote": "故单取温阳行气功效显著的手足少阴经原穴神门、太溪相配，并在神门用灸法，以温补心肾阳气",
+      "src": "王居易针灸医案讲习录·案42·医案解读"
+    },
+    {
+      "id": "E13",
+      "quote": "像本例患者手足心的大量汗出则属于阳气不足引起的“自汗”症状",
+      "src": "王居易针灸医案讲习录·案42·医案解读"
+    },
+    {
+      "id": "E14",
+      "quote": "取太阴经穴来帮助太阳宣发卫气，取经渠、大都，加与手太阴相表里经的手阳明经原穴（合谷）",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于汗的讨论 p.82"
+    },
+    {
+      "id": "E15",
+      "quote": "太阴经为三阴之表，主开",
+      "src": "王居易针灸医案讲习录·案40·医案解读"
+    },
+    {
+      "id": "E16",
+      "quote": "由于卫气开发于上焦，取经渠宣肺",
+      "src": "王居易针灸医案讲习录·案40·医案解读"
+    },
+    {
+      "id": "E17",
+      "quote": "取太白、手三里、足三里为温补脾胃",
+      "src": "王居易针灸医案讲习录·案40·医案解读"
+    },
+    {
+      "id": "E18",
+      "quote": "变态反应即过敏反应的意思。此类疾病包括过敏性鼻炎、哮喘、过敏性结肠炎、过敏性皮炎（例如荨麻疹）四个主要疾病",
+      "src": "王居易针灸医案讲习录·诊后絮语·经络与变态反应疾病的关系 p.95"
+    },
+    {
+      "id": "E19",
+      "quote": "过敏性疾病即是对某种刺激物的反应过激的病变",
+      "src": "王居易针灸医案讲习录·诊后絮语·经络与变态反应疾病的关系 p.95"
+    },
+    {
+      "id": "E20",
+      "quote": "所有的疾病皆有经络的参与，而经络对所有的疾病有调整的作用",
+      "src": "王居易针灸医案讲习录·诊后絮语·经络与变态反应疾病的关系 p.95"
+    },
+    {
+      "id": "E21",
+      "quote": "因为肺与大肠有相表里的关系",
+      "src": "王居易针灸医案讲习录·诊后絮语·经络与变态反应疾病的关系 p.95"
+    },
+    {
+      "id": "E22",
+      "quote": "此例为典型的运用尺泽、阴陵泉来治疗太阴经异常引起皮肤病的病例",
+      "src": "王居易针灸医案讲习录·案46·医案解读"
+    },
+    {
+      "id": "E23",
+      "quote": "尺泽、阴陵泉为手足太阴经的合穴，能调整太阴经气机运行，能化湿利水",
+      "src": "王居易针灸医案讲习录·案47·医案解读"
+    },
+    {
+      "id": "E24",
+      "quote": "而手太阴肺主皮毛，该对穴对皮肤病有很强的治疗作用",
+      "src": "王居易针灸医案讲习录·案47·医案解读"
+    },
+    {
+      "id": "E25",
+      "quote": "取尺泽、阴陵泉、曲池、三阴交、建里、合谷、太冲",
+      "src": "王居易针灸医案讲习录·诊后絮语·一个顽固荨麻疹的病例回顾 p.96"
+    },
+    {
+      "id": "E26",
+      "quote": "但是不要误认为一切皮肤病都要取太阴经的穴，仍须通过经络诊察的识别分析，再选经配穴，才能有效",
+      "src": "王居易针灸医案讲习录·诊后絮语·皮肤科 p.139"
+    },
+    {
+      "id": "E27",
+      "quote": "肺为肾之母，复溜配尺泽为母子经的相应穴",
+      "src": "王居易针灸医案讲习录·案43·医案解读"
+    },
+    {
+      "id": "E28",
+      "quote": "有“金水相生”的作用，故常取尺泽、复溜治疗过敏性疾病",
+      "src": "王居易针灸医案讲习录·案43·医案解读"
+    },
+    {
+      "id": "E29",
+      "quote": "大部分的过敏性鼻炎属肺肾两虚，故治疗常取尺泽配复溜",
+      "src": "王居易针灸医案讲习录·案44·医案解读"
+    },
+    {
+      "id": "E30",
+      "quote": "大椎除了温阳、散寒、发表外，也能主“五劳七伤，乏力”（《针灸大成》），说明此穴也有补虚的功用",
+      "src": "王居易针灸医案讲习录·案43·医案解读"
+    },
+    {
+      "id": "E31",
+      "quote": "此病例最初出现病情加重的反应亦为“疾病反应”的例子",
+      "src": "王居易针灸医案讲习录·诊后絮语·一个顽固荨麻疹的病例回顾 p.96"
+    },
+    {
+      "id": "E32",
+      "quote": "告诉患者再复发时不要服抗过敏药了，即使发痒亦不需服药",
+      "src": "王居易针灸医案讲习录·诊后絮语·一个顽固荨麻疹的病例回顾 p.96"
+    },
+    {
+      "id": "E33",
+      "quote": "应该理解为两手交叉时双手掌相贴",
+      "src": "王居易针灸医案讲习录·诊后絮语·列缺的取穴方法 p.94"
+    },
+    {
+      "id": "E34",
+      "quote": "从太渊穴的缝隙沿着手太阴肺经慢慢往肘关节的方向推，用心（而不仅用指）循摸，推到能感觉出骨上的凹陷点，即是列缺",
+      "src": "王居易针灸医案讲习录·诊后絮语·列缺的取穴方法 p.94"
+    },
+    {
+      "id": "E35",
+      "quote": "临床用上法取列缺，未起到应有的针刺疗效，而在手太阴肺经的缝隙中取列缺时疗效明显",
+      "src": "王居易针灸医案讲习录·诊后絮语·列缺的取穴方法 p.94"
+    },
+    {
+      "id": "E36",
+      "quote": "其实灸法能用于各种各样的病，无论表、里、寒、热、虚、实都能治，只是看你取哪些穴位",
+      "src": "王居易针灸医案讲习录·案45·医案解读"
+    }
+  ],
+  "how_to_use": {
+    "zh": "汗证：先想手少阴，分盗汗、自汗、绝汗、外感无汗(表1)，再用部位作线索并以察经为准(表2的五例)。过敏病：先察经，多见太阴则用尺泽、阴陵泉，呼吸道过敏多考虑加复溜；取列缺按他的推法找骨上凹陷(表3)。",
+    "en": "Sweating: think Hand Shaoyin first, separate night sweat, spontaneous sweat, collapse sweat and external no-sweat (Table 1), use site as a clue and let palpation decide (five cases in Table 2). Allergy: palpate first; where Taiyin shows, use Chize and Yinlingquan, and consider adding Fuliu in respiratory allergy; find Lieque by his pushing method to the bony hollow (Table 3)."
+  },
+  "caveats": {
+    "zh": "原文OCR：阴郄多误作“阴”“阴部”“阴都”，此处按案38解读“心经的郄穴”读作阴郄；案46“天稚”应指大椎(解读称在大椎刺血拔罐)；“尊麻疹”即荨麻疹。汗的分类是他的“讨论”式经验总结，不是固定处方；案41头汗有多经异常，首诊只取少阴三穴，后续另加穴。",
+    "en": "OCR: Yinxi is often misprinted as 阴, 阴部 or 阴都; it is read here as Yinxi from the Case 38 comment (\"the xi-cleft point of the Heart channel\"). \"天稚\" in Case 46 should be Dazhui (the comment says bleeding and cupping at Dazhui); \"尊麻疹\" is urticaria. The sweat typology is his discussion-style experience, not a fixed prescription; Case 41 had many abnormal channels, and the first visit used only three Shaoyin points, others being added later."
+  },
+  "see": {
+    "cases": [
+      "wjy-038",
+      "wjy-040",
+      "wjy-042",
+      "wjy-043",
+      "wjy-044",
+      "wjy-046",
+      "wjy-047",
+      "wjy-049"
+    ],
+    "points": [
+      "神门",
+      "复溜",
+      "太溪",
+      "阴郄",
+      "后溪",
+      "大椎",
+      "经渠",
+      "大都",
+      "尺泽",
+      "阴陵泉",
+      "列缺",
+      "合谷"
+    ]
+  }
+}

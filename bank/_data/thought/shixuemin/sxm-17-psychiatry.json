@@ -1,0 +1,771 @@
+{
+  "id": "sxm-17-psychiatry",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 17,
+  "title": {
+    "zh": "精神科：把醒脑开窍当作“针刺调神之大法”，分离性障碍与癫狂以醒脑开窍为主，失眠调阴阳安神，抑郁焦虑疏肝理气，中风后精神障碍另立治疗单位",
+    "en": "Psychiatry: Xingnao Kaiqiao as the \"Great Method of Needling to Regulate Shen\"; Dissociative Disorder and Manic-Withdrawn Psychosis by Waking the Brain, Insomnia by Balancing Yin-Yang and Calming Shen, Depression and Anxiety by Soothing the Liver and Moving Qi, Post-stroke Psychiatric Disorder as Its Own Treatment Unit"
+  },
+  "summary": {
+    "zh": "精神科一节把神志病都归到“神”上：他说醒脑开窍“应归属于针刺调神之大法”。但同一个法在不同病里用得不同：分离性障碍(百合病、癔症)“关键在于心窍闭阻，心神郁逆”，用内关、水沟、风府，按症加穴，常一次见效；精神分裂症(癫狂)“醒脑开窍，宁心化痰”，躁狂泻、抑郁补并用十二井放血；失眠则是“调整阴阳，安神定志”，以神门、三阴交加申脉泻、照海补；抑郁焦虑取疏肝理气，加百会、四神聪。中风后抑郁被他在1989年作为独立的治疗单位研究，500例中风228例并发抑郁。文中还反复强调环境安静、仔细鉴别，并承认精神分裂症针刺只是辅助。",
+    "en": "The psychiatry section files all mental disorders under shen: he calls Xingnao Kaiqiao \"the great method of needling to regulate shen\". The same method is used differently by disease. Dissociative disorder (Baihe disease, hysteria): \"the key is closed heart orifice and reversed heart shen\", Neiguan, Shuigou, Fengfu with symptom points, often relieved in one session. Schizophrenia (dian-kuang): \"wake the brain, open orifices, calm the heart, transform phlegm\", reducing for mania, tonifying for the depressive type, bleeding the twelve jing-well points. Insomnia is \"balance yin and yang, calm shen\", Shenmen, Sanyinjiao with Shenmai reduced and Zhaohai tonified. Depression and anxiety take soothing the liver and moving qi with Baihui and Sishencong. Post-stroke depression he made a treatment unit of its own in 1989 (228 of 500 stroke patients). The text stresses a quiet room and careful differentiation, and admits acupuncture is only adjunctive in schizophrenia."
+  },
+  "takeaways": [
+    {
+      "zh": "总框架是“调神”：醒脑开窍法“应归属于针刺调神之大法”，“核心在调神”，靠“醒神、调神、安神”来“调和阴阳，气复神使，气血调和”。用途从中风扩到“癫、狂、痫、抑郁、百合、瘾病”等精神科病。所以精神科的各病共用“神”作切入点，只是在“窍闭”与“神不安”两端取不同的法：窍闭者醒(内关、水沟)，神不安者安(神门、四神聪)。",
+      "en": "The frame is regulating shen: Xingnao Kaiqiao \"belongs to the great method of needling to regulate shen\", whose \"core is regulating shen\", by \"waking, regulating and calming shen\" to \"harmonise yin and yang, restore shen to lead qi, and harmonise qi and blood\". Its range widens from stroke to \"mania, withdrawal, epilepsy, depression, Baihe disease, hysteria\". Psychiatric diseases therefore share shen as the entry point, and differ between two ends: orifice closure is woken (Neiguan, Shuigou), unsettled shen is calmed (Shenmen, Sishencong).",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "分离性障碍(旧称癔症，属百合病)用醒脑开窍：“关键在于心窍闭阻，心神郁逆”，主穴内关、水沟、风府，按表现加穴(运动障碍加上星、委中、三阴交，癫痫样加风池、太冲、百会、阳陵泉，吞咽障碍加天突，晕厥加合谷、太冲，抑郁加百会、四神聪，呕吐加天突、中脘)。先刺内关，继刺水沟“重雀啄至眼球湿润或流泪”，风府是水沟“不宜或效微时选用”。他强调“疗效……直接取决于针刺的手法、针感和刺激量”，且“针刺达到量学要求，可短时间内痊愈”，往往一次见效。",
+      "en": "Dissociative disorder (formerly hysteria, in the Baihe category) is treated by waking the brain: \"the key is closed heart orifice and reversed heart shen\", main points Neiguan, Shuigou, Fengfu, with points added by presentation (motor disturbance Shangxing, Weizhong, Sanyinjiao; seizure-like Fengchi, Taichong, Baihui, Yanglingquan; dysphagia Tiantu; syncope Hegu, Taichong; depression Baihui, Sishencong; vomiting Tiantu, Zhongwan). Neiguan first, then Shuigou with \"heavy sparrow-pecking until the eyes are moist or tear\", Fengfu \"when Shuigou is unsuitable or weak\". He stresses the effect \"depends directly on manipulation, needling sensation and stimulus dose\", \"when needling meets the dosage requirement, it can cure in a short time\", often at the first session.",
+      "cite": [
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "失眠不走醒脑开窍：治则是“调整阴阳，安神定志”。主穴神门、内关、百会、四神聪、三阴交、申脉、照海，其中“申脉穴用泻法，三阴交、照海穴用补法”，即他在总论里说的阳盛阴虚失眠“补阴跷泻阳跷”；按心脾亏虚、心肾不交、心胆气虚、肝阳上扰、脾胃不和、痰热内扰六型加穴，另有耳针与“每晚临睡前”温和灸百会、涌泉、三阴交、足三里。他说针灸的优势是“在养心安神的基础上整体调理”，并强调“环境安静、患者心境平和”。5例失眠医案没有一例治则含醒脑开窍(4例含安神定志)，5例都取神门。",
+      "en": "Insomnia does not use waking the brain: the principle is \"balance yin and yang, calm shen and settle the will\". Main points Shenmen, Neiguan, Baihui, Sishencong, Sanyinjiao, Shenmai, Zhaohai, with \"Shenmai reduced, Sanyinjiao and Zhaohai tonified\", which is what the general chapter calls \"tonify the yin motility vessel, reduce the yang\" for yang-excess yin-deficient insomnia. Points are added for six patterns (heart-spleen deficiency, heart-kidney disharmony, heart-gallbladder qi deficiency, liver yang disturbance, spleen-stomach disharmony, phlegm-heat), with auricular treatment and mild moxa at Baihui, Yongquan, Sanyinjiao, Zusanli \"every night before bed\". The advantage is \"overall regulation on the basis of nourishing the heart and calming shen\", and he stresses \"a quiet room and a peaceful patient\". None of 5 insomnia cases states waking the brain in its principle (4 state calming shen); all 5 use Shenmen.",
+      "cite": [
+        "E14",
+        "E15",
+        "E16",
+        "E17",
+        "E18",
+        "E37"
+      ]
+    },
+    {
+      "zh": "抑郁症用“疏肝解郁、安神定志”：“疏通气机为郁证总的治则”，配方内关、人中、神门、百会、四神聪、太冲、足三里、三阴交加心肝脾膈俞，其中“内关、人中二穴合用可振奋人体阳气，以达醒神之功”；总论里的郁证“治疗重点在于调神启闭，疏解肝郁”，按血瘀、肝郁化火、痰结、食滞分别加血海、太冲三阴交、丰隆阴陵泉、足三里。预后一节承认“单纯针灸治疗与单纯药物治疗效果相当，使用针灸配合药物治疗，疗效可明显提高”；抑郁医案里另有头皮针、电针、心理分析与暗示疗法同用。",
+      "en": "Depression takes \"soothe the liver, resolve depression, calm shen\": \"moving qi is the overall principle for depression\", with Neiguan, Renzhong, Shenmen, Baihui, Sishencong, Taichong, Zusanli, Sanyinjiao plus heart, liver, spleen and diaphragm back-shu, of which \"Neiguan and Renzhong together lift yang and wake shen\". The general chapter's depression \"stresses regulating shen and opening the closure, and dissolving liver depression\", adding Xuehai for stasis, Taichong and Sanyinjiao for liver fire, Fenglong and Yinlingquan for phlegm, Zusanli for food stagnation. The prognosis section admits \"acupuncture alone and drugs alone are comparable; acupuncture with drugs is clearly better\"; the depression case adds scalp acupuncture, electro-acupuncture, psychoanalysis and suggestion therapy.",
+      "cite": [
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23"
+      ]
+    },
+    {
+      "zh": "焦虑症的治则是“疏肝理气，清心除烦，滋阴健脾”：主穴百会、四神聪、上星、内关、合谷、足三里、三阴交、太冲、丰隆，头穴平补平泻，“内关、合谷、太冲、丰隆用泻法；足三里、三阴交用补法”，并接电针(40次/分)，另有耳针。配方理论把作用讲成“使紊乱的脑功能达到平衡协调状态，对应的自主神经得以调理使其敏感性降低”，与配方理论对内关的评价“对于焦虑症的自主神经症状及运动性不安有很好的抑制作用”一致。",
+      "en": "The anxiety principle is \"soothe the liver and move qi, clear the heart and remove vexation, nourish yin and strengthen the spleen\": Baihui, Sishencong, Shangxing, Neiguan, Hegu, Zusanli, Sanyinjiao, Taichong, Fenglong, head points even method, \"Neiguan, Hegu, Taichong, Fenglong reduced; Zusanli, Sanyinjiao tonified\", with electro-acupuncture at 40 per minute and auricular treatment. The formula theory puts the effect as \"bringing disordered brain function back to balance, and reducing the sensitivity of the autonomic nerves\", in line with the comment on Neiguan in the formula theory that it \"strongly inhibits the autonomic symptoms and motor restlessness of anxiety\".",
+      "cite": [
+        "E24",
+        "E25",
+        "E26",
+        "E38"
+      ]
+    },
+    {
+      "zh": "精神分裂症(癫狂)治则“醒脑开窍，宁心化痰”，依据是“七情所伤为该病发病基础，痰、火、瘀为重要的致病因素”。主穴人中、内关、风府、百会、神门、中脘、合谷、丰隆、太冲、三阴交，躁狂加大椎、强间、鸠尾、十二井，抑郁加巨阙、大陵、劳宫，妄想加臂中、神庭。手法按证型分：“躁狂者采取泻法，用强刺激；抑郁，多用补法，中强刺激；妄想宜补法”，十二井“毫针刺或三棱针点刺放血”。狂躁型处方(实用针灸学)更直接：“泻火涤痰，醒神开窍”。预后一节坦言病程迁延、约半数最终出现精神残疾，“针刺能够辅助治疗”各种症状，即针刺不是主治。",
+      "en": "Schizophrenia (dian-kuang) is \"wake the brain, open orifices, calm the heart, transform phlegm\", grounded in \"seven emotions injuring is the basis; phlegm, fire and stasis are the important pathogens\". Main points Renzhong, Neiguan, Fengfu, Baihui, Shenmen, Zhongwan, Hegu, Fenglong, Taichong, Sanyinjiao; for mania add Dazhui, Qiangjian, Jiuwei and the twelve jing-well; for depression Juque, Daling, Laogong; for delusion Bizhong, Shenting. Manipulation follows the type: \"reduce with strong stimulation for mania; tonify with medium-strong stimulation for depression; tonify for delusion\", the twelve jing-well \"needled or pricked to bleed\". The mania entry in Practical Acupuncture is more direct: \"drain fire, flush phlegm, wake shen and open orifices\". The prognosis section is frank: protracted course, about half ending in psychiatric disability, and \"acupuncture can assist in treating all kinds of symptoms\", that is, it is adjunctive.",
+      "cite": [
+        "E27",
+        "E28",
+        "E29",
+        "E30",
+        "E31",
+        "E39"
+      ]
+    },
+    {
+      "zh": "脑血管病后的精神障碍是他单独立项的：“中风后抑郁”在1989年就被他“作为一个治疗学单位进行针刺治疗的临床研究”，病机写成“肝失疏泄，脾失健运，心失所养，心窍闭阻，心神郁逆，病位在脑”，治以醒脑开窍，内关、人中、百会为主穴，三阴交等辅之；500例中风患者中228例并发抑郁，发病率45.60%。医案里的“脑血管病后精神障碍”(狂证，痰火上扰)则不用醒脑开窍，治则“平肝泻火”，取上脘、神门、行间、后溪并用逍遥散加减，可见同一类病按证型分路。",
+      "en": "Psychiatric disorder after cerebrovascular disease is a separate item: in 1989 he took \"post-stroke depression as a treatment unit for clinical research\". The mechanism is \"failure of liver to spread, spleen to transport, heart to be nourished, heart orifice closed, heart shen reversed, site in the brain\"; treatment is waking the brain with Neiguan, Renzhong, Baihui as main points and Sanyinjiao as support; 228 of 500 stroke patients developed depression, 45.60%. The case labelled psychiatric disorder after cerebrovascular disease (manic pattern, phlegm-fire) does not use waking the brain: principle \"calm the liver, drain fire\", Shangwan, Shenmen, Xingjian, Houxi with modified Xiaoyao san, so one class of illness is routed by pattern.",
+      "cite": [
+        "E32",
+        "E33",
+        "E34",
+        "E35"
+      ]
+    },
+    {
+      "zh": "贯穿各病的做法有四点：一是环境与解释，“环境安静、患者心境平和”，对分离性障碍要“对病因进行合理解释并给予患者一个安全、安静的治疗环境”；二是鉴别，分离性障碍要与器质性感觉运动障碍、癫痫、急性应激反应“仔细鉴别，以免误诊”；三是时机，总论说“精神疾患多在春季发作，故应在春季来前进行治疗”；四是分层：分离性障碍预后良好、可短期痊愈，抑郁复发率高、焦虑易慢性化，精神分裂症预后差，针灸作用依次由主治转为辅助。",
+      "en": "Four habits run through all these diseases. Setting and explanation: \"a quiet room and a peaceful patient\"; for dissociative disorder \"explain the cause reasonably and give a safe, quiet setting\". Differentiation: dissociative disorder must be \"carefully distinguished from organic sensory and motor disorder, epilepsy and acute stress reaction, to avoid misdiagnosis\". Timing: the general chapter says \"psychiatric illness mostly relapses in spring, so treat before spring arrives\". Layers: dissociative disorder has a good prognosis and can be cured in a short time, depression relapses often, anxiety tends to become chronic, schizophrenia has a poor prognosis, and the role of acupuncture shifts from principal to adjunct in that order.",
+      "cite": [
+        "E11",
+        "E12",
+        "E13",
+        "E36",
+        "E31"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "精神科：病 → 治则 → 要穴 → 技术 → 备注",
+        "en": "Psychiatry: disease → principle → key points → technique → note"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "治则",
+          "en": "Principle"
+        },
+        {
+          "zh": "要穴",
+          "en": "Key points"
+        },
+        {
+          "zh": "技术",
+          "en": "Technique"
+        },
+        {
+          "zh": "备注",
+          "en": "Note"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "失眠症 / 不寐",
+            "en": "Insomnia"
+          },
+          {
+            "zh": "调整阴阳，安神定志；不寐(神经衰弱)：安神、镇静、宁心",
+            "en": "Balance yin-yang, calm shen; neurasthenic insomnia: calm, sedate, settle heart"
+          },
+          {
+            "zh": "神门、内关、百会、四神聪、三阴交、申脉、照海；不寐：神门、三阴交、安眠",
+            "en": "Shenmen, Neiguan, Baihui, Sishencong, Sanyinjiao, Shenmai, Zhaohai; neurasthenic: Shenmen, Sanyinjiao, Anmian"
+          },
+          {
+            "zh": "申脉泻，三阴交、照海补；头穴可加电针；耳针；每晚临睡温和灸",
+            "en": "Shenmai reduced, Sanyinjiao, Zhaohai tonified; electro-acupuncture on head; auricular; nightly mild moxa"
+          },
+          {
+            "zh": "预后多良好，易复发；环境安静",
+            "en": "Mostly good, relapses; quiet room"
+          }
+        ],
+        [
+          {
+            "zh": "分离性障碍 / 百合病",
+            "en": "Dissociative disorder (Baihe)"
+          },
+          {
+            "zh": "醒脑开窍(疏肝理气)",
+            "en": "Wake the brain, open orifices (soothe liver)"
+          },
+          {
+            "zh": "内关、水沟、风府；按症加上星、委中、三阴交、风池、太冲、百会、阳陵泉、天突、合谷、四神聪、中脘",
+            "en": "Neiguan, Shuigou, Fengfu; by symptom Shangxing, Weizhong, Sanyinjiao, Fengchi, Taichong, Baihui, Yanglingquan, Tiantu, Hegu, Sishencong, Zhongwan"
+          },
+          {
+            "zh": "先内关后水沟(雀啄至流泪)，风府低头刺、不留针；每日1次，5次为1疗程",
+            "en": "Neiguan then Shuigou (pecking to tears), Fengfu head-down, no retention; daily, 5 sessions"
+          },
+          {
+            "zh": "预后良好，多一次见效；需鉴别癫痫、急性应激反应",
+            "en": "Good; often one session; distinguish epilepsy and acute stress"
+          }
+        ],
+        [
+          {
+            "zh": "癔病性瘫痪 / 抽搐",
+            "en": "Hysterical paralysis / convulsion"
+          },
+          {
+            "zh": "醒脑开窍，滋补肝肾，疏通经络；抽搐：醒脑开窍，镇肝熄风",
+            "en": "Wake brain, tonify liver-kidney, free channels; convulsion: wake brain, calm liver wind"
+          },
+          {
+            "zh": "瘫痪：内关、水沟、风府、上星、委中、三阴交；抽搐：内关、水沟、风池、太冲、百会、阳陵泉、风府",
+            "en": "Paralysis: Neiguan, Shuigou, Fengfu, Shangxing, Weizhong, Sanyinjiao; convulsion: Neiguan, Shuigou, Fengchi, Taichong, Baihui, Yanglingquan, Fengfu"
+          },
+          {
+            "zh": "委中、三阴交提插至肢体抽动3次；抽搐发作期每日2次",
+            "en": "Weizhong, Sanyinjiao thrust until the limb twitches 3 times; convulsion acute phase twice daily"
+          },
+          {
+            "zh": "瘫痪急性发作一次治疗后一般可缓解",
+            "en": "Paralysis usually relieved after one session"
+          }
+        ],
+        [
+          {
+            "zh": "抑郁症 / 郁证",
+            "en": "Depression"
+          },
+          {
+            "zh": "疏肝解郁、安神定志；实用：疏调气机，醒神开窍，补血安神",
+            "en": "Soothe liver, resolve depression, calm shen; Practical: regulate qi, wake shen, nourish blood"
+          },
+          {
+            "zh": "内关、人中、神门、百会、四神聪、太冲、足三里、三阴交、心俞、肝俞、脾俞、膈俞",
+            "en": "Neiguan, Renzhong, Shenmen, Baihui, Sishencong, Taichong, Zusanli, Sanyinjiao, Xinshu, Ganshu, Pishu, Geshu"
+          },
+          {
+            "zh": "按虚实补泻；头穴电针；耳针；每日2次，10日为1疗程",
+            "en": "Tonify or reduce by deficiency or excess; electro-acupuncture on head; auricular; twice daily, 10 days"
+          },
+          {
+            "zh": "复发率高；针灸与药物合用疗效明显提高",
+            "en": "Relapses often; acupuncture with drugs clearly better"
+          }
+        ],
+        [
+          {
+            "zh": "焦虑症",
+            "en": "Anxiety"
+          },
+          {
+            "zh": "疏肝理气，清心除烦，滋阴健脾",
+            "en": "Soothe liver, clear heart, nourish yin, strengthen spleen"
+          },
+          {
+            "zh": "百会、四神聪、上星、内关、合谷、足三里、三阴交、太冲、丰隆；加心俞、神堂、神门；脾俞、胃俞、意舍",
+            "en": "Baihui, Sishencong, Shangxing, Neiguan, Hegu, Zusanli, Sanyinjiao, Taichong, Fenglong; plus Xinshu, Shentang, Shenmen; Pishu, Weishu, Yishe"
+          },
+          {
+            "zh": "头穴平补平泻，内关等泻，足三里等补；电针40次/分；耳针",
+            "en": "Head even, Neiguan etc. reduced, Zusanli etc. tonified; electro-acupuncture 40/min; auricular"
+          },
+          {
+            "zh": "多数康复，易复发，越早治越好",
+            "en": "Most recover, relapses; earlier is better"
+          }
+        ],
+        [
+          {
+            "zh": "精神分裂症 / 癫狂",
+            "en": "Schizophrenia"
+          },
+          {
+            "zh": "醒脑开窍，宁心化痰；狂躁型：泻火涤痰，醒神开窍",
+            "en": "Wake brain, calm heart, transform phlegm; manic type: drain fire, flush phlegm, wake shen"
+          },
+          {
+            "zh": "人中、内关、风府、百会、神门、中脘、合谷、丰隆、太冲、三阴交；躁狂加大椎、强间、鸠尾、十二井",
+            "en": "Renzhong, Neiguan, Fengfu, Baihui, Shenmen, Zhongwan, Hegu, Fenglong, Taichong, Sanyinjiao; mania plus Dazhui, Qiangjian, Jiuwei, twelve jing-well"
+          },
+          {
+            "zh": "躁狂泻、强刺激；抑郁补、中强刺激；妄想补；十二井放血；电针冲击法；每日1次，20次为1疗程",
+            "en": "Mania reducing, strong; depressed tonifying, medium-strong; delusion tonifying; jing-well bled; electro-acupuncture burst; daily, 20 sessions"
+          },
+          {
+            "zh": "预后差，针刺辅助",
+            "en": "Poor; acupuncture adjunctive"
+          }
+        ],
+        [
+          {
+            "zh": "脏躁(更年期综合征)",
+            "en": "Zangzao (menopausal)"
+          },
+          {
+            "zh": "肾阴不足：滋补肝肾、平肝潜阳、交通心肾；肾阳虚衰：温肾壮阳、补肾健脾",
+            "en": "Yin deficiency: nourish liver-kidney, subdue liver yang, connect heart-kidney; yang deficiency: warm kidney, tonify spleen"
+          },
+          {
+            "zh": "心俞、肾俞、太溪、三阴交、太冲；关元、肾俞、脾俞、章门、足三里",
+            "en": "Xinshu, Shenshu, Taixi, Sanyinjiao, Taichong; Guanyuan, Shenshu, Pishu, Zhangmen, Zusanli"
+          },
+          {
+            "zh": "补法为主；耳针",
+            "en": "Mainly tonifying; auricular"
+          },
+          {
+            "zh": "实用针灸学条目",
+            "en": "A Practical Acupuncture entry"
+          }
+        ],
+        [
+          {
+            "zh": "中风后抑郁",
+            "en": "Post-stroke depression"
+          },
+          {
+            "zh": "醒脑开窍",
+            "en": "Wake the brain"
+          },
+          {
+            "zh": "内关、人中、百会(主)，三阴交，辨证配穴",
+            "en": "Neiguan, Renzhong, Baihui (main), Sanyinjiao, pattern points"
+          },
+          {
+            "zh": "醒脑开窍法",
+            "en": "Xingnao Kaiqiao"
+          },
+          {
+            "zh": "500例中风228例并发抑郁(45.60%)",
+            "en": "228 of 500 stroke patients (45.60%)"
+          }
+        ],
+        [
+          {
+            "zh": "脑血管病后精神障碍(狂证，痰火上扰)",
+            "en": "Psychiatric disorder after cerebrovascular disease (manic, phlegm-fire)"
+          },
+          {
+            "zh": "平肝泻火",
+            "en": "Calm liver, drain fire"
+          },
+          {
+            "zh": "上脘、神门、行间、后溪",
+            "en": "Shangwan, Shenmen, Xingjian, Houxi"
+          },
+          {
+            "zh": "泻法，留针30min，每日1次；合逍遥散加减",
+            "en": "Reducing, retained 30 min, daily; with modified Xiaoyao san"
+          },
+          {
+            "zh": "医案1例",
+            "en": "One case"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "22例精神科医案(失眠5、分离性障碍13、抑郁1、焦虑1、精神分裂症1、脑血管病后精神障碍1)的治则与用穴计数",
+        "en": "Counts across 22 psychiatric cases (insomnia 5, dissociative 13, depression 1, anxiety 1, schizophrenia 1, post-cerebrovascular 1)"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "失眠(5)",
+          "en": "Insomnia (5)"
+        },
+        {
+          "zh": "分离性障碍(13)",
+          "en": "Dissociative (13)"
+        },
+        {
+          "zh": "其他(4)",
+          "en": "Others (4)"
+        },
+        {
+          "zh": "合计(22)",
+          "en": "All (22)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "治则含醒脑/醒神/开窍/苏神",
+            "en": "Principle: wake brain / shen / open orifice"
+          },
+          "0",
+          "13",
+          "1",
+          "14"
+        ],
+        [
+          {
+            "zh": "治则含安神/宁心/定志",
+            "en": "Principle: calm shen"
+          },
+          "4",
+          "0",
+          "1",
+          "5"
+        ],
+        [
+          {
+            "zh": "治则含疏肝/舒肝/理气",
+            "en": "Principle: soothe liver"
+          },
+          "0",
+          "5",
+          "2",
+          "7"
+        ],
+        [
+          {
+            "zh": "内关",
+            "en": "Neiguan"
+          },
+          "2",
+          "11",
+          "2",
+          "15"
+        ],
+        [
+          {
+            "zh": "水沟",
+            "en": "Shuigou"
+          },
+          "0",
+          "10",
+          "0",
+          "10"
+        ],
+        [
+          {
+            "zh": "百会",
+            "en": "Baihui"
+          },
+          "3",
+          "4",
+          "2",
+          "9"
+        ],
+        [
+          {
+            "zh": "神门",
+            "en": "Shenmen"
+          },
+          "5",
+          "0",
+          "3",
+          "8"
+        ],
+        [
+          {
+            "zh": "三阴交",
+            "en": "Sanyinjiao"
+          },
+          "4",
+          "6",
+          "3",
+          "13"
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "12条精神科处方(全集5、实用针灸学7)中的用穴",
+        "en": "Points across 12 psychiatric prescriptions (5 complete collection, 7 Practical)"
+      },
+      "cols": [
+        {
+          "zh": "穴",
+          "en": "Point"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "内关",
+            "en": "Neiguan"
+          },
+          "10"
+        ],
+        [
+          {
+            "zh": "太冲",
+            "en": "Taichong"
+          },
+          "10"
+        ],
+        [
+          {
+            "zh": "百会",
+            "en": "Baihui"
+          },
+          "9"
+        ],
+        [
+          {
+            "zh": "三阴交",
+            "en": "Sanyinjiao"
+          },
+          "9"
+        ],
+        [
+          {
+            "zh": "水沟",
+            "en": "Shuigou"
+          },
+          "8"
+        ],
+        [
+          {
+            "zh": "神门",
+            "en": "Shenmen"
+          },
+          "7"
+        ],
+        [
+          {
+            "zh": "风府",
+            "en": "Fengfu"
+          },
+          "6"
+        ],
+        [
+          {
+            "zh": "四神聪",
+            "en": "Sishencong"
+          },
+          "6"
+        ],
+        [
+          {
+            "zh": "丰隆",
+            "en": "Fenglong"
+          },
+          "4"
+        ],
+        [
+          {
+            "zh": "方法标签含“醒脑开窍”",
+            "en": "Method tag: Xingnao Kaiqiao"
+          },
+          "5 (分离性障碍、精神分裂症、百合病、癔病性瘫痪、癔病性抽搐)"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "醒脑开窍法应归属于针刺调神之大法",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.389"
+    },
+    {
+      "id": "E2",
+      "quote": "“醒脑开窍”针刺法的核心在调神",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.405"
+    },
+    {
+      "id": "E3",
+      "quote": "只有通过“醒神、调神、安神”，才能调和阴阳，气复神使，气血调和，机体恢复正常功能",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.405"
+    },
+    {
+      "id": "E4",
+      "quote": "石学敏院士在治疗该病过程中，总结出该病关键在于心窍闭阻，心神郁逆，治疗以醒脑开窍为主则",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 分离性障碍 p.597"
+    },
+    {
+      "id": "E5",
+      "quote": "运动障碍加上星、委中、三阴交，癫痫加风池、太冲、百会、阳陵泉，吞咽障碍加天突，晕厥加合谷、太冲，心情抑郁加百会、四神聪，呕吐加天突、中皖",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 分离性障碍 p.598"
+    },
+    {
+      "id": "E6",
+      "quote": "继刺人中，向鼻中隔方向斜刺0.3~0.5寸，然后向一方向捻转3～4圈，再做重雀啄手法，至眼球湿润或流泪为度",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 分离性障碍 p.598"
+    },
+    {
+      "id": "E7",
+      "quote": "风府穴为督脉和膀胱经阳维脉之会，通脑府、开机、通达阳气，故在取人中不宜或效微时选用",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 分离性障碍 p.598"
+    },
+    {
+      "id": "E8",
+      "quote": "治疗此病证的疗效如何，不但取穴要合理而且直接取决于针刺的手法、针感和刺激量",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.405"
+    },
+    {
+      "id": "E9",
+      "quote": "针刺达到量学要求，可短时间内痊愈",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 分离性障碍 p.599"
+    },
+    {
+      "id": "E10",
+      "quote": "该病针刺治疗多一次见效或痊愈，疗效显著",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 分离性障碍 p.598"
+    },
+    {
+      "id": "E11",
+      "quote": "医生对病因进行合理解释并给予患者一个安全、安静的治疗环境有利于治疗",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 分离性障碍 p.598"
+    },
+    {
+      "id": "E12",
+      "quote": "该病需与器质性感觉和运动障碍、癫痫、急性应激反应等进行仔细鉴别，以免误诊",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 分离性障碍 p.598"
+    },
+    {
+      "id": "E13",
+      "quote": "如精神疾患多在春季发作，故应在春季来前进行治疗",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.380"
+    },
+    {
+      "id": "E14",
+      "quote": "申脉、照海能调节人体阴阳，人体阴阳调和，则心有所养，神有所藏",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 失眠症 p.597"
+    },
+    {
+      "id": "E15",
+      "quote": "申脉穴用泻法，三阴交、照海穴用补法",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 失眠症 p.597"
+    },
+    {
+      "id": "E16",
+      "quote": "每晚临睡前用艾条温和灸百会、涌泉、三阴交、足三里各15min",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 失眠症 p.597"
+    },
+    {
+      "id": "E17",
+      "quote": "石学敏院士强调施治中要环境安静、患者心境平和",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 失眠症 p.597"
+    },
+    {
+      "id": "E18",
+      "quote": "石学敏院士认为其优势在于在养心安神的基础上整体调理，在改善睡眠的同时，其他伴随症状也可得到改善",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 失眠症 p.597"
+    },
+    {
+      "id": "E19",
+      "quote": "因此疏通气机为郁证总的治则",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 抑郁症 p.600"
+    },
+    {
+      "id": "E20",
+      "quote": "二穴合用可振奋人体阳气，以达醒神之功",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 抑郁症 p.600"
+    },
+    {
+      "id": "E21",
+      "quote": "单纯针灸治疗与单纯药物治疗效果相当，使用针灸配合药物治疗，疗效可明显提高",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 抑郁症 p.601"
+    },
+    {
+      "id": "E22",
+      "quote": "其治疗重点在于调神启闭，疏解肝郁",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.405"
+    },
+    {
+      "id": "E23",
+      "quote": "血瘀：活血化加血海；肝瘀化火：平肝息风加太冲、三阴交；痰结：祛痰加丰隆、阴陵泉；食滞：健脾胃加足三里",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.405"
+    },
+    {
+      "id": "E24",
+      "quote": "治则疏肝理气，清心除烦，滋阴健脾",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 焦虑症 p.602"
+    },
+    {
+      "id": "E25",
+      "quote": "内关、合谷、太冲、丰隆用泻法；足三里、三阴交用补法",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 焦虑症 p.602"
+    },
+    {
+      "id": "E26",
+      "quote": "可使紊乱的脑功能达到平衡协调状态，对应的自主神经得以调理使其敏感性降低",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 焦虑症 p.603"
+    },
+    {
+      "id": "E27",
+      "quote": "治则醒脑开窍，宁心化痰",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 精神分裂症 p.606"
+    },
+    {
+      "id": "E28",
+      "quote": "七情所伤为该病发病基础，痰、火、瘀为重要的致病因素",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 精神分裂症 p.607"
+    },
+    {
+      "id": "E29",
+      "quote": "躁狂者采取泻法，用强刺激；抑郁，多用补法，中强刺激；妄想宜补法",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 精神分裂症 p.606"
+    },
+    {
+      "id": "E30",
+      "quote": "十二井穴用毫针刺或三棱针点刺放血",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 精神分裂症 p.606"
+    },
+    {
+      "id": "E31",
+      "quote": "针刺能够辅助治疗精神分裂症患者各种症状",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 精神分裂症 p.607"
+    },
+    {
+      "id": "E32",
+      "quote": "石学敏院士在1989年便将其作为一个治疗学单位进行针刺治疗的临床研究",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.402"
+    },
+    {
+      "id": "E33",
+      "quote": "该病病机关键在于肝失疏泄，脾失健运，心失所养，心窍闭阻，心神郁逆，病位在脑",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.402"
+    },
+    {
+      "id": "E34",
+      "quote": "治疗以醒脑开窍为主，以内关，人中、百会为主穴，辅以辨证配穴",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.402"
+    },
+    {
+      "id": "E35",
+      "quote": "发现500例中风患者，有228例惠者发生抑郁症，其发病率为45.60%",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.402"
+    },
+    {
+      "id": "E37",
+      "quote": "阳盛阴虚则可见狂躁、失眠，应补阴跷（照海）泻阳跷（申脉）",
+      "src": "石学敏实用针灸学·第七章 针灸处方 第二节 针灸治疗作用 p.255"
+    },
+    {
+      "id": "E38",
+      "quote": "对于焦虑症的自主神经症状及运动性不安有很好的抑制作用",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 焦虑症 p.603"
+    },
+    {
+      "id": "E39",
+      "quote": "最终结局一半左右患者出现精神残疾",
+      "src": "石学敏针灸全集·第八章 治疗各论 第九节 精神科疾病 精神分裂症 p.607"
+    },
+    {
+      "id": "E36",
+      "quote": "急性发作经1次治疗后，一般患者瘫痪可缓解",
+      "src": "石学敏实用针灸学·第八章 内科疾病 癔病性瘫痪 p.444"
+    }
+  ],
+  "caveats": {
+    "zh": "全集精神科一节只有失眠、分离性障碍、抑郁、焦虑、精神分裂症5种，“脑血管病后精神障碍”只在医案里有1例，“中风后抑郁”在总论醒脑开窍法一节；脏躁、癔病性瘫痪、癔病性抽搐、癫狂、郁证来自实用针灸学内科章，与全集的“分离性障碍”“精神分裂症”“抑郁症”条目互为新旧命名(癔症→分离性障碍)。这些条目里大段是现代诊断标准与鉴别诊断，属编者补入，本指南只取针灸部分。“不寐”“神门”等字在OCR里有缺笔，“抢转”实为“捻转”，“擅中”实为“膻中”，“门”实为“郄门”，引文按印出字；风府在冲击电针时的口腔损害一句原文残缺，未引用。分离性障碍“一次见效”是书中的一般说法，个案疗程见医案。",
+    "en": "The complete collection's psychiatry section has only five diseases (insomnia, dissociative disorder, depression, anxiety, schizophrenia); post-cerebrovascular psychiatric disorder appears only as one case, and post-stroke depression in the general chapter's Xingnao Kaiqiao section. Zangzao, hysterical paralysis, hysterical convulsion, mania and yuzheng come from the internal-medicine chapter of Practical Acupuncture and are older or alternative names of the complete collection's entries (hysteria became dissociative disorder). Much of each entry is modern diagnostic criteria and differential diagnosis added by the compilers; this guide keeps the acupuncture part. Several characters are damaged by OCR (\"qiang zhuan\" for twirling, \"shan zhong\" for Danzhong, \"men\" for Ximen); quotes follow the print. The sentence on oral damage from electric bursts at Fengfu is truncated in the source and not quoted. \"One session\" for dissociative disorder is the book's general statement; individual courses are in the cases."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-083",
+      "sxm-rx-084",
+      "sxm-rx-085",
+      "sxm-rx-086",
+      "sxm-rx-087",
+      "sxm-rx-131",
+      "sxm-rx-133",
+      "sxm-rx-134",
+      "sxm-rx-135",
+      "sxm-rx-136"
+    ],
+    "cases": [
+      "sxm-527",
+      "sxm-530",
+      "sxm-543",
+      "sxm-544",
+      "sxm-545",
+      "sxm-546"
+    ],
+    "points": [
+      "内关",
+      "水沟",
+      "风府",
+      "百会",
+      "神门",
+      "三阴交",
+      "四神聪",
+      "太冲",
+      "申脉",
+      "照海",
+      "丰隆"
+    ]
+  }
+}

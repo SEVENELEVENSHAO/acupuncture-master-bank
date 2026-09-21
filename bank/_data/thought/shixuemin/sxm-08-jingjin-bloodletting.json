@@ -1,0 +1,714 @@
+{
+  "id": "sxm-08-jingjin-bloodletting",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "刺灸法",
+    "en": "Technique"
+  },
+  "order": 8,
+  "title": {
+    "zh": "刺络拔罐与经筋刺法：刺血加闪火罐“血尽邪出”并以血色与出血量为度；经筋刺法以排刺、透刺、围刺疏理经筋，起点是周围性面瘫",
+    "en": "Pricking-Cupping and Jingjin Needling: Bloodletting Plus Flash-fire Cupping to \"Exhaust Blood and Evil\", Judged by Blood Colour and Volume; Jingjin Needling with Row, Through and Encircling Needles to Free the Sinews, Starting from Peripheral Facial Palsy"
+  },
+  "summary": {
+    "zh": "这是他的两项自创刺法。刺络拔罐把三棱针点刺与闪火罐合用：单纯刺络血液自然流出，“瘀血留注不消，贼邪伏而不退”，加罐后可“血尽邪出，且可控制出血量”，并以血色由黑转红为度；处方里出血量因部位而异(背颈肩与哮喘、带状疱疹多为5~10ml，面部与腰腿多为3~5ml，湿疹痤疮2~3ml)，留罐多不超过5分钟。经筋刺法以“病本在经脉，病标在经筋”解面瘫，用排刺、一针多向透刺综合分刺、恢刺、合谷刺，主穴阳白四透、太阳透地仓、地仓颊车间排刺；后来在处方里也用于吞咽困难和皮损围刺。",
+    "en": "Two of his own techniques. Pricking-cupping joins three-edged-needle pricking with flash-fire cupping: with pricking alone blood flows out by itself, \"stagnant blood stays and evil lurks\"; a cup gives \"blood exhausted, evil out, and controllable volume\", judged by the blood turning from black to red. Volumes in the entries vary by site (5-10 ml for back, neck, shoulder, asthma and zoster; 3-5 ml for face and waist-leg; 2-3 ml for eczema and acne), retention mostly within 5 minutes. Jingjin needling explains facial palsy as \"root in the channel, branch in the sinew\", using row needling and multi-direction through-needling that combine the Neijing fen, hui and hegu needling, main points Yangbai four-way, Taiyang to Dicang, row needling from Dicang to Jiache; later entries also use it for dysphagia and for encircling skin lesions."
+  },
+  "takeaways": [
+    {
+      "zh": "刺络拔罐是“刺血术与拔罐法相结合的独特针刺方法”，设计的理由是补刺血的不足：单纯刺络让血自然流出或稍加挤压，“往往瘀血留注不消，贼邪伏而不退”；点刺后加闪火罐，罐内负压“可达血尽邪出，且可控制出血量”。工具是三棱针或七星针、梅花针，前提是“辨证选取穴区”。",
+      "en": "Pricking-cupping is \"a distinctive method combining bloodletting and cupping\", designed to make up for what bloodletting alone lacks: with pricking alone blood flows out by itself or with light squeezing, \"stagnant blood often stays and evil lurks\"; adding a flash-fire cup, the negative pressure gives \"blood exhausted, evil out, and controllable volume\". Tools are the three-edged, seven-star or plum-blossom needle, on the premise of \"selecting the area by syndrome differentiation\".",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "出血量是关键，判据是血色：“出血颜色的变化”，血射出而黑，必会变赤，“见赤为止”，否则“病必不除而反为害”；用玻璃罐可以直接观察，“达到预定标准，即行起罐”。这是他把加罐的好处落到操作上的地方。",
+      "en": "Volume is the key and blood colour is the criterion: black blood turns red as it clears, \"stop when it is red\", otherwise \"the disease will not go and harm results\"; a glass cup allows direct watching and the cup is removed \"once the set standard is reached\". This is where the benefit of adding a cup is made operational.",
+      "cite": [
+        "E4",
+        "E5"
+      ]
+    },
+    {
+      "zh": "处方里把血色标准换算成毫升数，并随部位和病情增减：出血量5~10ml的有19条(咳嗽、哮喘发作期、落枕、脊柱炎、臂丛神经痛、肩周炎、肘劳、带状疱疹、急性鼻炎、中风)，3~5ml有15条(面瘫、三叉神经痛、腰痛、坐骨神经痛、类风湿关节炎、呃逆、淋巴管炎)，2~3ml有3条(湿疹、痤疮)，扁桃体、喉喑点刺少商等只出1~2滴。哮喘一条明说：“哮喘严重时出血量可以稍多一些，缓解期出血量为3~5ml”。每次点刺3~5点、留罐多不超过5分钟(带状疱疹8分钟，腰痛、三叉神经痛、坐骨神经痛可到5~10分钟)。",
+      "en": "The entries convert the colour rule into millilitres and adjust for site and severity. Volume 5-10 ml in 19 entries (cough, asthma attack, stiff neck, spondylosis, brachial plexus pain, shoulder periarthritis, tennis elbow, herpes zoster, acute rhinitis, stroke); 3-5 ml in 15 (facial palsy, trigeminal neuralgia, low-back pain, sciatica, rheumatoid arthritis, hiccup, lymphangitis); 2-3 ml in 3 (eczema, acne); tonsillitis and hoarseness prick Shaoshang and the like for only 1-2 drops. The asthma entry says so outright: \"in severe asthma the volume may be somewhat larger, in remission 3-5 ml\". Each session pricks 3-5 points, retention mostly under 5 minutes (8 for zoster; 5-10 for waist, trigeminal and sciatic pain).",
+      "cite": [
+        "E26",
+        "E27",
+        "E28",
+        "E29"
+      ]
+    },
+    {
+      "zh": "他给刺络拔罐列了六种作用：活血通络“是刺络拔罐最主要、最直接的作用”；还有祛瘀生新、温经散寒、祛风除湿(水肿处拔出水液)、通络止痛(急性扭伤劳损“疗效颇佳”)、泻热消肿(热毒疮肿)。他的总括是“既可祛邪，也可补虚，既可温经，又可泻热”，也就是刺络不限于实热证。",
+      "en": "He lists six actions for pricking-cupping. Activating blood and freeing the collaterals is \"the most important and most direct\"; the others are removing stasis to generate the new, warming channels and dispersing cold, dispelling wind and damp (fluid is drawn from oedematous sites), freeing collaterals to stop pain (acute sprain and strain \"quite effective\"), and clearing heat and reducing swelling (toxic-heat sores). His summary is \"it can both expel evil and tonify deficiency, both warm channels and drain heat\": bloodletting is not confined to excess-heat patterns.",
+      "cite": [
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "适应证与道理逐病写出：哮喘“泻血祛邪应求其尽，可获立即止喘的良效”；带状疱疹“治疗的关键，在于消除神经根的炎症和水肿”，刺络拔罐“具有通经活络、活血化瘀、消肿去炎止痛之功效”；丹毒“在丹毒局部或加大椎刺络拔罐”；面瘫急性期在水肿处拔罐。在71条带刺络/三棱针/拔罐标签的处方中，49条把刺络与经穴刺法分成两组并用；在622例医案中108例提到刺络、拔罐、放血或三棱针，以脑卒中(21例，多为十宣放血)、面瘫(10例)、腰腿痛(8例)、带状疱疹(7例)居前。",
+      "en": "Indications come with a reason for each. Asthma: \"drain blood to expel evil, and drain it all, for an immediate anti-asthmatic effect\". Zoster: \"the key is removing inflammation and oedema of the nerve root\", and pricking-cupping \"frees channels and collaterals, activates blood, reduces swelling, inflammation and pain\". Erysipelas: prick-cup the lesion, or Dazhui as well. Facial palsy in the acute stage: cup the oedematous area. Of 71 prescription entries carrying a bloodletting, three-edged-needle or cupping tag, 49 put pricking and channel needling in two groups used together; of 622 cases, 108 mention pricking, cupping, bleeding or three-edged needle, mostly stroke (21, mostly Shixuan bleeding), facial palsy (10), waist-leg pain (8) and zoster (7).",
+      "cite": [
+        "E11",
+        "E12",
+        "E13",
+        "E14",
+        "E15"
+      ]
+    },
+    {
+      "zh": "经筋刺法是他“汲取中医学经筋理论的精华”并结合临床创立，指导思想是“面部是手足三阳经筋散布结聚之处，凡面部与筋肉有关的疾患皆可从经筋论治”。面瘫的病机被写成“病本在经脉，病标在经筋”：寒则筋急、热则筋纵，“外感寒邪则筋急，外感热邪则筋纵”，因此“治愈关键在于经筋功能的恢复”，治则是“祛外邪、调气血、通经筋”。",
+      "en": "Jingjin needling was created by him \"drawing on the essence of sinew-channel theory\" together with clinical practice, guided by \"the face is where the yang sinew channels of hand and foot spread and knot; every facial disorder involving muscle can be treated through the sinew channels\". Facial palsy is put as \"root in the channel, branch in the sinew\": cold makes sinews tense, heat makes them slack, \"cold tightens, heat slackens\", so \"the key to cure is recovery of sinew function\", with the principle \"expel exterior evil, regulate qi and blood, free the sinews\".",
+      "cite": [
+        "E16",
+        "E17",
+        "E18",
+        "E19"
+      ]
+    },
+    {
+      "zh": "经筋刺法的操作有一个古法来源与一套具体参数。选穴上他把《灵枢》的“以痛为输”引申为“天应穴、阿是穴乃至压痛点、反应点”；针法上“多采取排刺及一针多向等透刺”，综合分刺、恢刺、合谷刺。主穴阳白四透(向上星、头维、攒竹、丝竹空)、太阳透地仓或颊车、地仓与颊车间阳明经筋排刺，每隔0.5寸1针，针尖与表皮成15度；睛明、下关用补法，余穴泻法，每穴手法0.5min，留针20min，每日1次，28日为1疗程。",
+      "en": "The needling has a classical root and a fixed set of parameters. For point choice he extends the Lingshu \"take pain as the point\" to \"tender points, ashi points, points of reaction\"; for technique he \"mostly uses row needling and multi-direction through needling\", combining the fen, hui and hegu needling of the Neijing. Main points: Yangbai four-way (toward Shangxing, Touwei, Cuanzhu, Sizhukong), Taiyang through to Dicang or Jiache, and row needling of the yangming sinew between Dicang and Jiache, one needle every 0.5 cun at 15 degrees to the skin; Jingming and Xiaguan tonified, the rest reduced, 0.5 min manipulation each, retained 20 min, once a day, 28 days a course.",
+      "cite": [
+        "E20",
+        "E21",
+        "E22",
+        "E23"
+      ]
+    },
+    {
+      "zh": "经筋刺法在面瘫处方里与刺络和经穴刺法三组同用：病久体虚加足三里(提插补法)，久病面肌抽动加健侧穴与刺络拔罐，风池等用于急性期“加强疏风通络之力”；刺络组每次两个部位，出血3~5ml，留罐不超过5分钟。12例面瘫医案里12例用透刺、排刺或围刺，10例提到经筋，10例提到刺络拔罐。术语在处方里被延用：7条处方设“经筋刺法”组，除面瘫2条外，吞咽困难用于颊肌、口轮匝肌排刺围刺，神经性皮炎、牛皮癣、痒疹用“毫针围刺”皮损。",
+      "en": "In the facial-palsy entries jingjin needling is used together with pricking-cupping and channel needling as three groups. Long illness with weakness adds Zusanli (lifting-thrusting tonification); long illness with facial twitching adds the healthy-side points and pricking-cupping; Fengchi and others serve the acute stage \"to strengthen dispelling wind and freeing collaterals\"; the pricking group takes two sites per session, 3-5 ml, retention under 5 minutes. Of 12 facial-palsy cases, all 12 use through, row or encircling needling, 10 mention the sinews and 10 mention pricking-cupping. The term is carried on in the entries: 7 prescriptions have a jingjin-needling group, besides 2 for facial palsy, dysphagia (row and encircling needles on cheek and orbicularis muscles) and neurodermatitis, psoriasis and prurigo (encircling skin lesions with filiform needles).",
+      "cite": [
+        "E24",
+        "E25",
+        "E26",
+        "E30",
+        "E31"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "刺络拔罐：病 → 部位 → 出血量与留罐 → 疗程(据处方)",
+        "en": "Pricking-cupping: disease → site → volume and retention → course (from the entries)"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "部位",
+          "en": "Site"
+        },
+        {
+          "zh": "出血量与留罐",
+          "en": "Volume and retention"
+        },
+        {
+          "zh": "疗程",
+          "en": "Course"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "支气管哮喘 / 哮喘",
+            "en": "Bronchial asthma"
+          },
+          {
+            "zh": "风门、肺俞、膈俞，每次1~2对；华佗夹脊(2、3、5、7对)另针",
+            "en": "Fengmen, Feishu, Geshu, 1-2 pairs a time; Huatuo jiaji 2,3,5,7 needled separately"
+          },
+          {
+            "zh": "点刺3~5点；出血5~10ml(重)，缓解期3~5ml",
+            "en": "3-5 pricks; 5-10 ml severe, 3-5 ml in remission"
+          },
+          {
+            "zh": "刺络每日1次，部位交替，15日为1疗程",
+            "en": "Daily, sites alternated, 15 days"
+          }
+        ],
+        [
+          {
+            "zh": "咳嗽",
+            "en": "Cough"
+          },
+          {
+            "zh": "大椎",
+            "en": "Dazhui"
+          },
+          {
+            "zh": "点刺3~5针，出血5~10ml",
+            "en": "3-5 pricks, 5-10 ml"
+          },
+          {
+            "zh": "每日1次，5日为1疗程",
+            "en": "Daily, 5 days"
+          }
+        ],
+        [
+          {
+            "zh": "周围性面瘫",
+            "en": "Facial palsy"
+          },
+          {
+            "zh": "瘫痪侧阳白、颧髎、下关、颊车等经筋所过处，每次两个部位",
+            "en": "Yangbai, Quanliao, Xiaguan, Jiache along the sinews of the paralysed side, two sites a time"
+          },
+          {
+            "zh": "点刺3~5点，每部位3~5ml，留罐不超过5min",
+            "en": "3-5 pricks, 3-5 ml each, under 5 min"
+          },
+          {
+            "zh": "部位交替",
+            "en": "Sites alternated"
+          }
+        ],
+        [
+          {
+            "zh": "三叉神经痛",
+            "en": "Trigeminal neuralgia"
+          },
+          {
+            "zh": "痛点1~2处",
+            "en": "1-2 painful spots"
+          },
+          {
+            "zh": "每处3~5ml，留罐5~10min",
+            "en": "3-5 ml each, 5-10 min"
+          },
+          {
+            "zh": "刺络每日1次，30日为1疗程",
+            "en": "Daily, 30 days"
+          }
+        ],
+        [
+          {
+            "zh": "落枕",
+            "en": "Stiff neck"
+          },
+          {
+            "zh": "阿是穴1~2穴",
+            "en": "1-2 ashi points"
+          },
+          {
+            "zh": "5~10ml，留罐不超过5min",
+            "en": "5-10 ml, under 5 min"
+          },
+          {
+            "zh": "轻者1次痊愈，重者5日为1疗程",
+            "en": "Mild 1 session; severe 5 days"
+          }
+        ],
+        [
+          {
+            "zh": "肩关节周围炎",
+            "en": "Shoulder periarthritis"
+          },
+          {
+            "zh": "患肩最痛点，每次2~3穴",
+            "en": "Most painful spots, 2-3 a time"
+          },
+          {
+            "zh": "每处点刺3~5点，留罐5~7min，每罐5~10ml",
+            "en": "3-5 pricks each, 5-7 min, 5-10 ml a cup"
+          },
+          {
+            "zh": "刺络每日1次，15日为1疗程",
+            "en": "Daily, 15 days"
+          }
+        ],
+        [
+          {
+            "zh": "腰痛(腰肌劳损)",
+            "en": "Low-back pain"
+          },
+          {
+            "zh": "膀胱经两侧1~2穴，重点疼痛处",
+            "en": "1-2 points along the bladder channel, at the painful spot"
+          },
+          {
+            "zh": "挑刺3~5点，3~5ml，留罐5~10min",
+            "en": "3-5 pricks, 3-5 ml, 5-10 min"
+          },
+          {
+            "zh": "每日或隔日1次，15日为1疗程",
+            "en": "Daily or alternate days, 15 days"
+          }
+        ],
+        [
+          {
+            "zh": "坐骨神经痛",
+            "en": "Sciatica"
+          },
+          {
+            "zh": "疼痛侧太阳经、少阳经所过的大肠俞、环跳、风市、承山，每次2~4处",
+            "en": "Dachangshu, Huantiao, Fengshi, Chengshan along bladder and gallbladder channels, 2-4 sites"
+          },
+          {
+            "zh": "3~5ml，大号玻璃罐留罐5~10min，用于急性发作",
+            "en": "3-5 ml, large glass cup 5-10 min, for acute attacks"
+          },
+          {
+            "zh": "急性期刺络每日1次，15日以内不可间断",
+            "en": "Acute: daily, no gaps within 15 days"
+          }
+        ],
+        [
+          {
+            "zh": "带状疱疹",
+            "en": "Herpes zoster"
+          },
+          {
+            "zh": "疱疹间隙处2~3处，不点在疱疹上",
+            "en": "2-3 sites between vesicles, not on them"
+          },
+          {
+            "zh": "刺4~5点，5~10ml，留罐不超过8min",
+            "en": "4-5 pricks, 5-10 ml, under 8 min"
+          },
+          {
+            "zh": "每日或隔日1次，7次为1疗程",
+            "en": "Daily or alternate days, 7 sessions"
+          }
+        ],
+        [
+          {
+            "zh": "丹毒",
+            "en": "Erysipelas"
+          },
+          {
+            "zh": "皮损中央与周围交替；大椎；委中点刺",
+            "en": "Centre and edge of lesion in turn; Dazhui; Weizhong pricked"
+          },
+          {
+            "zh": "3~5点，4~5ml，留罐5~8min；委中2~4ml",
+            "en": "3-5 pricks, 4-5 ml, 5-8 min; Weizhong 2-4 ml"
+          },
+          {
+            "zh": "每日或隔日1次，1周为1疗程",
+            "en": "Daily or alternate days, 1 week"
+          }
+        ],
+        [
+          {
+            "zh": "高热",
+            "en": "High fever"
+          },
+          {
+            "zh": "大椎；十宣",
+            "en": "Dazhui; Shixuan"
+          },
+          {
+            "zh": "大椎点刺3~5点，出血5ml，留罐不超过5min；十宣每穴7~10滴",
+            "en": "Dazhui 3-5 pricks, 5 ml, under 5 min; Shixuan 7-10 drops each"
+          },
+          {
+            "zh": "刺络每日1次，3~7日为1疗程",
+            "en": "Daily, 3-7 days"
+          }
+        ],
+        [
+          {
+            "zh": "湿疹、痤疮",
+            "en": "Eczema, acne"
+          },
+          {
+            "zh": "脊柱旁开2寸(痤疮加华佗夹脊挑刺)",
+            "en": "2 cun beside the spine (acne: plus Huatuo jiaji picking)"
+          },
+          {
+            "zh": "左右各5罐，每罐2~3ml",
+            "en": "5 cups each side, 2-3 ml a cup"
+          },
+          {
+            "zh": "湿疹隔日1次，5次为1疗程",
+            "en": "Eczema: alternate days, 5 sessions"
+          }
+        ],
+        [
+          {
+            "zh": "急性扁桃体炎",
+            "en": "Acute tonsillitis"
+          },
+          {
+            "zh": "少商、商阳",
+            "en": "Shaoshang, Shangyang"
+          },
+          {
+            "zh": "每穴1~2滴为度",
+            "en": "1-2 drops each"
+          },
+          {
+            "zh": "每日1次，12次为1疗程",
+            "en": "Daily, 12 sessions"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "经筋刺法治周围性面神经麻痹：主穴、配穴、刺法、参数、加减",
+        "en": "Jingjin needling for peripheral facial palsy: main points, others, technique, parameters, modifications"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "内容",
+          "en": "Content"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "病机与治则",
+            "en": "Mechanism and principle"
+          },
+          {
+            "zh": "病本在经脉，病标在经筋；祛外邪、调气血、通经筋",
+            "en": "Root in channel, branch in sinew; expel exterior evil, regulate qi and blood, free sinews"
+          }
+        ],
+        [
+          {
+            "zh": "主穴",
+            "en": "Main points"
+          },
+          {
+            "zh": "阳白四透(上星、头维、攒竹、丝竹空)；太阳透地仓或颊车；地仓与颊车之间阳明经筋排刺",
+            "en": "Yangbai four-way (Shangxing, Touwei, Cuanzhu, Sizhukong); Taiyang to Dicang or Jiache; row needling of the yangming sinew between Dicang and Jiache"
+          }
+        ],
+        [
+          {
+            "zh": "配穴",
+            "en": "Other points"
+          },
+          {
+            "zh": "睛明、四白两透(目内眦、目外眦)、迎香、下关、承浆、风池、健侧合谷；处方栏另有瘫痪肌群围刺",
+            "en": "Jingming, Sibai two-way, Yingxiang, Xiaguan, Chengjiang, Fengchi, healthy-side Hegu; the entry adds encircling needles on the paralysed muscles"
+          }
+        ],
+        [
+          {
+            "zh": "针法",
+            "en": "Technique"
+          },
+          {
+            "zh": "排刺、一针多向透刺，综合分刺、恢刺、合谷刺；阳明经筋每隔0.5寸1针，多针浅刺",
+            "en": "Row needling, multi-direction through needling combining fen, hui, hegu needling; yangming sinew one needle per 0.5 cun, several shallow needles"
+          }
+        ],
+        [
+          {
+            "zh": "参数",
+            "en": "Parameters"
+          },
+          {
+            "zh": "针尖与表皮成15度；睛明、下关补法，余穴泻法；各穴手法0.5min，留针20min，每日1次，28日为1疗程",
+            "en": "15 degrees to the skin; Jingming, Xiaguan tonifying, others reducing; 0.5 min each, retained 20 min, daily, 28 days"
+          }
+        ],
+        [
+          {
+            "zh": "加减",
+            "en": "Modifications"
+          },
+          {
+            "zh": "口苦耳鸣加外关、率谷(泻法)及关冲(刺血)；病久体虚加足三里(提插补法)；久病面肌抽动加健侧穴及刺络拔罐",
+            "en": "Bitter taste, tinnitus: Waiguan, Shuaigu (reducing) and Guanchong (bleeding); long illness with weakness: Zusanli (thrust tonifying); long illness with twitching: healthy-side points and pricking-cupping"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "数据：刺络与经筋刺法在处方和医案中的分布",
+        "en": "Counts: where pricking-cupping and jingjin needling appear in entries and cases"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "数",
+          "en": "Count"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "带刺络放血、三棱针或拔罐标签的处方(全集94条中40条、实用81条中31条)",
+            "en": "Prescription entries tagged bleeding, three-edged needle or cupping (40 of 94 complete collection, 31 of 81 Practical)"
+          },
+          "71"
+        ],
+        [
+          {
+            "zh": "其中出血量写5~10ml / 3~5ml / 2~3ml / 1~2滴或1~2ml",
+            "en": "Volume 5-10 ml / 3-5 ml / 2-3 ml / 1-2 drops or ml"
+          },
+          "19 / 15 / 3 / 3"
+        ],
+        [
+          {
+            "zh": "其中留罐“不超过5分钟”/ 5~10分钟 / 8分钟",
+            "en": "Retention under 5 min / 5-10 min / 8 min"
+          },
+          "11 / 6 / 2"
+        ],
+        [
+          {
+            "zh": "其中点刺3~5点",
+            "en": "Pricking 3-5 points"
+          },
+          "28"
+        ],
+        [
+          {
+            "zh": "其中刺络与经穴刺法分两组并用",
+            "en": "Pricking and channel needling as two groups"
+          },
+          "49"
+        ],
+        [
+          {
+            "zh": "设“经筋刺法”组的处方(面瘫2、吞咽困难1、神经性皮炎1、牛皮癣1、痒疹2)",
+            "en": "Entries with a jingjin-needling group"
+          },
+          "7"
+        ],
+        [
+          {
+            "zh": "622例医案中提到刺络/拔罐/放血/三棱针",
+            "en": "Cases mentioning pricking, cupping, bleeding, three-edged needle"
+          },
+          "108"
+        ],
+        [
+          {
+            "zh": "其中脑卒中 / 面瘫 / 腰腿痛 / 带状疱疹 / 头痛、痿证 各",
+            "en": "of which stroke / facial palsy / waist-leg / zoster / headache, flaccidity"
+          },
+          "21 / 10 / 8 / 7 / 5"
+        ],
+        [
+          {
+            "zh": "12例面瘫医案：用透刺排刺围刺 / 提到经筋 / 提到刺络拔罐",
+            "en": "12 facial-palsy cases: through, row, encircling / sinew mentioned / pricking-cupping"
+          },
+          "12 / 10 / 10"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "刺络拔罐是刺血术与拔罐法相结合的独特针刺方法",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.318"
+    },
+    {
+      "id": "E2",
+      "quote": "往往瘀血留注不消，贼邪伏而不退，如加用闪火罐，造成罐内负压，可达血尽邪出，且可控制出血量",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.318"
+    },
+    {
+      "id": "E3",
+      "quote": "在辨证选取穴区的前提下，用三棱针或七星针、梅花针等",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.318"
+    },
+    {
+      "id": "E4",
+      "quote": "出血量的判定，应以出血颜色的变化为依据",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.319"
+    },
+    {
+      "id": "E5",
+      "quote": "这样医生可以透过玻璃罐直接观察血量，达到预定标准，即行起罐，血尽邪出，所以疗效迅速",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.319"
+    },
+    {
+      "id": "E6",
+      "quote": "是刺络拔罐最主要、最直接的作用，凡临床有瘀血阻络之病证，皆可用刺络拔罐法治疗",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.319"
+    },
+    {
+      "id": "E7",
+      "quote": "刺络拔罐的作用是多方面的，既可祛邪，也可补虚，既可温经，又可泻热",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.319"
+    },
+    {
+      "id": "E8",
+      "quote": "石学敏院士在临床治疗中发现刺络拔罐具有极好的止痛作用，尤其对运动系统软组织急性扭伤或劳损引起的疼痛，疗效颇佳",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.319"
+    },
+    {
+      "id": "E9",
+      "quote": "如周围性面瘫急性发作期、风湿性骨关节炎等，在水肿局部刺络拔罐",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.319"
+    },
+    {
+      "id": "E10",
+      "quote": "若血射出而黑，必会变赤，见赤为止，否则病必不除而反为害",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.319"
+    },
+    {
+      "id": "E11",
+      "quote": "故泻血祛邪应求其尽，可获立即止喘的良效",
+      "src": "石学敏实用针灸学·第六章 石氏针刺手法 刺络拔罐疗法 p.241"
+    },
+    {
+      "id": "E12",
+      "quote": "因此治疗的关键，在于消除神经根的炎症和水肿",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.320"
+    },
+    {
+      "id": "E13",
+      "quote": "在丹毒局部或加大椎刺络拔罐以清热解毒、消瘀散结、活血通络",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.321"
+    },
+    {
+      "id": "E14",
+      "quote": "支气管哮喘、三叉神经痛、面肌挛、周围面瘫急性期、风湿性关节炎、类风湿关节炎、诸神经痛、软组织损伤",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.320"
+    },
+    {
+      "id": "E15",
+      "quote": "刺络拔罐法具有通经活络、活血化瘀、消肿去炎止痛之功效",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 刺络拔罐疗法 p.320"
+    },
+    {
+      "id": "E16",
+      "quote": "面部是手足三阳经筋散布结聚之处，凡面部与筋肉有关的疾患皆可从经筋论治",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 经筋刺法 p.323"
+    },
+    {
+      "id": "E17",
+      "quote": "该病责之于经筋病变，病本在经脉，病标在经筋",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 经筋刺法 p.323"
+    },
+    {
+      "id": "E18",
+      "quote": "外感寒邪则筋急，外感热邪则筋纵",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 经筋刺法 p.323"
+    },
+    {
+      "id": "E19",
+      "quote": "所以该病治愈关键在于经筋功能的恢复，因此该病的治则是“祛外邪、调气血、通经筋”",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 经筋刺法 p.323"
+    },
+    {
+      "id": "E20",
+      "quote": "石学敏院士依据现代临床知识，将“”引申理解为天应穴、阿是穴乃至压痛点、反应点",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 经筋刺法 p.323"
+    },
+    {
+      "id": "E21",
+      "quote": "多采取排刺及一针多向等透刺，该针法综合了《灵枢·官针》篇中的分刺、恢刺、合谷刺等",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 经筋刺法 p.323"
+    },
+    {
+      "id": "E22",
+      "quote": "地仓与颊车之间阳明经筋排刺，指按照阳明经筋循行，采用多针浅刺、排刺，每隔0.5寸1针",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 经筋刺法 p.324"
+    },
+    {
+      "id": "E23",
+      "quote": "除晴明、下关用捻转补法外，余穴用捻转泻法，各穴施手法0.5min，留针20min，每日针1次，28日为1疗程",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 经筋刺法 p.324"
+    },
+    {
+      "id": "E24",
+      "quote": "病久体虚者加足三里（用提插补法）；久病患者面肌抽动者加刺健侧穴及刺络拔罐",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 经筋刺法 p.323"
+    },
+    {
+      "id": "E25",
+      "quote": "应用于面瘫急性期以加强疏风通络之力",
+      "src": "石学敏针灸全集·第五章 刺灸法 第六节 石氏针刺手法 经筋刺法 p.324"
+    },
+    {
+      "id": "E26",
+      "quote": "令每个部位出血3~5ml，留罐时间不得超过5min",
+      "src": "石学敏针灸全集·第八章 治疗各论 面神经麻痹 p.454"
+    },
+    {
+      "id": "E27",
+      "quote": "刺络拔罐法每次取1~2穴，用三棱针点刺3~5点，取罐闪火法拔之，出血量5~10ml，留罐时间不得超过5min",
+      "src": "石学敏针灸全集·第八章 治疗各论 落枕 p.498"
+    },
+    {
+      "id": "E28",
+      "quote": "以三棱针点刺在疱疹间隙处（轻者皮内，重者皮下），刺4～5点，加以闪火罐放血5~10ml，注意不要点在疱疹上",
+      "src": "石学敏针灸全集·第八章 治疗各论 带状疱疹 p.560"
+    },
+    {
+      "id": "E29",
+      "quote": "哮喘严重时出血量可以稍多一些，缓解期出血量为3~5ml",
+      "src": "石学敏实用针灸学·第八章 内科疾病 哮喘 p.310"
+    },
+    {
+      "id": "E30",
+      "quote": "经筋刺法：视皮疹面积大小，沿皮疹边缘向内斜刺",
+      "src": "石学敏针灸全集·第八章 治疗各论 痒疹 p.558"
+    },
+    {
+      "id": "E31",
+      "quote": "经筋刺法：对局限性皮损可用毫针围刺",
+      "src": "石学敏针灸全集·第八章 治疗各论 神经性皮炎 p.553"
+    }
+  ],
+  "caveats": {
+    "zh": "两书的“石氏针刺手法”是同一份材料(实用针灸学文字略有出入)。刺络拔罐的作用机理与现代医学解释(白细胞增多、微循环、神经根水肿等)是编者的说明，本指南只取其中医部分；出血量、留罐时间是从各病处方的【操作】栏数出的，各条格式不一。OCR问题：“以痛为输”的“输”字在原文缺失(引文里是空引号)；“睛明”“攒竹”“风府”等穴名在部分文字里印成“晴明”“竹”“风”；痤疮条“每罐出血2～3ml”印作“23ml”，本指南按2~3ml；“面肌痉挛”印作“面肌挛”，“疮痈”印作“疮痛”，引文照印。脑卒中处方的5~10ml指其中的刺络拔罐(肩痛等)，十宣另为每穴1~2ml。",
+    "en": "The two books' \"Shi's needling\" chapters are one body of material (small wording differences in Practical). The mechanism explanations and modern interpretations (leukocyte increase, microcirculation, nerve-root oedema) are the compilers' account; this guide keeps only the Chinese-medicine part. In the stroke entry, 5-10 ml refers to its pricking-cupping and Shixuan is 1-2 ml each. Volumes and retention times are counted from the manipulation column of each entry, whose format varies. OCR: the character shu in \"take pain as the point\" is missing in the source (empty quotation marks in the quote); Jingming, Cuanzhu, Fengfu are printed in variant or truncated forms in places; the acne entry prints \"2-3 ml\" as \"23 ml\", read here as 2-3 ml; \"facial spasm\" and \"sores\" lose a character; quotes are as printed."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-009",
+      "sxm-rx-107",
+      "sxm-rx-016",
+      "sxm-rx-061",
+      "sxm-rx-150",
+      "sxm-rx-027",
+      "sxm-rx-033",
+      "sxm-rx-057"
+    ],
+    "cases": [
+      "sxm-176",
+      "sxm-271",
+      "sxm-186",
+      "sxp-024",
+      "sxm-370"
+    ],
+    "points": [
+      "大椎",
+      "阳白",
+      "太阳",
+      "地仓",
+      "颊车",
+      "下关",
+      "风池",
+      "合谷",
+      "膈俞",
+      "肺俞",
+      "少商",
+      "委中"
+    ]
+  }
+}

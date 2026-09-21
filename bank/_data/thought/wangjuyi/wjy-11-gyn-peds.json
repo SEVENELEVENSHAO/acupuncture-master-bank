@@ -1,0 +1,687 @@
+{
+  "id": "wjy-11-gyn-peds",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "分科心得",
+    "en": "By condition group"
+  },
+  "order": 11,
+  "title": {
+    "zh": "妇科与儿科：崩与漏分肝脾、灸隐白与大敦，痛经、乳癖、不孕都先察经，小儿重脾胃",
+    "en": "Gynaecology and Paediatrics: Bleeding Split into Liver and Spleen, Moxa on Yinbai and Dadun; Dysmenorrhoea, Breast Lumps and Infertility Palpated First; Children Treated through Spleen and Stomach"
+  },
+  "summary": {
+    "zh": "妇科诊后絮语很具体：崩属肝(厥阴)、漏属脾(太阴)，大敦治崩、隐白治漏，且是灸井穴、不同灸；痛经能累及太阴、少阴、厥阴、少阳、冲任；乳癖不限于肝胃，要看察经。不孕案他只按病候和经络变动选经，冲任常配公孙、关元。儿科章无诊后絮语，只在案解读中用“三个里”、四缝、隐白等健脾思路。",
+    "en": "The gynaecology essays are specific: profuse bleeding (beng) belongs to the Liver (Jueyin), trickling bleeding (lou) to the Spleen (Taiyin); Dadun treats beng and Yinbai lou, both moxaed, not together. Dysmenorrhoea can involve Taiyin, Shaoyin, Jueyin, Shaoyang, Chong and Ren; breast lumps are not limited to Liver and Stomach but follow palpation. In infertility he only chooses channels by symptoms and channel change, with Chong-Ren often taking Gongsun and Guanyuan. The paediatric chapter has no essay; the case comments use the \"three li\", Sifeng and Yinbai to work on Spleen and Stomach."
+  },
+  "takeaways": [
+    {
+      "zh": "崩与漏先分开：崩是出血量多、时间较短，漏是量少、时间较长；他把崩中归肝(厥阴，大血管出血)，漏下归脾(太阴，毛细血管出血)，统称崩漏，同时承认同一患者常崩漏并见、很难区分。案51就是“像崩又像漏”，因病程长以漏为主、以崩为辅，取隐白、太冲、曲泉。",
+      "en": "Beng and lou are first separated: beng is heavy and short, lou is light and prolonged. He assigns beng to the Liver (Jueyin, large-vessel bleeding) and lou to the Spleen (Taiyin, capillary bleeding), together called beng-lou, while admitting that both are often seen in one patient and hard to tell apart. Case 51 \"looks like beng and like lou\"; because the course was long he took it as mainly lou with some beng, and used Yinbai, Taichong and Ququan.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ]
+    },
+    {
+      "zh": "隐白治漏、大敦治崩，且用灸：隐白是脾经井穴，升阳益气止血，治气虚不摄；大敦是肝经井穴，令血管藏血功能恢复，治崩中。他说灸(而非针)井穴能激发脾阳统血。案50脾虚型(乏力、舌淡、太阴经异常)灸隐白20分钟配太白，2诊临床痊愈；案52血多有血块、常饮酒，判以厥阴异常为主，灸大敦15分钟，翌日血止。",
+      "en": "Yinbai for lou, Dadun for beng, both by moxa. Yinbai, the Spleen jing-well, raises yang, boosts qi and stops bleeding, suiting qi failing to hold; Dadun, the Liver jing-well, restores the vessels' blood-storing function and treats beng. He says it is moxa (not needling) on the jing-well that stirs Spleen yang to govern blood. Case 50, Spleen type (fatigue, pale tongue, Taiyin changes): moxa Yinbai 20 minutes with Taibai, cured in 2 visits. Case 52, heavy bleeding with clots and heavy drinking, judged mainly Jueyin: moxa Dadun 15 minutes, bleeding stopped next day.",
+      "cite": [
+        "E5",
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "一次只用一个井穴，不要两穴同灸：隐白、大敦相距最多1寸，他试过一起灸反而效果不好，说过多或不适当的针灸使各穴功能互相干扰，两穴同灸等于不灸，像把整个脚趾烧一烧，缺乏准确性和选择性。这是他“少而精”的又一例证。",
+      "en": "One jing-well at a time, not both: Yinbai and Dadun are at most 1 cun apart, and moxa on both together was found to work worse. He says too many or ill-fitted needlings make points interfere with one another; moxa on both equals none, like burning the whole toe, lacking accuracy and selectivity. Another instance of his \"few and refined\" rule.",
+      "cite": [
+        "E11",
+        "E12"
+      ]
+    },
+    {
+      "zh": "出血不给“止血穴单”，要按病机察经：1987年在南美教学，有学生请他列几个治产后出血的穴，他报了一串穴，学生就不肯记了；第二天带来患者，察经为足太阴经异常、脾虚型，他建议灸隐白，翌日出血已少，再灸两次隐白、针一次足三里而愈。他的结论是出血原因和止血方法都很多，必须按病机选经配穴；案50按语也说崩漏还有中气下陷、相火过亢等病机，须结合经络异常分析。",
+      "en": "No stock list of haemostatic points; palpate and follow the mechanism. Teaching in South America in 1987, a student asked for points for postpartum bleeding; he reeled off a long list and the student stopped writing. Next day the patient came: palpation showed Foot Taiyin abnormal, a Spleen-deficiency type, and he advised moxa on Yinbai; bleeding was already less next day, and two more moxa sessions on Yinbai and one needling of Zusanli finished it. His conclusion: bleeding has many causes and many ways to stop it, so channels and points must follow the mechanism; the Case 50 note likewise lists other mechanisms (sunken middle qi, ministerial fire) to be analysed with channel findings.",
+      "cite": [
+        "E13",
+        "E14",
+        "E15"
+      ]
+    },
+    {
+      "zh": "痛经涉及多条经，逐例察经：他说痛经能累及太阴、少阴、厥阴、少阳、冲脉、任脉，有时单独一条、有时多条；太阴调经血的吸收排出和按时来潮，厥阴净化血液、保持血质，冲脉为血海、调周期。案54脾阳虚寒、病在太阴厥阴，取公孙(灸)、地机、太冲；案55痛在腹股沟、血块刺痛，辨为厥阴经和冲脉，取曲泉、中都、公孙。",
+      "en": "Dysmenorrhoea involves several channels, read case by case. He says it can involve Taiyin, Shaoyin, Jueyin, Shaoyang, Chong and Ren, sometimes one alone, sometimes several: Taiyin regulates absorption and discharge of menstrual blood and timeliness, Jueyin purifies blood and keeps its quality, Chong is the sea of blood and governs the cycle. Case 54 (Spleen yang deficiency with cold, Taiyin and Jueyin): Gongsun (moxa), Diji, Taichong. Case 55 (pain in the groin, clots, stabbing pain; Jueyin and Chong): Ququan, Zhongdu, Gongsun.",
+      "cite": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20"
+      ]
+    },
+    {
+      "zh": "乳腺增生不局限于肝胃两经：一般认为乳癖累及足厥阴与足阳明，但他要求仍以察经为准；案56病在少阳、阳明，取支沟、阳陵泉疏泄少阳，配足阳明郄穴梁丘止痛(加梁门、中脘)，3次胀痛和肿块消失；案57察为厥阴与手少阴异常为主，乳痛重，取天池、极泉等并用操、弹拨等局部手法促进气血流动。他说临床上不要局限于所谓“标准”治疗方案。",
+      "en": "Breast lumps are not limited to Liver and Stomach. Breast lumps are commonly taken to involve Foot Jueyin and Foot Yangming, but he insists on palpation. Case 56 (Shaoyang and Yangming): Zhigou and Yanglingquan to free Shaoyang, the Yangming xi-cleft Liangqiu for pain (with Liangmen, Zhongwan); pain and lump gone after 3 visits. Case 57 (mainly Jueyin and Hand Shaoyin, severe pain): Tianchi, Jiquan and others, with local cao and plucking to move qi and blood. He says not to be confined to the so-called \"standard\" treatment plan.",
+      "cite": [
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25"
+      ]
+    },
+    {
+      "zh": "冲任与不孕：案58～61的不孕、宫寒、宫颈糜烂多取任脉、冲脉和太阴、少阴经，反复用公孙调冲脉、关元或中极调任脉(案60另取尺泽、阴陵泉、水道、归来、三阴交；案61取水泉、育俞)。他的按语很克制：只是按病候病机和经络变动选经配穴，病候消失、经络功能恢复，自然可孕；妊娠是女子天性，不是医生使其生子。",
+      "en": "Chong-Ren and infertility. In Cases 58-61 (infertility, cold uterus, cervical erosion) he mostly takes Ren, Chong and Taiyin and Shaoyin, repeatedly using Gongsun for Chong and Guanyuan or Zhongji for Ren (Case 60 adds Chize, Yinlingquan, Shuidao, Guilai, Sanyinjiao; Case 61 Shuiquan and Huangshu). His note is restrained: he only chooses channels and points by symptoms, mechanism and channel change; when the symptoms go and channel function returns, pregnancy follows naturally; conception is the woman's nature, and the doctor does not make her bear a child.",
+      "cite": [
+        "E26",
+        "E27",
+        "E28",
+        "E29",
+        "E30"
+      ]
+    },
+    {
+      "zh": "小儿病机简单，重脾胃：儿科章没有诊后絮语，案解读里他用“三个里”(手足三里配建里)建脾补中益气，四缝消食积，隐白点刺醒脾。案64夜啼引张景岳“小儿脏腑娇嫩，病机简单”式的说法，辨为食不和则卧不安，点四缝紫络出血2~3滴与隐白，2诊显效；案63低血压头晕无力取四缝放血、足三里灸，23诊临床痊愈；案62小儿遗尿脾肾虚寒，肾俞点刺，灸大椎、身柱，手足三里，2诊临床痊愈。",
+      "en": "Children's disease is simple in mechanism; work Spleen and Stomach. The paediatric chapter has no essay; in the case comments he uses the \"three li\" (Hand and Foot Zusanli with Jianli) to build the Spleen and supplement middle qi, Sifeng to clear food stagnation and Yinbai pricked to wake the Spleen. In Case 64 (night crying) he cites the Zhang Jingyue idea that children's organs are tender and their mechanisms simple, reads it as \"when food is not settled sleep is not settled\", and pricks Sifeng (2-3 drops of purple blood) and Yinbai: marked effect in 2 visits. Case 63 (low blood pressure, dizziness, weakness): Sifeng bled, moxa Zusanli, cured in 23 visits. Case 62 (enuresis, Spleen-Kidney deficiency cold): prick Shenshu, moxa Dazhui and Shenzhu, Hand and Foot Zusanli, cured in 2 visits.",
+      "cite": [
+        "E31",
+        "E32",
+        "E33",
+        "E34"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 妇科病例：察经、辨经与首诊选穴",
+        "en": "Table 1. Gynaecology cases: palpation, channel and first-visit points"
+      },
+      "cols": [
+        {
+          "zh": "案/病",
+          "en": "Case / disease"
+        },
+        {
+          "zh": "察经与辨经",
+          "en": "Palpation and channel"
+        },
+        {
+          "zh": "首诊选穴",
+          "en": "First-visit points"
+        },
+        {
+          "zh": "结果",
+          "en": "Result"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "案50 崩漏(脾虚型)",
+            "en": "C50 beng-lou, Spleen type"
+          },
+          {
+            "zh": "太阴、厥阴异常",
+            "en": "Taiyin, Jueyin"
+          },
+          {
+            "zh": "隐白(灸20分钟)、太白、孔最、地机、太冲",
+            "en": "Yinbai (moxa 20 min), Taibai, Kongzui, Diji, Taichong"
+          },
+          {
+            "zh": "2诊，临床痊愈",
+            "en": "2 visits, clinical cure"
+          }
+        ],
+        [
+          {
+            "zh": "案51 崩漏(似崩似漏，以漏为主)",
+            "en": "C51 beng-lou, mainly lou"
+          },
+          {
+            "zh": "厥阴、太阴、阳明异常；病在太阴、厥阴",
+            "en": "Jueyin, Taiyin, Yangming; disease in Taiyin, Jueyin"
+          },
+          {
+            "zh": "隐白(灸20分钟)、太冲、曲泉",
+            "en": "Yinbai (moxa 20 min), Taichong, Ququan"
+          },
+          {
+            "zh": "3诊，临床痊愈(回原籍停诊)",
+            "en": "3 visits, clinical cure (stopped on relocating)"
+          }
+        ],
+        [
+          {
+            "zh": "案52 崩漏(血多有块，喝酒多)",
+            "en": "C52 beng-lou, heavy, clots, drinking"
+          },
+          {
+            "zh": "太阴、少阴、厥阴异常；以厥阴为主",
+            "en": "Taiyin, Shaoyin, Jueyin; mainly Jueyin"
+          },
+          {
+            "zh": "大敦(灸15分钟)、三阴交、足三里",
+            "en": "Dadun (moxa 15 min), Sanyinjiao, Zusanli"
+          },
+          {
+            "zh": "1诊，翌日血止，显效",
+            "en": "1 visit, bleeding stopped next day"
+          }
+        ],
+        [
+          {
+            "zh": "案54 痛经15年",
+            "en": "C54 dysmenorrhoea 15 years"
+          },
+          {
+            "zh": "太阴、厥阴、太阳、阳明；病在太阴、厥阴",
+            "en": "Taiyin, Jueyin, Taiyang, Yangming; disease Taiyin, Jueyin"
+          },
+          {
+            "zh": "公孙(灸)、地机、太冲",
+            "en": "Gongsun (moxa), Diji, Taichong"
+          },
+          {
+            "zh": "5次明显减轻，再巩固8次痊愈",
+            "en": "Clear relief after 5, cured after 8 more"
+          }
+        ],
+        [
+          {
+            "zh": "案55 痛经20年(子宫内膜异位症)",
+            "en": "C55 dysmenorrhoea 20 years (endometriosis)"
+          },
+          {
+            "zh": "厥阴、太阴、足少阴；病在厥阴、冲脉",
+            "en": "Jueyin, Taiyin, Foot Shaoyin; disease Jueyin, Chong"
+          },
+          {
+            "zh": "曲泉、公孙、中都",
+            "en": "Ququan, Gongsun, Zhongdu"
+          },
+          {
+            "zh": "7次缓解，再巩固3次",
+            "en": "Relief after 7, 3 more"
+          }
+        ],
+        [
+          {
+            "zh": "案56 乳腺增生",
+            "en": "C56 breast hyperplasia"
+          },
+          {
+            "zh": "太阴、阳明、少阳等；病在少阳、阳明",
+            "en": "Taiyin, Yangming, Shaoyang, etc.; disease Shaoyang, Yangming"
+          },
+          {
+            "zh": "支沟、阳陵泉、梁门、梁丘、中脘",
+            "en": "Zhigou, Yanglingquan, Liangmen, Liangqiu, Zhongwan"
+          },
+          {
+            "zh": "3次后胀痛、肿块消失，临床痊愈",
+            "en": "Pain and lump gone after 3 visits"
+          }
+        ],
+        [
+          {
+            "zh": "案57 乳腺增生(乳痛重)",
+            "en": "C57 breast hyperplasia, severe pain"
+          },
+          {
+            "zh": "多经异常；选厥阴、少阴",
+            "en": "Several channels; selected Jueyin, Shaoyin"
+          },
+          {
+            "zh": "天池(左，操)、极泉(操)、郄门与阴郄(原文OCR仅存“门”“阴”)、中都",
+            "en": "Tianchi (left, cao), Jiquan (cao), Ximen and Yinxi (printed only 门, 阴), Zhongdu"
+          },
+          {
+            "zh": "3次明显，肿块缩小，显效",
+            "en": "Clear after 3, lump smaller"
+          }
+        ],
+        [
+          {
+            "zh": "案58 宫寒、流产后",
+            "en": "C58 cold uterus, after miscarriage"
+          },
+          {
+            "zh": "太阴、少阴为主，累及奇经；选太阴、冲、任",
+            "en": "Taiyin, Shaoyin mainly, extraordinary vessels; selected Taiyin, Chong, Ren"
+          },
+          {
+            "zh": "关元、维道、地机、公孙(经期去关元、维道，加神门)",
+            "en": "Guanyuan, Weidao, Diji, Gongsun (in menses drop Guanyuan, Weidao, add Shenmen)"
+          },
+          {
+            "zh": "12次症状平稳，后生一子",
+            "en": "Stable after 12 visits; later gave birth"
+          }
+        ],
+        [
+          {
+            "zh": "案60 继发性不孕(一侧输卵管不通)",
+            "en": "C60 secondary infertility (one tube blocked)"
+          },
+          {
+            "zh": "太阴、足阳明；病在太阴、冲脉",
+            "en": "Taiyin, Foot Yangming; disease Taiyin, Chong"
+          },
+          {
+            "zh": "尺泽、阴陵泉、中极、关元、水道、归来、三阴交",
+            "en": "Chize, Yinlingquan, Zhongji, Guanyuan, Shuidao, Guilai, Sanyinjiao"
+          },
+          {
+            "zh": "1个月后来电已孕",
+            "en": "Reported pregnant a month later"
+          }
+        ],
+        [
+          {
+            "zh": "案61 继发性不孕(流产术后少腹痛)",
+            "en": "C61 secondary infertility (lower abdominal pain after abortion)"
+          },
+          {
+            "zh": "少阴经异常；选少阴、太阴、任脉",
+            "en": "Shaoyin; selected Shaoyin, Taiyin, Ren"
+          },
+          {
+            "zh": "水泉、育俞、关元、三阴交",
+            "en": "Shuiquan, Huangshu, Guanyuan, Sanyinjiao"
+          },
+          {
+            "zh": "10次针灸加中药，5个月后怀孕",
+            "en": "10 visits plus herbs; pregnant 5 months later"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 隐白与大敦(《隐白与大敦的特殊功能》)",
+        "en": "Table 2. Yinbai and Dadun (essay on their special functions)"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "隐白",
+          "en": "Yinbai"
+        },
+        {
+          "zh": "大敦",
+          "en": "Dadun"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "经/脏",
+            "en": "Channel / organ"
+          },
+          {
+            "zh": "足太阴脾经井穴；脾统血",
+            "en": "Foot Taiyin jing-well; Spleen governs blood"
+          },
+          {
+            "zh": "足厥阴肝经井穴；肝藏血，厥阴主合",
+            "en": "Foot Jueyin jing-well; Liver stores blood, Jueyin governs closing"
+          }
+        ],
+        [
+          {
+            "zh": "善治",
+            "en": "Best for"
+          },
+          {
+            "zh": "漏下(量少、久)，气虚不摄型",
+            "en": "Lou (light, prolonged), qi failing to hold"
+          },
+          {
+            "zh": "崩中(量大)",
+            "en": "Beng (heavy)"
+          }
+        ],
+        [
+          {
+            "zh": "作用",
+            "en": "Action"
+          },
+          {
+            "zh": "升阳益气止血；也有镇静作用",
+            "en": "Raises yang, boosts qi, stops bleeding; also calming"
+          },
+          {
+            "zh": "恢复血管藏血功能，不让血外漏",
+            "en": "Restores vessels' blood storage so it does not leak"
+          }
+        ],
+        [
+          {
+            "zh": "用法",
+            "en": "Method"
+          },
+          {
+            "zh": "灸(案50灸20分钟；案64点刺)",
+            "en": "Moxa (C50 20 min; C64 pricked)"
+          },
+          {
+            "zh": "灸(案52灸15分钟)",
+            "en": "Moxa (C52 15 min)"
+          }
+        ],
+        [
+          {
+            "zh": "禁忌",
+            "en": "Caution"
+          },
+          {
+            "zh": "不与大敦同灸",
+            "en": "Not together with Dadun"
+          },
+          {
+            "zh": "不与隐白同灸",
+            "en": "Not together with Yinbai"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 儿科三案(无诊后絮语，据案解读)",
+        "en": "Table 3. Three paediatric cases (no essay; from case comments)"
+      },
+      "cols": [
+        {
+          "zh": "案",
+          "en": "Case"
+        },
+        {
+          "zh": "辨经/思路",
+          "en": "Channel / reasoning"
+        },
+        {
+          "zh": "选穴与手法",
+          "en": "Points and technique"
+        },
+        {
+          "zh": "结果",
+          "en": "Result"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "案62 小儿遗尿3年",
+            "en": "C62 enuresis 3 years"
+          },
+          {
+            "zh": "察经未见明显异常；病在足少阴、足太阳，脾肾虚寒体质",
+            "en": "No clear palpation finding; Foot Shaoyin, Foot Taiyang, Spleen-Kidney cold"
+          },
+          {
+            "zh": "肾俞(点)、大椎(灸15分钟)、身柱(灸15分钟)、手足三里",
+            "en": "Shenshu (prick), Dazhui (moxa 15 min), Shenzhu (moxa 15 min), Hand and Foot Zusanli"
+          },
+          {
+            "zh": "2诊，临床痊愈",
+            "en": "2 visits, clinical cure"
+          }
+        ],
+        [
+          {
+            "zh": "案63 头晕无力2年余、低血压",
+            "en": "C63 dizziness, weakness, low blood pressure"
+          },
+          {
+            "zh": "太阴、阳明；脾虚吸收不良",
+            "en": "Taiyin, Yangming; Spleen deficiency with poor absorption"
+          },
+          {
+            "zh": "四缝(放血)、足三里(灸)；后加“三个里”、太白、太渊等",
+            "en": "Sifeng (bleed), Zusanli (moxa); later the \"three li\", Taibai, Taiyuan and others"
+          },
+          {
+            "zh": "23诊，临床痊愈",
+            "en": "23 visits, clinical cure"
+          }
+        ],
+        [
+          {
+            "zh": "案64 夜啼2年余",
+            "en": "C64 night crying 2 years"
+          },
+          {
+            "zh": "察经未见明显异常，四缝有深紫血络；病在足太阴，脾胃不和",
+            "en": "No clear finding; deep purple vessels at Sifeng; Foot Taiyin, Spleen-Stomach disharmony"
+          },
+          {
+            "zh": "四缝(点)、隐白(点)，加蝉蜕末",
+            "en": "Sifeng (prick), Yinbai (prick), plus cicada-slough powder"
+          },
+          {
+            "zh": "2诊，显效",
+            "en": "2 visits, marked effect"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "崩，为出血量多，时间较短；漏，为出血量少，时间较长",
+      "src": "王居易针灸医案讲习录·诊后絮语·崩和漏的区别 p.113"
+    },
+    {
+      "id": "E2",
+      "quote": "崩中属于肝脏的病变，因为大血管出血与蕨阴经有关；漏下属于脾脏的病变，因为毛细血管出血归太阴",
+      "src": "王居易针灸医案讲习录·诊后絮语·崩和漏的区别 p.113"
+    },
+    {
+      "id": "E3",
+      "quote": "临床上，有时崩和漏很难区分，因为在同一位患者身上常崩和漏并见",
+      "src": "王居易针灸医案讲习录·诊后絮语·崩和漏的区别 p.113"
+    },
+    {
+      "id": "E4",
+      "quote": "此例像崩又像漏，但因病程长，从时间上来看，似以漏为主，以崩为辅",
+      "src": "王居易针灸医案讲习录·案51·医案解读"
+    },
+    {
+      "id": "E5",
+      "quote": "大敦善于治疗崩中，隐白善于治疗漏下",
+      "src": "王居易针灸医案讲习录·诊后絮语·隐白与大敦的特殊功能 p.113"
+    },
+    {
+      "id": "E6",
+      "quote": "隐白为足太阴脾经并穴，有升阳益气止血的作用，能治疗气虚不摄的证型",
+      "src": "王居易针灸医案讲习录·诊后絮语·隐白与大敦的特殊功能 p.113"
+    },
+    {
+      "id": "E7",
+      "quote": "肝藏血，厥阴经为三阴之里，主合，有收敛、固摄、静止的作用",
+      "src": "王居易针灸医案讲习录·诊后絮语·隐白与大敦的特殊功能 p.113"
+    },
+    {
+      "id": "E8",
+      "quote": "其作用体现在灸法，例如灸脾经的并穴能激发脾阳（统血）功能",
+      "src": "王居易针灸医案讲习录·诊后絮语·隐白与大敦的特殊功能 p.114"
+    },
+    {
+      "id": "E9",
+      "quote": "隐白（足太阴经井穴）止漏血，配太白（足太阴经原穴）健脾",
+      "src": "王居易针灸医案讲习录·案50·医案解读"
+    },
+    {
+      "id": "E10",
+      "quote": "本例出血量多、有血块，且由于工作原因经常喝酒过多，故判断为以厥阴经异常为主",
+      "src": "王居易针灸医案讲习录·案52·医案解读"
+    },
+    {
+      "id": "E11",
+      "quote": "过多或不适当的针灸会使各穴功能互相干扰",
+      "src": "王居易针灸医案讲习录·诊后絮语·隐白与大敦的特殊功能 p.114"
+    },
+    {
+      "id": "E12",
+      "quote": "隐白、大敦两穴一起灸等于不灸",
+      "src": "王居易针灸医案讲习录·诊后絮语·隐白与大敦的特殊功能 p.114"
+    },
+    {
+      "id": "E13",
+      "quote": "一定要认真辨证察经才能取穴。出血的原因很多，而止血方法也很多，必须根据出血的病机选经配穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·诊疗妇科病趣闻 p.114"
+    },
+    {
+      "id": "E14",
+      "quote": "崩漏病因病机多端，此例只是常见的脾虚病机证型",
+      "src": "王居易针灸医案讲习录·案50·按语"
+    },
+    {
+      "id": "E15",
+      "quote": "必须根据症候结构，结合经络异常，详细分析，而后辨经、选经、选穴",
+      "src": "王居易针灸医案讲习录·案50·按语"
+    },
+    {
+      "id": "E16",
+      "quote": "此病能累及太阴经、少阴经、阴经、少阳经、冲脉、任脉",
+      "src": "王居易针灸医案讲习录·诊后絮语·痛经所累及的异常经脉 p.114"
+    },
+    {
+      "id": "E17",
+      "quote": "太阴经调节经血的吸收和排除及按时来潮；厥阴经有净化血液的功能，保持血液的质量；冲脉为血海，调节月经的周期性，帮助卵巢的发育",
+      "src": "王居易针灸医案讲习录·诊后絮语·痛经所累及的异常经脉 p.114"
+    },
+    {
+      "id": "E18",
+      "quote": "脾阳虚，易生内寒，寒凝胞宫之经络，故导致痛经、腹凉、四肢冷",
+      "src": "王居易针灸医案讲习录·案54·医案解读"
+    },
+    {
+      "id": "E19",
+      "quote": "曲泉是足厥阴经的合穴，可调节本经的气机。中都是足厥阴经的部穴，能止痛。公孙调理冲脉",
+      "src": "王居易针灸医案讲习录·案55·医案解读"
+    },
+    {
+      "id": "E20",
+      "quote": "冲脉起于胞中，为血海",
+      "src": "王居易针灸医案讲习录·案55·医案解读"
+    },
+    {
+      "id": "E21",
+      "quote": "虽然一般认为乳癖病累及足厥阴肝经和足阳明胃经，但仍然要根据察经络的结果",
+      "src": "王居易针灸医案讲习录·诊后絮语·乳腺增生小结 p.115"
+    },
+    {
+      "id": "E22",
+      "quote": "取支沟、阳陵泉疏泄少阳经，由于足阳明胃经循行于乳房，故配其部穴梁丘止痛",
+      "src": "王居易针灸医案讲习录·诊后絮语·乳腺增生小结 p.115"
+    },
+    {
+      "id": "E23",
+      "quote": "案57通过经络诊察确认属厥阴经和手少阴经异常为主的乳癖",
+      "src": "王居易针灸医案讲习录·诊后絮语·乳腺增生小结 p.115"
+    },
+    {
+      "id": "E24",
+      "quote": "使用局部的手法（操、弹拨）为促进局部组织之间的气血流动",
+      "src": "王居易针灸医案讲习录·诊后絮语·乳腺增生小结 p.115"
+    },
+    {
+      "id": "E25",
+      "quote": "临床上不要局限于所谓“标准”的治疗方案",
+      "src": "王居易针灸医案讲习录·诊后絮语·乳腺增生小结 p.115"
+    },
+    {
+      "id": "E26",
+      "quote": "太阴经、少阴经为主要病经，累及奇经八脉",
+      "src": "王居易针灸医案讲习录·案58"
+    },
+    {
+      "id": "E27",
+      "quote": "故本病以关元、公孙等穴调理冲任为主，并取太阴经尺泽、阴陵泉清利湿热，少阴经照海补益肾气",
+      "src": "王居易针灸医案讲习录·案59·医案解读"
+    },
+    {
+      "id": "E28",
+      "quote": "由于太阴经（脾统血）与冲脉（血海）联系密切，足阳明经为多气多血之经",
+      "src": "王居易针灸医案讲习录·案60·医案解读"
+    },
+    {
+      "id": "E29",
+      "quote": "配合太阴经公孙调理冲脉气血，化解胞宫瘀滞",
+      "src": "王居易针灸医案讲习录·案61·医案解读"
+    },
+    {
+      "id": "E30",
+      "quote": "病候消失，经络功能恢复了，自然就可以怀孕了",
+      "src": "王居易针灸医案讲习录·案61·按语"
+    },
+    {
+      "id": "E31",
+      "quote": "手足三里、建里配穴称为“三个里”，其作用为建脾补中益气",
+      "src": "王居易针灸医案讲习录·案62·医案解读"
+    },
+    {
+      "id": "E32",
+      "quote": "“四缝”是经外奇穴，具有消除食积的作用，常用于治疗小儿食积证",
+      "src": "王居易针灸医案讲习录·案64·医案解读"
+    },
+    {
+      "id": "E33",
+      "quote": "隐白为足太阴井穴，两穴相配具有醒脾安神，生发脾经气机的功效",
+      "src": "王居易针灸医案讲习录·案64·医案解读"
+    },
+    {
+      "id": "E34",
+      "quote": "手足三里配建里，为笔者常用的一组配穴，称之为“三个里”，有补中气调脾牌胃的功能",
+      "src": "王居易针灸医案讲习录·案63·医案解读"
+    }
+  ],
+  "how_to_use": {
+    "zh": "妇科出血先想崩(厥阴、大敦)还是漏(太阴、隐白)，但以察经定；痛经、乳癖、不孕都不取固定套方，按表1的察经结果选经。小儿病先想脾胃(表3)。",
+    "en": "For gynaecological bleeding think beng (Jueyin, Dadun) or lou (Taiyin, Yinbai), but let palpation decide; for dysmenorrhoea, breast lumps and infertility use no fixed formula and choose the channel from palpation as in Table 1. In children think Spleen and Stomach first (Table 3)."
+  },
+  "caveats": {
+    "zh": "崩漏对应大血管、毛细血管出血的说法是他借现代医学的类比，属他的个人解释。隐白、大敦“不可同灸”是他的临床观察，他自己也是以问句“为什么针刺用毫针不用矛刺”作说明。儿科章无诊后絮语，本指南儿科部分只据案解读。原文OCR：蕨阴=厥阴，并穴=井穴，部穴=郄穴；案57的“门、阴”脱字，表中暂按厥阴、少阴的郄门、阴郄读出并已注明；案61解读与按语在数据中与其后诊后絮语连成一段。",
+    "en": "Matching beng and lou to large-vessel and capillary bleeding is his analogy from modern medicine, his own interpretation. \"Do not moxa Yinbai and Dadun together\" is his clinical observation, argued by his rhetorical question why needling uses fine needles rather than a spear. The paediatric chapter has no essay, so that part rests on case comments only. OCR: 蕨阴 = Jueyin, 并穴 = jing-well, 部穴 = xi-cleft point; in Case 57 the characters \"门、阴\" are truncated and are read in the table as Ximen (Jueyin) and Yinxi (Shaoyin) with the printed form noted; in the data the Case 61 comment and note run on into the following essays."
+  },
+  "see": {
+    "cases": [
+      "wjy-050",
+      "wjy-052",
+      "wjy-054",
+      "wjy-055",
+      "wjy-056",
+      "wjy-057",
+      "wjy-061",
+      "wjy-064"
+    ],
+    "points": [
+      "隐白",
+      "大敦",
+      "太白",
+      "太冲",
+      "曲泉",
+      "公孙",
+      "关元",
+      "三阴交",
+      "中都",
+      "支沟",
+      "阳陵泉",
+      "梁丘"
+    ]
+  }
+}

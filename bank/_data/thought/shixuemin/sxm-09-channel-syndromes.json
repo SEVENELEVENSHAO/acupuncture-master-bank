@@ -1,0 +1,764 @@
+{
+  "id": "sxm-09-channel-syndromes",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "经脉病候",
+    "en": "Channel syndromes"
+  },
+  "order": 9,
+  "title": {
+    "zh": "《灵枢·经脉》十二经病候：“是动”多实急在表、“所生”多虚里，六“厥”与本经病并列；每个病候逐条拟治则、配方、操作、方义，并对到现代疾病",
+    "en": "The Twelve-Channel Syndromes of Lingshu Jingmai: \"Shi Dong\" Mostly Excess, Acute, Exterior; \"Suo Sheng\" Mostly Deficient, Interior; the Six \"Jue\" Placed Alongside the Channel's Own Symptoms; Each Symptom Given Principle, Formula, Manipulation and Rationale, and Matched to Modern Disease"
+  },
+  "summary": {
+    "zh": "全集第六章把《灵枢·经脉》“是动则病”“是主某所生病”逐经拆开。他不取《难经》的气血分法，也不取“本经/主治”说，而把“是动”“所生”看成一个广义概念(病因、病位、缓急、虚实、传变、预后齐备)：是动多为外因引动、在表、正盛邪实的急性病，所生多为里证、虚证、慢性；肾经是动病例外，是急性虚衰。是动可传成所生。六“厥”不是前面症候群的总名，而是与本经其他病候并列的病候。每个症状下按“治则、配方、操作、方义”给出一组针刺方案，并列出相当的现代疾病。",
+    "en": "Chapter 6 of the complete collection takes the Lingshu Jingmai passages \"when this moves it causes disease\" and \"the disease this channel governs\" apart channel by channel. He rejects the Nanjing qi-blood division and the \"own channel / indications\" reading, and treats shi dong and suo sheng as one broad concept (cause, site, tempo, deficiency or excess, transmission, prognosis): shi dong is mostly an exterior, acute, excess disease provoked by external causes; suo sheng is mostly interior, deficient, chronic; the kidney channel is the exception, with acute deficiency at shi dong. Shi dong can turn into suo sheng. The six \"jue\" are not a heading for the preceding cluster but syndromes parallel to the channel's other symptoms. Every symptom then gets principle, formula, manipulation and rationale, and a list of matching modern diseases."
+  },
+  "takeaways": [
+    {
+      "zh": "总立场：“是动病多为实证、急性病。所生病多为里证、虚证”，并说这是“多年临床总结”。他对历代解释一一评述：《难经》把是动、所生分为气与血，张介宾等认为“并非经旨全义”；把是动看作本经发病、所生看作本经穴所能治的病，则“在一般医学常识上也是解释不通的”。他自己的读法是：“是动”“所生”是“广义的概念”，应包括病因、病位、发病急缓、病程长短、标本虚实、预后转归。",
+      "en": "His stance: \"shi dong disease is mostly excess and acute, suo sheng disease mostly interior and deficient\", a conclusion of \"many years of clinical summary\". He reviews earlier readings in turn: the Nanjing splits them into qi and blood, which he calls \"not the whole meaning\"; reading shi dong as the channel's own disease and suo sheng as what its points can treat is \"unexplainable by ordinary medical common sense\". His own reading is a \"broad concept\" covering cause, site, tempo, course, deficiency or excess, and prognosis.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ]
+    },
+    {
+      "zh": "两类病的区别以正邪和病位为线：是动多为外因引动、病位浅、在表、在气分、正盛邪实，症状明显强烈，预后好；所生多为里证虚证、正气已伤、慢性过程、预后不良。例外与夹杂都有写明：肾经是动病是“肾气亏损之候”，因为“肾常不足，肾无实证”，是“虚衰危急之象”；某些阳经所生病为虚中夹实或外邪入里化热(如大肠经“目黄、口干”已见津伤)。",
+      "en": "The two classes are separated by right-evil balance and site. Shi dong: mostly external provocation, shallow, exterior, qi level, right strong and evil strong, clear vivid symptoms, good prognosis. Suo sheng: mostly interior and deficient, right already damaged, chronic, poor prognosis. Exceptions and mixtures are stated: kidney-channel shi dong is \"a state of kidney-qi depletion\" because \"the kidney is always insufficient and has no excess\", an acute, critical collapse; some yang-channel suo sheng is deficiency with excess, or evil turned to heat inside (large-intestine \"yellow eyes, dry mouth\" already shows fluid damage).",
+      "cite": [
+        "E6",
+        "E7",
+        "E8"
+      ]
+    },
+    {
+      "zh": "是动可以转成所生，他给了两条传变路径。一是病重伤正：肺经是动“膨膨而咳喘”，损及肺肾之气则成所生的“咳、上气、喘喝”；脾经“舌本强”加重为“舌本痛”；心经是动的心悸胸闷气短，伤及心阳而成所生的“烦心、心痛”，他说“酷似冠心病之先出现心悸、胸闷、气短，而后出现心绞痛”。二是邪减正虚转慢性：膀胱经“冲头痛”是太阳病急性阶段，转为所生“头囟项痛”，“为慢性阶段”；肝经“卒疝”转为可还纳的“狐疝”。",
+      "en": "Shi dong can turn into suo sheng, by two routes. Worsening with loss of right qi: lung shi dong \"swollen, wheezing cough\" injuring lung and kidney qi becomes suo sheng \"cough, qi ascent, panting\"; spleen \"stiff tongue root\" worsens to \"painful tongue root\"; heart shi dong palpitation, chest tightness and short breath, once yang is injured, becomes suo sheng \"vexation, heart pain\", \"like coronary disease: first palpitation, tightness, short breath, later angina\". Evil receding with right weakening into chronicity: bladder \"rushing headache\" is the acute taiyang stage and becomes the chronic \"headache of fontanelle and nape\"; liver \"sudden hernia\" becomes the reducible \"fox hernia\".",
+      "cite": [
+        "E9",
+        "E10",
+        "E11"
+      ]
+    },
+    {
+      "zh": "六“厥”被改读为并列的病候。多数注家把“是为臂厥”等看作对前面症候群的总称；他认为“是为”“此为”前后是“并列关系”，六“厥”是各该经“病候之一”，“应该与其所居经脉的所有病候成为并列关系”，且在治疗上应有“与其发病机理完全对应的治则、配方和操作方法”。理由有三：文理(“此”本义为比次)、《素问·厥论》对厥的定义、临床所见——例如手太阴“臂厥”有皮温低、皮色紫或蜡黄、腕下垂、无脉四项。",
+      "en": "The six \"jue\" are re-read as parallel syndromes. Most commentators take \"this is arm jue\" and its kin as the name of the preceding cluster; he holds that what stands before and after \"shi wei\" and \"ci wei\" is a \"parallel relation\", each jue being \"one of the channel's syndromes\", \"parallel to all the channel's other syndromes\", and requiring \"principle, formula and manipulation corresponding wholly to its mechanism\". Three grounds: grammar (\"ci\" originally means to line up in order), the Suwen Jue Lun's own definitions, and clinical signs, for example lung-channel \"arm jue\" with low skin temperature, purple or waxy skin, wrist drop and absent pulse.",
+      "cite": [
+        "E12",
+        "E13",
+        "E14",
+        "E15"
+      ]
+    },
+    {
+      "zh": "每个病候都落到现代疾病，并按“症状→治则→配方→操作→方义”写出方案。例如肺经是动病“可见于……大叶性肺炎、支气管炎、哮喘性支气管炎、支气管扩张、上呼吸道感染”，“交两手而瞀”类似“肺源性脑病或肺脑综合征”；大肠经“颈肿”对甲状腺功能亢进、甲状腺瘤等；胆经“阳厥”对丹毒、坐骨神经痛、腓神经受损。措辞是“相当于”“可见于”，是并列的疾病清单，不是诊断标准；胃经是动病一条就列到传染病、血液病、恶性肿瘤、结缔组织病和狂躁型神经症。",
+      "en": "Each syndrome is carried to modern disease and given a scheme of symptom, principle, formula, manipulation, rationale. Lung shi dong \"may be seen in lobar pneumonia, bronchitis, asthmatic bronchitis, bronchiectasis, upper respiratory infection\"; \"crossing both hands with blurred vision\" resembles \"pulmonary encephalopathy or pneumo-cerebral syndrome\"; large-intestine \"swollen neck\" is matched to hyperthyroidism and thyroid adenoma; gallbladder \"yang jue\" to erysipelas, sciatica, peroneal nerve injury. The wording is \"corresponds to\" and \"can be seen in\", a juxtaposed list and not diagnostic criteria; the stomach-channel shi dong entry alone runs from infectious and blood diseases to malignancy, connective-tissue disease and manic neurosis.",
+      "cite": [
+        "E16",
+        "E17",
+        "E18",
+        "E19"
+      ]
+    },
+    {
+      "zh": "同一个症状在是动和所生里治法相反：咳在肺经是动病，“宣肺止咳”，取鱼际(荥穴，宣肺泻热)、列缺(络穴，表里同治)、孔最、肺俞、大椎刺络；在所生病“咳，上气，喘喝”则“补益肺肾、止咳平喘”，取太溪、气海、足三里、太渊补肾肺气，肺俞、风门、膈俞“加灸，以补虚散寒”。他还重读“喘喝”：“喝”应为“渴”，“更符合临床实际”。方义里的特定穴身份(荥、络、郄、背俞、募)逐个写明，见 sxm-07。",
+      "en": "The same symptom is treated oppositely in shi dong and suo sheng. Cough in lung shi dong: \"diffuse the lung to stop cough\" with Yuji (ying-spring, diffuses lung and drains heat), Lieque (connecting point, exterior-interior together), Kongzui, Feishu and pricking-bleeding at Dazhui. In suo sheng \"cough, qi ascent, panting\": \"tonify lung and kidney, stop cough and wheeze\" with Taixi, Qihai, Zusanli, Taiyuan to tonify kidney and lung qi, and Feishu, Fengmen, Geshu \"with moxa to tonify deficiency and disperse cold\". He also re-reads \"panting and hoarse\": the character should be \"thirst\", \"closer to clinical fact\". The rationale names each point's specific-point identity (ying, connecting, cleft, back-shu, mu), see sxm-07.",
+      "cite": [
+        "E20",
+        "E21",
+        "E22",
+        "E23"
+      ]
+    },
+    {
+      "zh": "“十二经病候”是他给辨证与辨病搭的桥：“十二经脉病候是中医最早的症状学”，共“200余种病证”，“为针灸治疗学创造了辨证与辨病相结合的先决条件”。在治疗各论里这个透镜用得不多但很具体：大动脉炎归“手太阴肺经及手少阴心经是动病之臂厥(上肢无脉)，及足阳明胃经是动病骭厥(下肢无脉)”，臂丛神经痛“多相当于……手太阳小肠经的是动病”，急性腰扭伤是“膀胱经是动病候”，急性附睾炎依肝“所生病”。全部622例医案里明确按经脉病候立论的有9例，处方条目里4条(大动脉炎2、臂丛神经痛2)。",
+      "en": "The twelve-channel syndromes are his bridge between pattern differentiation and disease differentiation: \"the earliest symptomatology of Chinese medicine\", \"over 200 kinds of disorder\", \"creating the prerequisite for combining pattern and disease\". In the clinical chapters the lens is used sparingly but concretely: Takayasu-type arteritis is put under \"lung and heart channel shi dong, arm jue (no pulse in the arm), and stomach channel shi dong, gan jue (no pulse in the leg)\"; brachial plexus pain \"mostly corresponds to small-intestine shi dong\"; acute lumbar sprain is \"a bladder-channel shi dong syndrome\"; acute epididymitis is argued from the liver \"suo sheng\" list. Of all 622 cases, 9 argue explicitly from a channel syndrome, and 4 prescription entries (2 arteritis, 2 brachial plexus pain).",
+      "cite": [
+        "E24",
+        "E25",
+        "E26",
+        "E27",
+        "E28",
+        "E29"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "“是动病”与“所生病”的区别(全集表6-1-1，及正文说明)",
+        "en": "Shi dong versus suo sheng (Table 6-1-1 of the complete collection, and the text)"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "是动病",
+          "en": "Shi dong"
+        },
+        {
+          "zh": "所生病",
+          "en": "Suo sheng"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "病因",
+            "en": "Cause"
+          },
+          {
+            "zh": "多为外因引动或诱发",
+            "en": "Mostly provoked by external cause"
+          },
+          {
+            "zh": "①是动未愈转化而来；②脏腑自病",
+            "en": "1) shi dong not healed and transformed; 2) the organ's own disease"
+          }
+        ],
+        [
+          {
+            "zh": "病位",
+            "en": "Site"
+          },
+          {
+            "zh": "多在外、在表(在气分)",
+            "en": "Mostly exterior (qi level)"
+          },
+          {
+            "zh": "多为里证",
+            "en": "Mostly interior"
+          }
+        ],
+        [
+          {
+            "zh": "正邪",
+            "en": "Right and evil"
+          },
+          {
+            "zh": "正气不虚；正盛邪实",
+            "en": "Right not deficient; right and evil both strong"
+          },
+          {
+            "zh": "正气损伤、正虚邪盛、邪减正衰",
+            "en": "Right damaged; right deficient with strong evil, or evil gone and right weak"
+          }
+        ],
+        [
+          {
+            "zh": "性质",
+            "en": "Nature"
+          },
+          {
+            "zh": "多为阳、热、实证",
+            "en": "Mostly yang, heat, excess"
+          },
+          {
+            "zh": "多为里、虚、寒证",
+            "en": "Mostly interior, deficiency, cold"
+          }
+        ],
+        [
+          {
+            "zh": "转归",
+            "en": "Course"
+          },
+          {
+            "zh": "因邪盛于正而入里，损及脏腑转为所生",
+            "en": "Evil overcomes right, goes inside, injures organs, and becomes suo sheng"
+          },
+          {
+            "zh": "有时为是动病的演生",
+            "en": "Sometimes the development of shi dong"
+          }
+        ],
+        [
+          {
+            "zh": "预后",
+            "en": "Prognosis"
+          },
+          {
+            "zh": "良好",
+            "en": "Good"
+          },
+          {
+            "zh": "多为预后不良",
+            "en": "Mostly poor"
+          }
+        ],
+        [
+          {
+            "zh": "病程",
+            "en": "Tempo"
+          },
+          {
+            "zh": "正文：多为急性病；表内印作“发病缓慢、病程长久”(与正文相反)",
+            "en": "Text: mostly acute; the table prints \"slow onset, long course\" (contradicting the text)"
+          },
+          {
+            "zh": "正文：慢性、虚证；表内印作“发病急、病程短”(与正文相反)",
+            "en": "Text: chronic, deficient; the table prints \"acute onset, short course\" (contradicting the text)"
+          }
+        ],
+        [
+          {
+            "zh": "例外",
+            "en": "Exceptions"
+          },
+          {
+            "zh": "肾经是动病是急性发作的虚证",
+            "en": "Kidney-channel shi dong is acute deficiency"
+          },
+          {
+            "zh": "某些阳经所生病虚中夹实，或外邪入里化热",
+            "en": "Some yang-channel suo sheng is mixed, or evil turned to inside heat"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "十二经：是动病与所生病所对的现代疾病及示例证治(据第六章)",
+        "en": "Twelve channels: modern diseases matched to shi dong and suo sheng, with example schemes (from chapter 6)"
+      },
+      "cols": [
+        {
+          "zh": "经",
+          "en": "Channel"
+        },
+        {
+          "zh": "是动病(相当于)",
+          "en": "Shi dong (corresponds to)"
+        },
+        {
+          "zh": "所生病(相当于)",
+          "en": "Suo sheng (corresponds to)"
+        },
+        {
+          "zh": "示例证治",
+          "en": "Example scheme"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "手太阴肺",
+            "en": "Lung"
+          },
+          {
+            "zh": "大叶性肺炎、支气管炎、哮喘性支气管炎、支气管扩张、上呼吸道感染；“交两手而瞀”≈肺源性脑病；臂厥≈无脉症、雷诺征、臂丛神经损伤",
+            "en": "Lobar pneumonia, bronchitis, asthmatic bronchitis, bronchiectasis, URI; \"crossing both hands\" ≈ pulmonary encephalopathy; arm jue ≈ pulseless disease, Raynaud, brachial plexus injury"
+          },
+          {
+            "zh": "肺结核、硅肺、慢性支气管炎、慢性哮喘、肺气肿、心源性哮喘；臂内前廉痛厥≈臂丛神经痛",
+            "en": "TB, silicosis, chronic bronchitis, chronic asthma, emphysema, cardiac asthma; arm pain and cold ≈ brachial plexus pain"
+          },
+          {
+            "zh": "咳：宣肺止咳，鱼际、列缺、孔最、肺俞、大椎刺络；臂厥无脉：疏经通脉，人迎、太渊、内关、心肺经排刺",
+            "en": "Cough: Yuji, Lieque, Kongzui, Feishu, Dazhui bled; arm jue without pulse: Renying, Taiyuan, Neiguan, row needling of heart and lung channels"
+          }
+        ],
+        [
+          {
+            "zh": "手阳明大肠",
+            "en": "Large intestine"
+          },
+          {
+            "zh": "龋齿、三叉神经第三支痛、牙周炎；颈肿≈甲状腺功能亢进、甲状腺瘤、慢性淋巴性甲状腺炎",
+            "en": "Dental caries, mandibular trigeminal pain, periodontitis; swollen neck ≈ hyperthyroidism, thyroid adenoma, chronic lymphocytic thyroiditis"
+          },
+          {
+            "zh": "角膜炎、结膜炎、鼻甲肥厚、鼻出血、扁桃体肿大、假性延髓麻痹、肩周炎、桡神经与正中神经损伤",
+            "en": "Keratitis, conjunctivitis, turbinate hypertrophy, epistaxis, tonsil enlargement, pseudobulbar palsy, shoulder periarthritis, radial and median nerve injury"
+          },
+          {
+            "zh": "齿痛：清利实热，内庭、合谷、曲池、颊车；颈肿：天容、扶突、合谷，局部刺络拔罐",
+            "en": "Toothache: Neiting, Hegu, Quchi, Jiache; swollen neck: Tianrong, Futu, Hegu, local pricking-cupping"
+          }
+        ],
+        [
+          {
+            "zh": "足阳明胃",
+            "en": "Stomach"
+          },
+          {
+            "zh": "各种急慢性传染病、血液病、变态反应性疾病、恶性肿瘤、结缔组织病、狂躁型神经症、抑郁型精神分裂症、胃肠功能紊乱；骭厥≈闭塞性脉管炎、股神经损伤、胫前肌间隔综合征",
+            "en": "Acute and chronic infections, blood, allergic, malignant, connective-tissue disease, manic neurosis, depressive schizophrenia, gastrointestinal dysfunction; gan jue ≈ thromboangiitis, femoral nerve injury, anterior tibial compartment syndrome"
+          },
+          {
+            "zh": "疟疾、伤寒、脑炎、麻疹、流感、面瘫、鼻窦炎、鼻咽癌、肝硬变失代偿期、恶性淋巴瘤、结核性腹膜炎、周围神经与血管淋巴管疾病",
+            "en": "Malaria, typhoid, encephalitis, measles, influenza, facial palsy, sinusitis, nasopharyngeal cancer, decompensated cirrhosis, lymphoma, tuberculous peritonitis, peripheral nerve and vessel disease"
+          },
+          {
+            "zh": "恶人与火、闻木声惊：宁心安神，内关、四神聪、印堂；登高而歌、弃衣而走：醒神清心开窍，内关、人中、大陵、十宣",
+            "en": "Fear of people and fire, startle at wood sound: Neiguan, Sishencong, Yintang; climbing and singing, stripping: Neiguan, Renzhong, Daling, Shixuan"
+          }
+        ],
+        [
+          {
+            "zh": "足太阴脾",
+            "en": "Spleen"
+          },
+          {
+            "zh": "中风失语、重症肌无力、舌下神经损伤、急慢性胃炎、溃疡病、胃神经症、幽门痉挛或梗阻、胆囊炎胆石症、消化不良、肠梗阻",
+            "en": "Post-stroke aphasia, myasthenia gravis, hypoglossal injury, gastritis, ulcer, gastric neurosis, pyloric spasm or obstruction, cholecystitis, lithiasis, dyspepsia, ileus"
+          },
+          {
+            "zh": "肌萎缩侧索硬化、进行性延髓麻痹、舌癌、胰腺炎、急性胃炎、急慢性肠炎、急性胆囊炎、吸收不良综合征、黄疸各型",
+            "en": "ALS, progressive bulbar palsy, tongue cancer, pancreatitis, acute gastritis, enteritis, acute cholecystitis, malabsorption, jaundice of several kinds"
+          },
+          {
+            "zh": "舌本强：醒神通利机关，人中、金津、玉液、舌面点刺；食则呕、胃痛：健利中焦、和胃降逆，内关、公孙",
+            "en": "Stiff tongue root: Renzhong, Jinjin, Yuye, tongue pricking; vomiting on eating, stomach pain: Neiguan, Gongsun"
+          }
+        ],
+        [
+          {
+            "zh": "手少阴心",
+            "en": "Heart"
+          },
+          {
+            "zh": "冠心病、心绞痛、咽炎、无脉症、雷诺征、臂丛神经损伤",
+            "en": "Coronary disease, angina, pharyngitis, pulseless disease, Raynaud, brachial plexus injury"
+          },
+          {
+            "zh": "神经衰弱、失眠而致眼球结膜混浊无光；心绞痛致胸胁痛、向左上肢内侧放射",
+            "en": "Neurasthenia and insomnia with clouded, lustreless conjunctiva; angina with chest-flank pain radiating down the inner left arm"
+          },
+          {
+            "zh": "嗌干心痛渴：活血通络、宽胸理气，内关、郄门、膻中、心俞、膈俞、厥阴俞",
+            "en": "Dry throat, heart pain, thirst: Neiguan, Ximen, Danzhong, Xinshu, Geshu, Jueyinshu"
+          }
+        ],
+        [
+          {
+            "zh": "手太阳小肠",
+            "en": "Small intestine"
+          },
+          {
+            "zh": "急性咽炎、急性扁桃体炎、下颌腺炎、淋巴结炎；颈椎综合征、臂丛神经痛、颈胸神经根炎",
+            "en": "Acute pharyngitis, tonsillitis, submandibular adenitis, lymphadenitis; cervical syndrome, brachial plexus pain, radiculitis"
+          },
+          {
+            "zh": "目黄≈右心衰竭、心源性肝硬化；耳聋(先天、中毒、老年、神经性)；颊肿颈肩臂痛≈腮腺炎、三叉神经第三支痛、臂丛神经痛",
+            "en": "Yellow eyes ≈ right heart failure, cardiac cirrhosis; deafness of several kinds; cheek and arm pain ≈ parotitis, mandibular trigeminal pain, brachial plexus pain"
+          },
+          {
+            "zh": "痛颔肿：清热利咽、消肿止痛，曲池、上廉泉、少商、大椎",
+            "en": "Sore throat and swollen jaw: Quchi, Shanglianquan, Shaoshang, Dazhui"
+          }
+        ],
+        [
+          {
+            "zh": "足太阳膀胱",
+            "en": "Bladder"
+          },
+          {
+            "zh": "血管性头痛、颈性头痛、颈椎综合征、增生性脊柱炎、坐骨神经痛(踝厥)、腓总神经损伤",
+            "en": "Vascular and cervical headache, cervical syndrome, hyperplastic spondylitis, sciatica (ankle jue), common peroneal injury"
+          },
+          {
+            "zh": "坐骨神经痛、脑血管病、痔疮、疟疾、精神失常、癫痫",
+            "en": "Sciatica, cerebrovascular disease, haemorrhoids, malaria, psychosis, epilepsy"
+          },
+          {
+            "zh": "冲头痛、目似脱：疏风清头、调气醒神，人中、风池、完骨、天柱；腰似折：疏通经络、缓急止痛，大肠俞、环跳、委中、阳陵泉、昆仑、人中",
+            "en": "Rushing headache: Renzhong, Fengchi, Wangu, Tianzhu; lumbar snapping: Dachangshu, Huantiao, Weizhong, Yanglingquan, Kunlun, Renzhong"
+          }
+        ],
+        [
+          {
+            "zh": "足少阴肾",
+            "en": "Kidney"
+          },
+          {
+            "zh": "急性左心衰竭、阿狄森病、肝硬化晚期、尿毒症晚期、肺癌晚期、肾上腺皮质功能衰竭、支气管扩张、肺结核晚期、高血压、脑出血、肺脑综合征、动脉硬化性精神病、忧郁性精神病、更年期综合征",
+            "en": "Acute left heart failure, Addison disease, late cirrhosis, late uraemia, late lung cancer, adrenal failure, bronchiectasis, late TB, hypertension, cerebral haemorrhage, pneumo-cerebral syndrome, arteriosclerotic and depressive psychosis, menopausal syndrome"
+          },
+          {
+            "zh": "慢性结肠炎、晚期肝炎、尿毒症、癌症晚期等慢性消耗性疾病",
+            "en": "Chronic colitis, late hepatitis, uraemia, late cancer and other wasting diseases"
+          },
+          {
+            "zh": "面如漆柴、饥不欲食：健脾养肾、补益气血，关元、气海、足三里、复溜；咳唾有血、喝喝而喘：补益肺肾，孔最、列缺、肺俞、膈俞、肾俞、太溪",
+            "en": "Dark face, hunger without appetite: Guanyuan, Qihai, Zusanli, Fuliu; blood in sputum, panting: Kongzui, Lieque, Feishu, Geshu, Shenshu, Taixi"
+          }
+        ],
+        [
+          {
+            "zh": "手厥阴心包",
+            "en": "Pericardium"
+          },
+          {
+            "zh": "冠心病、心肌梗死、心肌炎、风心病二尖瓣狭窄、心源性肝硬化、精神病、中风后强哭强笑",
+            "en": "Coronary disease, infarction, myocarditis, mitral stenosis, cardiac cirrhosis, psychosis, post-stroke forced laughing and crying"
+          },
+          {
+            "zh": "各种心脏病后期虚衰；臂厥≈动脉炎、无脉症、雷诺病、不典型正中神经痛、颈椎综合征、臂丛神经痛",
+            "en": "Late-stage heart failure; arm jue ≈ arteritis, pulseless disease, Raynaud, atypical median neuralgia, cervical syndrome, brachial plexus pain"
+          },
+          {
+            "zh": "喜笑不休：醒脑调神，内关、人中、间使、上星、百会",
+            "en": "Incessant laughing: Neiguan, Renzhong, Jianshi, Shangxing, Baihui"
+          }
+        ],
+        [
+          {
+            "zh": "手少阳三焦",
+            "en": "Triple burner"
+          },
+          {
+            "zh": "神经性耳鸣耳聋，或上呼吸道感染后咽炎、鼻炎、耳咽管堵塞、梅核气、扁桃体炎",
+            "en": "Neural tinnitus and deafness, or post-URI pharyngitis, rhinitis, tubal blockage, globus, tonsillitis"
+          },
+          {
+            "zh": "自主神经功能紊乱、三叉神经痛、颈椎综合征、臂丛神经损伤",
+            "en": "Autonomic dysfunction, trigeminal neuralgia, cervical syndrome, brachial plexus injury"
+          },
+          {
+            "zh": "耳聋：清热利湿、聪耳开窍，天柱、耳门、中渚、印堂、人中；嗌肿喉痹：列缺、照海、外关、天容、天柱",
+            "en": "Deafness: Tianzhu, Ermen, Zhongzhu, Yintang, Renzhong; throat swelling: Lieque, Zhaohai, Waiguan, Tianrong, Tianzhu"
+          }
+        ],
+        [
+          {
+            "zh": "足少阳胆",
+            "en": "Gallbladder"
+          },
+          {
+            "zh": "胆囊炎、胆石症、胆道虫病、胰腺炎；阳厥≈丹毒、坐骨神经痛、腓神经受损",
+            "en": "Cholecystitis, lithiasis, biliary ascariasis, pancreatitis; yang jue ≈ erysipelas, sciatica, peroneal nerve injury"
+          },
+          {
+            "zh": "软骨病、神经症、慢性胆囊炎、疟疾、淋巴结核、偏头痛、三叉神经痛、肋间神经痛、非典型坐骨神经痛、慢性疼痛",
+            "en": "Osteomalacia, neurosis, chronic cholecystitis, malaria, lymph node TB, migraine, trigeminal and intercostal neuralgia, atypical sciatica, chronic pain"
+          },
+          {
+            "zh": "口苦、善太息、心胁痛：舒肝利胆、缓急止痛，日月、阳陵泉、丘墟、肝俞、胆俞；阳厥：调和气血、舒筋缓脉，阳陵泉、绝骨",
+            "en": "Bitter mouth, sighing, flank pain: Riyue, Yanglingquan, Qiuxu, Ganshu, Danshu; yang jue: Yanglingquan, Juegu"
+          }
+        ],
+        [
+          {
+            "zh": "足厥阴肝",
+            "en": "Liver"
+          },
+          {
+            "zh": "梅毒、获得性免疫缺陷综合征、急性睾丸炎、精索扭转或急性嵌顿疝及其所致肠梗阻、坏死",
+            "en": "Syphilis, AIDS, acute orchitis, torsion of the cord or incarcerated hernia with ileus and necrosis"
+          },
+          {
+            "zh": "幽门梗阻、神经性呕吐、慢性结肠炎、胃肠功能紊乱、可还纳腹股沟疝、截瘫及马尾损伤的膀胱功能障碍、前列腺肥大、泌尿系结石",
+            "en": "Pyloric obstruction, nervous vomiting, chronic colitis, GI dysfunction, reducible inguinal hernia, bladder dysfunction after paraplegia or cauda equina injury, prostate hypertrophy, urinary stones"
+          },
+          {
+            "zh": "是动(疝，急性阶段)：清热凉血解毒，蠡沟、曲泉、中极、归来；所生：胸满呕逆降逆止呕，内关、公孙；飧泄健脾益气，足三里、阴陵泉、天枢",
+            "en": "Shi dong (acute hernia): Ligou, Ququan, Zhongji, Guilai; suo sheng: chest fullness and vomiting Neiguan, Gongsun; diarrhoea Zusanli, Yinlingquan, Tianshu"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "六“厥”的临床表现(他对臂厥、骭厥、阳厥的清点)与所对疾病",
+        "en": "Clinical signs of the six \"jue\" (his counts for arm, shin and yang jue) and the diseases matched"
+      },
+      "cols": [
+        {
+          "zh": "厥",
+          "en": "Jue"
+        },
+        {
+          "zh": "出处经",
+          "en": "Channel"
+        },
+        {
+          "zh": "临床表现",
+          "en": "Signs"
+        },
+        {
+          "zh": "相当于",
+          "en": "Corresponds to"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "臂厥",
+            "en": "Arm jue"
+          },
+          {
+            "zh": "手太阴肺、手少阴心",
+            "en": "Lung, heart"
+          },
+          {
+            "zh": "皮温低；皮色变紫或蜡黄；腕下垂；无脉(四项)",
+            "en": "Low skin temperature; purple or waxy skin; wrist drop; absent pulse (four signs)"
+          },
+          {
+            "zh": "无脉症、雷诺征、臂丛神经损伤",
+            "en": "Pulseless disease, Raynaud, brachial plexus injury"
+          }
+        ],
+        [
+          {
+            "zh": "骭厥",
+            "en": "Shin jue"
+          },
+          {
+            "zh": "足阳明胃",
+            "en": "Stomach"
+          },
+          {
+            "zh": "趺阳脉消失；皮温低；皮色蜡黄或紫；足下垂；剧痛(五项)",
+            "en": "Absent dorsalis pedis pulse; low temperature; waxy or purple skin; foot drop; severe pain (five signs)"
+          },
+          {
+            "zh": "闭塞性脉管炎、股神经损伤、胫前肌间隔综合征",
+            "en": "Thromboangiitis, femoral nerve injury, anterior tibial compartment syndrome"
+          }
+        ],
+        [
+          {
+            "zh": "阳厥",
+            "en": "Yang jue"
+          },
+          {
+            "zh": "足少阳胆",
+            "en": "Gallbladder"
+          },
+          {
+            "zh": "皮温高；烧样疼痛；足下垂；皮肤蜡黄或紫；病久肌肉萎缩(四项)",
+            "en": "High temperature; burning pain; foot drop; waxy or purple skin; muscle wasting if long-standing (four signs)"
+          },
+          {
+            "zh": "丹毒、坐骨神经痛、腓神经受损",
+            "en": "Erysipelas, sciatica, peroneal nerve injury"
+          }
+        ],
+        [
+          {
+            "zh": "踝厥",
+            "en": "Ankle jue"
+          },
+          {
+            "zh": "足太阳膀胱",
+            "en": "Bladder"
+          },
+          {
+            "zh": "腰似折、髀不可以曲、腘如结、踹如裂",
+            "en": "Lumbar snapping, thigh cannot flex, popliteal knot, calf splitting"
+          },
+          {
+            "zh": "坐骨神经痛(章内小标题所注)",
+            "en": "Sciatica (as the sub-heading in the chapter notes)"
+          }
+        ],
+        [
+          {
+            "zh": "骨厥",
+            "en": "Bone jue"
+          },
+          {
+            "zh": "足少阴肾",
+            "en": "Kidney"
+          },
+          {
+            "zh": "本章未单列临床清点",
+            "en": "Not separately counted in the chapter"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "根据多年临床总结提出：是动病多为实证、急性病。所生病多为里证、虚证",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.333"
+    },
+    {
+      "id": "E2",
+      "quote": "综三家而言，对于《灵枢·经脉》中“是动”、“所生”之病的释义局限于气血先后方面，似有偏激之疑",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.334"
+    },
+    {
+      "id": "E3",
+      "quote": "所以，这一观点，在一般医学常识上也是解释不通的",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.334"
+    },
+    {
+      "id": "E4",
+      "quote": "是一个广义的概念，是对十二经脉及其相连属的脏腑，由生理转变为病理所产生的各种症状、体征、传变和转归的综合性论述",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.334"
+    },
+    {
+      "id": "E5",
+      "quote": "全面地理解“是动”、“所生”病，应该包括：病因、病位、发病急缓、病程长短、标本虚实、预后转归等疾病发生、发展、性质、症候的全部内容",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.334"
+    },
+    {
+      "id": "E6",
+      "quote": "以上分析说明：是动病除足少阴肾经外，一般多为外邪引动的急性病证；其病位浅、多在表、在气分",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.335"
+    },
+    {
+      "id": "E7",
+      "quote": "肾常不足，肾无实证。因此，是动病也表现为肾气亏损之候",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.335"
+    },
+    {
+      "id": "E8",
+      "quote": "这些病证多为慢性过程，脏腑已伤。故主要表现为本经之虚证",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.335"
+    },
+    {
+      "id": "E9",
+      "quote": "脾经是动病有“舌本强”，加重后为所生病的“舌本痛”",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.336"
+    },
+    {
+      "id": "E10",
+      "quote": "酷似冠心病之先出现心悸、胸闷、气短，而后出现心绞痛",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.336"
+    },
+    {
+      "id": "E11",
+      "quote": "如膀胱经是动病有“冲头痛”，为太阳病之急性阶段；病损膀胱经脉，邪减正虚而转为所生病的“头凶项痛”，为慢性阶段",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.336"
+    },
+    {
+      "id": "E12",
+      "quote": "与“是为”、“此为”前面的症候群不是因果关系，而是并列关系",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.336"
+    },
+    {
+      "id": "E13",
+      "quote": "而决不能把肺部胀满、膨膨喘咳、缺盆中痛和督，统称为“这就是臂厥病”",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.337"
+    },
+    {
+      "id": "E14",
+      "quote": "手太阴肺经的“臂厥”临床表现有四：一是皮温低；二是皮色变，呈紫或蜡黄色；三是腕下垂；四是无脉",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.337"
+    },
+    {
+      "id": "E15",
+      "quote": "应该是十二经的病候之一，应该与其所居经脉的所有病候成为并列关系",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.338"
+    },
+    {
+      "id": "E16",
+      "quote": "可见于现代医学的大叶性肺炎、支气管炎、哮喘性支气管炎、支气管扩张、上呼吸道感染",
+      "src": "石学敏针灸全集·第六章 十二经病候 第二节 手太阴肺经 p.338"
+    },
+    {
+      "id": "E17",
+      "quote": "所谓“交两手而督”类似于现代医学的肺源性脑病或肺脑综合征",
+      "src": "石学敏针灸全集·第六章 十二经病候 第二节 手太阴肺经 p.338"
+    },
+    {
+      "id": "E18",
+      "quote": "“颈肿”可见于甲状腺功能亢进、甲状腺瘤、慢性淋巴性甲状腺炎等",
+      "src": "石学敏针灸全集·第六章 十二经病候 第三节 手阳明大肠经 p.343"
+    },
+    {
+      "id": "E19",
+      "quote": "其“阳蕨”证相当于现代医学的丹毒、坐骨神经痛、腓神经受损等",
+      "src": "石学敏针灸全集·第六章 十二经病候 第十二节 足少阳胆经 p.367"
+    },
+    {
+      "id": "E20",
+      "quote": "鱼际肺经荣穴，取之宣肺泻热；列缺肺经络穴，用以表里同治，宣肺通肠",
+      "src": "石学敏针灸全集·第六章 十二经病候 第二节 手太阴肺经 p.339"
+    },
+    {
+      "id": "E21",
+      "quote": "肺俞、风门、隔俞加灸，以补虚散寒",
+      "src": "石学敏针灸全集·第六章 十二经病候 第二节 手太阴肺经 p.341"
+    },
+    {
+      "id": "E22",
+      "quote": "太溪、气海、足三里、太渊同用，以补益肾气，调补肺气，补虚壮体",
+      "src": "石学敏针灸全集·第六章 十二经病候 第二节 手太阴肺经 p.341"
+    },
+    {
+      "id": "E23",
+      "quote": "而我们认为应该是“渴”字更符合临床实际",
+      "src": "石学敏针灸全集·第六章 十二经病候 第二节 手太阴肺经 p.340"
+    },
+    {
+      "id": "E24",
+      "quote": "十二经脉病候是中医最早的症状学，据初步统计，十二经的是动病和所生病共记述了200余种病证",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.336"
+    },
+    {
+      "id": "E25",
+      "quote": "为针灸治疗学创造了辨证与辨病相结合的先决条件，是中医治疗学的奠基",
+      "src": "石学敏针灸全集·第六章 十二经病候 第一节 总论 p.336"
+    },
+    {
+      "id": "E26",
+      "quote": "中医学认为该病属于手太阴肺经及手少阴心经是动病之“臂蕨”（上肢无脉），及足阳明胃经是动病“解蕨”症（下肢无脉）",
+      "src": "石学敏针灸全集·第八章 治疗各论 大动脉炎 p.471"
+    },
+    {
+      "id": "E27",
+      "quote": "可见臂丛神经痛属于经筋发病，多相当于经络病变中的手太阳小肠经的是动病",
+      "src": "石学敏针灸全集·第八章 治疗各论 臂丛神经痛 p.500"
+    },
+    {
+      "id": "E28",
+      "quote": "损伤膀胱经脉气血瘀阻，经气不畅而现腰似折，不可以曲，胸如结、瑞如裂等膀胱经是动病候",
+      "src": "石学敏针灸全集·病例 急性腰扭伤 p.895"
+    },
+    {
+      "id": "E29",
+      "quote": "肝之所生病“飨泄、狐疝、遗溺、闭瘙”，故湿热下注则睾丸肿胀疼痛",
+      "src": "石学敏针灸全集·病例 急性附睾炎 p.944"
+    }
+  ],
+  "caveats": {
+    "zh": "第六章的分析文字里“厥”多印作“蕨”，“瞀”印作“督”，“骭厥”印作“鼾厥”“解蕨”，“瘕”“癃闭”“癥”等字缺失，引文按印出字，本指南正文改回本字。总论表6-1-1“病程”一行与正文自相矛盾(表中是动“发病缓慢、病程长久”、所生“发病急、病程短”，正文则称是动为急性病、所生为慢性)，疑为表格印刷或整理错位，本指南按正文，并在表内标出。“相当于现代医学”的清单是章节作者的对应，涉及疾病范围很宽，且如“贝格尔三角病”“肝豆状”等名称有OCR或译名问题，只能当作对应思路，不是诊断依据。只有肺、大肠、胃三经有“虚实辨证”一节；心、心包、小肠等条目少，三节数量不均。“喘喝”改读为“喘渴”是他的意见，与《甲乙经》等版本不同。",
+    "en": "In this chapter's analysis \"jue\" is often printed with a variant character, \"blurred vision\" with a homophone, \"shin jue\" as garbled forms, and characters such as those for \"conglomeration\" and \"retention of urine\" are missing; quotes follow the print and the prose here restores the correct characters. Table 6-1-1's \"tempo\" row contradicts the text (the table gives shi dong as slow onset and long course and suo sheng as acute onset and short course; the text calls shi dong acute and suo sheng chronic), probably a printing or transcription misplacement; this guide follows the text and flags it in the table. The \"corresponds to modern medicine\" lists are the chapter authors' matches, very broad, with some OCR or translation problems in names; they are a mapping approach and not diagnostic criteria. Only the lung, large-intestine and stomach channels have a \"deficiency-excess differentiation\" section, and entries per channel are uneven (heart, pericardium and small intestine have few). Reading \"panting and hoarse\" as \"panting and thirst\" is his own view, differing from the Jiayi jing and other editions."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-013",
+      "sxm-rx-110",
+      "sxm-rx-109",
+      "sxm-rx-029",
+      "sxm-rx-114"
+    ],
+    "cases": [
+      "sxm-259",
+      "sxm-347",
+      "sxm-357",
+      "sxm-430",
+      "sxm-134",
+      "sxm-275"
+    ],
+    "points": [
+      "人迎",
+      "太渊",
+      "内关",
+      "列缺",
+      "孔最",
+      "鱼际",
+      "日月",
+      "阳陵泉",
+      "委中",
+      "大椎"
+    ]
+  }
+}

@@ -1,0 +1,721 @@
+{
+  "id": "wjy-14-senses-mind",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "分科心得",
+    "en": "By condition group"
+  },
+  "order": 14,
+  "title": {
+    "zh": "五官与神志病：眼耳病不拘“肝开窍于目”，风池三个方向，失眠先问再察经、先清后补",
+    "en": "Sense Organs and Mind: Eye and Ear Disease Not Bound by \"Liver Opens into the Eyes\", Three Directions for Fengchi, Insomnia Asked Fully, Palpated, Then Cleared before Tonifying"
+  },
+  "summary": {
+    "zh": "五官章的絮语说明眼病要依症候与察经，不可拘泥经方验方：案117是肝病，案116却是太阳经受损，与肝无关；风池针刺有三个方向。耳与颌关节病多按经筋和井穴处理。神志章的失眠讨论先问睡眠与梦境，分心肾不交、心包郁热、心脾不足三型并加阳明不和，各有配穴；病例显示他先清厥阴郁热，再补肝肾，最后才交通心肾。",
+    "en": "The sense-organ essays say eye disease must follow symptoms and palpation, not stock or proven formulas: Case 117 is a Liver disease, while Case 116 is Taiyang damage unrelated to the Liver; Fengchi has three needling directions. Ear and jaw-joint disease are mostly handled as sinew and jing-well problems. In the mind chapter the insomnia essay first asks about sleep and dreams, separates Heart-Kidney disharmony, pericardium depressed heat and Heart-Spleen insufficiency, adds Yangming disharmony, and gives points for each; the cases show him clearing Jueyin depressed heat first, then tonifying Liver and Kidney, and only last joining Heart and Kidney."
+  },
+  "takeaways": [
+    {
+      "zh": "眼病不能只想“肝开窍于目”：案117的目干涩是脂肪肝诱发，属《内经》所说肝开窍于目；案116是双眼皮整容术引发的目干涩，与肝无关，是太阳经受损。因此治眼病必须依靠具体症候和经络异常分析，不可拘泥经方、验方。案116解读也说肝目联系主要与视功能和眼底病有关，此例不是，所以未取厥阴经穴；上眼睑与小趾同在足太阳线上，取太阳经并配相表里的少阴经(水泉)，用“阳病取阴”，还至阴放血，12诊显效。",
+      "en": "Eye disease is not just \"the Liver opens into the eyes\". Case 117's dry eyes were brought on by fatty liver, the Neijing's Liver-opens-into-the-eyes; Case 116's dry eyes followed double-eyelid cosmetic surgery, had nothing to do with the Liver, and were Taiyang damage. So eye disease must rest on the actual symptoms and channel findings, not fixed or proven formulas. The Case 116 comment adds that the Liver-eye link mainly concerns visual function and fundus disease, which this was not, so no Jueyin points were taken; the upper eyelid and little toe both lie on Foot Taiyang, so he took Taiyang with the paired Shaoyin (Shuiquan) by \"yang disease, take yin\", and bled Zhiyin: marked effect in 12 visits.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ]
+    },
+    {
+      "zh": "太阴与太阳互助有条件：案117他取尺泽、阴陵泉配阳谷、阳陵泉，并说不能随便用太阳来帮太阴或反过来。阳经善泻、阴经善补：外邪侵袭太阴属实证，可选太阳；内伤影响太阳(如膀胱气化障碍)属虚证，应选太阴。本案无外邪，取太阳是为了帮助少阳枢转，像开风扇(枢)还要开窗(开)通气；病为太阴、少阳并病，所以没有把太冲、行间当主穴。",
+      "en": "Taiyin and Taiyang help each other only under conditions. In Case 117 he took Chize and Yinlingquan with Yanggu and Yanglingquan, and says Taiyang must not be used casually to help Taiyin or the reverse. Yang channels drain well, yin channels tonify well: external attack on Taiyin is excess and Taiyang may be chosen; internal damage affecting Taiyang (for example impaired bladder qi transformation) is deficiency and Taiyin should be chosen. Here there was no external factor, and Taiyang was taken to help Shaoyang pivot, like opening a window (opening) as well as running a fan (pivot) to ventilate; the disease was a combined Taiyin and Shaoyang one, so Taichong and Xingjian were not the main points.",
+      "cite": [
+        "E5",
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "风池有三个针刺方向：向患侧治单侧头痛、眼肌病变、血管阻塞；向对侧眼睛(健侧)进针低于1寸治眼底病或视神经疾病；横刺向中线治督脉或头后部疾病，包括颈椎病、脑供血不足。他的按语要求：风池宜平刺，切不可向内上方针刺以免发生事故，一般1～1.2寸深度即可得气。",
+      "en": "Fengchi has three needling directions: toward the affected side for one-sided headache, eye-muscle disease and vascular blockage; toward the opposite (healthy) eye, less than 1 cun deep, for fundus disease or optic nerve disease; transversely toward the midline for Du or occipital disease, including cervical spondylosis and insufficient cerebral blood supply. His note requires flat insertion and never inward-upward to avoid accidents, de qi usually at 1-1.2 cun.",
+      "cite": [
+        "E11",
+        "E12",
+        "E13",
+        "E14"
+      ]
+    },
+    {
+      "zh": "耳病不都是肾：案114他说肾开窍于耳，但并非各种耳聋耳鸣都属于肾；察经见手足少阳与手阳明异常为暴聋的病经，另见手足厥阴、足太阴异常属妇科病经，前六诊清泻少阳取外关、足临泣、风池，并在患侧关冲、商阳、耳尖放血，18诊显效，1年后未复发。案115耳闭塞察经仅太阳异常，判为手太阳经筋病，单取少泽井穴放血6滴配养老，他说取井穴放血宜引阳通络而不宜多，第二天痊愈。",
+      "en": "Ear disease is not always the Kidney. In Case 114 he says the Kidney opens into the ear, but not every deafness or tinnitus belongs to the Kidney; palpation showed Hand and Foot Shaoyang and Hand Yangming as the sudden-deafness channels, and Hand and Foot Jueyin and Foot Taiyin as the gynaecological ones; the first six visits cleared Shaoyang with Waiguan, Zulinqi and Fengchi and bled Guanchong, Shangyang and the ear apex on the affected side: marked effect in 18 visits, no relapse at 1 year. In Case 115 (ear blockage) only Taiyang was abnormal, judged Hand Taiyang sinew disease, and he took the jing-well Shaoze alone, bled 6 drops, with Yanglao; he says a jing-well bleed should lead yang out and not be large; cured next day.",
+      "cite": [
+        "E15",
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20"
+      ]
+    },
+    {
+      "zh": "穴的作用由病机条件决定：案115他总结“任何一个穴在不同的病机条件下能治疗不同的病症，离开了病机条件，违背了病机规律，则穴什么病都治不了”，符合病机时不必拘泥文献所载主治，关键是掌握经络气化和经络所属。这是他批评“经验穴、特效穴”的另一面。",
+      "en": "A point's action depends on the pathomechanism. In Case 115 he concludes that any point can treat different diseases under different pathomechanisms, and away from the pathomechanism a point treats nothing; where the pathomechanism fits, one need not stick to the indications in the literature, the key being channel qi transformation and which channel is involved. This is the other side of his criticism of \"experience points\" and \"special-effect points\".",
+      "cite": [
+        "E21",
+        "E22"
+      ]
+    },
+    {
+      "zh": "视物成双和下颌关节拘急都当经筋病：案118视物成双(甲减，右眼内收不能)察出太阳与少阳异常，按经筋循行取患侧手太阳原穴腕骨、手少阳原穴阳池温阳通络，前顶升阳益气，眉冲、承光舒筋通络，1次后双目转动灵活；案119下颌关节紊乱因下颌处于手少阳、手太阳与手足阳明经筋的循行区，据察经手阳明经筋异常，取头维、合谷、手三里、足三里，2次明显好转。",
+      "en": "Diplopia and jaw-joint contracture are both treated as sinew disease. Case 118 (thyroid hypofunction, right eye unable to adduct) showed Taiyang and Shaoyang changes; following the sinew course he took the affected side's Hand Taiyang yuan point Wangu (SI4) and Hand Shaoyang yuan point Yangchi to warm yang and free the channel, Qianding to lift yang, Meichong and Chengguang to relax the sinew and free the channel; the eyes moved freely after one visit. Case 119 (temporomandibular disorder): the jaw joint lies where the Hand Shaoyang, Hand Taiyang and both Yangming sinews run; palpation showed the Hand Yangming sinew abnormal, so Touwei, Hegu, Shousanli and Zusanli; clearly better after 2 visits.",
+      "cite": [
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ]
+    },
+    {
+      "zh": "失眠先问全，再与察经对接：他要先了解入睡难否、易醒否、早醒否、做梦否，梦的种类(梦恐属肾，惊怒属肝，悲哀属肺，连续性的属脾)；易醒是睡眠浅，多为心肾不交、心火上亢；入睡困难一般为肾阴不足、阴不纳阳。他说凡阳不入阴皆可致失眠，大都以心肾不交为基础，但要靠察经反应与症候对接才辨经选经。三种常见证型是心肾不交、心包有郁热、心脾不足，另外阳明不和(胃不和则卧不安)也致失眠。案122脑出血后失眠，他说失眠一般先想三阴经，但察出太阳经明显异常，故取天柱、玉枕、后顶搓针，配内关、公孙。",
+      "en": "Ask about insomnia fully, then join it to palpation. He wants to know whether falling asleep is hard, waking easy, waking early, and dreaming, and what kind of dream (fear belongs to Kidney, anger to Liver, grief to Lung, continuous dreams to Spleen); easy waking is light sleep, mostly Heart-Kidney disharmony with Heart fire rising; difficulty falling asleep is usually Kidney yin insufficiency failing to hold yang. He says any failure of yang to enter yin can cause insomnia, mostly on a basis of Heart-Kidney disharmony, but channel and point choice needs the palpation findings joined to the symptoms. The three common patterns are Heart-Kidney disharmony, pericardium depressed heat and Heart-Spleen insufficiency, and Yangming disharmony (a stomach that is not harmonised disturbs sleep) can also cause it. In Case 122 (insomnia after brain haemorrhage) he notes insomnia usually suggests the three yin channels first, but palpation showed marked Taiyang change, so Tianzhu, Yuzhen and Houding rubbing-twirling were used, with Neiguan and Gongsun.",
+      "cite": [
+        "E27",
+        "E28",
+        "E29",
+        "E30",
+        "E31",
+        "E32",
+        "E33",
+        "E34",
+        "E35"
+      ]
+    },
+    {
+      "zh": "失眠的三型各有一对穴，治疗次序是先清后补：心肾不交取照海、神门、复溜(照海通阴跷，使阳入阴、睡眠深；神门配太溪交通心肾)；厥阴郁热取大陵配行间，或大陵配照海(更年期心烦烘热失眠)；心脾不足取神门配太白或神门配三阴交；阳明不和虚取手足三里、建里，实取内庭、中皖。次序上案125先清解厥阴郁热，症减后补肝肾，最后交通心肾，他说首先需要清热才能交通心肾；案124第二诊过早改用尺泽、阴陵泉化湿，失眠复发，他说改穴太早，宜先清厥阴之火，仍取大陵、行间、照海。",
+      "en": "Each of the three patterns has its own point pairs, and the order is clear first, tonify later. Heart-Kidney disharmony: Zhaohai, Shenmen, Fuliu (Zhaohai connects the Yin Qiao, letting yang enter yin and sleep deepen; Shenmen with Taixi joins Heart and Kidney). Jueyin depressed heat: Daling with Xingjian, or Daling with Zhaohai (menopausal restless heat and insomnia). Heart-Spleen insufficiency: Shenmen with Taibai or Shenmen with Sanyinjiao. Yangming disharmony: in deficiency Hand and Foot Zusanli and Jianli, in excess Neiting and Zhongwan. On order, Case 125 first cleared Jueyin depressed heat, then tonified Liver and Kidney, and last joined Heart and Kidney; he says heat must be cleared first before Heart and Kidney can be joined. In Case 124 he switched too early at the second visit to Chize and Yinlingquan to resolve damp, insomnia returned, and he says the change was premature: clear Jueyin fire first, again with Daling, Xingjian and Zhaohai.",
+      "cite": [
+        "E36",
+        "E37",
+        "E38",
+        "E39",
+        "E40",
+        "E41",
+        "E42",
+        "E43",
+        "E44",
+        "E45"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 眼、耳、颌关节病例(案114～119)",
+        "en": "Table 1. Eye, ear and jaw-joint cases 114-119"
+      },
+      "cols": [
+        {
+          "zh": "案/病",
+          "en": "Case / disease"
+        },
+        {
+          "zh": "察经与辨经",
+          "en": "Palpation and channel"
+        },
+        {
+          "zh": "选穴",
+          "en": "Points"
+        },
+        {
+          "zh": "结果",
+          "en": "Result"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "案114 暴聋(右耳堵13天)",
+            "en": "C114 sudden deafness (right ear blocked 13 days)"
+          },
+          {
+            "zh": "少阳、手阳明；另有厥阴、太阴异常(妇科)；病在少阳、太阳，兼阳明热",
+            "en": "Shaoyang, Hand Yangming; also Jueyin, Taiyin (gynaecological); disease Shaoyang, Taiyang with Yangming heat"
+          },
+          {
+            "zh": "右外关、足临泣、风池；患侧关冲、商阳、耳尖放血",
+            "en": "Right Waiguan, Zulinqi, Fengchi; bleed Guanchong, Shangyang, ear apex on that side"
+          },
+          {
+            "zh": "18诊显效，1年未复发",
+            "en": "18 visits, marked effect, no relapse at 1 year"
+          }
+        ],
+        [
+          {
+            "zh": "案115 耳闭塞3周",
+            "en": "C115 ear blockage 3 weeks"
+          },
+          {
+            "zh": "太阳经异常；手太阳经筋病",
+            "en": "Taiyang; Hand Taiyang sinew disease"
+          },
+          {
+            "zh": "左少泽(放血6滴)、左养老",
+            "en": "Left Shaoze (bleed 6 drops), left Yanglao"
+          },
+          {
+            "zh": "1诊，次日痊愈",
+            "en": "1 visit, cured next day"
+          }
+        ],
+        [
+          {
+            "zh": "案116 目干涩(双眼皮术后)",
+            "en": "C116 dry eyes after eyelid surgery"
+          },
+          {
+            "zh": "多经异常；病在太阳，同取少阴",
+            "en": "Many channels; disease Taiyang, Shaoyin taken with it"
+          },
+          {
+            "zh": "至阴(放血)、公孙、水泉、攒竹(原文“赞竹”)",
+            "en": "Zhiyin (bleed), Gongsun, Shuiquan, Cuanzhu (printed 赞竹)"
+          },
+          {
+            "zh": "12诊显效",
+            "en": "12 visits, marked effect"
+          }
+        ],
+        [
+          {
+            "zh": "案117 目干涩(脂肪肝)",
+            "en": "C117 dry eyes (fatty liver)"
+          },
+          {
+            "zh": "太阴、足少阳；病在太阴、太阳、少阳",
+            "en": "Taiyin, Foot Shaoyang; disease Taiyin, Taiyang, Shaoyang"
+          },
+          {
+            "zh": "尺泽、阴陵泉、阳谷、阳陵泉；后加肝俞、前顶等",
+            "en": "Chize, Yinlingquan, Yanggu, Yanglingquan; later Ganshu, Qianding and others"
+          },
+          {
+            "zh": "27诊显效；因工作饮酒，约1年后复发",
+            "en": "27 visits, marked effect; relapsed about a year later (drinking for work)"
+          }
+        ],
+        [
+          {
+            "zh": "案118 视物成双(右眼内收不能)",
+            "en": "C118 diplopia (right eye cannot adduct)"
+          },
+          {
+            "zh": "手少阳、太阳；经筋病",
+            "en": "Hand Shaoyang, Taiyang; sinew disease"
+          },
+          {
+            "zh": "右眉冲、承光、前顶、腕骨、阳池等",
+            "en": "Right Meichong, Chengguang, Qianding, Wangu (SI4), Yangchi and others"
+          },
+          {
+            "zh": "1次后转动灵活，再4次，显效",
+            "en": "Free movement after 1 visit, 4 more, marked effect"
+          }
+        ],
+        [
+          {
+            "zh": "案119 下颌关节拘急5年",
+            "en": "C119 jaw-joint contracture 5 years"
+          },
+          {
+            "zh": "手阳明经异常(经筋病)",
+            "en": "Hand Yangming (sinew disease)"
+          },
+          {
+            "zh": "头维、合谷、手三里、足三里、膝阿是穴",
+            "en": "Touwei, Hegu, Shousanli, Zusanli, knee ashi points"
+          },
+          {
+            "zh": "2次明显好转，再1次，好转",
+            "en": "Clearly better after 2, 1 more, improved"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 失眠证治(《失眠证治的讨论》)",
+        "en": "Table 2. Insomnia patterns and points (essay)"
+      },
+      "cols": [
+        {
+          "zh": "证型/线索",
+          "en": "Pattern / clue"
+        },
+        {
+          "zh": "配穴",
+          "en": "Points"
+        },
+        {
+          "zh": "他给的理由",
+          "en": "His rationale"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "心肾不交(易醒，睡浅，多梦；入睡困难多为肾阴不足)",
+            "en": "Heart-Kidney disharmony (easy waking, light sleep, many dreams; difficulty falling asleep mostly Kidney yin insufficiency)"
+          },
+          {
+            "zh": "照海、神门、复溜；神门配太溪",
+            "en": "Zhaohai, Shenmen, Fuliu; Shenmen with Taixi"
+          },
+          {
+            "zh": "照海通阴跷、安眠镇静；神门、太溪交通心肾；复溜滋阴利水",
+            "en": "Zhaohai connects Yin Qiao, calms and settles; Shenmen and Taixi join Heart and Kidney; Fuliu nourishes yin and drains water"
+          }
+        ],
+        [
+          {
+            "zh": "厥阴(心包)郁热",
+            "en": "Jueyin (pericardium) depressed heat"
+          },
+          {
+            "zh": "大陵配行间；或大陵配照海",
+            "en": "Daling with Xingjian; or Daling with Zhaohai"
+          },
+          {
+            "zh": "清厥阴郁热；后一对滋阴清郁热安神，常用于女性更年期心烦烘热失眠",
+            "en": "Clear Jueyin depressed heat; the second pair also nourishes yin and settles the spirit, often for menopausal restless heat and insomnia"
+          }
+        ],
+        [
+          {
+            "zh": "心脾不足(血虚失眠)",
+            "en": "Heart-Spleen insufficiency (blood-deficient insomnia)"
+          },
+          {
+            "zh": "神门配太白；神门配三阴交",
+            "en": "Shenmen with Taibai; Shenmen with Sanyinjiao"
+          },
+          {
+            "zh": "两个原穴温补心脾；神门温补心气安神，三阴交养血活血",
+            "en": "Two yuan points warm and tonify Heart and Spleen; Shenmen warms Heart qi, Sanyinjiao nourishes and moves blood"
+          }
+        ],
+        [
+          {
+            "zh": "阳明不和(胃不和则卧不安)",
+            "en": "Yangming disharmony"
+          },
+          {
+            "zh": "虚：手三里、足三里、建里；实：内庭、中脘等",
+            "en": "Deficiency: Shousanli, Zusanli, Jianli; excess: Neiting, Zhongwan and others"
+          },
+          {
+            "zh": "阳明经异常，属胃不和则卧不安的概念",
+            "en": "Yangming abnormality; the idea that a stomach not harmonised means unsettled sleep"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 神志病例(案120～125)",
+        "en": "Table 3. Mind cases 120-125"
+      },
+      "cols": [
+        {
+          "zh": "案/病",
+          "en": "Case / disease"
+        },
+        {
+          "zh": "辨经",
+          "en": "Channel"
+        },
+        {
+          "zh": "主要穴",
+          "en": "Main points"
+        },
+        {
+          "zh": "结果",
+          "en": "Result"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "案120 易怒急躁(焦虑)",
+            "en": "C120 irritability (anxiety)"
+          },
+          {
+            "zh": "病在厥阴、少阳",
+            "en": "Jueyin, Shaoyang"
+          },
+          {
+            "zh": "大陵、行间、交信、点至阳；另用外关、足临泣，支沟、阳陵泉两对",
+            "en": "Daling, Xingjian, Jiaoxin, prick Zhiyang; also Waiguan with Zulinqi and Zhigou with Yanglingquan"
+          },
+          {
+            "zh": "4次症不明显，再1次，显效",
+            "en": "Marked relief in 4 visits, 1 more"
+          }
+        ],
+        [
+          {
+            "zh": "案121 脐周痛伴抑郁",
+            "en": "C121 periumbilical pain with depression"
+          },
+          {
+            "zh": "病在太阴、少阴；脐周僵硬",
+            "en": "Taiyin, Shaoyin; stiff around the navel"
+          },
+          {
+            "zh": "尺泽、地机、少海、神门、足三里、太溪(加灸)、关元(灸15分钟)、神阙(灸15分钟)",
+            "en": "Chize, Diji, Shaohai, Shenmen, Zusanli, Taixi (add moxa), Guanyuan and Shenque (moxa 15 min each)"
+          },
+          {
+            "zh": "10次腹痛消失，情绪转佳",
+            "en": "Pain gone in 10 visits, mood much better"
+          }
+        ],
+        [
+          {
+            "zh": "案122 失眠7年(蛛网膜下腔出血后)",
+            "en": "C122 insomnia 7 years (after subarachnoid haemorrhage)"
+          },
+          {
+            "zh": "病在太阳、太阴；选太阳、奇经",
+            "en": "Taiyang, Taiyin; selected Taiyang and extraordinary vessels"
+          },
+          {
+            "zh": "天柱、玉枕、内关、公孙、后顶",
+            "en": "Tianzhu, Yuzhen, Neiguan, Gongsun, Houding"
+          },
+          {
+            "zh": "5次明显改善",
+            "en": "Clear improvement in 5 visits"
+          }
+        ],
+        [
+          {
+            "zh": "案123 头晕失眠",
+            "en": "C123 dizziness and insomnia"
+          },
+          {
+            "zh": "病在太阴、少阴；脾气不升",
+            "en": "Taiyin, Shaoyin; Spleen qi not rising"
+          },
+          {
+            "zh": "前顶、手足三里、建里",
+            "en": "Qianding, Hand and Foot Zusanli, Jianli"
+          },
+          {
+            "zh": "4次睡眠基本正常，再3次，显效",
+            "en": "Sleep nearly normal after 4, 3 more"
+          }
+        ],
+        [
+          {
+            "zh": "案124 失眠5年",
+            "en": "C124 insomnia 5 years"
+          },
+          {
+            "zh": "少阴、手厥阴(原文“手阴经”)",
+            "en": "Shaoyin, Hand Jueyin (printed 手阴经)"
+          },
+          {
+            "zh": "大陵、行间、照海、后顶；二诊过早化湿失眠复发",
+            "en": "Daling, Xingjian, Zhaohai, Houding; damp-resolving change at visit 2 too early, insomnia returned"
+          },
+          {
+            "zh": "好转",
+            "en": "Improved"
+          }
+        ],
+        [
+          {
+            "zh": "案125 失眠40余年，偏头痛",
+            "en": "C125 insomnia 40+ years with migraine"
+          },
+          {
+            "zh": "病在厥阴、少阴；肝肾阴虚，阴虚阳升",
+            "en": "Jueyin, Shaoyin; Liver-Kidney yin deficiency, yang rising"
+          },
+          {
+            "zh": "膏肓(灸)、内关、大陵、行间、太冲、复溜、右颔厌；后改复溜、照海、天柱等",
+            "en": "Gaohuang (moxa), Neiguan, Daling, Xingjian, Taichong, Fuliu, right Hanyan; later Fuliu, Zhaohai, Tianzhu and others"
+          },
+          {
+            "zh": "3次睡眠由2小时到6小时，显效",
+            "en": "Sleep from 2 to 6 hours after 3 visits"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "案117为肝病引起的眼病，即《内经》所说的“肝开窍于目”的现象",
+      "src": "王居易针灸医案讲习录·诊后絮语·两个目干涩病例的比较 p.212"
+    },
+    {
+      "id": "E2",
+      "quote": "但案116（双眼皮整容术引发的）眼病则与肝无关，而是太阳经受损导致的疾病",
+      "src": "王居易针灸医案讲习录·诊后絮语·两个目干涩病例的比较 p.213"
+    },
+    {
+      "id": "E3",
+      "quote": "不可拘泥于经方、验方，固守陈规",
+      "src": "王居易针灸医案讲习录·诊后絮语·两个目干涩病例的比较 p.213"
+    },
+    {
+      "id": "E4",
+      "quote": "但此肝目联系主要与视功能和眼底病有关。此例非视功能障碍或眼底病，所以未取足厥阴肝经的穴",
+      "src": "王居易针灸医案讲习录·案116·医案解读"
+    },
+    {
+      "id": "E5",
+      "quote": "故运用“阳病取阴”的选经方法",
+      "src": "王居易针灸医案讲习录·案116·医案解读"
+    },
+    {
+      "id": "E6",
+      "quote": "在此值得提出，临床上不能随便选太阳经来帮助太阴经或选太阴经来帮助太阳经",
+      "src": "王居易针灸医案讲习录·案117·医案解读"
+    },
+    {
+      "id": "E7",
+      "quote": "阳经善于泻，阴经善于补",
+      "src": "王居易针灸医案讲习录·案117·医案解读"
+    },
+    {
+      "id": "E8",
+      "quote": "若外邪侵袭太阴（表现为恶寒等症候），为实证，可以选太阳",
+      "src": "王居易针灸医案讲习录·案117·医案解读"
+    },
+    {
+      "id": "E9",
+      "quote": "此病案没有外邪的因素，取太阳是为了帮助少阳枢转（开太阳能使少阳更顺地枢转）",
+      "src": "王居易针灸医案讲习录·案117·医案解读"
+    },
+    {
+      "id": "E10",
+      "quote": "按照经络诊察和症候分析的结合，此例属于太阴（阳明的相表里经）、少阳并病",
+      "src": "王居易针灸医案讲习录·案117·医案解读"
+    },
+    {
+      "id": "E11",
+      "quote": "针刺向患侧能治疗单侧头痛，眼肌病变",
+      "src": "王居易针灸医案讲习录·诊后絮语·风池主治眼睛干涩与脑供血不足，有三个针刺方向 p.213"
+    },
+    {
+      "id": "E12",
+      "quote": "针刺向对侧眼晴（无病健康侧），进针低于1寸，治疗眼底病或视神经疾病",
+      "src": "王居易针灸医案讲习录·诊后絮语·风池主治眼睛干涩与脑供血不足，有三个针刺方向 p.213"
+    },
+    {
+      "id": "E13",
+      "quote": "横刺（往中线方向）能治疗督脉或头后部疾病，包括颈椎病或脑供血不足",
+      "src": "王居易针灸医案讲习录·诊后絮语·风池主治眼睛干涩与脑供血不足，有三个针刺方向 p.213"
+    },
+    {
+      "id": "E14",
+      "quote": "风池是治疗眼病的重要穴，宜平刺，切不可向内上方针刺，以免发生事故。一般在1~1.2寸深度即可得气",
+      "src": "王居易针灸医案讲习录·诊后絮语·风池主治眼睛干涩与脑供血不足，有三个针刺方向 p.213"
+    },
+    {
+      "id": "E15",
+      "quote": "肾开窝于耳，但并非各种耳聋、耳鸣皆属于肾",
+      "src": "王居易针灸医案讲习录·案114·医案解读"
+    },
+    {
+      "id": "E16",
+      "quote": "本例经络诊察发现手足少阳与手阳明异常，属暴聋的病经又发现手足厥阴与足太阴经异常，属妇科病的病经",
+      "src": "王居易针灸医案讲习录·案114·医案解读"
+    },
+    {
+      "id": "E17",
+      "quote": "一至六诊，以清泻少阳为主，取患侧的外关、足临泣、风池为主穴",
+      "src": "王居易针灸医案讲习录·案114·医案解读"
+    },
+    {
+      "id": "E18",
+      "quote": "又在患侧的关冲、商阳、耳尖放血",
+      "src": "王居易针灸医案讲习录·案114·医案解读"
+    },
+    {
+      "id": "E19",
+      "quote": "经络诊察太阳异常，无他经变动，因而证明本病病机为手太阳经筋病变，当取手太阳经治疗",
+      "src": "王居易针灸医案讲习录·案115·医案解读"
+    },
+    {
+      "id": "E20",
+      "quote": "故取井穴尤宜泻血以引阳通络，但不宜多，使气机通达，气机自复，症自消失，是为主穴",
+      "src": "王居易针灸医案讲习录·案115·医案解读"
+    },
+    {
+      "id": "E21",
+      "quote": "任何一个穴在不同的病机条件下，能治疗不同的病症。离开了病机条件，违背了病机规律，则穴什么病都治不了",
+      "src": "王居易针灸医案讲习录·案115·医案解读"
+    },
+    {
+      "id": "E22",
+      "quote": "其关键在于准确掌握经络气化、经络所属的问题，此点要牢牢记住",
+      "src": "王居易针灸医案讲习录·案115·医案解读"
+    },
+    {
+      "id": "E23",
+      "quote": "因此取患侧（右侧）手太阳经的原穴腕骨、手少阳经的原穴阳池为主穴，温阳通络",
+      "src": "王居易针灸医案讲习录·案118·医案解读"
+    },
+    {
+      "id": "E24",
+      "quote": "本例显示了原穴的温阳益气补虚的作用",
+      "src": "王居易针灸医案讲习录·案118·医案解读"
+    },
+    {
+      "id": "E25",
+      "quote": "下颌关节属手少阳经筋（足少阳经筋）手太阳经筋、手足阳明经筋的循行部位，各经筋有重叠和交叉之处",
+      "src": "王居易针灸医案讲习录·案119·医案解读"
+    },
+    {
+      "id": "E26",
+      "quote": "根据经络诊察，手阳明经筋异常，则取头维、合谷、手三里、足三里",
+      "src": "王居易针灸医案讲习录·案119·医案解读"
+    },
+    {
+      "id": "E27",
+      "quote": "对于失眠患者应先仔细了解睡眠状况：人睡是否困难，是否容易醒，是否早醒，是否做梦",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.227"
+    },
+    {
+      "id": "E28",
+      "quote": "梦恐属肾；惊怒梦属肝；悲哀梦属肺；连续性的属脾",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.227"
+    },
+    {
+      "id": "E29",
+      "quote": "易醒指睡眠浅，多为心肾不交，由于心火上亢而早醒",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.227"
+    },
+    {
+      "id": "E30",
+      "quote": "入睡困难一般为肾阴不足，阴不纳阳",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.227"
+    },
+    {
+      "id": "E31",
+      "quote": "凡阳不入阴皆可导致失眠，大都以心肾不交为基础",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.227"
+    },
+    {
+      "id": "E32",
+      "quote": "通过经络诊察的反应与患者症候的对接方可辨经、选经、选穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.227"
+    },
+    {
+      "id": "E33",
+      "quote": "失眠有三种常见证型：心肾不交；心包有郁热；心牌不足",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.227"
+    },
+    {
+      "id": "E34",
+      "quote": "除以上三者之外，阳明经异常也可导致失眠，属胃不和则卧不安的概念",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.228"
+    },
+    {
+      "id": "E35",
+      "quote": "失眠患者一般会首先考虑三阴经。但通过患者的病史与经络诊察，辨别病在太阳经，并与其脑部血液循环有关，故取天柱为主穴",
+      "src": "王居易针灸医案讲习录·案122·医案解读"
+    },
+    {
+      "id": "E36",
+      "quote": "治疗心肾不交的常用配穴有照海、神门、复溜",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.227"
+    },
+    {
+      "id": "E37",
+      "quote": "照海有安眠、镇静的作用，可通阴跷脉，因此对人体内部器官的节律有调整的作用",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.227"
+    },
+    {
+      "id": "E38",
+      "quote": "神门、太溪同用可交通心肾；可加复溜滋阴利水，治心阴虚火旺，烦躁、失眠",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.227"
+    },
+    {
+      "id": "E39",
+      "quote": "大陵配行间可清厥阴经的郁热",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.228"
+    },
+    {
+      "id": "E40",
+      "quote": "两穴配合有滋阴，清厥阴郁热的功效，常用于治疗女性更年期心烦烘热，失眠等症",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.228"
+    },
+    {
+      "id": "E41",
+      "quote": "都有温补益气之效，可温补心脾",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.228"
+    },
+    {
+      "id": "E42",
+      "quote": "配穴：虚象可取手三里、足三里、建里。实象可取内庭、中皖等穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·失眠证治的讨论 p.228"
+    },
+    {
+      "id": "E43",
+      "quote": "治疗此患者先以清解厥阴经的郁热为主，症状减轻以后，以补肝肾为治疗目的。最后以交通心肾为主",
+      "src": "王居易针灸医案讲习录·案125·医案解读 p.226"
+    },
+    {
+      "id": "E44",
+      "quote": "说明首先需要清热，才能交通心肾",
+      "src": "王居易针灸医案讲习录·案125·医案解读 p.226"
+    },
+    {
+      "id": "E45",
+      "quote": "针完后患者失眠复发，伴有急躁。说明改穴位太早，宜先清厥阴经之火，复又取大陵、行间、照海为主穴",
+      "src": "王居易针灸医案讲习录·案124·医案解读"
+    }
+  ],
+  "how_to_use": {
+    "zh": "眼病先看症候与察经，不要只想肝(案116对案117)；失眠先按诊后絮语问睡眠和梦，再与察经对接选表2的配穴，遵循先清厥阴郁热、后补、最后交通心肾的次序(案124、125)。",
+    "en": "For eye disease look at symptoms and palpation first, not only the Liver (Case 116 against 117); for insomnia ask about sleep and dreams as the essay says, join them to palpation, pick the pair from Table 2, and follow the order of clearing Jueyin heat, tonifying, then joining Heart and Kidney (Cases 124, 125)."
+  },
+  "caveats": {
+    "zh": "五官章的“诊后絮语”只有两篇短文，耳病、视物成双、下颌关节病多据案解读，说服力较弱。失眠的三型和配穴对是他的经验归纳，梦境与脏腑对应引自古籍，不是他的新说。OCR：人睡=入睡，心牌=心脾，中皖=中脘，赞竹=攒竹，“手阴经”=手厥阴经，窝=窍，部穴=郄穴；表2最后一行理由取自絮语中“胃不和则卧不安”的提法。“医案解读”按导读也包含整理者的体会和对文献的核对，不全是他本人语。",
+    "en": "The sense-organ chapter has only two short essays, so ear disease, diplopia and jaw-joint disease rest mostly on case comments and are less firmly supported. The three insomnia patterns and point pairs are his experience summary, and the dream-organ correspondence is quoted from classical sources, not his own new claim. OCR: 人睡 = 入睡, 心牌 = 心脾, 中皖 = 中脘, 赞竹 = 攒竹, \"手阴经\" = Hand Jueyin, 窝 = 窍, 部穴 = xi-cleft point; in Table 2 the rationale of the last row is taken from the essay's phrase on the stomach not being harmonised. By the book's own guide the case comments also contain the compilers' reflections and checks of the literature, not only his words."
+  },
+  "see": {
+    "cases": [
+      "wjy-114",
+      "wjy-115",
+      "wjy-116",
+      "wjy-117",
+      "wjy-120",
+      "wjy-122",
+      "wjy-124",
+      "wjy-125"
+    ],
+    "points": [
+      "照海",
+      "神门",
+      "复溜",
+      "大陵",
+      "行间",
+      "太白",
+      "风池",
+      "少泽",
+      "至阳",
+      "天柱",
+      "后顶",
+      "前顶"
+    ]
+  }
+}

@@ -1,0 +1,707 @@
+{
+  "id": "wjy-12-surgery-skin",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "分科心得",
+    "en": "By condition group"
+  },
+  "order": 12,
+  "title": {
+    "zh": "外科杂病与皮肤科：井穴放血看血色定量，疮、肿块、静脉曲张仍先察经，皮肤病多取太阴尺泽、阴陵泉",
+    "en": "Surgical Miscellany and Skin: Bleeding a Jing-well Guided by Blood Colour, Sores, Lumps and Varicose Veins Still Start from Palpation, Skin Disease Mostly Takes Taiyin Chize and Yinlingquan"
+  },
+  "summary": {
+    "zh": "外科章的诊后絮语专讲井穴放血：位置在甲角下约0.1分，血量1~8滴引阳通络、8~15滴祛滞、16~20滴泻热，第1滴血色深则放至色浅、色浅为虚则至多约6滴。案例上，疮疖、蜂窝组织炎、肿块、静脉曲张都是先察经再选经；痔与大便失禁用督脉长强。皮肤科三案(银屑病、湿疹)与前章的过敏皮肤病同取尺泽、阴陵泉，但他强调并非一切皮肤病都取太阴。",
+    "en": "The surgical chapter's essay is about bleeding jing-well points: the site is about 0.1 fen below the nail corner; 1-8 drops leads yang out and frees the collaterals, 8-15 drops removes stagnation, 16-20 drops drains heat; if the first drop is dark keep bleeding until the blood pales, if it is pale (deficiency) about 6 drops at most. In the cases, sores, cellulitis, lumps and varicose veins are all palpated first, and haemorrhoids and faecal incontinence use Du-channel Changqiang. The three skin cases (psoriasis, eczema) take Chize and Yinlingquan as in the allergic skin cases, but he stresses that not every skin disease takes Taiyin."
+  },
+  "takeaways": [
+    {
+      "zh": "井穴放血的用意：井穴位于阴阳交会处，他说有引阳通络、泻实祛滞、宣痹开结的作用；取穴位置从指甲角侧线往下至甲根部，大约在指甲角下0.1分，如关冲在指甲外侧角下0.1分。案69的肿块就先在关冲放血几滴以激发手少阳经的气血运行。",
+      "en": "Why bleed a jing-well: the jing-well lies where yin and yang meet, and he says it leads yang out to free the collaterals, drains excess and stagnation, and opens obstruction and blockage. The site runs from the side line of the nail corner down to the nail root, about 0.1 fen below the nail corner; Guanchong, for example, is 0.1 fen below the outer nail corner. In Case 69 (a lump) he first bled a few drops at Guanchong to rouse Hand Shaoyang qi and blood.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "放血量对应作用：少量(1~8滴)引阳通络，止虚性痛；中量(8~15滴)祛滞，止实性痛；较多(16~20滴)泻热。血色显示虚实：色深为实证应多放，色淡浅为气虚勿放太多。他注明这些血滴数是临床常用数量、仅供参考。",
+      "en": "The amount matches the action: a little (1-8 drops) leads yang out and frees the collaterals, stopping deficient pain; a medium amount (8-15 drops) removes stagnation, stopping excess pain; more (16-20 drops) drains heat. Blood colour shows deficiency or excess: dark means excess and more may be let; pale means qi deficiency and not too much. He notes these drop counts are those commonly used in practice, for reference only.",
+      "cite": [
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8"
+      ]
+    },
+    {
+      "zh": "看第1滴血决定放几滴：第1滴色深为实证，继续放到血色变浅才止，有祛邪清热作用；第1滴色浅为虚证，最多6滴左右，只引阳通络。他的理由是血为气的载体，实证大量出血时阳气顺便带走邪气瘀滞，虚证大量放血则阳气随血而去、虚更重。灸井穴与少量放血相似，但灸有温阳通络作用，少量放血只引阳通络；病候也能预知血量，手指胀属实、麻属虚，十宣放血的疏通作用比井穴更广更强。",
+      "en": "Let the first drop decide how many. If the first drop is dark it is excess: keep bleeding until the blood turns pale, which expels pathogen and clears heat; if it is pale it is deficiency: about 6 drops at most, only to lead yang out and free the collaterals. His reason: blood carries qi, so in excess a large bleed takes the stagnant pathogen out with the yang, while in deficiency it takes yang away and worsens it. Moxa on the jing-well is much like a small bleed, except that moxa also warms yang while a small bleed only leads yang out; symptoms can predict the amount (distension of the fingers = excess, numbness = deficiency), and bleeding Shixuan opens more widely and strongly than a jing-well.",
+      "cite": [
+        "E9",
+        "E10",
+        "E11",
+        "E12",
+        "E13",
+        "E14"
+      ]
+    },
+    {
+      "zh": "疮疖和感染仍是先察经：案67蜂窝组织炎察出公孙(络穴)异常，判为热毒入足太阴络脉，他说阴经善温补、阳经善清泻，故多取足阳明经泻太阴络脉之热，用曲池配足三里(手足阳明合穴)与本经合穴阴陵泉；准备针手三里时摸不到原来的异常感，就改为曲池。案68外阴疮疖用审视、切候、循推、按压、扪抚五法，发现蠡沟结节与病灶相对、期门压痛，确认属足厥阴，取曲泉、太冲、公孙，起针后疮痛即消。",
+      "en": "Sores and infection are still palpation first. Case 67 (cellulitis): Gongsun (luo point) was abnormal, read as heat-toxin entering the Foot Taiyin collaterals; since yin channels warm and tonify and yang channels clear and drain, he mostly used Foot Yangming to drain the Taiyin collateral heat, Quchi with Zusanli (he-sea points of the two Yangming) plus the channel's own he-sea Yinlingquan; when he could no longer find the earlier abnormal feeling at Shousanli, he changed it to Quchi. Case 68 (vulvar boils): the five methods of inspection, touch, following, pressing and stroking showed a nodule at Ligou matching the site and tenderness at Qimen, confirming Foot Jueyin; Ququan, Taichong and Gongsun, and the sore pain vanished on removal of the needles.",
+      "cite": [
+        "E15",
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20"
+      ]
+    },
+    {
+      "zh": "肿块也当经络病：案69右颈后风池前30年的肿块，位于足少阳，他先察手少阳(同名经)确认有异常，关冲放血激发气血，再用外关透四渎；他说外关既能治表里经，也治本经络脉病(孙络、浮络)，络脉位浅，与皮下肿块直接相关。古书未记载关冲治肿块，但因属少阳经络病故选用。次日肿块消失，他自己也说机制有待研究。",
+      "en": "A lump is also a channel disease. Case 69 (a 30-year lump behind the right neck, in front of Fengchi): it lies on Foot Shaoyang, so he first palpated Hand Shaoyang (same-name channel) and found it abnormal, bled Guanchong to rouse qi and blood, then threaded Waiguan toward Sidu. Waiguan treats the exterior-interior channel and also the channel's own collateral disease (minute and floating collaterals), which lie superficially and relate directly to a subcutaneous lump. The classics do not list Guanchong for lumps, but he used it because this is a Shaoyang collateral disease. The lump was gone next day, and he says the mechanism awaits study.",
+      "cite": [
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25"
+      ]
+    },
+    {
+      "zh": "静脉曲张取原穴配合穴，选经依据察经而非经验：案70以太阴经为主(尺泽、阴陵泉、血海、复溜)，后见厥阴异常，用太白配阴陵泉、太冲配曲泉；案71厥阴异常，取太冲、曲泉加络穴蠡沟。他解释原穴温阳益气、合穴调气机、络穴通本经络脉，并说选经依据是察经变化、经络气化和症候结构的结合，而不是凭经验。他还坦言调理经络不一定改变静脉结构，但能促进组织液流动、减轻静脉内压力。",
+      "en": "Varicose veins take yuan plus he-sea points, and channel choice follows palpation, not habit. Case 70 was mainly Taiyin (Chize, Yinlingquan, Xuehai, Fuliu), then Jueyin became abnormal, so Taibai with Yinlingquan and Taichong with Ququan; Case 71 was Jueyin, Taichong and Ququan plus the luo point Ligou. He explains that yuan points warm yang and boost qi, he-sea points regulate the channel's qi and luo points open all its collaterals, and stresses that the basis for choosing the channel is palpation, channel qi transformation and the symptom structure together, not experience. He admits adjusting channels does not necessarily change the vein structure, but moves tissue fluid and lowers venous pressure.",
+      "cite": [
+        "E26",
+        "E27",
+        "E28",
+        "E29",
+        "E30"
+      ]
+    },
+    {
+      "zh": "痔与大便失禁：案65痔疮出血、察左孔最压痛，他取手太阴的郄穴孔最(阴经郄穴善止血)配督脉长强、腰俞；长强的操作有具体步骤：在尾骨下缘直刺、针贴尾骨前缘，得气后让患者反复收缩放松肛门，外痔常见立效，行针时能看到痔核回缩，腰俞是长强邻近穴以加强之。案66大便失禁判为脾肾两虚以肾虚为主，取长强点刺、太溪、阴谷、太白。",
+      "en": "Haemorrhoids and faecal incontinence. Case 65 (bleeding haemorrhoids, tender left Kongzui): he took the Hand Taiyin xi-cleft point Kongzui (yin-channel xi-cleft points stop bleeding well) with Du-channel Changqiang and Yaoshu. Changqiang has a defined technique: insert straight below the lower edge of the coccyx, needle against its front edge, and after de qi have the patient contract and relax the anal sphincter repeatedly; external piles often respond at once and the pile can be seen retracting during needling; Yaoshu is the neighbouring Du point that reinforces Changqiang. Case 66 (faecal leakage) was judged Spleen-Kidney deficiency, mainly Kidney: Changqiang pricked, Taixi, Yingu, Taibai.",
+      "cite": [
+        "E31",
+        "E32",
+        "E33",
+        "E34",
+        "E35",
+        "E36"
+      ]
+    },
+    {
+      "zh": "皮肤病与太阴：案72银屑病、案73和案74湿疹都察出太阴经异常，主穴尺泽、阴陵泉(太阴合穴，调升降出入，行津液润肌肤)，配曲池、血海清热活血；案74解读记初诊有内科医师按脏腑辨证用龙胆泻肝汤，而他按经络气化太阴主开，取太阴经。皮肤科诊后絮语点出三种不同的西医病同取一对穴属异病同治，同时提醒不要以为一切皮肤病都取太阴经。另有手法：膈俞(血会)放血引阳通络；至阳拔罐放血清热毒；案73点刺大椎行手法到手心出汗；案72待痒、脱皮减轻后再局部针，从最重的皮疹开始。",
+      "en": "Skin disease and Taiyin. Psoriasis (Case 72) and eczema (Cases 73, 74) all showed Taiyin changes; the main pair is Chize and Yinlingquan (Taiyin he-sea points, regulating rising, falling, entering and leaving, moving fluids to moisten skin), with Quchi and Xuehai to clear heat and move blood. The Case 74 comment records that at first an internal-medicine physician gave Longdan Xiegan Tang by zang-fu pattern, whereas by channel qi transformation Taiyin governs opening, so he took Taiyin. The skin essay points out that three different Western diagnoses taking one pair is \"different disease, same treatment\", and warns not to think every skin disease takes Taiyin. Techniques: bleed Geshu (blood gathering point) to lead yang out; bleed and cup Zhiyang to clear heat toxin; in Case 73 prick Dazhui with technique until the palms sweat; in Case 72 needle the local rash only after itching and scaling ease, starting from the worst patch.",
+      "cite": [
+        "E37",
+        "E38",
+        "E39",
+        "E40",
+        "E41",
+        "E42",
+        "E43",
+        "E44"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 井穴放血：血量、血色与作用(《井穴放血的作用》)",
+        "en": "Table 1. Bleeding a jing-well: amount, colour and action (essay)"
+      },
+      "cols": [
+        {
+          "zh": "血量/血色",
+          "en": "Amount / colour"
+        },
+        {
+          "zh": "作用",
+          "en": "Action"
+        },
+        {
+          "zh": "适用",
+          "en": "Suits"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "少量 1~8滴",
+            "en": "Small, 1-8 drops"
+          },
+          {
+            "zh": "引阳通络",
+            "en": "Leads yang out, frees collaterals"
+          },
+          {
+            "zh": "虚性痛",
+            "en": "Deficient pain"
+          }
+        ],
+        [
+          {
+            "zh": "中量 8~15滴",
+            "en": "Medium, 8-15 drops"
+          },
+          {
+            "zh": "祛滞",
+            "en": "Removes stagnation"
+          },
+          {
+            "zh": "实性痛",
+            "en": "Excess pain"
+          }
+        ],
+        [
+          {
+            "zh": "较多 16~20滴",
+            "en": "More, 16-20 drops"
+          },
+          {
+            "zh": "泻热",
+            "en": "Drains heat"
+          },
+          {
+            "zh": "实热",
+            "en": "Excess heat"
+          }
+        ],
+        [
+          {
+            "zh": "第1滴色深",
+            "en": "First drop dark"
+          },
+          {
+            "zh": "实证：继续放到血色变浅止；祛邪、清热",
+            "en": "Excess: continue until the blood pales; expels pathogen, clears heat"
+          },
+          {
+            "zh": "实证",
+            "en": "Excess"
+          }
+        ],
+        [
+          {
+            "zh": "第1滴色淡浅",
+            "en": "First drop pale"
+          },
+          {
+            "zh": "虚证：最多约6滴，引阳通络",
+            "en": "Deficiency: about 6 drops at most, leads yang out"
+          },
+          {
+            "zh": "气虚",
+            "en": "Qi deficiency"
+          }
+        ],
+        [
+          {
+            "zh": "悬灸井穴",
+            "en": "Suspended moxa on the jing-well"
+          },
+          {
+            "zh": "与少量放血相似，另有温阳通络",
+            "en": "Like a small bleed, plus warming yang and freeing collaterals"
+          },
+          {
+            "zh": "虚",
+            "en": "Deficiency"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 外科杂病病例(案65～71)",
+        "en": "Table 2. Surgical miscellany cases 65-71"
+      },
+      "cols": [
+        {
+          "zh": "案/病",
+          "en": "Case / disease"
+        },
+        {
+          "zh": "察经与辨经",
+          "en": "Palpation and channel"
+        },
+        {
+          "zh": "首诊选穴",
+          "en": "First-visit points"
+        },
+        {
+          "zh": "结果",
+          "en": "Result"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "案65 痔疮出血3年",
+            "en": "C65 bleeding haemorrhoids 3 years"
+          },
+          {
+            "zh": "阳明、手太阴；病在手太阴(左孔最压痛)",
+            "en": "Yangming, Hand Taiyin; disease Hand Taiyin (tender left Kongzui)"
+          },
+          {
+            "zh": "孔最、长强、腰俞(选手太阴、督脉)；点长强",
+            "en": "Kongzui, Changqiang, Yaoshu (Hand Taiyin, Du); Changqiang pricked"
+          },
+          {
+            "zh": "8诊，便血止，显效(配中药)",
+            "en": "8 visits, bleeding stopped (with herbs)"
+          }
+        ],
+        [
+          {
+            "zh": "案66 大便少量自遗5年",
+            "en": "C66 faecal leakage 5 years"
+          },
+          {
+            "zh": "足少阴、足太阴",
+            "en": "Foot Shaoyin, Foot Taiyin"
+          },
+          {
+            "zh": "长强(点刺)、太溪、阴谷、太白",
+            "en": "Changqiang (prick), Taixi, Yingu, Taibai"
+          },
+          {
+            "zh": "3次消失，共4诊，临床痊愈",
+            "en": "Gone after 3, 4 visits, clinical cure"
+          }
+        ],
+        [
+          {
+            "zh": "案67 蜂窝组织炎(足大趾)",
+            "en": "C67 cellulitis (great toe)"
+          },
+          {
+            "zh": "足太阴、手阳明、足少阳；病在足太阴(公孙、阴陵泉压痛)",
+            "en": "Foot Taiyin, Hand Yangming, Foot Shaoyang; disease Foot Taiyin (tender Gongsun, Yinlingquan)"
+          },
+          {
+            "zh": "阴陵泉、曲池、足三里",
+            "en": "Yinlingquan, Quchi, Zusanli"
+          },
+          {
+            "zh": "2诊，临床痊愈",
+            "en": "2 visits, clinical cure"
+          }
+        ],
+        [
+          {
+            "zh": "案68 外阴疮疖1年多",
+            "en": "C68 recurrent vulvar boils"
+          },
+          {
+            "zh": "足厥阴异常，期门压痛，蠡沟结节",
+            "en": "Foot Jueyin; tender Qimen, nodule at Ligou"
+          },
+          {
+            "zh": "右曲泉、太冲、公孙；后期曲池、足三里、灸筑宾",
+            "en": "Right Ququan, Taichong, Gongsun; later Quchi, Zusanli, moxa Zhubin"
+          },
+          {
+            "zh": "7次基本消失，巩固3次，3个月未复发",
+            "en": "Mostly gone after 7, 3 more, no relapse at 3 months"
+          }
+        ],
+        [
+          {
+            "zh": "案69 右颈后肿块30年",
+            "en": "C69 lump behind right neck 30 years"
+          },
+          {
+            "zh": "右侧手少阳经异常",
+            "en": "Right Hand Shaoyang abnormal"
+          },
+          {
+            "zh": "右关冲(放血)、右外关透四渎",
+            "en": "Right Guanchong (bleed), right Waiguan through to Sidu"
+          },
+          {
+            "zh": "3次，肿块基本消失，临床治愈",
+            "en": "3 visits, lump nearly gone"
+          }
+        ],
+        [
+          {
+            "zh": "案70 静脉曲张(右小腿)",
+            "en": "C70 varicose veins (right calf)"
+          },
+          {
+            "zh": "多经；病在太阴、少阴",
+            "en": "Many channels; disease Taiyin, Shaoyin"
+          },
+          {
+            "zh": "右尺泽、阴陵泉、血海、复溜",
+            "en": "Right Chize, Yinlingquan, Xuehai, Fuliu"
+          },
+          {
+            "zh": "1次减轻，再3次显效",
+            "en": "Relief after 1, marked effect after 3 more"
+          }
+        ],
+        [
+          {
+            "zh": "案71 静脉曲张5年",
+            "en": "C71 varicose veins 5 years"
+          },
+          {
+            "zh": "厥阴异常",
+            "en": "Jueyin"
+          },
+          {
+            "zh": "左曲泉、太冲、蠡沟(原文“沟”)",
+            "en": "Left Ququan, Taichong, Ligou (printed only 沟)"
+          },
+          {
+            "zh": "3次明显好转，再2次临床痊愈",
+            "en": "Clear after 3, cured after 2 more"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 皮肤科三案(案72～74)",
+        "en": "Table 3. Three skin cases (72-74)"
+      },
+      "cols": [
+        {
+          "zh": "案/病",
+          "en": "Case / disease"
+        },
+        {
+          "zh": "察经",
+          "en": "Palpation"
+        },
+        {
+          "zh": "首诊选穴",
+          "en": "First-visit points"
+        },
+        {
+          "zh": "后续要点",
+          "en": "Later points"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "案72 银屑病30年",
+            "en": "C72 psoriasis 30 years"
+          },
+          {
+            "zh": "太阴、阳明；病在太阴，血燥生风",
+            "en": "Taiyin, Yangming; Taiyin, blood dryness generating wind"
+          },
+          {
+            "zh": "尺泽、阴陵泉、曲池、血海、膈俞(放血)",
+            "en": "Chize, Yinlingquan, Quchi, Xuehai, Geshu (bleed)"
+          },
+          {
+            "zh": "症减后局部针八邪、风池、侠溪、委中等，从最重皮疹开始；忌酒和海鲜",
+            "en": "After relief, local needling (Baxie, Fengchi, Xiaxi, Weizhong ...) from the worst patch; no alcohol or seafood"
+          }
+        ],
+        [
+          {
+            "zh": "案73 湿疹3年",
+            "en": "C73 eczema 3 years"
+          },
+          {
+            "zh": "太阴、少阳",
+            "en": "Taiyin, Shaoyang"
+          },
+          {
+            "zh": "尺泽、阴陵泉、太白、血海",
+            "en": "Chize, Yinlingquan, Taibai, Xuehai"
+          },
+          {
+            "zh": "加曲池；灸大椎，四诊起点刺大椎行手法至手心出汗；后加合谷、复溜调营卫",
+            "en": "Add Quchi; moxa Dazhui, from visit 4 prick Dazhui until palms sweat; later Hegu, Fuliu to regulate ying-wei"
+          }
+        ],
+        [
+          {
+            "zh": "案74 湿疹2年",
+            "en": "C74 eczema 2 years"
+          },
+          {
+            "zh": "太阴、手三阳、足厥阴、足少阳",
+            "en": "Taiyin, three Hand Yang, Foot Jueyin, Foot Shaoyang"
+          },
+          {
+            "zh": "尺泽、阴陵泉、支沟、阳陵泉(疹在胁肋属少阳)",
+            "en": "Chize, Yinlingquan, Zhigou, Yanglingquan (rash on the flanks, Shaoyang)"
+          },
+          {
+            "zh": "二诊清厥阴郁热(大陵、行间)；四诊膈俞放血；五诊至阳拔罐放血、膈俞、委中、肝俞",
+            "en": "Visit 2 clear Jueyin depressed heat (Daling, Xingjian); visit 4 bleed Geshu; visit 5 bleed and cup Zhiyang, Geshu, Weizhong, Ganshu"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "井穴位于阴阳交会处，有引阳通络、泻实祛滞与宣痹开结的作用",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.130"
+    },
+    {
+      "id": "E2",
+      "quote": "取井穴的位置从指甲角的侧线往下至甲根部，大约在指甲角下0.1分",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.130"
+    },
+    {
+      "id": "E3",
+      "quote": "故先在关冲穴放了几滴血以激发经络的气血运行",
+      "src": "王居易针灸医案讲习录·案69·医案解读"
+    },
+    {
+      "id": "E4",
+      "quote": "出少量血（1～8滴），引阳通络（止虚性痛）",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.131"
+    },
+    {
+      "id": "E5",
+      "quote": "出中量血（8～15滴），祛滞（止实性痛）",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.131"
+    },
+    {
+      "id": "E6",
+      "quote": "出较多血（16～20滴），泻热",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.131"
+    },
+    {
+      "id": "E7",
+      "quote": "血色深，实证（应该多放）",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.131"
+    },
+    {
+      "id": "E8",
+      "quote": "血色淡、浅，气虚（勿放太多）",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.131"
+    },
+    {
+      "id": "E9",
+      "quote": "第1滴血如色深为实证，应该继续放血，至血色变浅则止，有祛邪、清热的作用",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.131"
+    },
+    {
+      "id": "E10",
+      "quote": "第1滴血如色浅为虚证，血不应该放太多（最多6滴左右），达到引阳通络的作用",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.131"
+    },
+    {
+      "id": "E11",
+      "quote": "因为血为气之母，血为气的载体之一，如有实证，大量血出，阳气随着血出而顺便把邪气瘀滞带走",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.132"
+    },
+    {
+      "id": "E12",
+      "quote": "虚证时则不宜大量放血，因为较大量阳气随着血走则虚证更严重",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.132"
+    },
+    {
+      "id": "E13",
+      "quote": "悬灸井穴的功效与并穴放血量少的功效很相似，唯有灸并穴有温阳通络的作用而少量放血只有引阳通络的作用",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.132"
+    },
+    {
+      "id": "E14",
+      "quote": "手指胀感指实证，麻感指虚证",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.132"
+    },
+    {
+      "id": "E15",
+      "quote": "经络诊察发现公孙（络穴）异常，病在足太阴络脉",
+      "src": "王居易针灸医案讲习录·案67·医案解读"
+    },
+    {
+      "id": "E16",
+      "quote": "阴经善于温补，阳经善于清泻",
+      "src": "王居易针灸医案讲习录·案67·医案解读"
+    },
+    {
+      "id": "E17",
+      "quote": "故多取足阳明胃经来泄足太阴络脉之热",
+      "src": "王居易针灸医案讲习录·案67·医案解读"
+    },
+    {
+      "id": "E18",
+      "quote": "本来想取手足三里，但准备针刺手三里时找不到原来的异常感，故穴改成曲池",
+      "src": "王居易针灸医案讲习录·案67·医案解读"
+    },
+    {
+      "id": "E19",
+      "quote": "使用了经络诊察的五种基本方法，即审视、切候、循推、按压、扪抚等",
+      "src": "王居易针灸医案讲习录·案68·医案解读"
+    },
+    {
+      "id": "E20",
+      "quote": "为了确认疮属于足厥阴经，使用按压法，按右期门穴，肝的募穴，发现亦有异常",
+      "src": "王居易针灸医案讲习录·案68·医案解读"
+    },
+    {
+      "id": "E21",
+      "quote": "因为肿块位于右足少阳经，先察了患者的右手少阳经以确定病属于哪条经络",
+      "src": "王居易针灸医案讲习录·案69·医案解读"
+    },
+    {
+      "id": "E22",
+      "quote": "外关不仅能用于治疗表里经的病，也能治疗本经的络脉病，包括孙络和浮络，可促进气血运行",
+      "src": "王居易针灸医案讲习录·案69·医案解读"
+    },
+    {
+      "id": "E23",
+      "quote": "虽然古书未记载肿块为关冲穴的主治范围内，但它属于少阳经的经络病，故选用关冲",
+      "src": "王居易针灸医案讲习录·案69·医案解读"
+    },
+    {
+      "id": "E24",
+      "quote": "放血和透针后，第二天患者言肿块已消失",
+      "src": "王居易针灸医案讲习录·案69·医案解读"
+    },
+    {
+      "id": "E25",
+      "quote": "希望今后有人能对这种生理变化的机制进行研究",
+      "src": "王居易针灸医案讲习录·案69·医案解读"
+    },
+    {
+      "id": "E26",
+      "quote": "使用原穴和合穴的配穴方法",
+      "src": "王居易针灸医案讲习录·案71·医案解读"
+    },
+    {
+      "id": "E27",
+      "quote": "原穴温阳益气，合穴调理本经的气机",
+      "src": "王居易针灸医案讲习录·案71·医案解读"
+    },
+    {
+      "id": "E28",
+      "quote": "这里要强调的是选择治疗经脉的依据是根据经络诊察发现的异常变化、经络气化理论和症候结构的结合，而不是凭经验",
+      "src": "王居易针灸医案讲习录·案71·按语"
+    },
+    {
+      "id": "E29",
+      "quote": "调理经络不一定能改变静脉的异常结构",
+      "src": "王居易针灸医案讲习录·案71·按语"
+    },
+    {
+      "id": "E30",
+      "quote": "但通过调理相关的异常经络，能促进经络缝隙里的组织液流动，帮助排除停留过久的血液、组织液，因而能减轻静脉内压力",
+      "src": "王居易针灸医案讲习录·案71·按语"
+    },
+    {
+      "id": "E31",
+      "quote": "孔最为手太阴经部穴，阴经的部穴善于止血",
+      "src": "王居易针灸医案讲习录·案65·医案解读"
+    },
+    {
+      "id": "E32",
+      "quote": "再用食指摸出尾骨的下缘，在尾骨下直刺，让针体贴着尾骨前缘",
+      "src": "王居易针灸医案讲习录·案65·医案解读"
+    },
+    {
+      "id": "E33",
+      "quote": "让患者来回收缩和放松肛门括约肌几次",
+      "src": "王居易针灸医案讲习录·案65·医案解读"
+    },
+    {
+      "id": "E34",
+      "quote": "若是外痔，一般能立刻见效",
+      "src": "王居易针灸医案讲习录·案65·医案解读"
+    },
+    {
+      "id": "E35",
+      "quote": "邻近穴，亦属督脉，能加强长强治疗痔疮的作用",
+      "src": "王居易针灸医案讲习录·案65·医案解读"
+    },
+    {
+      "id": "E36",
+      "quote": "根据症候来判断，此证属脾肾两虚，以肾虚为主",
+      "src": "王居易针灸医案讲习录·案66·医案解读"
+    },
+    {
+      "id": "E37",
+      "quote": "太阴经为三阴之表，主在里之开，宣发经气，行津液于全身",
+      "src": "王居易针灸医案讲习录·案72·医案解读"
+    },
+    {
+      "id": "E38",
+      "quote": "尺泽、阴陵泉为太阴经的合穴，可调节太阴经气机的升降出入，能行津液，润皮毛肌肤",
+      "src": "王居易针灸医案讲习录·案72·医案解读"
+    },
+    {
+      "id": "E39",
+      "quote": "但按照经络气化理论，太阴主开，为三阴之表",
+      "src": "王居易针灸医案讲习录·案74·医案解读"
+    },
+    {
+      "id": "E40",
+      "quote": "湿疹、荨麻疹与银屑病在西医属三种不同的病",
+      "src": "王居易针灸医案讲习录·诊后絮语·皮肤科 p.139"
+    },
+    {
+      "id": "E41",
+      "quote": "但是不要误认为一切皮肤病都要取太阴经的穴，仍须通过经络诊察的识别分析，再选经配穴，才能有效",
+      "src": "王居易针灸医案讲习录·诊后絮语·皮肤科 p.139"
+    },
+    {
+      "id": "E42",
+      "quote": "隔俞为八会之血会，放血可引阳通络",
+      "src": "王居易针灸医案讲习录·案72·医案解读"
+    },
+    {
+      "id": "E43",
+      "quote": "至阳拔罐放血，可清热毒",
+      "src": "王居易针灸医案讲习录·案74·医案解读"
+    },
+    {
+      "id": "E44",
+      "quote": "针刺局部从最严重皮疹开始，缓解之后，针刺较轻的皮疹",
+      "src": "王居易针灸医案讲习录·案72·医案解读"
+    }
+  ],
+  "how_to_use": {
+    "zh": "放血前先看第1滴血色，按表1定量；疮、肿块、静脉曲张等外科病同样先察经(表2)。皮肤病见太阴异常再用尺泽、阴陵泉，并按表3的顺序处理局部皮疹。",
+    "en": "Before bleeding, look at the first drop and set the amount by Table 1; for sores, lumps and varicose veins palpate first as well (Table 2). In skin disease use Chize and Yinlingquan only where Taiyin is abnormal, and treat the local rash in the order of Table 3."
+  },
+  "caveats": {
+    "zh": "血滴数是他注明“仅供参考”的临床常用数。案71穴名蠡沟在原文多作“沟”；案65解读在原文有断行缺字(“对痔疮的疗”)，只引其完整句子；“隔俞”“部穴”分别是膈俞、郄穴的OCR写法。外科章诊后絮语只有井穴放血一篇，皮肤科只有一段“异病同治”的按语，其余据案解读，力度较弱。",
+    "en": "The drop counts are, in his words, those commonly used in practice and for reference only. the point Ligou in Case 71 is mostly printed only as 沟; the Case 65 comment has a broken line with missing characters (对痔疮的疗...) so only its intact sentences are quoted; 隔俞 and 部穴 are OCR forms of Geshu and xi-cleft point. The surgical chapter has only one essay (jing-well bleeding) and the skin chapter one short note on same treatment for different diseases; the rest rests on case comments and is thinner."
+  },
+  "see": {
+    "cases": [
+      "wjy-065",
+      "wjy-067",
+      "wjy-068",
+      "wjy-069",
+      "wjy-071",
+      "wjy-072",
+      "wjy-073",
+      "wjy-074"
+    ],
+    "points": [
+      "关冲",
+      "孔最",
+      "长强",
+      "蠡沟",
+      "太冲",
+      "曲泉",
+      "尺泽",
+      "阴陵泉",
+      "曲池",
+      "血海",
+      "膈俞",
+      "外关"
+    ]
+  }
+}

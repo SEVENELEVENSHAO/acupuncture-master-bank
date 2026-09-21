@@ -1,0 +1,580 @@
+{
+  "id": "sxm-06-principles",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "治疗原则与处方",
+    "en": "Principles & formulas"
+  },
+  "order": 6,
+  "title": {
+    "zh": "针灸治疗原则与治疗作用：治神守气居首，清热温寒、补虚泻实、整体观念、治病求本、三因制宜，作用归于醒神开窍、疏通经络、扶正祛邪、调和阴阳",
+    "en": "Principles and Actions of Acupuncture Treatment: Zhi Shen and Guarding Qi First; Clearing Heat and Warming Cold, Tonifying Deficiency and Reducing Excess, Wholeness, Treating the Root, Three Adaptations; Actions Reduced to Waking Shen and Opening Orifices, Freeing Channels, Supporting Right and Expelling Evil, Harmonising Yin and Yang"
+  },
+  "summary": {
+    "zh": "全集与实用针灸学的“治疗总论/针灸处方”开头两节文字几乎相同：针灸治疗原则概括为治神守气、清热温寒、补虚泻实、整体观念、治病求本、三因制宜，其中治神守气“应居首要地位”；治疗作用概括为醒神开窍、疏通经络、扶正祛邪、调和阴阳，并强调机体状态决定针灸产生何种作用。各条都配了具体的穴与刺法，如热则浅刺疾出或点刺出血，寒则深刺久留加灸，急则治标先针水沟。",
+    "en": "The opening two sections of the complete collection's general treatment chapter and of the Practical Acupuncture prescription chapter are nearly identical. Principles: zhi shen and guarding qi (\"first place\"), clearing heat and warming cold, tonifying deficiency and reducing excess, wholeness, treating the root, three adaptations. Actions: waking shen and opening orifices, freeing channels, supporting the right and expelling evil, harmonising yin and yang, with the body's state deciding which action appears. Each item comes with concrete points and needling: shallow quick needling or pricking-bleeding for heat, deep retained needling plus moxa for cold, Shuigou first in an emergency."
+  },
+  "takeaways": [
+    {
+      "zh": "六项治疗原则是一个纲：“治神守气、清热温寒、补虚泻实、整体观念、治病求本和三因制宜”，目的是“化繁就简”，即在针法灸法、补法泻法之间先定方向。其中治神守气“应居首要地位”，既要调治患者精神状态，也要求医者专一其神，还提醒精神高度紧张或大惊大恐者“应暂时避免针刺”(治神的操作见 sxm-05)。",
+      "en": "The six principles form one outline: zhi shen and guarding qi, clearing heat and warming cold, tonifying and reducing, wholeness, treating the root, three adaptations, meant to \"simplify the complicated\", that is, to fix the direction before choosing needle or moxa, tonify or reduce. Zhi shen and guarding qi \"should take first place\"; it means calming the patient, focusing the physician, and holding off needling in the highly tense or the greatly frightened (practice in sxm-05).",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "热与寒决定刺法的深浅与久暂：热性病证“浅刺疾出或点刺出血，手法宜轻而快，可以不留针或针用泻法”，例如风热感冒取大椎、曲池、合谷、外关，伴咽痛加少商点刺出血；寒性病证“深刺而久留针”，寒在表宜灸，寒在里则深刺久留、配“烧山火”或温针。",
+      "en": "Heat and cold set the depth and duration of needling. Heat: \"shallow quick withdrawal or pricking-bleeding, light and fast, no retention or reducing method\", for example wind-heat cold with Dazhui, Quchi, Hegu, Waiguan, plus Shaoshang pricked for a sore throat. Cold: \"deep needling with long retention\"; cold in the exterior favours moxa, cold in the interior deep long retention with Shaoshanhuo or warm needle.",
+      "cite": [
+        "E4",
+        "E5"
+      ]
+    },
+    {
+      "zh": "补虚泻实分四种处置：虚则补之(关元、气海、命门、足三里与背俞、原穴，针灸并用)；陷下则灸之，属补虚范畴，久泻、崩漏、脱肛、内脏下垂灸百会、神阙、气海、关元，虚脱危象“更应重灸”；实则泻之(高热、昏迷、惊厥、剧痛取大椎、合谷、太冲、委中、水沟、十宣，泻法或点刺出血)；宛陈则除之，络脉瘀阻用三棱针点刺出血，重者加拔罐。不盛不虚则“以经取之”，用平补平泻，并严戒“虚虚实实”。",
+      "en": "Tonify-and-reduce has four handlings. \"Deficiency, tonify\": Guanyuan, Qihai, Mingmen, Zusanli with back-shu and source points, needle and moxa together. \"Sinking, moxa\", counted under tonifying: chronic diarrhoea, uterine bleeding, rectal and visceral prolapse with moxa at Baihui, Shenque, Qihai, Guanyuan, and collapse crises \"even more heavily moxaed\". \"Excess, reduce\": high fever, coma, convulsion, severe pain with Dazhui, Hegu, Taichong, Weizhong, Shuigou, Shixuan by reducing or pricking-bleeding. \"Stagnant and old, remove\": collateral blockage bled with the three-edged needle, cupping added if severe. Neither excess nor deficiency: \"take from the channel\" with even method; and never \"fill the full or drain the empty\".",
+      "cite": [
+        "E6",
+        "E7",
+        "E8",
+        "E9"
+      ]
+    },
+    {
+      "zh": "整体观念把针灸处方分成三种用法：局部治疗(牙痛面瘫取地仓、颊车，“穴所在，主治所在”)；整体治疗(肘膝以下穴治头面、躯干、脏腑，肝阳上亢头痛取太溪、太冲透涌泉“滋水涵木”)；局部与整体同治，例如风火牙痛局部取颊车、下关，远端取合谷、内庭。其立意是避免“头痛医头、脚痛医脚”，“既着眼于症状治疗，又注重病因治疗”。",
+      "en": "Wholeness splits a prescription into three uses. Local: toothache and facial palsy with Dicang, Jiache, \"where the point lies, the treatment lies\". General: points below elbow and knee treat head, trunk and organs; liver-yang headache with Taixi and Taichong through to Yongquan to \"nourish water to moisten wood\". Local and general together, for example wind-fire toothache with Jiache and Xiaguan locally and Hegu and Neiting distally. The aim is to avoid \"treating head for head, foot for foot\", attending to both symptom and cause.",
+      "cite": [
+        "E10",
+        "E11"
+      ]
+    },
+    {
+      "zh": "治病求本分急缓：“急则治标”——任何原因的昏迷“都应先针刺水沟”，中风小便潴留先针中极、水道、秩边，大便秘结先针丰隆、左水道、左归来，依据是“大小便不利治其标”；“缓则治本”，如脾阳虚泄泻取脾俞、胃俞、足三里，肾阳虚五更泄灸气海、关元、命门、肾俞；“标本同治”，如体虚感冒“益气为治本，解表为治标”，补足三里、关元，泻合谷、风池、列缺。",
+      "en": "Treating the root is split by urgency. \"Urgent, treat the branch\": coma of any cause \"should first be needled at Shuigou\"; urinary retention after stroke first Zhongji, Shuidao, Zhibian; constipation first Fenglong, left Shuidao, left Guilai, on the basis \"when urine and stool are blocked treat the branch\". \"Slow, treat the root\": spleen-yang-deficient diarrhoea with Pishu, Weishu, Zusanli; kidney-yang-deficient dawn diarrhoea with moxa at Qihai, Guanyuan, Mingmen, Shenshu. \"Both together\": deficient common cold, \"boosting qi treats the root, releasing the exterior the branch\", tonifying Zusanli, Guanyuan and reducing Hegu, Fengchi, Lieque.",
+      "cite": [
+        "E12",
+        "E13",
+        "E14"
+      ]
+    },
+    {
+      "zh": "三因制宜把季节、地域和个人体质写进刺法：春夏宜浅刺、秋冬宜深刺；某些病要选发作规律，如“精神疾患多在春季发作，故应在春季来前进行治疗”；寒冷地区多灸而壮数多；体质虚弱、皮肤薄嫩、对针刺敏感者手法宜轻，体质强壮、针感迟钝者可重些。",
+      "en": "The three adaptations write season, region and constitution into the needling. Shallow in spring and summer, deep in autumn and winter. Timing follows attack patterns: \"psychiatric illness mostly relapses in spring, so treat before spring arrives\". Cold regions use more moxa and more cones. Weak, thin-skinned, needle-sensitive patients get light manipulation; strong, needle-dull ones somewhat heavier.",
+      "cite": [
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "zh": "四项治疗作用以“醒神开窍”“疏通经络”打头：醒神开窍“是针灸治疗最为主要的作用”，其病机依据是“窍闭神匿，神不导气”是疾病的最终病机(醒脑开窍法的展开见 sxm-02、03)；疏通经络“是针灸治病最主要、最直接的作用”，并按病因分工：“实热引起者宜用针刺，虚寒引起者宜行灸疗”。",
+      "en": "Of the four actions, waking shen and freeing channels come first. Waking shen and opening orifices is \"the most important action of acupuncture\", grounded in \"orifices closed, shen hidden, shen fails to guide qi\" as the final pathomechanism of disease (Xingnao Kaiqiao itself in sxm-02, 03). Freeing channels is \"the most important and most direct action\", divided by cause: \"needle for excess-heat, moxa for deficiency-cold\".",
+      "cite": [
+        "E17",
+        "E18",
+        "E19",
+        "E20"
+      ]
+    },
+    {
+      "zh": "扶正祛邪与调和阴阳靠穴性与补泻共同完成，最终看机体状态：新病邪盛以祛邪为主，久病正虚以扶正为主，正虚邪未衰则攻补兼施；穴有偏补(关元、气海、命门)偏泻(曲泽、委中、水沟、十宣)，多数穴“具有双向调节作用”。调阴阳可“从阴引阳”，如阳盛阴虚的狂躁失眠“补阴跷(照海)泻阳跷(申脉)”。归结为“良性调节作用”，高血压者降、低血压者升。",
+      "en": "Supporting the right and expelling evil, and harmonising yin and yang, are done through point nature plus manipulation and finally depend on the body's state. New disease with strong evil: expel first; long illness with weak right: support first; weak right with lingering evil: attack and tonify together. Some points lean tonifying (Guanyuan, Qihai, Mingmen), some reducing (Quze, Weizhong, Shuigou, Shixuan), most \"regulate in both directions\". Yin and yang are harmonised \"drawing yang from yin\", for example manic insomnia (yang excess, yin deficiency) \"tonify Zhaohai, reduce Shenmai\". All summed up as a \"benign regulation\": blood pressure lowered if high and raised if low.",
+      "cite": [
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "六项治疗原则：含义 → 针灸上的落实 → 书中的例",
+        "en": "Six principles: meaning → how it shows in needling → the book's example"
+      },
+      "cols": [
+        {
+          "zh": "原则",
+          "en": "Principle"
+        },
+        {
+          "zh": "含义",
+          "en": "Meaning"
+        },
+        {
+          "zh": "刺灸落实",
+          "en": "In needling and moxa"
+        },
+        {
+          "zh": "例",
+          "en": "Example"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "治神守气",
+            "en": "Zhi shen, guarding qi"
+          },
+          {
+            "zh": "针前后调患者神，针中医者专一其神、患者意守感传；守气必先治神",
+            "en": "Calm the patient before and after, physician focused, patient attending to the sensation"
+          },
+          {
+            "zh": "气不至用扪、切、循、按行气；气至“密意守气”",
+            "en": "If qi is absent use pressing, cutting, tracing, patting; once it arrives \"guard it closely\""
+          },
+          {
+            "zh": "精神高度紧张、大惊大恐者暂缓针刺",
+            "en": "Defer needling in the highly tense or frightened"
+          }
+        ],
+        [
+          {
+            "zh": "清热温寒",
+            "en": "Clear heat, warm cold"
+          },
+          {
+            "zh": "热性病用“清”法，寒性病用“温”法",
+            "en": "\"Clear\" for heat, \"warm\" for cold"
+          },
+          {
+            "zh": "热则疾之：浅刺疾出、点刺出血；寒则留之：深刺久留、灸、烧山火、温针",
+            "en": "Heat: shallow quick, pricking-bleeding. Cold: deep long retention, moxa, Shaoshanhuo, warm needle"
+          },
+          {
+            "zh": "风热感冒取大椎、曲池、合谷、外关；咽痛少商放血",
+            "en": "Wind-heat cold: Dazhui, Quchi, Hegu, Waiguan; sore throat Shaoshang bled"
+          }
+        ],
+        [
+          {
+            "zh": "补虚泻实",
+            "en": "Tonify deficiency, reduce excess"
+          },
+          {
+            "zh": "虚则补之、陷下则灸之、实则泻之、宛陈则除之、不盛不虚以经取之",
+            "en": "Tonify, moxa the sinking, reduce, remove stagnation, take from the channel"
+          },
+          {
+            "zh": "补法、灸；泻法、点刺出血、拔罐；平补平泻",
+            "en": "Tonifying, moxa; reducing, pricking-bleeding, cupping; even method"
+          },
+          {
+            "zh": "内脏下垂灸百会、神阙、气海、关元；高热取大椎、合谷、太冲、委中、十宣",
+            "en": "Prolapse: Baihui, Shenque, Qihai, Guanyuan moxa; high fever: Dazhui, Hegu, Taichong, Weizhong, Shixuan"
+          }
+        ],
+        [
+          {
+            "zh": "整体观念",
+            "en": "Wholeness"
+          },
+          {
+            "zh": "局部与整体的关系",
+            "en": "Relation of part and whole"
+          },
+          {
+            "zh": "局部穴 + 远端穴 + 病因治疗",
+            "en": "Local points + distal points + treating the cause"
+          },
+          {
+            "zh": "脾虚腹泻：大横、天枢加脾俞、足三里",
+            "en": "Spleen-deficient diarrhoea: Daheng, Tianshu plus Pishu, Zusanli"
+          }
+        ],
+        [
+          {
+            "zh": "治病求本",
+            "en": "Treat the root"
+          },
+          {
+            "zh": "抓住根本病因；标本相对",
+            "en": "Grasp the root cause; branch and root relative"
+          },
+          {
+            "zh": "急则治标、缓则治本、标本同治",
+            "en": "Branch first if urgent, root if slow, both together"
+          },
+          {
+            "zh": "昏迷先水沟；体虚感冒补足三里、关元泻合谷、风池、列缺",
+            "en": "Coma: Shuigou first; deficient cold: tonify Zusanli, Guanyuan, reduce Hegu, Fengchi, Lieque"
+          }
+        ],
+        [
+          {
+            "zh": "三因制宜",
+            "en": "Three adaptations"
+          },
+          {
+            "zh": "因时、因地、因人",
+            "en": "Time, place, person"
+          },
+          {
+            "zh": "春夏浅刺秋冬深刺；寒地多灸；虚者手法轻",
+            "en": "Shallow spring-summer, deep autumn-winter; more moxa in cold regions; light for the weak"
+          },
+          {
+            "zh": "精神疾患春季前治疗；乳腺增生经前一周治疗",
+            "en": "Psychiatric illness treated before spring; breast hyperplasia from a week before menses"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "四种治疗作用：所对病机 → 用法 → 书中的穴与例",
+        "en": "Four actions: pathomechanism addressed → use → the book's points and examples"
+      },
+      "cols": [
+        {
+          "zh": "作用",
+          "en": "Action"
+        },
+        {
+          "zh": "所对病机",
+          "en": "Pathomechanism"
+        },
+        {
+          "zh": "用法",
+          "en": "Use"
+        },
+        {
+          "zh": "穴与例",
+          "en": "Points and examples"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "醒神开窍",
+            "en": "Wake shen, open orifices"
+          },
+          {
+            "zh": "“窍闭神匿，神不导气”，重则昏迷、轻则气血不畅",
+            "en": "\"Orifices closed, shen hidden\": coma if severe, blocked qi and blood if mild"
+          },
+          {
+            "zh": "守神、治神，调神、醒神；实热闭证时开窍启闭",
+            "en": "Guard and regulate shen; open orifices in excess-heat closed patterns"
+          },
+          {
+            "zh": "昏迷先针水沟",
+            "en": "Coma: Shuigou first"
+          }
+        ],
+        [
+          {
+            "zh": "疏通经络",
+            "en": "Free channels"
+          },
+          {
+            "zh": "经络闭阻，气血不畅：肿胀、疼痛、瘀斑、麻木、痿软、拘挛",
+            "en": "Channel blockage: swelling, pain, ecchymosis, numbness, limpness, contracture"
+          },
+          {
+            "zh": "“解结”；实热用针，虚寒用灸",
+            "en": "\"Untie the knot\"; needle for excess-heat, moxa for deficiency-cold"
+          },
+          {
+            "zh": "风寒湿痛：祛风除湿、活血化瘀；麻木瘫痪：灸",
+            "en": "Wind-cold-damp pain: dispel and activate; numbness and paralysis: moxa"
+          }
+        ],
+        [
+          {
+            "zh": "扶正祛邪",
+            "en": "Support right, expel evil"
+          },
+          {
+            "zh": "疾病过程是正邪相争",
+            "en": "Disease is a struggle of right and evil"
+          },
+          {
+            "zh": "新病祛邪、久病扶正、正虚邪未衰攻补兼施",
+            "en": "New disease expel, long support, mixed tonify-attack"
+          },
+          {
+            "zh": "偏补：关元、气海、命门、肾俞；偏泻：曲泽、委中、水沟、十宣、十二井",
+            "en": "Tonifying: Guanyuan, Qihai, Mingmen, Shenshu; reducing: Quze, Weizhong, Shuigou, Shixuan, twelve jing-well"
+          }
+        ],
+        [
+          {
+            "zh": "调和阴阳",
+            "en": "Harmonise yin and yang"
+          },
+          {
+            "zh": "阴阳偏盛偏衰",
+            "en": "Yin or yang excess or deficiency"
+          },
+          {
+            "zh": "阴证治阴、阳证治阳，或阴中求阳、从阴引阳",
+            "en": "Treat yin for yin, yang for yang, or seek yang within yin"
+          },
+          {
+            "zh": "癫疾嗜睡：补申脉泻照海；狂躁失眠：补照海泻申脉；亡阳灸气海、关元",
+            "en": "Sleepiness: tonify Shenmai, reduce Zhaohai; mania insomnia the reverse; yang collapse: Qihai, Guanyuan moxa"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "175条处方(全集94、实用81)的治则与技术计数",
+        "en": "Counts across the 175 prescription entries (94 complete collection, 81 Practical)"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "有【治则】文字的处方",
+            "en": "Entries with a stated principle"
+          },
+          "166"
+        ],
+        [
+          {
+            "zh": "治则含 醒脑/醒神/开窍/启闭",
+            "en": "Principle contains wake-shen / open-orifice terms"
+          },
+          "28"
+        ],
+        [
+          {
+            "zh": "治则含 调神/安神/宁神/定志",
+            "en": "Principle contains regulate / calm shen terms"
+          },
+          "26"
+        ],
+        [
+          {
+            "zh": "治则含 通络/疏通/活血/化瘀/行气/理气/通经",
+            "en": "Principle contains free-channel / activate-blood / move-qi terms"
+          },
+          "74"
+        ],
+        [
+          {
+            "zh": "治则含 补/益/滋/养/固/温",
+            "en": "Principle contains tonifying terms"
+          },
+          "73"
+        ],
+        [
+          {
+            "zh": "治则含 清/泻/祛/散/疏风/利湿/解毒/化痰/消",
+            "en": "Principle contains clearing / expelling terms"
+          },
+          "77"
+        ],
+        [
+          {
+            "zh": "治则含“阴阳”(儿童多动、神经性皮炎、失眠、牛皮癣)",
+            "en": "Principle contains yin-yang"
+          },
+          "4"
+        ],
+        [
+          {
+            "zh": "同一条处方同时含补法与泻法标签",
+            "en": "Tag both a tonifying and a reducing method"
+          },
+          "73"
+        ],
+        [
+          {
+            "zh": "含刺络放血或三棱针",
+            "en": "Pricking-bleeding or three-edged needle"
+          },
+          "67"
+        ],
+        [
+          {
+            "zh": "含拔罐",
+            "en": "Cupping"
+          },
+          "50"
+        ],
+        [
+          {
+            "zh": "含艾灸或温针灸",
+            "en": "Moxa or warm needle"
+          },
+          "37"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "治神守气是针灸施治的基础和前提，在针灸治疗原则中，应居首要地位",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.375"
+    },
+    {
+      "id": "E2",
+      "quote": "针灸的治疗原则可概括为治神守气、清热温寒、补虚泻实、整体观念、治病求本和三因制宜",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.375"
+    },
+    {
+      "id": "E3",
+      "quote": "应暂时避免针刺，以防神气散亡",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.375"
+    },
+    {
+      "id": "E4",
+      "quote": "热性病证的治疗原则是浅刺疾出或点刺出血，手法宜轻而快，可以不留针或针用泻法，以清泻热毒",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.376"
+    },
+    {
+      "id": "E5",
+      "quote": "寒性病证的治疗原则是深刺而久留针，以达温经散寒的目的",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.376"
+    },
+    {
+      "id": "E6",
+      "quote": "气虚下陷的治疗原则是以灸治为主",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.377"
+    },
+    {
+      "id": "E7",
+      "quote": "取大椎、合谷、太冲、委中、人中、十宣、十二井等穴，针用泻法，或点刺出血",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.377"
+    },
+    {
+      "id": "E8",
+      "quote": "对络脉瘀阻不通引起的病证，宜采用三棱针点刺出血",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.377"
+    },
+    {
+      "id": "E9",
+      "quote": "在针刺时，多采用平补平泻的针刺手法",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.377"
+    },
+    {
+      "id": "E10",
+      "quote": "针灸治病，只有从整体观念出发，辨证施治，才不会出现头痛医头、脚痛医脚的片面倾向",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.378"
+    },
+    {
+      "id": "E11",
+      "quote": "风火牙痛，局部取颊车、下关疏调经络之气，远端取合谷、内庭清降胃肠之火",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.378"
+    },
+    {
+      "id": "E12",
+      "quote": "任何原因引起的昏迷，都应先针刺水沟，醒脑开窍",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.379"
+    },
+    {
+      "id": "E13",
+      "quote": "当中风患者出现小便潴留时，应先针刺中极、水道、秩边，急利小便",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.379"
+    },
+    {
+      "id": "E14",
+      "quote": "应当益气解表，益气为治本，解表为治标，宜补足三里、关元，泻合谷、风池、列缺等",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.379"
+    },
+    {
+      "id": "E15",
+      "quote": "故治疗上春夏宜浅刺，秋冬宜深刺",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.379"
+    },
+    {
+      "id": "E16",
+      "quote": "如精神疾患多在春季发作，故应在春季来前进行治疗",
+      "src": "石学敏针灸全集·第七章 治疗总论 第一节 针灸治疗原则 p.380"
+    },
+    {
+      "id": "E17",
+      "quote": "醒神开窍是针灸治疗最为主要的作用",
+      "src": "石学敏实用针灸学·第七章 针灸处方 第二节 针灸治疗作用 p.253"
+    },
+    {
+      "id": "E18",
+      "quote": "窍闭神匿，神不导气”是疾病的最终病机",
+      "src": "石学敏实用针灸学·第七章 针灸处方 第二节 针灸治疗作用 p.254"
+    },
+    {
+      "id": "E19",
+      "quote": "疏通经络是针灸治病最主要、最直接的作用",
+      "src": "石学敏针灸全集·第七章 治疗总论 第二节 针灸治疗作用 p.380"
+    },
+    {
+      "id": "E20",
+      "quote": "实热引起者宜用针刺，虚寒引起者宜行灸疗",
+      "src": "石学敏针灸全集·第七章 治疗总论 第二节 针灸治疗作用 p.381"
+    },
+    {
+      "id": "E21",
+      "quote": "正虚邪不盛者（久病），治宜扶正为主，正复邪自除",
+      "src": "石学敏针灸全集·第七章 治疗总论 第二节 针灸治疗作用 p.381"
+    },
+    {
+      "id": "E22",
+      "quote": "绝大部分穴则具有双向调节作用",
+      "src": "石学敏针灸全集·第七章 治疗总论 第二节 针灸治疗作用 p.381"
+    },
+    {
+      "id": "E23",
+      "quote": "阳盛阴虚则可见狂躁、失眠，应补阴跷（照海）泻阳跷（申脉）",
+      "src": "石学敏实用针灸学·第七章 针灸处方 第二节 针灸治疗作用 p.255"
+    },
+    {
+      "id": "E24",
+      "quote": "针灸的治疗作用，实质上就是对机体的一种良性调节作用",
+      "src": "石学敏针灸全集·第七章 治疗总论 第二节 针灸治疗作用 p.382"
+    },
+    {
+      "id": "E25",
+      "quote": "高血压者，针灸可使其降低；低血压者，针灸可使其升高",
+      "src": "石学敏针灸全集·第七章 治疗总论 第二节 针灸治疗作用 p.382"
+    }
+  ],
+  "caveats": {
+    "zh": "这两节是教科书式的总论，大量引用《内经》《难经》《标幽赋》等原文，书中没有写“石学敏认为”；本指南据此只把它们记作全集与实用针灸学的编写立场，与石氏个人独创(醒脑开窍、量学，见 sxm-02～04)区分。两节文字在两书里几乎相同(实用针灸学少数字词有出入，全集OCR有“醒神开是”“窍闭神匿”缺窍字，本指南引用较完整的实用针灸学版本)。同一小节内醒神开窍称“最为主要”、疏通经络称“最主要、最直接”，书中并存，未作排序说明。“治疗作用”一节的四分法与现行教材惯用的分法不必相同。第三张表的处方计数把全集与实用针灸学同病条目分别计入，含同病重复；关键词按子串计，同一条可同时命中多项。",
+    "en": "These two sections are a textbook-style overview quoting the Neijing, Nanjing, Biaoyou Fu and others; they never say \"Shi Xuemin holds\", so this guide records them as the compilers' stance of the complete collection and Practical Acupuncture, separate from his own innovations (Xingnao Kaiqiao, dosage, in sxm-02 to 04). The two books' texts are nearly identical (small wording differences in Practical; the complete-collection OCR drops a character in \"wake shen and open orifices\" and in \"orifices closed, shen hidden\", so the more intact Practical wording is quoted). Within the same section waking shen is called \"most important\" and freeing channels \"most important and most direct\", left unranked. The four-fold division of actions need not match current textbook usage. Counts in the third table treat same-disease entries in the two books separately, so include duplication; keywords are matched as substrings and one entry can hit several."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-089",
+      "sxm-rx-150",
+      "sxm-rx-169",
+      "sxm-rx-126"
+    ],
+    "cases": [
+      "sxp-001",
+      "sxp-024",
+      "sxm-343",
+      "sxm-549"
+    ],
+    "points": [
+      "水沟",
+      "大椎",
+      "曲池",
+      "合谷",
+      "太冲",
+      "足三里",
+      "关元",
+      "气海",
+      "百会",
+      "委中",
+      "照海",
+      "申脉"
+    ]
+  }
+}

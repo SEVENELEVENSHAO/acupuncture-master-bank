@@ -1,0 +1,677 @@
+{
+  "id": "sxm-18-emergency-other",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "治疗思路",
+    "en": "Treatment approach"
+  },
+  "order": 18,
+  "title": {
+    "zh": "急症与其他病症：神志与呼吸急症走醒脑开窍(水沟、内关)，心、胆、肾绞痛走俞募与下合(膈俞、日月、膀胱俞、中极)，戒断、肥胖、疲劳、嗜睡、汗证仍回到调神与调阴阳",
+    "en": "Emergencies and Other Conditions: Consciousness and Breathing Emergencies by Xingnao Kaiqiao (Shuigou, Neiguan); Heart, Gallbladder and Kidney Colic by Back-shu, Front-mu and Lower He (Geshu, Riyue, Pangguangshu, Zhongji); Withdrawal, Obesity, Fatigue, Narcolepsy and Sweating Back to Regulating Shen and Yin-Yang"
+  },
+  "summary": {
+    "zh": "急症与其他病症的处方分成两条思路。神志、呼吸类急症(中枢性呼吸衰竭、一过性昏厥、一氧化碳中毒、发作性睡病)围绕“窍闭神匿”，取水沟加内关醒脑开窍，中枢性呼吸衰竭另加气舍“补气固脱”；脏腑痛证(心、胆、肾绞痛)则“急则治其标”，以背俞加募穴、合治内腑取穴，止痛与排石分穴。戒断综合征、肥胖、慢性疲劳、汗证再回到调神、调阴阳，如“肥胖多由神失调摄、阳气内闭引起”，汗证以列缺、照海养阴固表。42例医案里，神志类12例全用水沟，而心胆肾绞痛23例无一取水沟，21例取膈俞。",
+    "en": "The emergency and other prescriptions follow two lines. Consciousness and breathing emergencies (central respiratory failure, transient syncope, carbon monoxide poisoning, narcolepsy) revolve around \"orifices closed, shen hidden\", waking the brain with Shuigou and Neiguan, central respiratory failure adding Qishe to \"tonify qi and stop collapse\". Visceral colic (heart, gallbladder, kidney) is \"urgent, treat the branch\", with back-shu plus front-mu and \"the he-sea treats the fu organs\", pain relief and stone passage assigned to different points. Withdrawal, obesity, chronic fatigue and sweating go back to regulating shen and yin-yang: \"obesity mostly comes from shen not regulated and yang locked inside\"; sweating is treated with Lieque and Zhaohai to nourish yin and secure the exterior. In 42 cases all 12 of the consciousness group use Shuigou, while none of 23 heart, gallbladder and kidney colic cases does, and 21 use Geshu."
+  },
+  "takeaways": [
+    {
+      "zh": "总思路是急症“先救急、辨窍与痛”：神志类急症当“急行醒脑开窍之法，以奏苏厥救逆之效”，脏腑痛证按“急则治其标”先止痛。这两条在医案里分得很清：中枢性呼吸衰竭、一过性昏厥、一氧化碳中毒、发作性睡病共12例都取水沟，11例治则含醒脑开窍；心、胆、肾绞痛23例无一取水沟，心、胆绞痛21例全部取膈俞(心14、胆7)。",
+      "en": "The general logic is to rescue first and tell orifice from pain: consciousness emergencies call for \"promptly waking the brain to revive and rescue from reversal\", visceral colic follows \"urgent, treat the branch\" and stops pain first. The cases split cleanly. Central respiratory failure, transient syncope, carbon monoxide poisoning and narcolepsy (12 cases) all use Shuigou, 11 state waking the brain in the principle; of 23 heart, gallbladder and kidney colic cases none uses Shuigou, while all 21 heart and gallbladder colic cases use Geshu (14 heart, 7 gallbladder).",
+      "cite": [
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+    {
+      "zh": "中枢性呼吸衰竭属中风“脱证”，“病属元阳气脱”，治则补气固脱：气舍(双侧，捻转补法，连续行针3分钟，每5~20分钟1次)、内关(泻)、人中(雀啄泻法至眼球湿润)。气舍被写成“是抢救中枢性呼吸衰竭的首要穴位”，理由是它“恰在膈神经上”，“刺后有增加肺之呼吸动度与提高肺活量之效”。医案2以十二井“接通十二经气，调和阴阳”，水沟醒脑开窍，百会、四神聪、关元、气海“益气固本，回阳固脱”。他也坦言“该病预后不良”，针刺只是“在一定程度上”起作用。",
+      "en": "Central respiratory failure is a stroke \"collapse\" pattern, \"a case of original yang qi collapse\", treated by tonifying qi and stopping collapse: Qishe (both sides, tonifying twirling, continuous for 3 minutes, repeated every 5-20 minutes), Neiguan (reducing), Renzhong (sparrow-pecking until the eyes are moist). Qishe is called \"the first point in rescuing central respiratory failure\" because it lies \"right over the phrenic nerve\" and \"increases respiratory excursion and vital capacity\". The second case uses the twelve jing-well to \"connect the qi of the twelve channels and harmonise yin and yang\", Shuigou to wake the brain, and Baihui, Sishencong, Guanyuan, Qihai to \"boost qi and secure the root, return yang and stop collapse\". He admits \"the prognosis is poor\" and acupuncture acts only \"to a certain extent\".",
+      "cite": [
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E37"
+      ]
+    },
+    {
+      "zh": "一过性昏厥(厥证)的基本病机是“经气逆乱、窍闭神匿”，治则醒脑开窍、调理气机：先刺水沟“达到一定的刺激量”(重雀啄至双目流泪)，再刺内关用捻转泻法，“患者即可苏醒”；另有电针、刺络(水沟、大椎、陶道、十宣，“视其出血颜色，由紫黑渐转变为鲜红为度”)，无针具时“指针疗法，取水沟、天突”。他提醒症状性晕厥要按原因对症(如低血糖补糖、体位性低血压平卧)，神清后再做20天巩固；3例医案都取内关、人中(医案1明确先水沟后内关，另2例“同前”)，1~5分钟苏醒。",
+      "en": "Transient syncope (jue) has \"reversed channel qi and closed orifices with hidden shen\" as its basic mechanism, and is treated by waking the brain and regulating qi: Shuigou first \"to a certain stimulus dose\" (heavy pecking until both eyes tear), then Neiguan with reducing twirling, and \"the patient wakes\"; also electro-acupuncture, pricking-bleeding (Shuigou, Dazhui, Taodao, Shixuan, \"judged by blood colour, from purple-black to bright red\"), and without needles \"finger pressure at Shuigou and Tiantu\". He reminds that symptomatic syncope must be treated by cause (sugar for hypoglycaemia, lying flat for postural hypotension), with a 20-day consolidation once the patient is clear; all 3 cases use Neiguan and Renzhong (case 1 states Shuigou first, then Neiguan; the other 2 say \"as before\") and wake within 1-5 minutes.",
+      "cite": [
+        "E8",
+        "E9",
+        "E10",
+        "E11"
+      ]
+    },
+    {
+      "zh": "一氧化碳中毒的病机是“口鼻吸入疫毒之气，毒邪内攻，致气血逆乱，心窍被蒙，气机升降失调，浊气上逆，上扰神明”，所以治疗“以醒神开窍为主”。按轻重分两层：轻度“调神、清脑、解毒”(素髎、印堂、上星透百会、内关，风池、太阳、中脘、天枢)，中重度“醒脑开窍、解毒苏厥”(内关、人中、十二井，素髎、神阙、气海，操作里另有气舍、百会艾灸)，另加十宣、曲泽放血与头针精神情感区电针。急性期重症疗程“一般为2~2.5个月”，并称针刺“可防止假愈期后迟发性脑病的发生”。5例医案全取内关和水沟。",
+      "en": "The mechanism of carbon monoxide poisoning is \"toxic qi inhaled through mouth and nose, evil attacking inward, qi and blood in disorder, heart orifice clouded, ascent and descent of qi disturbed, turbid qi rising to disturb shen\", so treatment is \"mainly waking shen and opening orifices\". It is layered by severity: mild is \"regulate shen, clear the brain, resolve toxin\" (Suliao, Yintang, Shangxing through to Baihui, Neiguan; Fengchi, Taiyang, Zhongwan, Tianshu); moderate-severe is \"wake the brain, open orifices, resolve toxin, revive from reversal\" (Neiguan, Renzhong, twelve jing-well; Suliao, Shenque, Qihai; the manipulation text adds Qishe and moxa at Baihui), plus Shixuan and Quze bleeding and electro-acupuncture on the scalp mental-emotion area. Severe acute course is \"generally 2-2.5 months\", and acupuncture is said to \"prevent delayed encephalopathy after the false-recovery period\". All 5 cases use Neiguan and Shuigou.",
+      "cite": [
+        "E3",
+        "E12",
+        "E13",
+        "E14"
+      ]
+    },
+    {
+      "zh": "心绞痛按“急则治其标”：“先予止痛，取心包经郄穴郄门，配以内关、膻中以益正气、通心阳、除心痹”，病机被写成“以虚为本，以实为标，心气不足，胸阳不振”，治则通心阳、益心气、养心血；发作时“随时发作随时对症予以针刺治疗”，可“每日2~3次或每隔6~8小时1次”。14例医案里内关12例、心俞12例、厥阴俞11例、膈俞14例，是前后配穴。注意：正文里“郄门”被OCR成“都门”“门”，引文按印出字。",
+      "en": "Angina follows \"urgent, treat the branch\": \"stop pain first with the pericardium cleft point Ximen, and Neiguan and Danzhong to support right qi, free heart yang and resolve heart blockage\"; the mechanism is \"deficiency as root, excess as branch, insufficient heart qi and unraised chest yang\", the principle freeing heart yang, boosting heart qi, nourishing heart blood; during an attack \"needle at any time and by symptom\", \"2-3 times a day or every 6-8 hours\". In 14 cases Neiguan appears in 12, Xinshu 12, Jueyinshu 11, Geshu 14, a front-back pairing. Note that the text prints Ximen as a variant character, quoted as printed.",
+      "cite": [
+        "E2",
+        "E16",
+        "E17",
+        "E18"
+      ]
+    },
+    {
+      "zh": "胆绞痛与肾绞痛把止痛与排石分穴：胆绞痛以胆俞、膈俞为止痛，日月、阳陵泉、中脘为排石(“日月为胆经的募穴，阳陵泉为下合穴，合治腑病、胆俞、日月为输募配穴法”)，并称X线下见针刺后胆囊“变细拉长，呈现哑铃型变化，胆囊体积缩小1/3~1/2”；肾绞痛“通淋排石、实则清利、虚则补益”，以膀胱俞加中极为俞募配穴，加肾俞、三焦俞、次髎、秩边透水道(触电感到前阴)，“肾绞痛发作时，随时针刺”。胆绞痛7例中6例同时用内关、公孙，见 sxm-07。",
+      "en": "Gallbladder and kidney colic assign pain relief and stone passage to different points. Gallbladder: Danshu and Geshu for pain, Riyue, Yanglingquan, Zhongwan for stone passage (\"Riyue is the mu point of the gallbladder, Yanglingquan the lower he-sea, the he-sea treats fu disease, Danshu with Riyue is back-shu and front-mu pairing\"), and under X-ray the gallbladder after needling is \"thinned and lengthened into a dumb-bell shape, its volume reduced by a third to a half\". Kidney: \"free the strangury, expel stones, clear if excess, tonify if deficient\", with Pangguangshu and Zhongji as the shu-mu pair, plus Shenshu, Sanjiaoshu, Ciliao, and Zhibian through to Shuidao (electric sensation to the genitals); \"needle at any time during an attack\". In 6 of 7 gallbladder cases Neiguan and Gongsun are used together (see sxm-07).",
+      "cite": [
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E36"
+      ]
+    },
+    {
+      "zh": "戒断综合征取内关、大椎为主。阿片类：“补益正气，疏泄邪气，调整阴阳，戒毒除瘾”，“主穴取内关、大椎，每次必取一穴，第1日配少冲、神门，第2日配商阳、足临泣”，大幅度捻转2~5分钟，十宣或大椎放血；他也承认复吸率高，针刺是“减轻症状，降低复吸率”。戒烟按他自己的病机“吸烟易耗肺阴伤肺气，肺阴虚损日久可累及于肾……脾土亦虚”，取百会、列缺、照海、关元、足三里，其中“列缺配照海有金水相济、宣肺利咽益肾水之功能”。",
+      "en": "Withdrawal syndrome is built on Neiguan and Dazhui. Opioid: \"tonify right qi, drain evil qi, regulate yin and yang, stop the craving\", \"Neiguan or Dazhui at every session, Shaochong and Shenmen on day 1, Shangyang and Zulinqi on day 2\", strong twirling for 2-5 minutes, Shixuan or Dazhui bled; he admits relapse is common and acupuncture \"eases symptoms and lowers relapse\". Smoking cessation follows his own mechanism, \"smoking easily consumes lung yin and injures lung qi; long-standing lung yin deficiency reaches the kidney… and the spleen earth is deficient too\", with Baihui, Lieque, Zhaohai, Guanyuan, Zusanli, where \"Lieque with Zhaohai gives metal-water mutual aid, diffusing the lung, benefiting the throat and kidney water\".",
+      "cite": [
+        "E24",
+        "E25",
+        "E26",
+        "E27",
+        "E28"
+      ]
+    },
+    {
+      "zh": "肥胖、慢性疲劳、发作性睡病、汗证又回到调神与调阴阳。肥胖“多由神失调摄、阳气内闭引起，故治疗以醒脑通阳为主”，内关、中脘、上星、百会、神门为主，再分胃肠实热、脾虚湿阻、肝气郁结三型加穴与耳针；慢性疲劳“调和五脏、补益脑髓、益气补血、通调气机”，取五脏背俞加风池、完骨、天柱、百会、四神聪与关元、足三里、三阴交，配灸和闪罐；发作性睡病用内关、人中醒神开窍，并调跷脉；汗证的病机是“阴阳失调、表里不和”，以列缺、照海“养阴清热、补气固表”，合谷“多汗则止，无汗则发”，4例中3例用列缺加照海。",
+      "en": "Obesity, chronic fatigue, narcolepsy and sweating go back to regulating shen and yin-yang. Obesity \"mostly comes from shen not regulated and yang locked inside, so treatment mainly wakes the brain and frees yang\": Neiguan, Zhongwan, Shangxing, Baihui, Shenmen as the base, with points and auricular treatment added for stomach-intestine excess heat, spleen deficiency with damp, and liver qi stagnation. Chronic fatigue is \"harmonise the five zang, supplement brain marrow, boost qi and nourish blood, free qi movement\", using the five zang back-shu with Fengchi, Wangu, Tianzhu, Baihui, Sishencong and Guanyuan, Zusanli, Sanyinjiao, with moxa and flash cupping. Narcolepsy uses Neiguan and Renzhong to wake shen, and regulates the motility vessels. Sweating is \"yin-yang imbalance, exterior-interior disharmony\", treated with Lieque and Zhaohai to \"nourish yin, clear heat, boost qi, secure the exterior\" and Hegu, which \"stops sweating when there is much and induces it when there is none\"; 3 of 4 cases use Lieque with Zhaohai.",
+      "cite": [
+        "E29",
+        "E30",
+        "E15",
+        "E31",
+        "E32",
+        "E33",
+        "E34",
+        "E35"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "急症与其他病症：病 → 治则 → 要穴 → 技术 → 备注",
+        "en": "Emergencies and others: disease → principle → key points → technique → note"
+      },
+      "cols": [
+        {
+          "zh": "病",
+          "en": "Disease"
+        },
+        {
+          "zh": "治则",
+          "en": "Principle"
+        },
+        {
+          "zh": "要穴",
+          "en": "Key points"
+        },
+        {
+          "zh": "技术",
+          "en": "Technique"
+        },
+        {
+          "zh": "备注",
+          "en": "Note"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "中枢性呼吸衰竭",
+            "en": "Central respiratory failure"
+          },
+          {
+            "zh": "补气固脱(脱证、元阳气脱)",
+            "en": "Tonify qi, stop collapse (yang collapse)"
+          },
+          {
+            "zh": "气舍、内关、人中；医案加十二井、水沟、百会、四神聪、关元、气海",
+            "en": "Qishe, Neiguan, Renzhong; case adds twelve jing-well, Shuigou, Baihui, Sishencong, Guanyuan, Qihai"
+          },
+          {
+            "zh": "气舍捻转补法连续3min，5~20min一次；人中雀啄泻至眼球湿润",
+            "en": "Qishe tonifying twirling 3 min, every 5-20 min; Renzhong pecking until moist"
+          },
+          {
+            "zh": "预后不良，针刺辅助",
+            "en": "Poor; acupuncture supportive"
+          }
+        ],
+        [
+          {
+            "zh": "一过性昏厥(厥证)",
+            "en": "Transient syncope"
+          },
+          {
+            "zh": "醒脑开窍，调理气机",
+            "en": "Wake the brain, regulate qi"
+          },
+          {
+            "zh": "内关、水沟、膻中、关元、太冲；刺络：水沟、大椎、陶道、十宣",
+            "en": "Neiguan, Shuigou, Danzhong, Guanyuan, Taichong; pricking: Shuigou, Dazhui, Taodao, Shixuan"
+          },
+          {
+            "zh": "先水沟重雀啄至双目流泪，再内关泻；电针；血色由紫黑变鲜红为度；指针水沟、天突",
+            "en": "Shuigou heavy pecking to tears, then Neiguan reducing; electro-acupuncture; bleed until bright red; finger pressure Shuigou, Tiantu"
+          },
+          {
+            "zh": "先对症排除低血糖、体位性低血压、心源性；神清后巩固20天",
+            "en": "Treat cause first (hypoglycaemia, postural, cardiac); 20-day consolidation"
+          }
+        ],
+        [
+          {
+            "zh": "一氧化碳中毒",
+            "en": "Carbon monoxide poisoning"
+          },
+          {
+            "zh": "轻度：调神、清脑、解毒；中重度：醒脑开窍、解毒苏厥",
+            "en": "Mild: regulate shen, clear brain, resolve toxin; moderate-severe: wake brain, open orifices, revive"
+          },
+          {
+            "zh": "轻：素髎、印堂、上星透百会、内关；风池、太阳、中脘、天枢。重：内关、人中、十二井；素髎、神阙、气海；十宣、曲泽",
+            "en": "Mild: Suliao, Yintang, Shangxing-Baihui, Neiguan; Fengchi, Taiyang, Zhongwan, Tianshu. Severe: Neiguan, Renzhong, twelve jing-well; Suliao, Shenque, Qihai; Shixuan, Quze"
+          },
+          {
+            "zh": "十宣放血约10滴；头针精神情感区电针20min；百会、神阙、气海大艾炷灸至苏醒，气舍斜刺捻转泻；急性期经穴每日2次",
+            "en": "Shixuan about 10 drops; scalp mental-emotion area electro-acupuncture 20 min; large moxa cones at Shenque, Qihai until revival; channel points twice daily in acute phase"
+          },
+          {
+            "zh": "急性期重症2~2.5个月；防迟发脑病",
+            "en": "Severe acute 2-2.5 months; prevents delayed encephalopathy"
+          }
+        ],
+        [
+          {
+            "zh": "心绞痛",
+            "en": "Angina"
+          },
+          {
+            "zh": "通心阳、益心气、养心血；急则先止痛",
+            "en": "Free heart yang, boost heart qi, nourish blood; pain first"
+          },
+          {
+            "zh": "郄门(印作“门”)、内关、膻中；配阴虚三阴交、太溪、肾俞；阳虚关元、大椎；气滞太冲；血瘀血海、膈俞；痰浊丰隆、肺俞",
+            "en": "Ximen, Neiguan, Danzhong; yin deficiency Sanyinjiao, Taixi, Shenshu; yang deficiency Guanyuan, Dazhui; qi stagnation Taichong; stasis Xuehai, Geshu; phlegm Fenglong, Feishu"
+          },
+          {
+            "zh": "郄门泻法1~3min，每10min一次至痛止；每日2~3次或每6~8h一次",
+            "en": "Ximen reducing 1-3 min, every 10 min until pain stops; 2-3 times a day or every 6-8 h"
+          },
+          {
+            "zh": "观察生命体征、心电图；医案14例",
+            "en": "Monitor vital signs and ECG; 14 cases"
+          }
+        ],
+        [
+          {
+            "zh": "胆绞痛",
+            "en": "Biliary colic"
+          },
+          {
+            "zh": "疏肝利胆，理气止痛",
+            "en": "Soothe liver, benefit gallbladder, move qi, stop pain"
+          },
+          {
+            "zh": "胆俞、膈俞、日月、阳陵泉、中脘",
+            "en": "Danshu, Geshu, Riyue, Yanglingquan, Zhongwan"
+          },
+          {
+            "zh": "膈俞、胆俞斜刺泻，日月雀啄泻，阳陵泉直刺2~3寸，中脘呼吸泻；每日2次，15日为1疗程",
+            "en": "Geshu, Danshu reducing obliquely, Riyue pecking, Yanglingquan 2-3 cun, Zhongwan respiratory reducing; twice daily, 15 days"
+          },
+          {
+            "zh": "急性发作迅速止痛；坏疽性、穿孔、化脓性需手术",
+            "en": "Fast pain relief; gangrenous, perforated, suppurative need surgery"
+          }
+        ],
+        [
+          {
+            "zh": "肾绞痛",
+            "en": "Renal colic"
+          },
+          {
+            "zh": "通淋排石，实则清利，虚则补益",
+            "en": "Free strangury, expel stones; clear if excess, tonify if deficient"
+          },
+          {
+            "zh": "膀胱俞、肾俞、三焦俞、次髎、中极、秩边透水道",
+            "en": "Pangguangshu, Shenshu, Sanjiaoshu, Ciliao, Zhongji, Zhibian-Shuidao"
+          },
+          {
+            "zh": "提插泻法，触电感到前阴；留针30~40min；每日2次，发作时随时针",
+            "en": "Thrust reducing, electric sensation to genitals; 30-40 min; twice daily and at any attack"
+          },
+          {
+            "zh": "腹部急痛加水沟重雀啄至流泪",
+            "en": "Acute abdominal pain: add Shuigou heavy pecking to tears"
+          }
+        ],
+        [
+          {
+            "zh": "戒断综合征(阿片类、烟)",
+            "en": "Withdrawal (opioid, tobacco)"
+          },
+          {
+            "zh": "阿片：补益正气，疏泄邪气，调整阴阳，戒毒除瘾；烟：健脾益肾、升清降浊、宣肺利咽",
+            "en": "Opioid: tonify right, drain evil, regulate yin-yang; tobacco: strengthen spleen, benefit kidney, lift clear, diffuse lung"
+          },
+          {
+            "zh": "阿片：内关、大椎，第1日配少冲、神门，第2日商阳、足临泣；烟：百会、列缺、照海、关元、足三里",
+            "en": "Opioid: Neiguan, Dazhui, Day 1 Shaochong, Shenmen, Day 2 Shangyang, Zulinqi; tobacco: Baihui, Lieque, Zhaohai, Guanyuan, Zusanli"
+          },
+          {
+            "zh": "阿片：大幅度捻转2~5min，十宣或大椎放血；烟：补法，肝郁加膻中、太冲，心火加神门、行间、复溜、四神聪",
+            "en": "Opioid: large twirling 2-5 min, Shixuan or Dazhui bled; tobacco: tonifying, liver stagnation add Danzhong, Taichong, heart fire Shenmen, Xingjian, Fuliu, Sishencong"
+          },
+          {
+            "zh": "阿片复吸率高；戒烟预后良好",
+            "en": "Opioid relapse high; smoking cessation good"
+          }
+        ],
+        [
+          {
+            "zh": "肥胖症",
+            "en": "Obesity"
+          },
+          {
+            "zh": "醒脑通阳、健脾祛湿、清胃泻热、舒肝解郁",
+            "en": "Wake brain and free yang, strengthen spleen and drain damp, clear stomach heat, soothe liver"
+          },
+          {
+            "zh": "内关、中脘、上星、百会、神门；实热加内庭、曲池、小海、二间、上巨虚；脾虚加阴陵泉、足三里、三阴交、丰隆、脾俞；肝郁加太冲、期门、膻中、支沟",
+            "en": "Neiguan, Zhongwan, Shangxing, Baihui, Shenmen; heat: Neiting, Quchi, Xiaohai, Erjian, Shangjuxu; spleen: Yinlingquan, Zusanli, Sanyinjiao, Fenglong, Pishu; liver: Taichong, Qimen, Danzhong, Zhigou"
+          },
+          {
+            "zh": "实热泻、强刺激；脾虚平补平泻；肝郁泻；耳针按型；隔日1次",
+            "en": "Heat reducing strong; spleen even; liver reducing; auricular by type; alternate days"
+          },
+          {
+            "zh": "针灸可显著减轻体重，不易反弹",
+            "en": "Significant weight loss, little rebound"
+          }
+        ],
+        [
+          {
+            "zh": "慢性疲劳综合征",
+            "en": "Chronic fatigue syndrome"
+          },
+          {
+            "zh": "调和五脏、补益脑髓、益气补血、通调气机",
+            "en": "Harmonise five zang, supplement marrow, boost qi and blood, free qi"
+          },
+          {
+            "zh": "五脏背俞、风池、完骨、天柱、百会、四神聪、印堂、膻中、气海、关元、足三里、三阴交",
+            "en": "Five zang back-shu, Fengchi, Wangu, Tianzhu, Baihui, Sishencong, Yintang, Danzhong, Qihai, Guanyuan, Zusanli, Sanyinjiao"
+          },
+          {
+            "zh": "头穴小幅度高频率补法；灸、闪罐或走罐、耳针",
+            "en": "Head points small-amplitude high-frequency tonifying; moxa, flash or sliding cupping, auricular"
+          },
+          {
+            "zh": "预后不确切",
+            "en": "Prognosis uncertain"
+          }
+        ],
+        [
+          {
+            "zh": "发作性睡病",
+            "en": "Narcolepsy"
+          },
+          {
+            "zh": "醒神开窍(温补肾阳/心肾)",
+            "en": "Wake shen, open orifices (warm kidney or heart-kidney)"
+          },
+          {
+            "zh": "内关、人中，加心俞、肾俞、三阴交、申脉、照海；或命门、志室",
+            "en": "Neiguan, Renzhong, plus Xinshu, Shenshu, Sanyinjiao, Shenmai, Zhaohai; or Mingmen, Zhishi"
+          },
+          {
+            "zh": "人中雀啄，内关泻，背俞补",
+            "en": "Renzhong pecking, Neiguan reducing, back-shu tonifying"
+          },
+          {
+            "zh": "医案2例，调跷脉",
+            "en": "Two cases; regulates motility vessels"
+          }
+        ],
+        [
+          {
+            "zh": "汗证",
+            "en": "Sweating"
+          },
+          {
+            "zh": "养血益气、固表止汗；滋阴清热；清实热",
+            "en": "Nourish blood and qi, secure exterior; nourish yin, clear heat; clear excess heat"
+          },
+          {
+            "zh": "列缺、照海、合谷、三阴交、足三里、膈俞、肺俞；实热加太冲、大椎、内庭、外关、足临泣",
+            "en": "Lieque, Zhaohai, Hegu, Sanyinjiao, Zusanli, Geshu, Feishu; heat: Taichong, Dazhui, Neiting, Waiguan, Zulinqi"
+          },
+          {
+            "zh": "列缺、照海补，合谷视证泻或补",
+            "en": "Lieque, Zhaohai tonified, Hegu by pattern"
+          },
+          {
+            "zh": "医案4例，3例用列缺加照海",
+            "en": "Four cases, 3 with Lieque and Zhaohai"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "42例急症与其他病症医案(547~588)的治则与用穴计数",
+        "en": "Counts across 42 cases (547-588)"
+      },
+      "cols": [
+        {
+          "zh": "项目",
+          "en": "Item"
+        },
+        {
+          "zh": "神志呼吸类(12)",
+          "en": "Consciousness/breathing (12)"
+        },
+        {
+          "zh": "心胆肾绞痛(23)",
+          "en": "Heart, gallbladder, kidney colic (23)"
+        },
+        {
+          "zh": "戒断、肥胖、汗证(7)",
+          "en": "Withdrawal, obesity, sweating (7)"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "水沟",
+            "en": "Shuigou"
+          },
+          "12",
+          "0",
+          "0"
+        ],
+        [
+          {
+            "zh": "内关",
+            "en": "Neiguan"
+          },
+          "10",
+          "18",
+          "2"
+        ],
+        [
+          {
+            "zh": "膈俞",
+            "en": "Geshu"
+          },
+          "0",
+          "21",
+          "1"
+        ],
+        [
+          {
+            "zh": "治则含醒脑/醒神/开窍",
+            "en": "Principle: wake brain / shen / open orifice"
+          },
+          "11",
+          "0",
+          "0"
+        ],
+        [
+          {
+            "zh": "三阴交",
+            "en": "Sanyinjiao"
+          },
+          "5",
+          "0",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "阴阳失和，神气逆乱而生闭厥。此时当急行醒脑开窍之法，以奏苏厥救逆之效",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.404"
+    },
+    {
+      "id": "E2",
+      "quote": "所以治疗应以急则治其标为原则，先予止痛，取心包经都穴都门穴，配以内关、擅中穴以益正气通心阳除心痹",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 心脏绞痛 p.613"
+    },
+    {
+      "id": "E3",
+      "quote": "轻度中毒：调神、清脑、解毒。（2）中重度中毒：醒脑开窍、解毒苏厥",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 一氧化碳中毒 p.610"
+    },
+    {
+      "id": "E4",
+      "quote": "中医学属中风“脱证”范畴，病属元阳气脱",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 中枢性呼吸衰竭 p.607"
+    },
+    {
+      "id": "E5",
+      "quote": "气舍为气之所舍与气冲相应，是肺张气足之标界，其位置恰在隔神经上，刺后有增加肺之呼吸动度与提高肺活量之效",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 中枢性呼吸衰竭 p.608"
+    },
+    {
+      "id": "E6",
+      "quote": "是抢救中枢性呼吸衰竭的首要穴位",
+      "src": "石学敏针灸全集·第九章 医案 中枢性呼吸衰竭 病例2按语 p.1019"
+    },
+    {
+      "id": "E7",
+      "quote": "该病预后不良。针刺能够在一定程度上增加肺的呼吸动度，提高肺活量，起到治疗作用",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 中枢性呼吸衰竭 p.608"
+    },
+    {
+      "id": "E8",
+      "quote": "石学敏教授认为，厥证发病后，是由于经气逆乱，窍闭神匿而致，故治疗以醒脑开窍为原则",
+      "src": "石学敏实用针灸学·第八章 内科疾病 厥证 p.327"
+    },
+    {
+      "id": "E9",
+      "quote": "且选刺水沟，达到一定的刺激量，然后刺内关，用捻转泻法，患者即可苏醒",
+      "src": "石学敏实用针灸学·第八章 内科疾病 厥证 p.327"
+    },
+    {
+      "id": "E10",
+      "quote": "视其出血颜色，由紫黑渐转变为鲜红为度",
+      "src": "石学敏实用针灸学·第八章 内科疾病 厥证 p.327"
+    },
+    {
+      "id": "E11",
+      "quote": "根据不同原因引起的晕厥，应采用相应的对症治疗",
+      "src": "石学敏实用针灸学·第八章 内科疾病 厥证 p.327"
+    },
+    {
+      "id": "E12",
+      "quote": "该病是因口鼻吸人疫毒之气，毒邪内攻，致气血逆乱，心窍被蒙，气机升降失调，浊气上逆，上扰神明而致",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 一氧化碳中毒 p.611"
+    },
+    {
+      "id": "E13",
+      "quote": "急性期重症者疗程一般为2~2.5个月",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 一氧化碳中毒 p.611"
+    },
+    {
+      "id": "E14",
+      "quote": "针刺治疗一氧化碳中毒，可醒神开窍、解毒，增加一氧化碳中毒的治愈率，并可防止假愈期后迟发性脑病的发生",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 一氧化碳中毒 p.611"
+    },
+    {
+      "id": "E15",
+      "quote": "小幅度高频率（小于90°、120转/min以上）捻转补法",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十一节 其他病症 慢性疲劳综合征 p.617"
+    },
+    {
+      "id": "E16",
+      "quote": "大量的临床研究认为该病病机以虚为本，以实为标，心气不足，胸阳不振，推动无利，血行不畅是该病病机的关键",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 心脏绞痛 p.613"
+    },
+    {
+      "id": "E17",
+      "quote": "随时发作随时对症予以针刺治疗，观察患者病情，可根据情况每日2~3次或每隔6~8小时1次",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 心脏绞痛 p.612"
+    },
+    {
+      "id": "E18",
+      "quote": "石学敏院士在治疗急性冠状动脉供血不足的过程中注重调气，通脉，镇痛",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 心脏绞痛 p.611"
+    },
+    {
+      "id": "E19",
+      "quote": "胆俞隔俞重在止痛，日月、阳陵泉、中晓专利排石",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 胆绞痛 p.614"
+    },
+    {
+      "id": "E20",
+      "quote": "日月为胆经的募穴，阳陵泉为下合穴，合治腑病、胆俞、日月为输募配穴法调治本脏腑",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 胆绞痛 p.614"
+    },
+    {
+      "id": "E21",
+      "quote": "现针刺后胆囊由原来的梨形变细拉长，呈现哑铃型变化，胆囊体积缩小1/3~1/2",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 胆绞痛 p.613"
+    },
+    {
+      "id": "E22",
+      "quote": "通淋排石、实则清利、虚则补益",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 肾绞痛 p.615"
+    },
+    {
+      "id": "E23",
+      "quote": "膀胱俞配中极为俞募配穴法，治疗膀胱本腑疾病",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 肾绞痛 p.615"
+    },
+    {
+      "id": "E24",
+      "quote": "补益正气，疏泄邪气，调整阴阳，戒毒除瘾",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十一节 其他病症 戒断综合征 p.618"
+    },
+    {
+      "id": "E25",
+      "quote": "主穴取内关、大椎，每次必取一穴。第1日配少冲、神门，第2日配商阳、足临泣",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十一节 其他病症 戒断综合征 p.618"
+    },
+    {
+      "id": "E26",
+      "quote": "阿片类毒品戒断后复吸率高。针刺可减轻症状，降低复吸率",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十一节 其他病症 戒断综合征 p.619"
+    },
+    {
+      "id": "E27",
+      "quote": "吸烟易耗肺阴伤肺气，肺阴虚损日久可累及于肾，同时子虚及母，常导致脾土亦虚",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十一节 其他病症 戒断综合征 p.619"
+    },
+    {
+      "id": "E28",
+      "quote": "列缺配照海有金水相济、宣肺利咽益肾水之功能",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十一节 其他病症 戒断综合征 p.620"
+    },
+    {
+      "id": "E29",
+      "quote": "石学敏院士认为肥胖多由神失调摄、阳气内闭引起，故治疗以醒脑通阳为主",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十一节 其他病症 肥胖症 p.621"
+    },
+    {
+      "id": "E30",
+      "quote": "调和五脏、补益脑髓、益气补血、通调气机",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十一节 其他病症 慢性疲劳综合征 p.617"
+    },
+    {
+      "id": "E31",
+      "quote": "本组两例病例在治疗上主要采用醒神开窍这一法则",
+      "src": "石学敏针灸全集·第九章 医案 发作性睡病 按语 p.1043"
+    },
+    {
+      "id": "E32",
+      "quote": "根据这一理论，我们在治疗不痫证时除调理阴阳，交通心肾外，还注意对跷脉的调理",
+      "src": "石学敏针灸全集·第九章 医案 发作性睡病 按语 p.1043"
+    },
+    {
+      "id": "E33",
+      "quote": "不论自汗、盗汗、无汗，阴阳失调、表里不和是病机关键",
+      "src": "石学敏针灸全集·第九章 医案 汗证 按语 p.1045"
+    },
+    {
+      "id": "E34",
+      "quote": "列缺为肺经络穴，交会任脉；照海为肾经之穴，交会阴跷，两者同用可养阴清热、补气固表",
+      "src": "石学敏针灸全集·第九章 医案 汗证 按语 p.1045"
+    },
+    {
+      "id": "E35",
+      "quote": "合谷为汗症要穴，多汗则止，无汗则发",
+      "src": "石学敏针灸全集·第九章 医案 汗证 按语 p.1045"
+    },
+    {
+      "id": "E36",
+      "quote": "秩边透水道，侧卧位进针3~4寸，令触电感到达前阴",
+      "src": "石学敏针灸全集·第八章 治疗各论 第十节 急症 肾绞痛 p.615"
+    },
+    {
+      "id": "E37",
+      "quote": "十二井穴接通十二经气，调和阴阳；百会、四神聪、关元、气海益气固本，回阳固脱",
+      "src": "石学敏针灸全集·第九章 医案 中枢性呼吸衰竭 病例2按语 p.1019"
+    }
+  ],
+  "caveats": {
+    "zh": "全集的急症一节只有中枢性呼吸衰竭、高热、一氧化碳中毒和脏腑痛证(心、胆、肾绞痛)；一过性昏厥来自实用针灸学内科章的“厥证”，发作性睡病与汗证只在医案里，没有治疗各论正文，其规则取自医案“按语”。高热的治法与刺络见 sxm-06、08，本指南不再重复。OCR：一氧化碳中毒条的“素”实为“素髎”(因髎字缺失，按上下文“针尖向上斜刺，雀啄至泪出”判定)；“郄门”印作“都门”“门”，“膻中”印作“擅中”“体中”，“中脘”印作“中晓”，“膈俞”印作“隔俞”，“寐”多缺字(“不痫”“多”即不寐、多寐)，引文按印出字。心绞痛条后半的医案疗效多合并中药与西药，因而不能单归于针刺。“胆囊变哑铃型、缩小1/3~1/2”为书中X线观察的说法，没有交代例数。发作性睡病、汗证的“调跷脉”说法与总论“阴盛阳虚则癫疾嗜睡，补申脉泻照海”的规则一致，但医案里照海、申脉并非每例都用。",
+    "en": "The complete collection's emergency section has only central respiratory failure, high fever, carbon monoxide poisoning and visceral colic (heart, gallbladder, kidney); transient syncope comes from the \"jue\" entry in Practical Acupuncture's internal medicine chapter; narcolepsy and sweating exist only as cases, with no main-text entry, so their rules are taken from the case commentaries. High fever and its pricking-bleeding are in sxm-06 and 08 and not repeated. OCR: the \"su\" in the carbon monoxide entry is Suliao (its last character is lost; read from the context \"needle tip upward, pecking until tears\"); Ximen printed as variants, Danzhong as \"shan zhong\" or \"ti zhong\", Zhongwan as \"zhong xiao\", Geshu as \"ge shu\" with a variant character, and the character for sleep is often missing (\"not sleeping\" and \"much sleeping\" are the intended terms); quotes follow the print. In the angina cases many outcomes are combined with Chinese and Western drugs and cannot be credited to acupuncture alone. The dumb-bell gallbladder and one-third to one-half shrinkage is the book's statement of X-ray observation with no number of cases. The \"regulate motility vessels\" idea in narcolepsy and sweating is consistent with the general rule \"yin excess yang deficiency gives sleepiness, tonify Shenmai reduce Zhaohai\", but not every case uses Zhaohai and Shenmai."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-088",
+      "sxm-rx-145",
+      "sxm-rx-104",
+      "sxm-rx-090",
+      "sxm-rx-129",
+      "sxm-rx-091",
+      "sxm-rx-093",
+      "sxm-rx-094",
+      "sxm-rx-092"
+    ],
+    "cases": [
+      "sxm-548",
+      "sxm-549",
+      "sxm-552",
+      "sxm-557",
+      "sxm-571",
+      "sxm-585"
+    ],
+    "points": [
+      "水沟",
+      "内关",
+      "气舍",
+      "日月",
+      "膈俞",
+      "阳陵泉",
+      "中极",
+      "膀胱俞",
+      "列缺",
+      "照海",
+      "大椎",
+      "膻中"
+    ]
+  }
+}

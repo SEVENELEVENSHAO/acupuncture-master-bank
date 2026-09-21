@@ -1,0 +1,733 @@
+{
+  "id": "wjy-13-pain",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "分科心得",
+    "en": "By condition group"
+  },
+  "order": 13,
+  "title": {
+    "zh": "疼痛症：头痛无单一穴方，多数疼痛属经筋病，同名经对应、后顶搓针、俞跗手法与“以摸为准”",
+    "en": "Pain: No Single Formula for Headache, Most Pain Is Sinew-channel Disease; Same-name Opposite-side Points, Houding Rubbing-twirling, the Yufu Manipulations and \"Go by What the Fingers Find\""
+  },
+  "summary": {
+    "zh": "疼痛章的四篇絮语围绕一个判断：大部分疼痛症涉及经筋病，也涉及络脉。头痛7例同病异治，各按察经辨经；经筋病急性用同名经对应取穴(缪刺)，久病在局部找缝隙、起点，用操、结筋、决脉等俞跗手法；他自创后顶搓针治督脉相关的筋骨病，并给出禁忌；最后强调穴会移位，要摸到缝隙、气感和患者感觉才下针。",
+    "en": "The pain chapter's essays turn on one judgement: most pain involves sinew-channel disease and also the collaterals. Seven headache cases are one disease treated differently, each by palpation and channel differentiation; for acute sinew disease he uses same-name opposite-side points (miu needling), for long-standing disease he looks for gaps and origins locally and uses cao, sinew-tying and vessel-opening Yufu manipulations; he devised Houding rubbing-twirling for Du-related sinew and bone disease and gives its limits; finally points shift, so he inserts only after finding a gap, felt qi and the patient's sensation."
+  },
+  "takeaways": [
+    {
+      "zh": "头痛没有单一方：本章7例头痛用法各异，属同病异治，选经选穴都依察经结果。案76、77同是太阳经头痛：76寒凝血瘀而散寒止痛，77先调阳明再转太阳；案78到81同是少阳部位的头痛：78厥阴寒凝取曲泽曲泉，79少阳相火上亢取外关足临泣，80血虚风动取同名经原络配穴，81阳明气不降取中脘、建里、丰隆等。他说头痛不可能有单一穴组“全包”，警告勿盲从“秘方特效穴”；部位可作提示(两侧少阳、枕太阳、额阳明、头顶太阳厥阴、头沉重太阴)，但表里关系不能忽略。",
+      "en": "No single formula for headache. The seven headache cases use different methods, one disease treated differently, all by palpation. Cases 76 and 77 are both Taiyang headache: 76 was cold-stagnation with blood stasis, treated to disperse cold and stop pain; 77 first regulated Yangming, then Taiyang. Cases 78 to 81 are all headaches in the Shaoyang area: 78 Jueyin cold stagnation (Quze, Ququan); 79 Shaoyang ministerial fire rising (Waiguan, Zulinqi); 80 blood-deficiency wind (same-name yuan-luo pair); 81 Yangming qi not descending (Zhongwan, Jianli, Fenglong). He says no single point group can \"cover\" headache and warns against blindly following secret formulas; site is a hint (sides Shaoyang, occiput Taiyang, forehead Yangming, vertex Taiyang and Jueyin, heavy head Taiyin), but exterior-interior pairs must not be forgotten.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8"
+      ]
+    },
+    {
+      "zh": "多数疼痛是经筋病：他说大部分疼痛症涉及经筋，经筋起于四肢末端，除中冲、涌泉外起点都在本经井穴，结于关节；他把神经痛(如肋间神经痛)也归入经筋病。分辨要点是疼痛出现于活动的不同状态，即经筋移位或牵拉、收缩时才痛。",
+      "en": "Most pain is sinew-channel disease. He says most pain involves the sinew channels, which begin at the limb ends (all at their own jing-well points except Zhongchong and Yongquan) and tie at joints; he places neuralgia such as intercostal neuralgia within them. The distinguishing sign is that pain appears in particular movement states, when the sinew shifts or is pulled or contracted.",
+      "cite": [
+        "E9",
+        "E10",
+        "E11",
+        "E12"
+      ]
+    },
+    {
+      "zh": "新伤取同名经对应点(缪刺)：常用于肌腱韧带错位而病程短者，越短越有效(一两天最好，3个月内、最多6个月应有效)。案93急性腰腿痛，弹拨右天宗并让患者端左腿；案113右膝内侧痛，弹拨左尺泽并让患者端右腿帮助经筋复位；他自己的阳陵泉神经痛也如此缓解。条件是对应处必须摸到反应，没有反应就不必治；缪处可在络脉或筋脉而不在正经上，不能随便使用缪刺；他也说这法急性期好、慢性期差。",
+      "en": "For recent injury, take the same-name opposite-side point (miu needling). It suits displaced tendons and ligaments of short course, more effective the shorter (one or two days best; under 3 months, at most 6, should work). Case 93 (acute low-back and leg pain): pluck right Tianzong while the patient lifts the left leg; Case 113 (right medial knee pain): pluck left Chize while the patient lifts the right leg to help the sinew back into place; his own Yanglingquan neuralgia eased the same way. The condition is that a reaction must be found at the matching site; with none, do not treat it; the miu site may lie on a collateral or sinew rather than the main channel, miu needling must not be used casually, and he says it works better in acute than chronic stage.",
+      "cite": [
+        "E13",
+        "E14",
+        "E15",
+        "E16",
+        "E17",
+        "E18"
+      ]
+    },
+    {
+      "zh": "久病或找不到对应点：他改在局部仔细找病变的肌腱、韧带、筋膜，在病变组织旁最酸痛、最大的缝隙针刺，局部发凉加灸；或到变动经筋的起点(附着点)，视情用指甲按压、针、灸或放血。后顶(及顶结节、额结节)是典型的经筋附着点，能舒筋活络止痛。案107膝痛初诊取络却(顶结节)，从头到腿整条经筋有效，二诊改用缪刺，在右天井附近压痛点灸而不针，因病久必有虚。",
+      "en": "In long-standing disease or when no matching point is found, he searches locally for the diseased tendon, ligament or fascia and needles the most sore and largest gap beside the diseased tissue, adding moxa if the area is cold; or he goes to the origin (attachment) of the changed sinew and, as the case requires, presses with the nail, needles, moxas or bleeds. Houding (with the parietal and frontal nodules) is a typical sinew attachment and relaxes sinews and stops pain. In Case 107 (knee pain) the first visit took Luoque (the parietal nodule), effective for the whole sinew from head to leg; the second used miu needling with moxa, not needle, at the tender spot near right Tianjing, because long illness must have deficiency.",
+      "cite": [
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23"
+      ]
+    },
+    {
+      "zh": "俞跗五法是“手把手”的经筋手法：他把《史记》所记俞跗“割皮解肌，决脉结筋”读作各种手法的描述，总结为割皮(疏通浅层经络瘀滞，出痧的颜色可诊断)、操(分离皮下脂肪层，使缝隙加大、气血加快，主治老年骨关节病)、结筋(操的同时解开变形位移的经筋，在肌腱起止点来回捏提)、解肌(在肌腹处分离粘连肌纤维)、决脉(察见络脉瘀堵处放血，如委中下紫络放血数滴腿痛即愈)。做完让患者活动以帮助经筋复位，关键在经络诊察细致。案例里操法在案85、88、95、108、112、113，结筋在案106，弹拨在案93、113。",
+      "en": "The five Yufu manipulations are hands-on sinew techniques. He reads the Shiji phrase on Yufu, \"cut the skin, release the muscle, open the vessels, tie the sinews\", as a description of manipulations and summarises five: skin-cutting (frees superficial channel stasis; the colour of the sha is diagnostic), cao (separates the subcutaneous fat layer, widening gaps and speeding qi and blood; mainly for senile osteoarthritis), sinew-tying (with cao, unlocks the deformed or displaced sinew, pinching and lifting at the tendon origin and insertion), muscle-release (separates adhered fibres at the muscle belly), and vessel-opening (bleed a blocked collateral found by inspection, for example a purple vessel below Weizhong, a few drops and the leg pain was cured). After treatment the patient moves to help the sinew return; everything depends on careful palpation. In the cases, cao appears in Cases 85, 88, 95, 108, 112 and 113, sinew-tying in 106, plucking in 93 and 113.",
+      "cite": [
+        "E24",
+        "E25",
+        "E26",
+        "E27",
+        "E28",
+        "E29",
+        "E30",
+        "E31"
+      ]
+    },
+    {
+      "zh": "后顶搓针法治督脉相关的筋骨病，且要有界限：他说后顶是他发现总结的特殊头穴，宣通督脉、行气通阳，用于颈项背腰的经筋病；本章39例中16例(案78、83、87～97、100、104、109)在穴中列有后顶。定位从枕骨粗隆上推，经脑户、强间到后顶(人字缝起点)，1.5寸针平刺约1寸，搓针同时让患者直腰、挺胸、头上顶，肩痛时转肩、髋痛时屈伸，腰椎病医者用膝顶压，必要时留针4~8小时。他自述得气不足时联想到静电而试搓针。但不是万能穴：颈椎错位、椎管狭窄、脊柱侧凸只缓解，孕妇及颈胸腰椎术后禁用。案93说病不在督脉范围就不用后顶，案99察后顶无反应就改治足太阳经(京骨灸)，案96后顶效果不理想再审察，在委阳浮络放血才消除。",
+      "en": "Houding rubbing-twirling is for Du-related sinew and bone disease, and has limits. He says Houding is a special head point he found, which frees the Du channel and moves qi and yang, used for sinew disease of neck, back and lumbar region; in the chapter's 39 cases, 16 (Cases 78, 83, 87-97, 100, 104, 109) list Houding among the points. To find it, push up from the occipital protuberance through Naohu and Qiangjian to Houding (start of the lambdoid suture); insert a 1.5 cun needle flat about 1 cun, twirl while the patient straightens the back, lifts the chest and pushes the head up (turns the shoulder for shoulder pain, flexes and extends the hip, with the doctor's knee pressing a lumbar spine), retaining 4-8 hours if needed. He says he tried it after thinking of static electricity when de qi at the head was poor. It is not a universal point: cervical displacement, spinal stenosis and scoliosis are only relieved, and it is forbidden in pregnancy and after cervical, thoracic or lumbar surgery. Case 93 says not to use Houding when the disease is not in the Du territory; in Case 99, finding no reaction at Houding, he treated the Foot Taiyang (moxa Jinggu); in Case 96 Houding gave an unsatisfactory result, so he looked again and bled a floating collateral at Weiyang before the pain went.",
+      "cite": [
+        "E32",
+        "E33",
+        "E34",
+        "E35",
+        "E36",
+        "E37",
+        "E38",
+        "E39",
+        "E40",
+        "E41",
+        "E42"
+      ]
+    },
+    {
+      "zh": "以摸为准，穴会移位：牙龈痛的学生，他不许其直接刺厉兑，按压厉兑、内庭、陷谷都不痛，回推到内庭与陷谷之间才有剧酸，在此行针1分钟牙龈痛减80%。他要求按压处有三样：缝隙塌陷、医者觉出的气感、患者的酸麻痛感，且医者手感与患者感觉一致最好；不能全靠病人的酸痛感来定穴。穴位移位有先天(常双侧)与病理两类，很多“新发现”的经外穴可能是被移动的经穴。血络疼也要靠审、按：案96靠审视和按压发现浮络。",
+      "en": "Go by what the fingers find; points shift. When a student wanted to bleed Lidui for a gum pain, he stopped him: pressing Lidui, Neiting and Xiangu found no soreness, but pushing back to a spot between Neiting and Xiangu found sharp soreness, and one minute of needling cut the gum pain by 80%. He asks that pressure find three things: a gap or hollow, qi felt by the doctor, and an abnormal sensation in the patient (sore, numb or painful), best when the doctor's finding and the patient's sensation agree; the patient's soreness alone must not fix the point. Displacement is either innate (often bilateral) or pathological, and many \"newly found\" extra points may be shifted channel points. Inspection and pressure matter too: Case 96 found its floating collateral by both.",
+      "cite": [
+        "E43",
+        "E44",
+        "E45",
+        "E46",
+        "E47",
+        "E48",
+        "E49",
+        "E42"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 头痛七案(《头痛总结》)",
+        "en": "Table 1. Seven headache cases (headache summary)"
+      },
+      "cols": [
+        {
+          "zh": "案",
+          "en": "Case"
+        },
+        {
+          "zh": "病位与察经",
+          "en": "Site and palpation"
+        },
+        {
+          "zh": "主要穴",
+          "en": "Main points"
+        },
+        {
+          "zh": "思路/结果",
+          "en": "Reasoning / result"
+        }
+      ],
+      "rows": [
+        [
+          "75",
+          {
+            "zh": "左头部酸痛伴焦虑5个月；仅左悬颅压痛，未见异常经脉；表现在太阳、少阳，病因在厥阴、太阴",
+            "en": "Left head ache with anxiety 5 months; only left Xuanlu tender, no abnormal channel; shown in Taiyang, Shaoyang, cause in Jueyin, Taiyin"
+          },
+          {
+            "zh": "首诊内关、公孙、中脘、丰隆+局部点；之后隔姜灸神阙，针四关、足三里",
+            "en": "Neiguan, Gongsun, Zhongwan, Fenglong plus a local point; later moxa Shenque, Siguan, Zusanli"
+          },
+          {
+            "zh": "先灸神阙益元气、恢复经络功能，再随经络变动调整；66诊显效",
+            "en": "First moxa Shenque to restore channel function, then follow channel changes; 66 visits, marked effect"
+          }
+        ],
+        [
+          "76",
+          {
+            "zh": "右眼球痛及偏头痛5天；太阳、足少阳异常；太阳为本",
+            "en": "Right eye and side-head pain 5 days; Taiyang, Foot Shaoyang; Taiyang the root"
+          },
+          {
+            "zh": "右至阴(放血)、京骨、腕骨、养老",
+            "en": "Right Zhiyin (bleed), Jinggu, Wangu (SI4), Yanglao"
+          },
+          {
+            "zh": "寒凝血瘀，散寒止痛；4次加中药明显缓解",
+            "en": "Cold with blood stasis, disperse cold and stop pain; clear relief in 4 visits with herbs"
+          }
+        ],
+        [
+          "77",
+          {
+            "zh": "左头痛30年；阳明、手少阳等；病在阳明、手少阳",
+            "en": "Left headache 30 years; Yangming, Hand Shaoyang and others"
+          },
+          {
+            "zh": "手足三里、内庭、中脘、外关、会宗、完骨",
+            "en": "Hand and Foot Zusanli, Neiting, Zhongwan, Waiguan, Huizong, Wangu (GB12)"
+          },
+          {
+            "zh": "先调阳明，再转太阳；4次好转，再2次，3个月后无症状",
+            "en": "Regulate Yangming first, then Taiyang; better after 4, 2 more, symptom-free at 3 months"
+          }
+        ],
+        [
+          "78",
+          {
+            "zh": "右偏头痛20余年；厥阴、手太阳、手阳明；病在厥阴，寒凝失畅",
+            "en": "Right migraine 20+ years; Jueyin, Hand Taiyang, Hand Yangming; Jueyin cold stagnation"
+          },
+          {
+            "zh": "曲泽、曲泉、太冲；右风池、颔厌、悬颅",
+            "en": "Quze, Ququan, Taichong; right Fengchi, Hanyan, Xuanlu"
+          },
+          {
+            "zh": "合穴疏通本经气机，散寒通络；1次明显减轻，再5次未再发",
+            "en": "He-sea points free the channel's qi and disperse cold; much better after 1, no recurrence after 5 more"
+          }
+        ],
+        [
+          "79",
+          {
+            "zh": "头部痉挛性疼痛18年；少阳异常",
+            "en": "Spasmodic head pain 18 years; Shaoyang"
+          },
+          {
+            "zh": "外关、足临泣、会宗、丘墟、阳陵泉",
+            "en": "Waiguan, Zulinqi, Huizong, Qiuxu, Yanglingquan"
+          },
+          {
+            "zh": "相火上亢，清泄少阳；5次基本缓解",
+            "en": "Ministerial fire rising, clear Shaoyang; mostly relieved in 5 visits"
+          }
+        ],
+        [
+          "80",
+          {
+            "zh": "左头痛40余年；手太阴、厥阴、手太阳、足少阳；病在厥阴、少阳",
+            "en": "Left headache 40+ years; Hand Taiyin, Jueyin, Hand Taiyang, Foot Shaoyang; Jueyin, Shaoyang"
+          },
+          {
+            "zh": "大陵、内关、太冲、蠡沟(原文“鑫沟”)、颔厌；加关元、三阴交",
+            "en": "Daling, Neiguan, Taichong, Ligou (printed 鑫沟), Hanyan; plus Guanyuan, Sanyinjiao"
+          },
+          {
+            "zh": "血虚风动；同名经原络配穴补气并布散原气；3次未发作，再2次临床痊愈",
+            "en": "Blood-deficiency wind; same-name yuan-luo pairing tonifies qi and spreads source qi; none after 3, cured after 2 more"
+          }
+        ],
+        [
+          "81",
+          {
+            "zh": "头顶前额及两侧痛6年；太阴、手太阳、足少阳、足阳明；病在太阴、阳明",
+            "en": "Vertex, forehead and side pain 6 years; Taiyin, Hand Taiyang, Foot Shaoyang, Foot Yangming; Taiyin, Yangming"
+          },
+          {
+            "zh": "囟会(原文“卤会”)、建里、丰隆、上巨虚",
+            "en": "Xinhui (printed 卤会), Jianli, Fenglong, Shangjuxu"
+          },
+          {
+            "zh": "阳明不降、太阴不升，健脾化痰；3次明显减轻，1年后未发",
+            "en": "Yangming not descending, Taiyin not rising; strengthen Spleen, resolve phlegm; better after 3, none at 1 year"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 俞跗五法与相关案例(《关于上古俞跗特殊治疗手法的讨论》)",
+        "en": "Table 2. The five Yufu manipulations and related cases"
+      },
+      "cols": [
+        {
+          "zh": "手法",
+          "en": "Manipulation"
+        },
+        {
+          "zh": "层次/操作",
+          "en": "Layer / action"
+        },
+        {
+          "zh": "作用",
+          "en": "Effect"
+        },
+        {
+          "zh": "案中所见",
+          "en": "In the cases"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "割皮法",
+            "en": "Skin-cutting"
+          },
+          {
+            "zh": "捏提皮肤与皮下结缔组织；出痧，痧色有诊断意义",
+            "en": "Pinch and lift skin and subcutaneous tissue; sha appears, its colour diagnostic"
+          },
+          {
+            "zh": "疏通浅层经络瘀滞",
+            "en": "Frees superficial channel stasis"
+          },
+          {
+            "zh": "案7解读提及与操法并列",
+            "en": "Named with cao in the Case 7 comment"
+          }
+        ],
+        [
+          {
+            "zh": "操法",
+            "en": "Cao"
+          },
+          {
+            "zh": "分离皮下脂肪层(含结缔组织、肌腱筋膜)",
+            "en": "Separate the subcutaneous fat layer (with connective tissue, tendon fascia)"
+          },
+          {
+            "zh": "使缝隙加大，气血加快，营养改善，堆积物代谢；老年骨关节病主用",
+            "en": "Widens gaps, speeds qi and blood, improves nutrition, clears accumulation; chiefly for senile osteoarthritis"
+          },
+          {
+            "zh": "案85、88、95、108、112、113(膝内操至出痧)",
+            "en": "Cases 85, 88, 95, 108, 112, 113 (Case 112 until sha)"
+          }
+        ],
+        [
+          {
+            "zh": "结筋法",
+            "en": "Sinew-tying"
+          },
+          {
+            "zh": "肌腱起止点重按，深层来回捏提，有时再拉一下",
+            "en": "Press hard at tendon origin or insertion, pinch and lift deeply, sometimes then stretch"
+          },
+          {
+            "zh": "解开变形位移的经筋，散结节、结络、脆络",
+            "en": "Unlocks deformed sinews, disperses nodules and brittle collaterals"
+          },
+          {
+            "zh": "案106(束骨与京骨间结块)",
+            "en": "Case 106 (lump between Shugu and Jinggu)"
+          }
+        ],
+        [
+          {
+            "zh": "解肌法",
+            "en": "Muscle-release"
+          },
+          {
+            "zh": "在肌腹分离粘连肌纤维",
+            "en": "Separate adhered fibres at the muscle belly"
+          },
+          {
+            "zh": "使组织液通行，僵硬肌肉恢复弹性张力",
+            "en": "Lets tissue fluid pass; stiff muscle regains elasticity"
+          },
+          {
+            "zh": "案例标注未见",
+            "en": "Not labelled in the cases"
+          }
+        ],
+        [
+          {
+            "zh": "决脉法",
+            "en": "Vessel-opening"
+          },
+          {
+            "zh": "审视见络脉异常，在瘀堵处放血",
+            "en": "Bleed the blocked spot of an abnormal collateral seen on inspection"
+          },
+          {
+            "zh": "使络脉气血顺畅",
+            "en": "Makes collateral qi and blood flow"
+          },
+          {
+            "zh": "案96(委阳处浮络放血，血色很黑)等",
+            "en": "Case 96 (floating collateral at Weiyang bled, very dark blood) and others"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 经筋病与疼痛：按病程和察经所见选法(《关于疼痛症的讨论》《后顶搓针法》)",
+        "en": "Table 3. Sinew and pain: methods by course and palpation"
+      },
+      "cols": [
+        {
+          "zh": "情形",
+          "en": "Situation"
+        },
+        {
+          "zh": "取法",
+          "en": "Method"
+        },
+        {
+          "zh": "案例",
+          "en": "Cases"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "急性或病程短(数日，3个月内)，对应处有反应",
+            "en": "Acute or short (days, under 3 months), reaction at the matching site"
+          },
+          {
+            "zh": "同名经对应取穴(缪刺)：弹拨对应点并让患者活动患肢",
+            "en": "Same-name opposite-side point (miu): pluck the point while the patient moves the limb"
+          },
+          {
+            "zh": "案93右天宗；案113左尺泽；案107右天井附近(灸)",
+            "en": "C93 right Tianzong; C113 left Chize; C107 near right Tianjing (moxa)"
+          }
+        ],
+        [
+          {
+            "zh": "病程超过3个月，或对应处无反应",
+            "en": "Over 3 months, or no reaction at the matching site"
+          },
+          {
+            "zh": "局部找病变肌腱韧带，针最酸痛、最大缝隙，发凉加灸；或取起点附着点",
+            "en": "Find the diseased tendon or ligament locally; needle the most sore, largest gap, moxa if cold; or the attachment point"
+          },
+          {
+            "zh": "案106、110、111、112(阿是穴)；案108、112(操)",
+            "en": "C106, 110, 111, 112 (ashi points); C108, 112 (cao)"
+          }
+        ],
+        [
+          {
+            "zh": "督脉及两旁皮肉脉筋骨的错位或痛，且后顶有反应",
+            "en": "Displacement or pain of skin, flesh, vessel, sinew and bone along Du, with Houding reactive"
+          },
+          {
+            "zh": "后顶搓针，配合患者动作；配后溪(通督脉)、阳谷、腕骨；虚象或慢性用原穴，可灸",
+            "en": "Houding rubbing-twirling with movements; add Houxi (connects Du), Yanggu, Wangu (SI4); in deficiency or chronic disease use the yuan point, moxa allowed"
+          },
+          {
+            "zh": "案88、89、93、96、97等",
+            "en": "C88, 89, 93, 96, 97 and others"
+          }
+        ],
+        [
+          {
+            "zh": "血瘀凝滞性腰痛、膝痛，见细小或红紫黑的异常络脉",
+            "en": "Blood-stasis low-back or knee pain with fine red, purple or black abnormal collaterals"
+          },
+          {
+            "zh": "三棱针放血；井穴放血适实证，灸井穴适虚证",
+            "en": "Three-edged needle bleeding; jing-well bleeding for excess, moxa for deficiency"
+          },
+          {
+            "zh": "案76、89、92、94、104至阴放血；案96委阳浮络",
+            "en": "C76, 89, 92, 94, 104 Zhiyin bled; C96 floating collateral at Weiyang"
+          }
+        ],
+        [
+          {
+            "zh": "后顶无异常反应，或病不在督脉范围",
+            "en": "No reaction at Houding, or the disease is outside the Du territory"
+          },
+          {
+            "zh": "不用后顶，改治察经所见的经",
+            "en": "Do not use Houding; treat the channel palpation shows"
+          },
+          {
+            "zh": "案99(足太阳，灸京骨)；案93二诊",
+            "en": "C99 (Foot Taiyang, moxa Jinggu); C93 second visit"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "本章所录7例头痛，用的治疗方法不同，属同病异治",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.191"
+    },
+    {
+      "id": "E2",
+      "quote": "案76、案77都属于太阳经头痛，但治疗方法有所不同",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    },
+    {
+      "id": "E3",
+      "quote": "案77虽然病在太阳经，但一开始治疗阳明经和少阳经",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    },
+    {
+      "id": "E4",
+      "quote": "案78到81都表现为少阳经头痛，但是性质和治疗方法都不同",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    },
+    {
+      "id": "E5",
+      "quote": "案79较复杂，患者偏头痛发作的时候属少阳经异常，相火上亢",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    },
+    {
+      "id": "E6",
+      "quote": "案80也属厥阴经异常的偏头痛，但因血虚风动头痛",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    },
+    {
+      "id": "E7",
+      "quote": "治疗头痛时不能忽略每条经的表里关系。一般把头痛部位分为头双侧属少阳经，枕部属太阳经，额部属阳明经，头顶属太阳和厥阴经。头沉重属太阴经，双侧头痛亦与厥阴经相关，头枕部亦可与少阴经有关",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    },
+    {
+      "id": "E8",
+      "quote": "头痛不可能是单一方药，单一穴组就能“全包”治疗的",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.192"
+    },
+    {
+      "id": "E9",
+      "quote": "因为大部分的疼痛症临床上涉及经筋病，本章重点讨论经筋与疼痛证的关系",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.194"
+    },
+    {
+      "id": "E10",
+      "quote": "除了中冲与涌泉外，经筋的起点皆位于本经的井穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.194"
+    },
+    {
+      "id": "E11",
+      "quote": "西医所谓的“神经痛”，例如肋间神经痛，也属于经筋病的范围",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.195"
+    },
+    {
+      "id": "E12",
+      "quote": "经筋病最重要的特征是疼痛出现于活动的不同状态，即经筋的位置发生移动或牵拉、收缩时则疼痛",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.195"
+    },
+    {
+      "id": "E13",
+      "quote": "同名经对应取穴法（缪刺的一种）为治疗经筋病的一个常用方法",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.195"
+    },
+    {
+      "id": "E14",
+      "quote": "一般来说，疼痛的时间越短，用此方法越有效，例如一两天之内。3个月以下的疼痛，最多6个月的疼痛采用此方法应有效",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.195"
+    },
+    {
+      "id": "E15",
+      "quote": "采用同名经对应取穴法时，如果未发现任何反应，就不必在该部位进行治疗，因为不会取得疗效",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.195"
+    },
+    {
+      "id": "E16",
+      "quote": "注意，准确的缪处有时候不在正经循行路线上，可能在络脉或筋脉上",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.195"
+    },
+    {
+      "id": "E17",
+      "quote": "弹拨右天宗穴，同时让病人端左腿",
+      "src": "王居易针灸医案讲习录·案93·医案解读"
+    },
+    {
+      "id": "E18",
+      "quote": "弹拔左尺泽，同时让患者端右腿，可帮助错位的经筋复位",
+      "src": "王居易针灸医案讲习录·案113·医案解读"
+    },
+    {
+      "id": "E19",
+      "quote": "如果经筋病的病程较长，超过3个月，或同名经对应部位未找出反应点，可在局部仔细地寻找病变肌腱、韧带、筋膜",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.195"
+    },
+    {
+      "id": "E20",
+      "quote": "在病变组织旁边的最酸痛的、最大的缝隙针刺，如局部发凉可加灸",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.195"
+    },
+    {
+      "id": "E21",
+      "quote": "后顶（以及类似的顶结节、额结节）为一个典型的经筋的附着点的例子，能舒筋活络止痛",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于疼痛症的讨论 p.195"
+    },
+    {
+      "id": "E22",
+      "quote": "初诊取络却，对从头到腿整条经筋有治疗作用",
+      "src": "王居易针灸医案讲习录·案107·医案解读"
+    },
+    {
+      "id": "E23",
+      "quote": "在缪刺处用灸不用针",
+      "src": "王居易针灸医案讲习录·案107·医案解读"
+    },
+    {
+      "id": "E24",
+      "quote": "割皮之法是将较浅层次的经络瘀滞疏通开，使经络气血顺畅而起到治疗作用",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于上古俞跗特殊治疗手法的讨论 p.193"
+    },
+    {
+      "id": "E25",
+      "quote": "操法操作的要点是把皮下的脂肪层（包括脂肪、结缔组织或肌腱筋膜等）分离，使缝隙加大，气血运行加快，改善局部的营养供应，也能把堆积物代谢出去",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于上古俞跗特殊治疗手法的讨论 p.193"
+    },
+    {
+      "id": "E26",
+      "quote": "结筋法就是在操法的同时也把变形和位移的经筋解开",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于上古俞跗特殊治疗手法的讨论 p.193"
+    },
+    {
+      "id": "E27",
+      "quote": "解肌的部位不是在筋腱附着点处，而是在肌肉的肌腹部位",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于上古俞跗特殊治疗手法的讨论 p.194"
+    },
+    {
+      "id": "E28",
+      "quote": "决脉法是在审视发现络脉异常之后，在络脉瘀堵的部位进行放血的方法",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于上古俞跗特殊治疗手法的讨论 p.194"
+    },
+    {
+      "id": "E29",
+      "quote": "审察腿部脉络发现委中下有紫色脉络浮现，在此放血，出黑血数滴即愈",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于上古俞跗特殊治疗手法的讨论 p.194"
+    },
+    {
+      "id": "E30",
+      "quote": "治疗之后让患者同时进行运动，可帮助经筋复位",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于上古俞跗特殊治疗手法的讨论 p.194"
+    },
+    {
+      "id": "E31",
+      "quote": "正确使用这些方法的关键在于经络诊察要仔细",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于上古俞跗特殊治疗手法的讨论 p.194"
+    },
+    {
+      "id": "E32",
+      "quote": "后顶穴是笔者发现总结出的一个特殊头部穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.196"
+    },
+    {
+      "id": "E33",
+      "quote": "根据临床实践案例，后顶有宣通督脉，行气通阳的功能",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.197"
+    },
+    {
+      "id": "E34",
+      "quote": "使用1寸半的针，从后顶往下平刺进针1寸左右",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.197"
+    },
+    {
+      "id": "E35",
+      "quote": "反复搓针的同时，医生应要求患者渐次做以下动作：直腰；挺胸；头向上顶",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.197"
+    },
+    {
+      "id": "E36",
+      "quote": "根据病情有时要求患者留针4~8小时",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.197"
+    },
+    {
+      "id": "E37",
+      "quote": "有一天笔者联想到产生静电的方法，认为在头部穴位做类似",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.198"
+    },
+    {
+      "id": "E38",
+      "quote": "后顶搓针法不是一个万能穴。不是所有的颈背部的病变都能用后顶搓针法治好",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.199"
+    },
+    {
+      "id": "E39",
+      "quote": "孕妇，颈椎、胸椎、腰椎手术后患者禁用",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.199"
+    },
+    {
+      "id": "E40",
+      "quote": "因为病不在督脉所管范围，故不用后顶",
+      "src": "王居易针灸医案讲习录·案93·医案解读"
+    },
+    {
+      "id": "E41",
+      "quote": "经络诊察发现，后顶无异常反应",
+      "src": "王居易针灸医案讲习录·案99·医案解读"
+    },
+    {
+      "id": "E42",
+      "quote": "说明后顶效果不理想，按经验若属后顶主治范围，应该立刻有好转",
+      "src": "王居易针灸医案讲习录·案96·医案解读"
+    },
+    {
+      "id": "E43",
+      "quote": "然后，又返回推到了内庭和陷谷之间的位置，发现此部位有剧酸，又能改善牙龈疼痛",
+      "src": "王居易针灸医案讲习录·诊后絮语·以摸为准，认识腧穴移位的现象 p.199"
+    },
+    {
+      "id": "E44",
+      "quote": "1分钟之内，牙龈疼痛已明显减轻（减少了80%）",
+      "src": "王居易针灸医案讲习录·诊后絮语·以摸为准，认识腧穴移位的现象 p.199"
+    },
+    {
+      "id": "E45",
+      "quote": "有气感（医生能感觉到气所在）",
+      "src": "王居易针灸医案讲习录·诊后絮语·以摸为准，认识腧穴移位的现象 p.199"
+    },
+    {
+      "id": "E46",
+      "quote": "以上感觉出现的同时，医生手感与病人的感觉一致则最好",
+      "src": "王居易针灸医案讲习录·诊后絮语·以摸为准，认识腧穴移位的现象 p.199"
+    },
+    {
+      "id": "E47",
+      "quote": "而不能完全依靠病人的酸痛感为确认穴位置的依据",
+      "src": "王居易针灸医案讲习录·诊后絮语·以摸为准，认识腧穴移位的现象 p.200"
+    },
+    {
+      "id": "E48",
+      "quote": "引起穴移位有两种原因",
+      "src": "王居易针灸医案讲习录·诊后絮语·以摸为准，认识腧穴移位的现象 p.200"
+    },
+    {
+      "id": "E49",
+      "quote": "实际上有些“经外穴”很可能是被移动的经穴",
+      "src": "王居易针灸医案讲习录·诊后絮语·以摸为准，认识腧穴移位的现象 p.200"
+    }
+  ],
+  "how_to_use": {
+    "zh": "疼痛先问是否活动状态诱发(经筋病)，再察经；新伤看同名经对应点，久病在局部缝隙或起点，督脉相关的错位再考虑后顶(表3)；下针前一定摸到缝隙、气感、患者感觉一致。",
+    "en": "For pain, first ask whether movement provokes it (sinew disease), then palpate; for recent injury look at the same-name matching point, for chronic disease at local gaps or origins, and consider Houding only for Du-related displacement (Table 3); before inserting, find the gap, the felt qi and the patient's matching sensation."
+  },
+  "caveats": {
+    "zh": "俞跗“割皮解肌，决脉结筋”是他对《史记》的解读，他自己按语说具体操作可能失传、需要“破解、验证”，属个人假说；后顶搓针法是他自创，他自述由静电联想而来；缪刺按他的经验适用于短病程，并非古法的全部。割皮法原文描述因OCR和跨页断行有缺字，操作细节只据可读部分。OCR：俞踏=俞跗，瑜穴=腧穴，卤会=囟会，鑫沟=蠡沟，“并穴”=井穴。案75表中重灸神阙为后续诊次内容。",
+    "en": "Yufu \"cut the skin, release the muscle, open the vessels, tie the sinews\" is his reading of the Shiji; his own note says the exact procedures may be lost and need to be \"decoded and verified\", so it is a personal hypothesis. Houding rubbing-twirling is his own creation, which he says came from a thought of static electricity; miu needling here follows his experience with short-course disease and is not the whole classical method. The skin-cutting description is defective in the OCR text (characters lost at a page break), so procedure details rest on the legible part. OCR: 俞踏 = Yufu, 瑜穴 = shu point, 卤会 = Xinhui, 鑫沟 = Ligou, 并穴 = jing-well. In Table 1 the Shenque moxa of Case 75 belongs to later visits."
+  },
+  "see": {
+    "cases": [
+      "wjy-076",
+      "wjy-083",
+      "wjy-088",
+      "wjy-089",
+      "wjy-093",
+      "wjy-096",
+      "wjy-099",
+      "wjy-113"
+    ],
+    "points": [
+      "后顶",
+      "络却",
+      "天宗",
+      "至阴",
+      "委中",
+      "京骨",
+      "后溪",
+      "阳谷",
+      "腕骨",
+      "内庭",
+      "陷谷",
+      "风池"
+    ]
+  }
+}

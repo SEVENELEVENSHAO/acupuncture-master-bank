@@ -1,0 +1,695 @@
+{
+  "id": "sxm-07-formula-points",
+  "doctor": "shixuemin",
+  "group": {
+    "zh": "治疗原则与处方",
+    "en": "Principles & formulas"
+  },
+  "order": 7,
+  "title": {
+    "zh": "配穴处方与特定穴的应用：处方由“穴位”与“刺灸法”两要素构成，选穴三原则，配穴分经脉与部位两类，特定穴各有用法规则并写入方义",
+    "en": "Composing a Formula and Using Specific Points: A Formula Is Points Plus Needling Method; Three Rules of Point Selection, Channel-based and Region-based Pairing, Each Class of Specific Point with Its Own Rule Written into the Rationale"
+  },
+  "summary": {
+    "zh": "全集把针灸处方定义为“穴位和刺灸法”两大要素：选穴依近部、远部、辨证对症三原则，配穴归为经脉配穴(本经、表里、同名)与部位配穴(上下、前后、左右)，一个处方往往是几种方法的综合；刺灸法包括疗法、操作与治疗时机。特定穴一节逐类给出规则：五输穴主治与母子补泻，原络主客，俞募先后，八脉交会成对，八会、下合、郄穴、交会穴。十二经病候里的“方义”确实按这套语言写；但175条处方的统计显示，处方全文更多提合穴、会穴、原穴，几乎不提五输母子。",
+    "en": "The complete collection defines a prescription by two elements, points and needling method. Points are chosen by three rules (near, distant, syndrome-or-symptom) and paired by channel (same channel, exterior-interior, same-name) or by region (up-down, front-back, left-right); one prescription usually combines several. Needling method covers therapy, manipulation and timing. The specific-point section gives a rule per class: five-shu with mother-child tonifying, source-connecting host-guest, back-shu and front-mu order, paired confluent points, eight influential, lower-he, cleft, crossing points. The rationales in the channel-syndrome chapter do use this vocabulary, but counts over 175 prescriptions show the entries name he-sea, crossing and source points far more often and almost never five-shu mother-child."
+  },
+  "takeaways": [
+    {
+      "zh": "处方有两个要素：“穴位”与“刺灸法”。在全集里每个处方也这样写成固定栏目：治则、配方、操作、方义(或配穴理论)、疗程。175条处方中有【配方】168条、【操作】172条、【疗程】166条，也就是说他不只列穴，还把手法、深度、次数一起写入处方。",
+      "en": "A prescription has two elements, points and needling method, and the collection writes each one in fixed columns: principle, formula, manipulation, rationale (or formula theory), course. Of 175 prescription entries, 168 carry a formula field, 172 a manipulation field and 166 a course field; he records manipulation, depth and frequency together with the points, not points alone.",
+      "cite": [
+        "E1"
+      ]
+    },
+    {
+      "zh": "选穴有三条原则：近部选穴(病变局部，“穴所在，主治所在”)、远部选穴(循经取远，胃痛取足三里、上牙痛取内庭、下牙痛取合谷)、辨证及对症选穴。辨证选穴被写成治病求本的体现：牙痛分风火(风池、外关)、胃火(内庭、二间)、肾虚(太溪、行间)三型各选其穴；对症选穴则是“大部分奇穴的主治特点”。",
+      "en": "Three rules of point selection: near (at the lesion, \"where the point lies, its indication lies\"), distant (channel-following, stomach pain Zusanli, upper toothache Neiting, lower toothache Hegu), and syndrome-or-symptom. Syndrome-based selection is presented as an expression of treating the root: toothache splits into wind-fire (Fengchi, Waiguan), stomach fire (Neiting, Erjian) and kidney deficiency (Taixi, Xingjian), each with its own points; symptom-based selection is \"the main indication pattern of most extra points\".",
+      "cite": [
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ]
+    },
+    {
+      "zh": "配穴分两大类六法：经脉配穴(本经、表里经、同名经，如阳明头痛合谷配内庭，落枕后溪配昆仑)与部位配穴(上下：阴挺百会配三阴交；前后：膀胱病前取水道或中极、后取膀胱俞或秩边；左右：左偏头痛同侧太阳、头维配对侧外关、足临泣)。书里强调一个处方常是“几种选穴原则和多种配穴方法的综合运用”，左偏头痛例同时含左右与上下。",
+      "en": "Pairing falls into two classes and six methods. Channel-based: same channel, exterior-interior, same-name channels (yangming headache Hegu with Neiting, stiff neck Houxi with Kunlun). Region-based: up-down (uterine prolapse Baihui with Sanyinjiao); front-back (bladder disease Shuidao or Zhongji in front, Pangguangshu or Zhibian behind); left-right (left migraine: ipsilateral Taiyang, Touwei with contralateral Waiguan, Zulinqi). A formula is often \"a combination of several selection rules and pairing methods\"; the left-migraine example already uses left-right and up-down together.",
+      "cite": [
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "刺灸法是处方的第二要素，包括疗法(毫针、灸、火针、拔罐、皮肤针)、操作(补泻、深度、方向、每日一次或两次)和治疗时机。时机举的例子是痛经“在月经来潮前几日开始针灸，直到月经过去为止”，女性不孕“在排卵期前后几日连续针灸”。在处方里最常见的是分组写：41条处方把刺络与经穴刺法分成两组，如哮喘“刺络拔罐、温灸法同时使用”于重症，缓解期任选一种。",
+      "en": "Needling method is the second element: therapy (filiform needle, moxa, fire needle, cupping, skin needle), manipulation (tonify or reduce, depth, direction, once or twice a day) and timing. Timing examples: dysmenorrhoea, start \"a few days before menses and continue until it ends\"; female infertility, continuous treatment \"around ovulation\". In the entries themselves, the commonest form is separate groups: 41 entries split pricking-bleeding and channel needling into two groups, for example asthma with \"pricking-bleeding cupping and warm moxa used together\" in severe attacks and one of them in remission.",
+      "cite": [
+        "E11",
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "zh": "五输穴按“主治”和“五行”两种方式选：井主心下满、荥主身热、输主体重节痛、经主喘咳寒热、合主气逆而泄；五输配五行五脏，立“虚则补其母，实则泻其子”，有本经补泻与异经补泻。但在175条处方的全文里，“母穴”0处、“五输”0处、“子穴”仅1处(淋证)，“实则泻其子”4处(咳嗽2条、哮喘2条)；哮喘一条把尺泽写作“肺之合穴，泻之为实则泻其子之法”。",
+      "en": "Five-shu points are selected in two ways, by indication and by five phases. Jing-well for fullness below the heart, ying-spring for body heat, shu-stream for heaviness and joint pain, jing-river for cough, wheeze, cold and heat, he-sea for counterflow and diarrhoea; five-shu with five phases and five organs give \"tonify the mother when deficient, reduce the child when excess\", used on the same channel or on another. Yet in the full text of the 175 entries \"mother point\" appears 0 times, \"five-shu\" 0 times and \"child point\" once (strangury); \"reduce the child\" appears in 4 entries (2 cough, 2 asthma), and the asthma entry calls Chize \"the he-sea of the lung, reducing it follows reducing the child\".",
+      "cite": [
+        "E14",
+        "E15",
+        "E28"
+      ]
+    },
+    {
+      "zh": "原络与俞募各有顺序规则：原络配穴又称主客配穴，表里两经先后发病时，先病之经取原穴为主、后病之经取络穴为客；俞募配穴属前后配穴，“六腑有病为阳病，先取腹部募穴，后取背部俞穴；五脏有病为阴病，先取背俞，后取腹募”。实际处方里俞募同用的有23条：膀胱俞加中极10条(淋证、癃闭、遗尿等)、胃俞加中脘6条、大肠俞加天枢与小肠俞加关元3条、脾俞加期门3条、胆俞加日月1条。",
+      "en": "Source-connecting and back-shu/front-mu each carry an order rule. Source-connecting, also called host-guest: when two exterior-interior channels fall ill in sequence, the first channel is the host with its source point, the second the guest with its connecting point. Back-shu with front-mu is a front-back pair: \"fu-organ disease is yang, take the front mu first then the back shu; zang-organ disease is yin, back shu first then front mu\". In the prescriptions the pair is used together in 23 entries: Pangguangshu with Zhongji 10 (strangury, urinary retention, enuresis), Weishu with Zhongwan 6, Dachangshu with Tianshu and Xiaochangshu with Guanyuan 3, Pishu with Qimen 3, Danshu with Riyue 1.",
+      "cite": [
+        "E16",
+        "E17",
+        "E24"
+      ]
+    },
+    {
+      "zh": "其余特定穴各有一句主治规则：八脉交会穴按奇经取(督脉脊强取后溪，冲脉气逆取公孙)并成对使用(公孙-内关、后溪-申脉、足临泣-外关、列缺-照海)；八会穴“六腑之病可选中脘”；下合穴依“合治内腑”；郄穴“治急病”；交会穴如大椎“通一身之阳”、三阴交“调理脾、肝、肾”。用得最多的是内关(45条)、外关(17条)、照海和列缺(各12条)。内关加公孙在处方里只有1条，但7例胆绞痛医案中6例同用，并配日月、胆俞、阳陵泉。",
+      "en": "The other specific points each get one rule. Confluent points are chosen by extraordinary vessel (governor-vessel spinal stiffness Houxi, thoroughfare-vessel counterflow Gongsun) and used in pairs (Gongsun-Neiguan, Houxi-Shenmai, Zulinqi-Waiguan, Lieque-Zhaohai). Eight influential: \"for fu-organ disease choose Zhongwan\". Lower he-sea: \"the he-sea treats the inner fu organs\". Cleft points: for acute disease. Crossing points: Dazhui \"connects all yang\", Sanyinjiao \"regulates spleen, liver, kidney\". Most used are Neiguan (45 entries), Waiguan (17), Zhaohai and Lieque (12 each). Neiguan with Gongsun appears in only 1 prescription, but in 6 of 7 biliary-colic cases, together with Riyue, Danshu, Yanglingquan.",
+      "cite": [
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E25"
+      ]
+    },
+    {
+      "zh": "“方义”一栏把每个穴的特定穴身份和功用逐一写明，例如“日月为胆经之募穴；阳陵泉为胆经之合穴；丘墟为胆经原穴；诸穴合用以达疏肝利胆、缓急止痛之效”；小便数而欠取列缺“肺经之络穴”加中极“膀胱之募”，是表里加前后的合用。醒脑开窍则用君臣佐使写方：人中为君，内关、三阴交为臣，极泉、尺泽、委中为佐使，“以醒脑开窍、滋补肝肾为主，疏通经络为辅”。",
+      "en": "The rationale column names each point's specific-point identity and function, for example \"Riyue is the mu of the gallbladder, Yanglingquan its he-sea, Qiuxu its source; together they soothe the liver, benefit the gallbladder, relax spasm and stop pain\"; for frequent scanty urination Lieque \"connecting point of the lung\" plus Zhongji \"mu of the bladder\" gives exterior-interior together with front-back. Xingnao Kaiqiao is composed by sovereign, minister, assistant and envoy: Renzhong is sovereign, Neiguan and Sanyinjiao ministers, Jiquan, Chize, Weizhong assistants and envoys, \"mainly waking the brain and opening orifices and nourishing liver and kidney, freeing channels as support\".",
+      "cite": [
+        "E24",
+        "E26",
+        "E27"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "选穴原则与配穴方法：定义 → 书中的例",
+        "en": "Selection rules and pairing methods: definition → the book's example"
+      },
+      "cols": [
+        {
+          "zh": "方法",
+          "en": "Method"
+        },
+        {
+          "zh": "要点",
+          "en": "Point"
+        },
+        {
+          "zh": "书中的例",
+          "en": "Book's example"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "近部选穴",
+            "en": "Near"
+          },
+          {
+            "zh": "病变局部或邻近取穴",
+            "en": "At or near the lesion"
+          },
+          {
+            "zh": "巅顶痛取百会；面瘫取颊车、地仓，近部选风池",
+            "en": "Vertex pain: Baihui; facial palsy: Jiache, Dicang, near Fengchi"
+          }
+        ],
+        [
+          {
+            "zh": "远部选穴",
+            "en": "Distant"
+          },
+          {
+            "zh": "病变所属、相关经络上距病位较远处取穴",
+            "en": "On the related channel away from the lesion"
+          },
+          {
+            "zh": "胃痛足三里；上牙痛内庭；下牙痛合谷",
+            "en": "Stomach pain Zusanli; upper toothache Neiting; lower Hegu"
+          }
+        ],
+        [
+          {
+            "zh": "辨证及对症选穴",
+            "en": "Syndrome and symptom"
+          },
+          {
+            "zh": "按证候病机；或按特殊症状取奇穴",
+            "en": "By syndrome and mechanism; or extra point by symptom"
+          },
+          {
+            "zh": "肾阴不足虚热肾俞、太溪；肝阳化风抽风太冲、行间；哮喘定喘；落枕落枕穴",
+            "en": "Kidney-yin-deficient heat Shenshu, Taixi; liver-wind convulsion Taichong, Xingjian; asthma Dingchuan; stiff neck Luozhen"
+          }
+        ],
+        [
+          {
+            "zh": "本经配穴",
+            "en": "Same channel"
+          },
+          {
+            "zh": "病变脏腑经脉本经穴配成方",
+            "en": "Points of the diseased channel"
+          },
+          {
+            "zh": "少阳头痛：率谷、风池加荥穴侠溪",
+            "en": "Shaoyang headache: Shuaigu, Fengchi plus Xiaxi"
+          }
+        ],
+        [
+          {
+            "zh": "表里经配穴",
+            "en": "Exterior-interior"
+          },
+          {
+            "zh": "取相表里经脉的穴；原络配穴为特例",
+            "en": "Points of the paired channel; source-connecting a special case"
+          },
+          {
+            "zh": "风热袭肺咳嗽：尺泽加曲池、合谷",
+            "en": "Wind-heat cough: Chize with Quchi, Hegu"
+          }
+        ],
+        [
+          {
+            "zh": "同名经配穴",
+            "en": "Same-name"
+          },
+          {
+            "zh": "手足同名经“同气相通”",
+            "en": "Hand and foot channels of the same name"
+          },
+          {
+            "zh": "阳明头痛合谷配内庭；落枕后溪配昆仑",
+            "en": "Yangming headache Hegu with Neiting; stiff neck Houxi with Kunlun"
+          }
+        ],
+        [
+          {
+            "zh": "上下配穴",
+            "en": "Up-down"
+          },
+          {
+            "zh": "腰以上或上肢穴与腰以下或下肢穴",
+            "en": "Points above and below the waist"
+          },
+          {
+            "zh": "胃脘痛内关配足三里；阴挺百会配三阴交",
+            "en": "Stomach ache Neiguan with Zusanli; prolapse Baihui with Sanyinjiao"
+          }
+        ],
+        [
+          {
+            "zh": "前后配穴",
+            "en": "Front-back"
+          },
+          {
+            "zh": "胸腹穴与背腰穴，《内经》称“偶刺”",
+            "en": "Chest-abdomen with back; Neijing \"paired needling\""
+          },
+          {
+            "zh": "膀胱病：水道或中极配膀胱俞或秩边；肺病：华盖、中府配肺俞",
+            "en": "Bladder: Shuidao or Zhongji with Pangguangshu or Zhibian; lung: Huagai, Zhongfu with Feishu"
+          }
+        ],
+        [
+          {
+            "zh": "左右配穴",
+            "en": "Left-right"
+          },
+          {
+            "zh": "左右同穴增强协同，或同侧配对侧",
+            "en": "Same point on both sides, or ipsilateral with contralateral"
+          },
+          {
+            "zh": "胃痛双侧足三里、梁丘；左侧面瘫同侧太阳、颊车、地仓配对侧合谷",
+            "en": "Stomach pain bilateral Zusanli, Liangqiu; left facial palsy ipsilateral Taiyang, Jiache, Dicang with contralateral Hegu"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "特定穴：规则 → 书中的例 → 在175条处方中的使用",
+        "en": "Specific points: rule → book's example → use across 175 prescriptions"
+      },
+      "cols": [
+        {
+          "zh": "类别",
+          "en": "Class"
+        },
+        {
+          "zh": "规则",
+          "en": "Rule"
+        },
+        {
+          "zh": "例",
+          "en": "Example"
+        },
+        {
+          "zh": "含该类穴的处方数与最常用穴",
+          "en": "Entries containing the class, and commonest points"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "五输穴",
+            "en": "Five-shu"
+          },
+          {
+            "zh": "井主心下满，荥主身热，输主体重节痛，经主喘咳寒热，合主气逆而泄；虚补母、实泻子",
+            "en": "Jing, ying, shu, jing-river, he by indication; mother-child by phase"
+          },
+          {
+            "zh": "肺虚取太渊，肺实取尺泽；异经取太白或阴谷",
+            "en": "Lung deficiency Taiyuan, excess Chize; other channel Taibai or Yingu"
+          },
+          {
+            "zh": "见下行“六阳经合穴”；配方理论未提母子",
+            "en": "See he-sea row; mother-child not mentioned in formula theory"
+          }
+        ],
+        [
+          {
+            "zh": "原穴、络穴",
+            "en": "Source, connecting"
+          },
+          {
+            "zh": "原穴反映并治疗脏腑，络穴治本经、表里经与络脉；主客配穴",
+            "en": "Source diagnoses and treats organs; connecting treats the paired channel; host-guest"
+          },
+          {
+            "zh": "肺先病腹泻后发：先太渊后偏历；大肠先病则先合谷后列缺",
+            "en": "Lung first, diarrhoea later: Taiyuan then Pianli; large intestine first: Hegu then Lieque"
+          },
+          {
+            "zh": "原115条：合谷62、太冲58、神门47、太溪36；络96条：内关45、丰隆42、外关17、列缺12",
+            "en": "Source 115: Hegu 62, Taichong 58, Shenmen 47, Taixi 36; connecting 96: Neiguan 45, Fenglong 42, Waiguan 17, Lieque 12"
+          }
+        ],
+        [
+          {
+            "zh": "俞穴、募穴",
+            "en": "Back-shu, front-mu"
+          },
+          {
+            "zh": "五脏多用俞，六腑多用募；六腑先募后俞，五脏先俞后募",
+            "en": "Zang mostly shu, fu mostly mu; fu mu first, zang shu first"
+          },
+          {
+            "zh": "胃脘痛先中脘后胃俞；心病先心俞后巨阙",
+            "en": "Stomach ache Zhongwan then Weishu; heart disease Xinshu then Juque"
+          },
+          {
+            "zh": "背俞82条：肾俞52、脾俞48、肝俞21；募75条：关元52、中极27、中脘23、天枢22；俞募同用23条",
+            "en": "Back-shu 82: Shenshu 52, Pishu 48, Ganshu 21; mu 75: Guanyuan 52, Zhongji 27, Zhongwan 23, Tianshu 22; pair used together 23"
+          }
+        ],
+        [
+          {
+            "zh": "八脉交会穴",
+            "en": "Confluent"
+          },
+          {
+            "zh": "按奇经取穴，成对配伍",
+            "en": "By extraordinary vessel, paired"
+          },
+          {
+            "zh": "公孙冲脉心胸胃、内关阴维；后溪督脉、申脉阳跷；足临泣带脉、外关阳维；列缺任脉、照海阴跷",
+            "en": "Gongsun-thoroughfare heart, chest, stomach with Neiguan; Houxi-governor with Shenmai; Zulinqi-belt with Waiguan; Lieque-conception with Zhaohai"
+          },
+          {
+            "zh": "75条：内关45、外关17、照海12、列缺12、后溪8",
+            "en": "75 entries: Neiguan 45, Waiguan 17, Zhaohai 12, Lieque 12, Houxi 8"
+          }
+        ],
+        [
+          {
+            "zh": "八会穴",
+            "en": "Influential"
+          },
+          {
+            "zh": "脏、腑、气、血、筋、脉、骨、髓之会",
+            "en": "Gathering of zang, fu, qi, blood, sinew, vessel, bone, marrow"
+          },
+          {
+            "zh": "六腑之病中脘；血证膈俞",
+            "en": "Fu disease Zhongwan; blood syndrome Geshu"
+          },
+          {
+            "zh": "51条：中脘23、阳陵泉22、膈俞16",
+            "en": "51: Zhongwan 23, Yanglingquan 22, Geshu 16"
+          }
+        ],
+        [
+          {
+            "zh": "六阳经合穴与下合穴",
+            "en": "He-sea and lower he-sea"
+          },
+          {
+            "zh": "“合治内腑”；肠痈取上巨虚，泻选下巨虚",
+            "en": "\"He-sea treats the inner fu\""
+          },
+          {
+            "zh": "足三里为胃之下合穴，补之健脾胃",
+            "en": "Zusanli tonified to strengthen spleen and stomach"
+          },
+          {
+            "zh": "六阳经合穴116条：足三里89、曲池39、阳陵泉22、委中11；上巨虚、下巨虚、委阳共12条",
+            "en": "He-sea points 116: Zusanli 89, Quchi 39, Yanglingquan 22, Weizhong 11; Shangjuxu, Xiajuxu, Weiyang together 12"
+          }
+        ],
+        [
+          {
+            "zh": "郄穴",
+            "en": "Cleft"
+          },
+          {
+            "zh": "气血汇集处，诊察并治该经与相应脏腑的急病",
+            "en": "Qi-blood gathering; diagnoses and treats acute disease of the channel and organ"
+          },
+          {
+            "zh": "急性胃痛梁丘；肺病咯血孔最",
+            "en": "Acute stomach pain Liangqiu; lung haemoptysis Kongzui"
+          },
+          {
+            "zh": "仅9条：地机3、筑宾2、养老2、梁丘2",
+            "en": "Only 9: Diji 3, Zhubin 2, Yanglao 2, Liangqiu 2"
+          }
+        ],
+        [
+          {
+            "zh": "交会穴",
+            "en": "Crossing"
+          },
+          {
+            "zh": "两条以上经脉相交会，治交会经脉及所属脏腑",
+            "en": "Two or more channels meet; treats them and their organs"
+          },
+          {
+            "zh": "大椎通一身之阳；头维治阳明少阳头痛；三阴交调脾肝肾；关元、中极治任脉与足三阴病",
+            "en": "Dazhui all yang; Touwei yangming and shaoyang headache; Sanyinjiao spleen, liver, kidney; Guanyuan, Zhongji ren and three yin"
+          },
+          {
+            "zh": "三阴交77条、大椎31条、关元52条",
+            "en": "Sanyinjiao 77, Dazhui 31, Guanyuan 52"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "175条处方全文中提到各类特定穴的条数",
+        "en": "Entries (of 175) whose full text names each class of specific point"
+      },
+      "cols": [
+        {
+          "zh": "词",
+          "en": "Term"
+        },
+        {
+          "zh": "条数",
+          "en": "Entries"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "合穴",
+            "en": "he-sea point"
+          },
+          "53"
+        ],
+        [
+          {
+            "zh": "会穴(含交会穴29、八会穴2)",
+            "en": "crossing / influential (crossing 29, influential 2)"
+          },
+          "46"
+        ],
+        [
+          {
+            "zh": "原穴",
+            "en": "source point"
+          },
+          "45"
+        ],
+        [
+          {
+            "zh": "俞穴(含背俞穴13)",
+            "en": "back-shu (incl. \"back-shu points\" 13)"
+          },
+          "26"
+        ],
+        [
+          {
+            "zh": "络穴",
+            "en": "connecting point"
+          },
+          "24"
+        ],
+        [
+          {
+            "zh": "下合穴",
+            "en": "lower he-sea"
+          },
+          "18"
+        ],
+        [
+          {
+            "zh": "募穴",
+            "en": "front-mu"
+          },
+          "17"
+        ],
+        [
+          {
+            "zh": "井穴",
+            "en": "jing-well point"
+          },
+          "9"
+        ],
+        [
+          {
+            "zh": "八脉交会",
+            "en": "confluent"
+          },
+          "7"
+        ],
+        [
+          {
+            "zh": "荥穴/输穴",
+            "en": "ying / shu points"
+          },
+          "6 / 5"
+        ],
+        [
+          {
+            "zh": "实则泻其子；子穴",
+            "en": "reduce the child; child point"
+          },
+          "4；1"
+        ],
+        [
+          {
+            "zh": "母穴、五输、郄穴",
+            "en": "mother point, five-shu, cleft point"
+          },
+          "0"
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "针灸处方包括两大要素即穴位和刺灸法",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.382"
+    },
+    {
+      "id": "E2",
+      "quote": "选穴原则就是临证选取穴位应该遵循的基本法则，包括近部选穴、远部选穴和辨证对症选穴",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.382"
+    },
+    {
+      "id": "E3",
+      "quote": "如胃痛选足阳明胃经的足三里；上牙痛选足阳明胃经的内庭，下牙痛选手阳明大肠经的合谷穴等",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.382"
+    },
+    {
+      "id": "E4",
+      "quote": "牙痛根据病因病机可分为风火牙痛、胃火牙痛和肾虚牙痛，风火牙痛选风池、外关，胃火牙痛选内庭、二间，肾虚牙痛选太溪、行间",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.383"
+    },
+    {
+      "id": "E5",
+      "quote": "对症选穴是根据疾病的特殊症状而选取穴位的原则",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.383"
+    },
+    {
+      "id": "E6",
+      "quote": "总体可归纳为两大类即经脉配穴法、部位配穴法",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.383"
+    },
+    {
+      "id": "E7",
+      "quote": "阳明头痛取手阳明的合谷配足阳明的内庭；落枕取手太阳经的后溪配足太阳经的昆仑",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.383"
+    },
+    {
+      "id": "E8",
+      "quote": "阴挺（子宫脱垂）可上取百会，下取三阴交",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.383"
+    },
+    {
+      "id": "E9",
+      "quote": "膀胱疾患，前取水道或中极，后取膀胱俞或秩边",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.383"
+    },
+    {
+      "id": "E10",
+      "quote": "左侧偏头痛，可选同侧的太阳、头维和对侧的外关、足临泣",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.383"
+    },
+    {
+      "id": "E11",
+      "quote": "一个针灸处方常是几种选穴原则和多种配穴方法的综合运用",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.383"
+    },
+    {
+      "id": "E12",
+      "quote": "刺灸法是针灸处方的第二组成要素，包括疗法的选择、操作方法和治疗时机的选择",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.384"
+    },
+    {
+      "id": "E13",
+      "quote": "痛经在月经来潮前几日开始针灸，直到月经过去为止；女性不孕症，在排卵期前后几日连续针灸",
+      "src": "石学敏针灸全集·第七章 治疗总论 第三节 针灸配穴处方 p.384"
+    },
+    {
+      "id": "E14",
+      "quote": "“井”主心下满；“荣”主身热；“输”主体重节痛；“经”主喘咳寒热；“合”主气逆而泄",
+      "src": "石学敏针灸全集·第七章 治疗总论 第四节 特定穴的应用 p.384"
+    },
+    {
+      "id": "E15",
+      "quote": "制订了五输、五行配五脏的配穴法，并设立了“虚则补其母，实则泻其子”的取穴原则",
+      "src": "石学敏针灸全集·第七章 治疗总论 第四节 特定穴的应用 p.385"
+    },
+    {
+      "id": "E16",
+      "quote": "先发病之经为主，取之原穴：后发病之经为客，取之络穴",
+      "src": "石学敏针灸全集·第七章 治疗总论 第四节 特定穴的应用 p.386"
+    },
+    {
+      "id": "E17",
+      "quote": "如果六腑有病，为阳病，应先取腹部的募穴，后取背部的俞穴；如果五脏有病，为阴病，应先取背部的俞穴，后取腹部的募穴",
+      "src": "石学敏针灸全集·第七章 治疗总论 第四节 特定穴的应用 p.386"
+    },
+    {
+      "id": "E18",
+      "quote": "督脉出现的脊柱强痛，可选后溪，冲脉出现的胸腹气逆，可选公孙",
+      "src": "石学敏针灸全集·第七章 治疗总论 第四节 特定穴的应用 p.387"
+    },
+    {
+      "id": "E19",
+      "quote": "如六腑之病，可选腑之会穴中皖；血证可选血之会穴隔俞等",
+      "src": "石学敏针灸全集·第七章 治疗总论 第四节 特定穴的应用 p.387"
+    },
+    {
+      "id": "E20",
+      "quote": "每经的合穴、下合穴均有治疗本经腑病的作用",
+      "src": "石学敏针灸全集·第七章 治疗总论 第四节 特定穴的应用 p.388"
+    },
+    {
+      "id": "E21",
+      "quote": "穴主要用于治疗该经和相应脏腑的急病，如急性胃皖痛，取胃经穴梁丘",
+      "src": "石学敏针灸全集·第七章 治疗总论 第四节 特定穴的应用 p.388"
+    },
+    {
+      "id": "E22",
+      "quote": "大椎为诸阳经之交会穴，能通一身之阳",
+      "src": "石学敏针灸全集·第七章 治疗总论 第四节 特定穴的应用 p.388"
+    },
+    {
+      "id": "E23",
+      "quote": "三阴交为足三阴经交会穴，调理脾、肝、肾有独到之处",
+      "src": "石学敏针灸全集·第七章 治疗总论 第四节 特定穴的应用 p.388"
+    },
+    {
+      "id": "E24",
+      "quote": "日月为胆经之募穴；阳陵泉为胆经之合穴；丘墟为胆经原穴；诸穴合用以达疏肝利胆、缓急止痛之效",
+      "src": "石学敏针灸全集·第六章 十二经病候 p.368"
+    },
+    {
+      "id": "E25",
+      "quote": "内关、公孙为八脉交会穴之对穴，“公孙冲脉胃心胸，内关阴维下总同”",
+      "src": "石学敏针灸全集·第六章 十二经病候 p.351"
+    },
+    {
+      "id": "E26",
+      "quote": "列缺为肺经之络穴，可宣肺利气泻热通肠：中极为膀胱之募，泻之可通利水道",
+      "src": "石学敏针灸全集·第六章 十二经病候 p.342"
+    },
+    {
+      "id": "E27",
+      "quote": "人中为君，内关，三阴交为臣，极泉、尺泽、委中等为佐使",
+      "src": "石学敏针灸全集·第七章 治疗总论 第五节 醒脑开窍法 p.400"
+    },
+    {
+      "id": "E28",
+      "quote": "尺泽为肺之合穴，泻之为实则泻其子之法",
+      "src": "石学敏实用针灸学·第八章 内科疾病 哮喘 p.311"
+    }
+  ],
+  "caveats": {
+    "zh": "本指南的“规则”部分是全集与实用针灸学的总论，多为教科书通行内容，未标“石学敏认为”；他个人的用法要从处方与方义里看，故第三张表的次数很重要。郄穴一段在全集里“郄”字OCR缺失(“穴主要用于治疗……”“梁丘”)，引文按原文保留；“荥”印作“荣”，“中脘”印作“中皖”，“膈俞”印作“隔俞”，均按印出字引用。三张统计表按穴名子串统计，同一穴可属多类(如中脘既是胃募又是腑会，阳陵泉既是合穴又是筋会)，各类条数不可相加；第三张表按处方全文(配方、操作、配穴理论、概述)的子串计数，“郄穴”在原文OCR为“都穴”，出现1次(脏腑痛证)。",
+    "en": "This guide's rule columns come from the general chapters of the complete collection and Practical Acupuncture, largely standard textbook content, without \"Shi Xuemin holds\"; his own use has to be read from the prescriptions and rationales, which is why the counts matter. In the cleft-point passage the character for xi is missing in the OCR (\"…points are mainly used for acute disease…\", \"Liangqiu\"), quoted as printed; ying is printed with a different character, Zhongwan and Geshu are printed with variant characters, all quoted as printed. The count tables match point-name substrings and one point can belong to several classes (Zhongwan is both stomach mu and fu-influential, Yanglingquan both he-sea and sinew-influential), so class totals do not add; the third table counts substrings over the whole entry (formula, manipulation, rationale, overview); the cleft point is OCR-printed as \"du point\" and appears once (visceral pain)."
+  },
+  "see": {
+    "rx": [
+      "sxm-rx-020",
+      "sxm-rx-025",
+      "sxm-rx-101",
+      "sxm-rx-123",
+      "sxm-rx-124",
+      "sxm-rx-143"
+    ],
+    "cases": [
+      "sxm-571",
+      "sxm-317",
+      "sxm-309",
+      "sxm-585",
+      "sxm-291"
+    ],
+    "points": [
+      "内关",
+      "公孙",
+      "列缺",
+      "照海",
+      "中脘",
+      "中极",
+      "膀胱俞",
+      "足三里",
+      "三阴交",
+      "合谷",
+      "日月",
+      "阳陵泉"
+    ]
+  }
+}

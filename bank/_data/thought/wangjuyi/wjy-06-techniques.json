@@ -1,0 +1,937 @@
+{
+  "id": "wjy-06-techniques",
+  "doctor": "wangjuyi",
+  "group": {
+    "zh": "手法",
+    "en": "Technique"
+  },
+  "order": 6,
+  "title": {
+    "zh": "手法与刺激法：点、刺络放血、灸与加灸、操法与搓针，先察经选穴，最后才选刺激方法",
+    "en": "Techniques and Stimulation: Prick, Bleeding, Moxa and Needle-plus-moxa, Cao and Rubbing-twirling; Points Chosen First, Stimulation Last"
+  },
+  "summary": {
+    "zh": "在他的体系里，刺激方法是察经、辨经、选经、选穴之后的最后一步，“根据症候的性质选择最适宜的针灸方法”。医案导读给出的编码是点、刺络放血、刺络拔罐、灸、加灸、TDP，未标注者为得气后留针20分钟。案例中他还用操法、割皮(捏割)、结筋、弹拨、后顶搓针、水罐等，各有部位和用意，我们按病例复核了各类的例数。",
+    "en": "In his system stimulation is the last step after palpation, channel differentiation, channel choice and point choice: \"choose the most suitable acupuncture method according to the nature of the symptoms\". The case-guide codes are prick (dian), bleeding, bleed-and-cup, moxa, needle-plus-moxa and TDP; unmarked means de qi then retention for 20 minutes. In the cases he also uses cao, skin-cutting (pinch-cutting), sinew-tying, plucking, Houding rubbing-twirling and water cupping, each with a site and purpose; the counts of each were re-checked against the cases."
+  },
+  "takeaways": [
+    {
+      "zh": "刺激方法排在最后一步：他的体系是察经、辨经、选经、选穴，最后“根据症候的性质选择最适宜的针灸方法”；而且对得气要求甚高，必须每针皆有感传。所以书中未标注刺激法的穴，一律是针刺得气并留针20分钟；点、刺络放血、刺络拔罐、灸、加灸、TDP这六种是需要另行标注的偏离。",
+      "en": "Stimulation is the last step. His system runs palpation, channel differentiation, channel choice, point choice, and finally \"choose the most suitable acupuncture method according to the nature of the symptoms\"; and he demands de qi, with propagation on every needle. So any point with no stimulation mark in the book is needled to de qi and retained 20 minutes; prick, bleeding, bleed-and-cup, moxa, needle-plus-moxa and TDP are the six departures that must be marked.",
+      "cite": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ]
+    },
+    {
+      "zh": "“点”是得气即出针、不留针，多用在督脉和阳气点：大椎最多(约13例，案8、10、35、36、40、43、44、49、63、73、74、76、114)，其次至阳、委中、身柱、长强。他的用意随例而异：案40崇骨点刺，指下有虚象用补法，患者后背发热，针后加灸15分钟；案73点刺大椎并行手法使手心出汗，患者才能正常出汗、皮疹减轻；案120情志不遂先察至阳到神道，点至阳治与厥阴有关的焦虑失眠；案95点委中使膝痛消失。咳嗽篇也说大椎得气热感、旋转针柄、不留针。",
+      "en": "Dian means de qi then withdraw, no retention, mostly on Du points and yang points. Dazhui is by far the commonest (about 13 cases: 8, 10, 35, 36, 40, 43, 44, 49, 63, 73, 74, 76, 114), then Zhiyang, Weizhong, Shenzhu and Changqiang. His purpose varies by case: Case 40 pricked Chonggu, a deficient feel under the finger so tonifying technique, the back turned warm, then moxa 15 minutes after needling; Case 73 pricked Dazhui with manipulation until the palms sweated, after which sweating became normal and the rash eased; Case 120 (emotional disorder) palpated from Zhiyang to Shendao and pricked Zhiyang for anxiety and insomnia linked to Jueyin; Case 95 pricked Weizhong and the knee pain went. The cough essay also says Dazhui: warm de qi, twirl the handle, no retention.",
+      "cite": [
+        "E11",
+        "E12",
+        "E13",
+        "E14",
+        "E15"
+      ]
+    },
+    {
+      "zh": "刺络放血分“井穴”和“络脉”两类，量按血色定：在125案里放血见于约24案，其中18案是井穴(关冲、至阴、少泽、商阳、少商、厉兑、足窍阴)，另有至阳、神道、膈俞、委中、四缝、耳尖和异常浮络。放血量在井穴放血篇里给出：1~8滴引阳通络、8~15滴祛滞、16~20滴泻热，看第1滴血色决定放多少；案例大体相符：案115少泽6滴(“不宜多”)，案83少商7滴(虚象)，案89至阴9滴血黑，案94至阴10滴，案33少泽、关冲12滴，案95关冲先10滴后16滴、以血色变浅为标准，案104至阴21滴至血清。放血同时拔罐(刺络拔罐)仅见案30(疱疹两端血罐)、案74(至阳放血拔罐清热毒)，案46解读也提到大椎刺血拔罐。",
+      "en": "Bleeding falls into jing-well and collateral kinds, and the amount follows blood colour. In the 125 cases bleeding appears in about 24, of which 18 use a jing-well (Guanchong, Zhiyin, Shaoze, Shangyang, Shaoshang, Lidui, Zuqiaoyin), the rest Zhiyang, Shendao, Geshu, Weizhong, Sifeng, the ear apex and abnormal floating collaterals. Amounts are given in the jing-well essay: 1-8 drops lead yang out and free the collaterals, 8-15 remove stagnation, 16-20 drain heat, the first drop's colour deciding how many. The cases broadly agree: Case 115 Shaoze 6 drops (\"not much\"), Case 83 Shaoshang 7 drops (deficient picture), Case 89 Zhiyin 9 drops black, Case 94 Zhiyin 10 drops, Case 33 Shaoze and Guanchong 12 drops, Case 95 Guanchong 10 then 16 drops with blood turning pale as the end point, Case 104 Zhiyin 21 drops until the blood cleared. Bleeding with cupping (bleed-and-cup) appears only in Case 30 (both ends of the herpes, blood cup) and Case 74 (bleed and cup Zhiyang to clear heat toxin); the Case 46 comment also mentions bleeding and cupping Dazhui.",
+      "cite": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ]
+    },
+    {
+      "zh": "灸要看部位和虚实：全书约51案用到灸，示例中灸的时间以15分钟为最多(约22案)，其次20分钟(约8案)，10分钟(约4案)，另有隔姜灸计壮(3~10壮)；导读写的灸是10~15分钟，可见案例里常另作调整。加灸(针刺得气后留针再灸)共12案。灸井穴：案50、51灸隐白20分钟，案52灸大敦15分钟；灸阳虚处：案42神门加灸，案121关元、神阙各灸15分钟，案75先灸神阙益元气以恢复经络功能。他明确说灸不是热证的禁忌：案45皮炎用阳池、中泉悬灸，出现的“莲藕形”络脉阻塞一次比一次轻，3诊痊愈。TDP照射20分钟，见于5案(案17、20、93、98、100)。",
+      "en": "Moxa depends on site and deficiency. About 51 cases use moxa; where a time is printed 15 minutes is commonest (about 22 cases), then 20 minutes (about 8) and 10 minutes (about 4), plus ginger-partitioned moxa counted in cones (3-10). The guide says 10-15 minutes, so the cases often adjust it. Needle-plus-moxa (retain the needle after de qi and moxa) is used in 12 cases. Moxa on the jing-well: Cases 50 and 51 Yinbai 20 minutes, Case 52 Dadun 15 minutes; on yang-deficient sites: Case 42 Shenmen with moxa, Case 121 Guanyuan and Shenque 15 minutes each, Case 75 first moxa Shenque to restore channel function. He states moxa is not barred from heat conditions: in Case 45 (dermatitis) suspended moxa on Yangchi and Zhongquan, the \"lotus-root\" shape of blocked collaterals eased with each session, cured in 3 visits. TDP is 20 minutes and appears in 5 cases (17, 20, 93, 98, 100).",
+      "cite": [
+        "E10",
+        "E27",
+        "E28",
+        "E29",
+        "E30",
+        "E31",
+        "E32",
+        "E33"
+      ]
+    },
+    {
+      "zh": "操、捏割、弹拨、揪是他用手的“调经手法”：他说任何经络脏腑有病、尤其久病，多在相关募穴、俞穴或督脉穴出现异常，可加推拿手法，如操法、割皮法，并说它们出自《史记》所记上古俞跗，配合针灸常见迅速且不可思议的疗效。操法在案例中用了约18案，多在募俞、督脉、胸背和膝内的筋结：案15操心俞使胸闷立刻消失，案4璇玑操到出痧立即止咳，案112膝内操至出痧，案88操第3椎和左胸阿是穴。案15还描述了操法的具体做法：拇指横抵皮肤、四指在前，五指捏拿，先由浅到深、再由深到浅分开皮下肌肉层，重复两次，最后往上提(揪法)。案6、案85用捏割，案93、113、76用弹拨，案76在玉枕用揪法。",
+      "en": "Cao, pinch-cutting, plucking and lifting are his hands-on \"channel-regulating manipulations\". He says whenever a channel or organ is diseased, especially chronically, abnormal reactions often appear at the related front-mu, back-shu or Du points, where manipulations such as cao and skin-cutting can be added; he says these come from Yufu of high antiquity in the Shiji, and used with acupuncture often give rapid and remarkable effects. Cao is used in about 18 cases, mostly at mu-shu points, Du points, chest and back, and knee sinew knots: Case 15 cao on Xinshu cleared chest oppression at once, Case 4 cao on Xuanji until sha stopped the cough at once, Case 112 cao on the medial knee until sha, Case 88 cao on the third vertebra and left chest ashi point. Case 15 also describes the method: thumb across the skin, four fingers in front, pinch with five fingers, separate the subcutaneous and muscle layers first from shallow to deep then deep to shallow, twice, and finish with an upward lift (the lifting method). Cases 6 and 85 use pinch-cutting, Cases 93, 113 and 76 plucking, and Case 76 lifts at Yuzhen.",
+      "cite": [
+        "E34",
+        "E35",
+        "E36",
+        "E37",
+        "E38",
+        "E39",
+        "E40",
+        "E41"
+      ]
+    },
+    {
+      "zh": "头部要搓针：他说头部针刺常得气不足，联想到摩擦生电，后来在头部扎针时用搓针，效果明显提高。左通天(咳嗽)与后顶(督脉相关筋骨病)是两个代表：后顶在案例中见于约18案(疼痛章16案，另案122、124)，搓针时配合患者做直腰、挺胸、头上顶或活动患肢，有时留针4~8小时；案6左通天留针8小时。案104说后顶搓针治经筋病一定要配合患病部位的活动。",
+      "en": "The head gets rubbing-twirling. He says needling the head often gave too little de qi, he thought of generating static by friction, and after he used rubbing-twirling on head needles the effect clearly improved. Left Tongtian (cough) and Houding (Du-related sinew and bone disease) are the two examples: Houding appears in about 18 cases (16 in the pain chapter, plus Cases 122 and 124); during twirling the patient straightens the back, lifts the chest, pushes the head up or moves the affected limb, and it is sometimes retained 4-8 hours; Case 6 retained left Tongtian 8 hours. Case 104 says Houding twirling for sinew disease must be combined with movement of the affected part.",
+      "cite": [
+        "E42",
+        "E43",
+        "E44",
+        "E45",
+        "E46",
+        "E47"
+      ]
+    },
+    {
+      "zh": "一些特殊方法各有条件：水罐见案1，肺俞拔罐时罐内倒不到1/4的温水，约2分钟口干即减，用于滋阴润肺；案44在神阙敷贴温灸膏和温阳穴贴，属“药灸”；案31用拇食指甲结筋加强针感；案124最后用头部按摩(原文作“搁髓脑”)10分钟安神；案56提醒右侧梁门临近肝脏不能过深。皮肤病的针刺要浅(案72)。这些都不是常规，他说明的用意也不同。",
+      "en": "Some special methods each have their conditions. Water cupping (Case 1): warm water under a quarter of the cup is put in for Feishu; the dry mouth eased at about 2 minutes, used to nourish yin and moisten the Lung. In Case 44 warm-moxa paste and a yang-warming point patch were stuck on Shenque, counted as \"medicinal moxa\". Case 31 used thumb and forefinger nail sinew-tying to strengthen needle sensation. Case 124 ended with 10 minutes of head massage (printed 搁髓脑) to settle the spirit. Case 56 warns that right Liangmen lies near the Liver and must not be deep. Needling for skin disease should be shallow (Case 72). None is routine, and his stated purposes differ.",
+      "cite": [
+        "E48",
+        "E49",
+        "E50",
+        "E51",
+        "E52",
+        "E53",
+        "E54"
+      ]
+    },
+    {
+      "zh": "得气感要传，穴要摸准再下针：案95说下针要得气，最好是麻，有时沿经如蚂蚁慢慢串走，或像轻微热水往下流；案42神门、太溪针感传至手指脚趾，汗随之止。找后顶时“用心去感觉后顶的凹陷处”，找准了进针应该不疼。这与他“少而精”的取穴一致：少取穴，但每针都要循摸、得气、感传。",
+      "en": "The sensation should travel, and the point must be found before inserting. Case 95 says needling should reach de qi, best as numbness, sometimes creeping along the channel like ants or flowing down like slightly warm water; in Case 42 the needle sensation of Shenmen and Taixi spread to fingers and toes and sweating stopped. When finding Houding one \"feels with the mind for the hollow\", and if found exactly the insertion should not hurt. This fits his \"few and refined\" points: fewer points, but each palpated, de qi obtained and propagated.",
+      "cite": [
+        "E3",
+        "E55",
+        "E56",
+        "E57"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": {
+        "zh": "表1 刺激法编码与例数(125案，标签与复核)",
+        "en": "Table 1. Stimulation codes and case counts (125 cases, tags and re-check)"
+      },
+      "cols": [
+        {
+          "zh": "刺激法",
+          "en": "Method"
+        },
+        {
+          "zh": "导读的定义",
+          "en": "Definition in the case guide"
+        },
+        {
+          "zh": "案例数：数据标签 / 复核",
+          "en": "Cases: data tag / re-checked"
+        },
+        {
+          "zh": "常见部位与用意",
+          "en": "Usual sites and purpose"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "(未标注)",
+            "en": "(unmarked)"
+          },
+          {
+            "zh": "针刺得气并留针20分钟",
+            "en": "Needle to de qi, retain 20 minutes"
+          },
+          {
+            "zh": "默认，未逐案计数",
+            "en": "The default, not counted case by case"
+          },
+          {
+            "zh": "每针要感传",
+            "en": "Every needle to propagate"
+          }
+        ],
+        [
+          {
+            "zh": "点",
+            "en": "Dian (prick)"
+          },
+          {
+            "zh": "针刺得气后即出针，不留针",
+            "en": "Withdraw at once after de qi, no retention"
+          },
+          {
+            "zh": "42 / 34(标签含“重点”“5点”等误配)",
+            "en": "42 / 34 (tag includes false hits such as 重点, 5点)"
+          },
+          {
+            "zh": "大椎(约13案)、至阳、委中、身柱、长强；升阳、通督",
+            "en": "Dazhui (about 13), Zhiyang, Weizhong, Shenzhu, Changqiang; lift yang, free Du"
+          }
+        ],
+        [
+          {
+            "zh": "刺络放血",
+            "en": "Bleeding"
+          },
+          {
+            "zh": "三棱针在穴络脉浮现处点刺出血",
+            "en": "Three-edged needle pricks where the collateral shows, bleeding"
+          },
+          {
+            "zh": "25 / 24(标签多案12，为咳嗽篇文字)",
+            "en": "25 / 24 (tag adds Case 12, from the cough essay text)"
+          },
+          {
+            "zh": "井穴18案(至阴、关冲多)；另至阳、膈俞、委中、四缝、浮络",
+            "en": "18 jing-well cases (Zhiyin, Guanchong most); also Zhiyang, Geshu, Weizhong, Sifeng, floating collaterals"
+          }
+        ],
+        [
+          {
+            "zh": "刺络拔罐",
+            "en": "Bleed and cup"
+          },
+          {
+            "zh": "点刺后在点刺部位拔罐出血",
+            "en": "Cup over the pricked site so blood comes out"
+          },
+          {
+            "zh": "2 / 2(案30、74)，案46解读另提",
+            "en": "2 / 2 (Cases 30, 74); Case 46 comment also mentions it"
+          },
+          {
+            "zh": "疱疹两端、至阳；清热毒",
+            "en": "Ends of herpes, Zhiyang; clear heat toxin"
+          }
+        ],
+        [
+          {
+            "zh": "灸",
+            "en": "Moxa"
+          },
+          {
+            "zh": "艾灸穴10~15分钟",
+            "en": "Moxa the point 10-15 minutes"
+          },
+          {
+            "zh": "57 / 51(标签含只出现“针灸”者)",
+            "en": "57 / 51 (tag includes cases that only say 针灸)"
+          },
+          {
+            "zh": "大椎、神阙、膏肓、隐白/大敦、关元；补阳、温通",
+            "en": "Dazhui, Shenque, Gaohuang, Yinbai/Dadun, Guanyuan; supplement yang, warm and free"
+          }
+        ],
+        [
+          {
+            "zh": "加灸",
+            "en": "Needle plus moxa"
+          },
+          {
+            "zh": "针刺得气后留针并艾灸10~15分钟",
+            "en": "Retain the needle after de qi and moxa 10-15 minutes"
+          },
+          {
+            "zh": "12 / 12",
+            "en": "12 / 12"
+          },
+          {
+            "zh": "案34、40、42、53、63、68、73、86、106、107、121、123",
+            "en": "Cases 34, 40, 42, 53, 63, 68, 73, 86, 106, 107, 121, 123"
+          }
+        ],
+        [
+          {
+            "zh": "TDP",
+            "en": "TDP"
+          },
+          {
+            "zh": "TDP治疗仪在穴部位照射20分钟",
+            "en": "TDP lamp on the point 20 minutes"
+          },
+          {
+            "zh": "5 / 5",
+            "en": "5 / 5"
+          },
+          {
+            "zh": "案17、20、93、98、100(腹、腰)",
+            "en": "Cases 17, 20, 93, 98, 100 (abdomen, low back)"
+          }
+        ],
+        [
+          {
+            "zh": "操法(手法，非导读编码)",
+            "en": "Cao (manual, not a guide code)"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          },
+          {
+            "zh": "18 / 18(17案见于治疗行，案4见于解读)",
+            "en": "18 / 18 (17 in treatment lines, Case 4 in the comment)"
+          },
+          {
+            "zh": "募俞、督脉、胸背、膝内筋结；出痧",
+            "en": "Mu-shu, Du, chest and back, medial-knee sinew knots; sha"
+          }
+        ],
+        [
+          {
+            "zh": "后顶搓针(手法)",
+            "en": "Houding twirling (manual)"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          },
+          {
+            "zh": "— / 约18(疼痛章16+案122、124)",
+            "en": "— / about 18 (16 in pain chapter, plus 122, 124)"
+          },
+          {
+            "zh": "督脉相关经筋病；配合活动",
+            "en": "Du-related sinew disease; with movement"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表2 放血量对照(案例与井穴放血篇)",
+        "en": "Table 2. Bleeding amounts in the cases against the essay"
+      },
+      "cols": [
+        {
+          "zh": "案与穴",
+          "en": "Case and point"
+        },
+        {
+          "zh": "放血量/血色",
+          "en": "Amount / colour"
+        },
+        {
+          "zh": "他的说明",
+          "en": "His explanation"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "案115 左少泽(耳闭塞)",
+            "en": "C115 left Shaoze (ear blockage)"
+          },
+          {
+            "zh": "6滴",
+            "en": "6 drops"
+          },
+          {
+            "zh": "取井穴宜泻血引阳通络，但不宜多",
+            "en": "Jing-well bleeding should lead yang out, but not much"
+          }
+        ],
+        [
+          {
+            "zh": "案83 左少商(肩痛)",
+            "en": "C83 left Shaoshang (shoulder pain)"
+          },
+          {
+            "zh": "7滴；商阳放血时手五里酸为虚象",
+            "en": "7 drops; sore Wuli when Shangyang is bled reads as deficiency"
+          },
+          {
+            "zh": "引阳通络",
+            "en": "Lead yang out, free the collaterals"
+          }
+        ],
+        [
+          {
+            "zh": "案76 右至阴(偏头痛)",
+            "en": "C76 right Zhiyin (headache)"
+          },
+          {
+            "zh": "5滴",
+            "en": "5 drops"
+          },
+          {
+            "zh": "太阳为本，引阳通络",
+            "en": "Taiyang the root; lead yang out"
+          }
+        ],
+        [
+          {
+            "zh": "案89 左至阴(腰痛)",
+            "en": "C89 left Zhiyin (low back pain)"
+          },
+          {
+            "zh": "9滴，血色黑",
+            "en": "9 drops, black blood"
+          },
+          {
+            "zh": "久坐痛提示太阳络瘀滞",
+            "en": "Pain on prolonged sitting suggests Taiyang collateral stasis"
+          }
+        ],
+        [
+          {
+            "zh": "案94 左至阴(慢性腰腿痛)",
+            "en": "C94 left Zhiyin (chronic low back and leg pain)"
+          },
+          {
+            "zh": "10滴",
+            "en": "10 drops"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ],
+        [
+          {
+            "zh": "案33 双少泽、关冲(面瘫)",
+            "en": "C33 both Shaoze, Guanchong (facial palsy)"
+          },
+          {
+            "zh": "12滴",
+            "en": "12 drops"
+          },
+          {
+            "zh": "—",
+            "en": "—"
+          }
+        ],
+        [
+          {
+            "zh": "案95 左关冲(乳突胀)",
+            "en": "C95 left Guanchong (mastoid distension)"
+          },
+          {
+            "zh": "先10滴后16滴",
+            "en": "10 drops, then 16"
+          },
+          {
+            "zh": "放血量以血色变浅为标准",
+            "en": "The end point is when the blood turns pale"
+          }
+        ],
+        [
+          {
+            "zh": "案104 左至阴(下肢酸困)",
+            "en": "C104 left Zhiyin (leg aching)"
+          },
+          {
+            "zh": "21滴；血色黑，至血清为止",
+            "en": "21 drops; black blood, until it clears"
+          },
+          {
+            "zh": "太阳瘀滞；另一侧挤不出血，须取准才出",
+            "en": "Taiyang stasis; the other side gave no blood until the exact site was found"
+          }
+        ],
+        [
+          {
+            "zh": "(井穴放血篇)",
+            "en": "(jing-well essay)"
+          },
+          {
+            "zh": "1~8滴引阳通络；8~15滴祛滞；16~20滴泻热；第1滴深色则放到变浅，浅色至多约6滴",
+            "en": "1-8 drops lead yang out; 8-15 remove stagnation; 16-20 drain heat; dark first drop: continue until it pales; pale first drop: about 6 at most"
+          },
+          {
+            "zh": "血为气之母，实证大量出血带走邪气瘀滞",
+            "en": "Blood carries qi, so a large bleed in excess takes the pathogen out"
+          }
+        ]
+      ]
+    },
+    {
+      "title": {
+        "zh": "表3 手法：部位、用意与案例",
+        "en": "Table 3. Manual techniques: site, purpose and cases"
+      },
+      "cols": [
+        {
+          "zh": "手法",
+          "en": "Technique"
+        },
+        {
+          "zh": "部位",
+          "en": "Site"
+        },
+        {
+          "zh": "用意/效果",
+          "en": "Purpose / effect"
+        },
+        {
+          "zh": "案例",
+          "en": "Cases"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "操法",
+            "en": "Cao"
+          },
+          {
+            "zh": "募穴、俞穴：中府、心俞、脾俞、肺俞等",
+            "en": "Mu and shu points: Zhongfu, Xinshu, Pishu, Feishu and others"
+          },
+          {
+            "zh": "促进局部气血，需先在穴处摸到异常；操心俞胸闷立消",
+            "en": "Speeds local qi and blood, needs an abnormality felt first; cao on Xinshu cleared chest oppression"
+          },
+          {
+            "zh": "案7、8、11、12、15",
+            "en": "C7, 8, 11, 12, 15"
+          }
+        ],
+        [
+          {
+            "zh": "操法",
+            "en": "Cao"
+          },
+          {
+            "zh": "督脉、任脉点：璇玑、第3椎",
+            "en": "Du and Ren points: Xuanji, third vertebra"
+          },
+          {
+            "zh": "出痧；案4立即止咳，案88背痛痊愈",
+            "en": "Until sha; Case 4 cough stopped at once, Case 88 back pain cured"
+          },
+          {
+            "zh": "案4、88",
+            "en": "C4, 88"
+          }
+        ],
+        [
+          {
+            "zh": "操法",
+            "en": "Cao"
+          },
+          {
+            "zh": "肩、膝的筋结、阿是穴",
+            "en": "Sinew knots and ashi points of shoulder and knee"
+          },
+          {
+            "zh": "老年骨关节病和扭伤；操到出痧",
+            "en": "Senile osteoarthritis and sprain; cao until sha"
+          },
+          {
+            "zh": "案85、95、108、112、113",
+            "en": "C85, 95, 108, 112, 113"
+          }
+        ],
+        [
+          {
+            "zh": "割皮(捏割)",
+            "en": "Skin-cutting (pinch-cutting)"
+          },
+          {
+            "zh": "身柱两旁、经渠",
+            "en": "Beside Shenzhu, Jingqu"
+          },
+          {
+            "zh": "捏割至出痧，疏通浅层瘀滞",
+            "en": "Pinch-cut until sha, freeing superficial stasis"
+          },
+          {
+            "zh": "案6、85",
+            "en": "C6, 85"
+          }
+        ],
+        [
+          {
+            "zh": "弹拨/揪",
+            "en": "Plucking / lifting"
+          },
+          {
+            "zh": "同名经对应点；京骨、金门、玉枕",
+            "en": "Same-name matching points; Jinggu, Jinmen, Yuzhen"
+          },
+          {
+            "zh": "急性经筋病；案76头痛略缓、玉枕揪后明显缓解",
+            "en": "Acute sinew disease; Case 76 headache eased, clearly after lifting at Yuzhen"
+          },
+          {
+            "zh": "案76、93、113",
+            "en": "C76, 93, 113"
+          }
+        ],
+        [
+          {
+            "zh": "结筋",
+            "en": "Sinew-tying"
+          },
+          {
+            "zh": "足太阳经束骨与京骨间结块；指甲结筋",
+            "en": "Lump between Shugu and Jinggu on Foot Taiyang; nail sinew-tying"
+          },
+          {
+            "zh": "散结块；加强针感",
+            "en": "Disperse the lump; strengthen sensation"
+          },
+          {
+            "zh": "案106、31",
+            "en": "C106, 31"
+          }
+        ],
+        [
+          {
+            "zh": "搓针",
+            "en": "Rubbing-twirling"
+          },
+          {
+            "zh": "后顶、左通天、顶结节",
+            "en": "Houding, left Tongtian, parietal nodule"
+          },
+          {
+            "zh": "头部得气不足；配合患者活动使经筋回位",
+            "en": "Poor de qi at the head; with patient movement to return the sinew"
+          },
+          {
+            "zh": "案6；案83、88、89、93、96、97、104等",
+            "en": "C6; C83, 88, 89, 93, 96, 97, 104 and others"
+          }
+        ]
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "quote": "最后，根据症候的性质选择最适宜的针灸方法",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.2"
+    },
+    {
+      "id": "E2",
+      "quote": "在此基础上，王教授建立了察经一辨经一选经一选穴一针灸操作为一体的针灸治疗学体系",
+      "src": "王居易针灸医案讲习录·学术思想简介 p.2"
+    },
+    {
+      "id": "E3",
+      "quote": "同时对针灸得气要求甚高，必要每针皆有感传",
+      "src": "王居易针灸医案讲习录·医案导读 p.2"
+    },
+    {
+      "id": "E4",
+      "quote": "1.点：针刺得气后即出针，不留针",
+      "src": "王居易针灸医案讲习录·医案导读·二、对本书穴刺激方法标注的说明 p.2"
+    },
+    {
+      "id": "E5",
+      "quote": "2.刺络放血：三棱针在穴络脉浮现处点刺出血",
+      "src": "王居易针灸医案讲习录·医案导读·二 p.2"
+    },
+    {
+      "id": "E6",
+      "quote": "3.刺络拔罐：三棱针在瑜穴络脉浮现处点刺后,在点刺部位拔罐出血",
+      "src": "王居易针灸医案讲习录·医案导读·二 p.2"
+    },
+    {
+      "id": "E7",
+      "quote": "4.灸：艾灸穴10~15分钟",
+      "src": "王居易针灸医案讲习录·医案导读·二 p.2"
+    },
+    {
+      "id": "E8",
+      "quote": "5.加灸：针刺穴得气后留针并艾灸瑜穴10～15分钟",
+      "src": "王居易针灸医案讲习录·医案导读·二 p.2"
+    },
+    {
+      "id": "E9",
+      "quote": "7.书中未做刺激法标注的均为针刺瑜穴得气并留针20分钟",
+      "src": "王居易针灸医案讲习录·医案导读·二 p.2"
+    },
+    {
+      "id": "E10",
+      "quote": "6.TDP：使用TDP治疗仪在穴部位照射20分钟",
+      "src": "王居易针灸医案讲习录·医案导读·二 p.2"
+    },
+    {
+      "id": "E11",
+      "quote": "察督脉时发现大椎上崇骨（经外奇穴）穴反应明显，故点刺此穴。行针时感觉指（穴位）下有虚象，因此使用补法，患者感觉后背热乎乎的。针刺后加灸15分钟",
+      "src": "王居易针灸医案讲习录·案40·医案解读"
+    },
+    {
+      "id": "E12",
+      "quote": "点刺大椎之后，患者逐渐能正常出汗，皮疹随之减轻",
+      "src": "王居易针灸医案讲习录·案73·医案解读"
+    },
+    {
+      "id": "E13",
+      "quote": "通常须察至阳到神道，点至阳穴，主治与厥阴经有关的焦虑症、失眠",
+      "src": "王居易针灸医案讲习录·案120·医案解读"
+    },
+    {
+      "id": "E14",
+      "quote": "因此用1寸半的针点委中穴，膝痛消失",
+      "src": "王居易针灸医案讲习录·案95·医案解读"
+    },
+    {
+      "id": "E15",
+      "quote": "大椎得气为热感，得气后旋转针柄，有益气升阳作用，患者常有热感出现。大椎不留针，列缺可留针。一般治疗1～2次即可",
+      "src": "王居易针灸医案讲习录·诊后絮语·关于咳嗽症候的讨论 p.19"
+    },
+    {
+      "id": "E16",
+      "quote": "井穴位于阴阳交会处，有引阳通络、泻实祛滞与宣痹开结的作用",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.130"
+    },
+    {
+      "id": "E17",
+      "quote": "出少量血（1～8滴），引阳通络（止虚性痛）",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.131"
+    },
+    {
+      "id": "E18",
+      "quote": "出较多血（16～20滴），泻热",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.131"
+    },
+    {
+      "id": "E19",
+      "quote": "第1滴血如色深为实证，应该继续放血，至血色变浅则止，有祛邪、清热的作用",
+      "src": "王居易针灸医案讲习录·诊后絮语·井穴放血的作用 p.131"
+    },
+    {
+      "id": "E20",
+      "quote": "故取井穴尤宜泻血以引阳通络，但不宜多，使气机通达，气机自复，症自消失，是为主穴",
+      "src": "王居易针灸医案讲习录·案115·医案解读"
+    },
+    {
+      "id": "E21",
+      "quote": "滴，血色黑），并点刺左委中",
+      "src": "王居易针灸医案讲习录·案89·医案解读"
+    },
+    {
+      "id": "E22",
+      "quote": "放血量以血色变浅为标准",
+      "src": "王居易针灸医案讲习录·案95·医案解读"
+    },
+    {
+      "id": "E23",
+      "quote": "至阴放血色黑，至血清为止",
+      "src": "王居易针灸医案讲习录·案104·医案解读"
+    },
+    {
+      "id": "E24",
+      "quote": "疱疹两端刺络放血（血罐），针商丘、内庭、公孙",
+      "src": "王居易针灸医案讲习录·案30·三诊"
+    },
+    {
+      "id": "E25",
+      "quote": "至阳拔罐放血，可清热毒",
+      "src": "王居易针灸医案讲习录·案74·医案解读"
+    },
+    {
+      "id": "E26",
+      "quote": "再配大椎刺血拔罐增加出血量",
+      "src": "王居易针灸医案讲习录·案46·医案解读"
+    },
+    {
+      "id": "E27",
+      "quote": "灸隐白能升阳益气止血",
+      "src": "王居易针灸医案讲习录·案50·医案解读"
+    },
+    {
+      "id": "E28",
+      "quote": "故单取温阳行气功效显著的手足少阴经原穴神门、太溪相配，并在神门用灸法，以温补心肾阳气",
+      "src": "王居易针灸医案讲习录·案42·医案解读"
+    },
+    {
+      "id": "E29",
+      "quote": "主要是灸神阙以益元气，恢复经络功能为治疗提供条件",
+      "src": "王居易针灸医案讲习录·诊后絮语·头痛总结 p.191"
+    },
+    {
+      "id": "E30",
+      "quote": "其实灸法能用于各种各样的病，无论表、里、寒、热、虚、实都能治，只是看你取哪些穴位",
+      "src": "王居易针灸医案讲习录·案45·医案解读"
+    },
+    {
+      "id": "E31",
+      "quote": "必须继续灸该部位，至莲藕形象消失为止，消失就说明络脉已通",
+      "src": "王居易针灸医案讲习录·案45·医案解读"
+    },
+    {
+      "id": "E32",
+      "quote": "因膝痛在浅部，用灸时只需要轻度温热，取浅部的热透作用",
+      "src": "王居易针灸医案讲习录·案106·医案解读"
+    },
+    {
+      "id": "E33",
+      "quote": "在缪刺处用灸不用针",
+      "src": "王居易针灸医案讲习录·案107·医案解读"
+    },
+    {
+      "id": "E34",
+      "quote": "任何经络脏腑有病时，尤其是久病，多在相关募穴、俞穴或相关的督脉穴有异常反应，可采用适当的推拿手法来协助治疗，如操法、割皮法等",
+      "src": "王居易针灸医案讲习录·案7·医案解读"
+    },
+    {
+      "id": "E35",
+      "quote": "这类手法出自《史记·扁鹊仓公传》，传说来自于上古医家俞踏，代表古代的调整经络的手法",
+      "src": "王居易针灸医案讲习录·案7·医案解读"
+    },
+    {
+      "id": "E36",
+      "quote": "应用这类手法配合针灸治疗常可取得不可思议的临床疗效，并且取效迅速",
+      "src": "王居易针灸医案讲习录·案7·医案解读"
+    },
+    {
+      "id": "E37",
+      "quote": "操法的具体操作为拇指横抵于皮肤，另外四指置于拇指前方的皮肤处，以五指捏拿肌肤",
+      "src": "王居易针灸医案讲习录·案15·医案解读"
+    },
+    {
+      "id": "E38",
+      "quote": "操完心俞之后，患者胸闷立即消失",
+      "src": "王居易针灸医案讲习录·案15·医案解读"
+    },
+    {
+      "id": "E39",
+      "quote": "因此于此处使用操法直到出痧，立刻止咳",
+      "src": "王居易针灸医案讲习录·案4·医案解读"
+    },
+    {
+      "id": "E40",
+      "quote": "二诊症减，加捏割身柱两旁",
+      "src": "王居易针灸医案讲习录·案6·医案解读"
+    },
+    {
+      "id": "E41",
+      "quote": "在右侧玉枕使用揪法，楸几下以后患者头痛明显缓解",
+      "src": "王居易针灸医案讲习录·案76·医案解读"
+    },
+    {
+      "id": "E42",
+      "quote": "有一天笔者联想到产生静电的方法，认为在头部穴位做类似",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.198"
+    },
+    {
+      "id": "E43",
+      "quote": "后来笔者采用在头部扎针时使用搓针手法，发现效果明显提高",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.198"
+    },
+    {
+      "id": "E44",
+      "quote": "反复搓针的同时，医生应要求患者渐次做以下动作：直腰；挺胸；头向上顶",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.197"
+    },
+    {
+      "id": "E45",
+      "quote": "根据病情有时要求患者留针4~8小时",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.197"
+    },
+    {
+      "id": "E46",
+      "quote": "左通天是笔者在临床发现的特殊穴位，止咳功能较强",
+      "src": "王居易针灸医案讲习录·案6·医案解读"
+    },
+    {
+      "id": "E47",
+      "quote": "后顶搓针治疗经筋病时一定要配合患病部位的活动，促使病变经筋疏通回位",
+      "src": "王居易针灸医案讲习录·案104·医案解读"
+    },
+    {
+      "id": "E48",
+      "quote": "肺俞穴用水罐可滋阴润肺，方法是在灌里倒入温水（占罐容量1/4以下）再拔罐",
+      "src": "王居易针灸医案讲习录·案1·医案解读"
+    },
+    {
+      "id": "E49",
+      "quote": "拔水罐约2分钟时，患者即感觉口干减轻",
+      "src": "王居易针灸医案讲习录·案1·医案解读"
+    },
+    {
+      "id": "E50",
+      "quote": "又在神阙穴敷贴温灸膏和温阳穴贴，以在关键的穴益气温阳，属于“药灸”的范围",
+      "src": "王居易针灸医案讲习录·案44·医案解读"
+    },
+    {
+      "id": "E51",
+      "quote": "先使用拇、食指甲结筋（见第191页诊后絮语详解），加强面部和手臂针感",
+      "src": "王居易针灸医案讲习录·案31·医案解读"
+    },
+    {
+      "id": "E52",
+      "quote": "最后几次使用搁髓脑的手法，每次10分钟，有安神的作用",
+      "src": "王居易针灸医案讲习录·案124·医案解读"
+    },
+    {
+      "id": "E53",
+      "quote": "针右侧梁门穴要谨慎，不能过深，因为临近肝脏",
+      "src": "王居易针灸医案讲习录·案56·医案解读"
+    },
+    {
+      "id": "E54",
+      "quote": "皮肤病不要深刺，要针刺在皮节",
+      "src": "王居易针灸医案讲习录·案72·医案解读"
+    },
+    {
+      "id": "E55",
+      "quote": "下针要得气，最好是麻，（有时往上）沿着经络像蚂蚁慢慢往前串走样针感，或像轻微的热水往下流",
+      "src": "王居易针灸医案讲习录·案95·医案解读"
+    },
+    {
+      "id": "E56",
+      "quote": "针刺神门、太溪针感传至手指、脚趾。艾灸结束后，手心转暖，汗出随即停止",
+      "src": "王居易针灸医案讲习录·案42"
+    },
+    {
+      "id": "E57",
+      "quote": "如果穴位找的准确，进针应该不疼",
+      "src": "王居易针灸医案讲习录·诊后絮语·后顶搓针法 p.197"
+    }
+  ],
+  "how_to_use": {
+    "zh": "先把察经、选经、选穴做完，再按表1选刺激：要引阳升阳用点，瘀滞或实热用刺络放血并按第1滴血色定量(表2)，虚寒阳虚用灸或加灸，经筋、筋结、募俞异常处用手法(表3)，头部得气不足用搓针。",
+    "en": "Finish palpation, channel and point choice first, then pick the stimulation from Table 1: dian to lift or lead yang, bleeding for stasis or excess heat with the amount set by the first drop (Table 2), moxa or needle-plus-moxa for cold and yang deficiency, manipulations for sinew, knots and mu-shu abnormalities (Table 3), and rubbing-twirling where de qi at the head is poor."
+  },
+  "caveats": {
+    "zh": "例数是按各案“选穴”和各诊记录的印刷标注复核的：数据里的标签是自动匹配，含误配(“针灸”被当作灸，“重点”被当作点刺，案12混入咳嗽篇文字)，所以标签数偏大。复核按印刷标注人工判断，仍可能与另一种读法有一两案出入，后顶(约18案)、“大椎点刺约13案”等为人工点数。导读写灸10~15分钟，而案例中15分钟最多、20分钟约8案，可见导读只是默认。割皮、结筋、解肌、决脉在絮语中给出定义，但案例中以操法、捏割、弹拨、放血出现，未逐案标注“解肌”。OCR：瑜穴=腧穴，俞踏=俞跗，搁髓脑=按摩头部的方法原字，楸=揪，灌=罐。",
+    "en": "The counts were re-checked against the printed marks in each case's point line and visit records: the data tags are automatic matches with false hits (\"针灸\" read as moxa, \"重点\" as prick, Case 12 carrying cough-essay text), so tag counts run high. The re-check is by hand, and one or two cases could be read the other way; the Houding count (about 18) and \"Dazhui pricked, about 13\" are hand tallies. The guide says moxa 10-15 minutes but 15 minutes is commonest in the cases and about 8 use 20 minutes, so the guide is only the default. Skin-cutting, sinew-tying, muscle-release and vessel-opening are defined in the essay, but in the cases they appear as cao, pinch-cutting, plucking and bleeding; muscle-release is not marked case by case. OCR: 瑜穴 = shu point, 俞踏 = Yufu, 搁髓脑 is the printed form of a head-massage name, 楸 = 揪, 灌 = 罐."
+  },
+  "see": {
+    "cases": [
+      "wjy-001",
+      "wjy-006",
+      "wjy-015",
+      "wjy-040",
+      "wjy-050",
+      "wjy-076",
+      "wjy-095",
+      "wjy-104"
+    ],
+    "points": [
+      "大椎",
+      "至阳",
+      "委中",
+      "隐白",
+      "关冲",
+      "至阴",
+      "后顶",
+      "通天",
+      "神阙",
+      "身柱",
+      "中府",
+      "膏肓"
+    ]
+  }
+}
