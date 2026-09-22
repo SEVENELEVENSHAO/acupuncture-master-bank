@@ -1,0 +1,146 @@
+{
+  "id": "sxm-40-research-evidence",
+  "doctor": "shixuemin",
+  "group": { "zh": "研究证据", "en": "Research evidence" },
+  "order": 40,
+  "title": {
+    "zh": "《临证实验录》第六篇：手法量学与醒脑开窍的实验证据",
+    "en": "Evidence from 《Linzheng Shiyan Lu》 Part 6: Trials Behind Manipulation Dosage and Xingnao Kaiqiao"
+  },
+  "summary": {
+    "zh": "这是他自己收录的一组临床/实验研究摘要：多种病种的施术时间-量效关系（找出“最佳时间参数”，多为1分钟），以及醒脑开窍法与传统针法在微循环、心功能、颅底血流动力学、脑电地形图、临床疗效五个维度上的对照研究，最后是一项多中心随机对照试验。核心结论：针刺效应有持续时间（多数4~6小时），有“最佳施术时间”（多为1分钟，个别3分钟），且多次治疗有“效应蓄积”；醒脑开窍法在这些客观指标上普遍优于传统针刺组。",
+    "en": "A self-selected set of research abstracts: dose-response (施术时间) experiments across many conditions to find a “best time parameter” (usually 1 minute), plus head-to-head trials of Xingnao Kaiqiao vs. traditional needling on microcirculation, cardiac function, skull-base hemodynamics, EEG topography and clinical outcome, ending with a multicenter RCT. Core findings: needling effect has a duration (usually 4–6 hours), a “best operating time” (usually 1 minute, occasionally 3), effects accumulate over repeated treatments, and Xingnao Kaiqiao out-performs traditional needling on these objective measures."
+  },
+  "takeaways": [
+    {
+      "zh": "他把“最佳施术时间”当作一个可测量、按病种各异的参数，而不是固定教条：大动脉炎、冠心病、脑梗死颅底血流等多组实验都独立得出约1分钟为佳，仅椎-基底动脉供血不足一组以3分钟为佳。",
+      "en": "He treats the “best operating time” as a measurable, disease-specific parameter rather than a fixed rule: multiple independent experiments (large-artery arteritis, coronary disease, skull-base flow in stroke) converge on ~1 minute, while vertebrobasilar insufficiency alone came out best at 3 minutes.",
+      "cite": ["E1", "E2"]
+    },
+    {
+      "zh": "针刺效应有明确的持续时间：多数实验测到4~6小时；人迎穴治疗中风，效应持续6小时后开始衰减，据此他建议此类患者每6小时针刺1次。",
+      "en": "Needling effect has a measurable duration — most experiments found 4–6 hours; for Renying in stroke the effect held for 6 hours before decaying, from which he derives a treat-every-6-hours schedule for that case.",
+      "cite": ["E3"]
+    },
+    {
+      "zh": "疗效不是一次性的，而是“效应蓄积”：冠心病心电图改善需要维持治疗、蓄积作用约1~2个月；脑梗死颅底血流的PI、RI指标在一个疗程（多次治疗）后改善最显著，优于单次即刻效应。",
+      "en": "Benefit is not a one-off event but accumulates (“效应蓄积”): coronary ECG improvement needed sustained treatment with ~1–2 months of accumulation; in stroke, skull-base flow indices (PI, RI) improved most after a full course rather than after a single session.",
+      "cite": ["E4", "E5"]
+    },
+    {
+      "zh": "他用施术者对照排除术者偏差：对6例冠心病患者由不同施术者用相同频率、幅度、时长（1分钟）操作，结果相同，说明规范化手法一旦量化，疗效可重复，不依赖个人手感。",
+      "en": "He controlled for operator bias directly: different practitioners using the same frequency, amplitude and duration (1 minute) on the same 6 coronary patients got the same result — evidence that a quantified manipulation is reproducible, not dependent on an individual's “feel”.",
+      "cite": ["E6"]
+    },
+    {
+      "zh": "醒脑开窍组在五个独立指标体系上都优于传统针刺组：球结膜/甲皱微循环、心功能九项指标、颅底血流动力学（PI/RI）、脑电地形图慢波功率、以及临床症状（肢体瘫痪、语言、吞咽、中枢性面瘫）治愈率/有效率。",
+      "en": "The Xingnao Kaiqiao group out-performed the traditional-needling group on five independent measurement systems: bulbar-conjunctival/nailfold microcirculation, nine cardiac-function indices, skull-base hemodynamics (PI/RI), EEG slow-wave power topography, and clinical symptom recovery (limb paralysis, speech, swallowing, central facial palsy).",
+      "cite": ["E7", "E8", "E9", "E10", "E11"]
+    },
+    {
+      "zh": "在中风肢体瘫痪的疗效对比中，醒脑开窍组有效率达97.73%，比西医对照组高28.50个百分点；语言障碍有效率91.67%（对照51.43%）；中枢性面瘫100.00%（对照5.71%）——他把这类差距列为醒脑开窍优于单纯西医治疗的直接依据。",
+      "en": "In the stroke-limb-paralysis comparison, the Xingnao group's response rate reached 97.73%, 28.50 points above the Western-medicine control; speech-disorder response was 91.67% (vs. 51.43%) and central facial palsy 100.00% (vs. 5.71%) — he cites these gaps as direct evidence Xingnao Kaiqiao outperforms Western treatment alone.",
+      "cite": ["E12"]
+    },
+    {
+      "zh": "他明确承认这些早期研究的局限（样本小、未充分匹配基线），并以后续的多中心、盲法、随机对照试验（RCT）作为更高级别证据，援引循证医学“金标准”的说法来定位醒脑开窍法的证据等级。",
+      "en": "He explicitly flags the limits of the earlier studies (small samples, unmatched baselines) and positions a later multicenter, blinded RCT as higher-grade evidence, invoking the “gold standard” language of evidence-based medicine to place Xingnao Kaiqiao's evidence base.",
+      "cite": ["E13", "E14"]
+    },
+    {
+      "zh": "多中心RCT里，醒脑开窍处方比早期版本更细分：主穴(内关、水沟、三阴交)、辅穴(极泉、委中、尺泽)、配穴按症状加穴(吞咽障碍加风池/翳风/完骨；手指握固加合谷；语言不利加上廉泉+金津玉液放血；足内翻加丘墟透照海)，而对照组统一使用教材传统处方。",
+      "en": "In the multicenter RCT the Xingnao formula is stratified more finely than the earlier version: 主穴 primary (内关, 水沟, 三阴交), 辅穴 supporting (极泉, 委中, 尺泽), and 配穴 symptom-specific additions (吞咽障碍 → 风池/翳风/完骨; 手指握固 → 合谷; 语言不利 → 上廉泉 + bleeding 金津/玉液; 足内翻 → 丘墟透照海), against a textbook-standard control formula.",
+      "cite": ["E15"]
+    }
+  ],
+  "sections": [
+    {
+      "h": { "zh": "施术时间量效实验一览", "en": "Dose-response experiments" },
+      "body": {
+        "zh": "第一章逐一列举了不同病种的施术时间实验：大动脉炎(人迎、太渊，小幅度高频率捻转补法，1分钟)、胆结石(太冲、阳陵泉、日月，大幅度低频率捻转泻法，1分钟，配合胆囊造影验证排石)、冠心病(内关/郄门/膻中/心俞/膈俞，捻转补法，比较0/0.5/1/3分钟四档，1分钟最佳)、顽固性便秘(丰隆、左水道、左归来，大幅度低频率捻转泻法，1分钟，108例有效率95.6%)、冠心病心功能不全(双侧膈俞，即刻/1/3/5分钟+对照五组各20例，1分钟总有效率90%最高)、中风(人迎，效应持续6小时)、椎-基底动脉供血不足(风池/完骨/天柱，小幅度高频率捻转补法，3分钟，效应持续4~6小时)。见下表。",
+        "en": "Chapter 1 works through a series of timed-dose experiments across conditions: large-artery arteritis (Renying, Taiyuan; small-amplitude high-frequency twirling tonification, 1 min), gallstones (Taichong, Yanglingquan, Riyue; large-amplitude low-frequency twirling reduction, 1 min, verified by cholecystography), coronary disease (Neiguan/Ximen/Danzhong/Xinshu/Geshu; twirling tonification compared at 0/0.5/1/3 min — 1 min best), refractory constipation (Fenglong, left Shuidao, left Guilai; large-amplitude low-frequency twirling reduction, 1 min; 95.6% response in 108 patients), coronary heart failure (bilateral Geshu; immediate/1/3/5-min + control, 20 each — 1 min group had the highest total response rate, 90%), stroke (Renying; effect lasted 6 hours), and vertebrobasilar insufficiency (Fengchi, Wangu, Tianzhu; small-amplitude high-frequency twirling tonification, 3 min; effect lasted 4–6 hours)."
+      }
+    },
+    {
+      "h": { "zh": "五项醒脑开窍对照实验", "en": "Five head-to-head Xingnao Kaiqiao trials" },
+      "body": {
+        "zh": "第二至六章各自用一套客观指标比较醒脑开窍与传统针刺：中风合并吞咽障碍患者的脑血流图(风池/翳风/完骨，即刻起效且15分钟内不衰减)；中风患者球结膜与甲皱微循环(31例，醒脑组22/传统组9，醒脑组血流速度、管襻开放数等指标改善更显著)；冠心病心功能九项指标与心肌耗氧量(内关、三阴交两组各30例，针后多数指标显著改善，内关组总有效率70%、三阴交组显效率33.33%最高)；脑梗死颅底血流动力学TCD(120例分醒脑/传统/静卧三组，醒脑组对PI、RI的改善在一个疗程后最显著)；脑梗死脑电地形图BEAM(40例醒脑/传统各20，醒脑组45天后慢波功率下降、α功率回升，范围更广)。",
+        "en": "Chapters 2–6 each use one objective system to compare Xingnao Kaiqiao against traditional needling: rheoencephalography in stroke with dysphagia (Fengchi/Yifeng/Wangu; effect immediate, undiminished at 15 min); bulbar-conjunctival and nailfold microcirculation in stroke (31 patients, Xingnao 22 vs. traditional 9 — Xingnao showed larger improvements in flow speed and capillary-loop opening); nine cardiac-function indices and myocardial oxygen consumption in coronary disease (Neiguan and Sanyinjiao groups, 30 each — Neiguan group highest total response 70%, Sanyinjiao group highest marked-response rate 33.33%); TCD skull-base hemodynamics in stroke (120 patients in Xingnao/traditional/bed-rest groups — Xingnao's PI/RI improvement most marked after a full course); and EEG topography (BEAM) in stroke (40 patients, 20 each — Xingnao group showed lower slow-wave power and higher alpha power over a wider area at 45 days)."
+      }
+    },
+    {
+      "h": { "zh": "疗效比较与多中心RCT", "en": "Outcome comparison and the multicenter RCT" },
+      "body": {
+        "zh": "第七章先给出一项醒脑开窍对西医治疗(40 vs 40)的对照：肢体瘫痪、语言障碍、舌体运动、中枢性面瘫、吞咽困难的治愈率/有效率均显著更高。随后描述了一项更严谨的多中心、盲法（评估者）、随机对照试验（4家三级甲等医院），西医基础治疗相同，醒脑组加醒脑开窍针刺(主穴内关/水沟/三阴交，辅穴极泉/委中/尺泽，按症状配穴)，常规组加教材传统处方，随访6个月，评估神经功能缺损评分(NIHSS/SSS/CSS)、中医证候、复发率与安全性；结论是醒脑开窍针刺在降低复发率、改善神经功能与证候方面优于或有优于常规针刺的趋势，安全性两组相当。",
+        "en": "Chapter 7 opens with a 40-vs-40 comparison of Xingnao Kaiqiao against Western treatment alone — significantly higher cure/response rates for limb paralysis, speech, tongue movement, central facial palsy and swallowing difficulty. It then describes a more rigorous multicenter, assessor-blinded RCT (4 tertiary hospitals) with identical Western baseline care; the Xingnao arm added Xingnao Kaiqiao needling (primary points Neiguan/Shuigou/Sanyinjiao, supporting points Jiquan/Weizhong/Chize, symptom-specific additions), the control arm added a textbook-standard formula; 6-month follow-up assessed neurological deficit scores (NIHSS/SSS/CSS), TCM pattern outcomes, recurrence and safety. Conclusion: Xingnao Kaiqiao needling was superior to, or trended superior to, routine needling on recurrence and neurological/pattern outcomes, with comparable safety."
+      }
+    }
+  ],
+  "tables": [
+    {
+      "title": { "zh": "施术时间实验：病种、取穴、最佳参数", "en": "Dosage experiments: condition, points, best parameter" },
+      "cols": [{ "zh": "病种", "en": "Condition" }, { "zh": "取穴", "en": "Points" }, { "zh": "手法", "en": "Manipulation" }, { "zh": "最佳时间", "en": "Best time" }, { "zh": "结果", "en": "Result" }],
+      "rows": [
+        ["大动脉炎 (15例)", "人迎、太渊(+气冲、冲阳)", "小幅度高频率捻转补法", "1分钟", "3~5天脉搏均可触及，血流波幅提高"],
+        ["胆结石", "太冲、阳陵泉、日月", "大幅度低频率捻转泻法", "1分钟", "胆囊造影证实结石移向胆囊颈部，排石效果好"],
+        ["冠心病 (24例)", "内关、郄门、膻中、心俞、膈俞", "捻转补法", "1分钟", "心电图S-T段回升；0/0.5分钟无效，3分钟例数少不确定"],
+        ["顽固性便秘 (108例)", "丰隆、左水道、左归来", "大幅度低频率捻转泻法", "1分钟", "有效率95.6%，最短20分钟排便"],
+        ["冠心病心功能不全 (100例)", "双侧膈俞", "小幅度高频率捻转补法", "1分钟", "总有效率90%，为五组最高"],
+        ["中风", "人迎", "—", "—(单次效应持续6小时)", "建议每6小时针刺1次"],
+        ["椎-基底动脉供血不足 (50例)", "风池、完骨、天柱", "小幅度高频率捻转补法", "3分钟", "枕乳导联波幅持续改善4~6小时"]
+      ]
+    },
+    {
+      "title": { "zh": "醒脑开窍法 vs 传统针刺：五项对照研究", "en": "Xingnao Kaiqiao vs. traditional needling: five comparative studies" },
+      "cols": [{ "zh": "研究", "en": "Study" }, { "zh": "样本", "en": "Sample" }, { "zh": "指标", "en": "Measure" }, { "zh": "结论", "en": "Finding" }],
+      "rows": [
+        ["中风吞咽障碍脑血流图 (第二章)", "25例", "REG 枕乳导联", "针刺即刻起效，15分钟内无明显衰减"],
+        ["中风微循环 (第三章)", "31例(醒脑22/传统9)", "球结膜+甲皱微循环", "醒脑组血流速度、管襻开放数改善更显著"],
+        ["冠心病心功能 (第四章)", "内关组/三阴交组各30例", "9项心功能指标+心电图", "针后多数指标显著改善；内关组总有效率70%最高"],
+        ["脑梗死颅底血流 (第五章)", "120例(醒脑/传统/静卧各20×2型)", "TCD：PI、RI等", "醒脑组一个疗程后PI/RI改善最显著，静卧组无变化"],
+        ["脑梗死脑电地形图 (第六章)", "40例(醒脑20/传统20)", "BEAM慢波(δ/θ)与α功率", "醒脑组45天后慢波功率降、α功率升，范围更广"]
+      ]
+    },
+    {
+      "title": { "zh": "多中心RCT的醒脑开窍处方（主穴/辅穴/配穴）", "en": "Multicenter-RCT Xingnao Kaiqiao formula (primary/supporting/symptom-specific)" },
+      "cols": [{ "zh": "层级", "en": "Tier" }, { "zh": "穴位", "en": "Points" }, { "zh": "适用", "en": "Applies to" }],
+      "rows": [
+        ["主穴", "内关（双侧）、水沟、三阴交（患侧）", "全部患者"],
+        ["辅穴", "极泉、委中、尺泽（均患侧）", "全部患者"],
+        ["配穴", "风池、翳风、完骨", "吞咽障碍"],
+        ["配穴", "合谷（患侧）", "手指握固"],
+        ["配穴", "上廉泉；金津、玉液放血", "语言不利"],
+        ["配穴", "丘墟透照海（患侧）", "足内翻"]
+      ]
+    }
+  ],
+  "evidence": [
+    { "id": "E1", "quote": "我们通过大量临床实验发现针刺效应的持续时间多为4~6个小时；并确定了捻转补泻手法的最佳施术参数，建议穴位施术时间1~3分钟。", "src": "石学敏临证实验录·第六篇第一章 针刺手法量学的研究 p.961" },
+    { "id": "E2", "quote": "取风池、完骨、天柱三穴，每穴均施以小幅度、高频率捻转补法3分钟，每日治疗两次", "src": "石学敏临证实验录·第六篇第一章 p.964" },
+    { "id": "E3", "quote": "取穴人迎，结果表明，1次治疗后其效应持续时间为6个小时。针刺后20分钟，其脑血流图改变最为明显，持续6个小时后脑供血开始衰减。因此，对此疾病应该6个小时针刺治疗1次。", "src": "石学敏临证实验录·第六篇第一章 p.963" },
+    { "id": "E4", "quote": "提示针刺治疗的“效应蓄积”现象，该蓄积作用时间为1~2个月", "src": "石学敏临证实验录·第六篇第一章 p.962" },
+    { "id": "E5", "quote": "3分钟组与1分钟组比较……对PI和RI的即刻效应不如对血流的改善明显，而一个疗程后各项指标的改善最为显著，这提示多次针刺效应蓄积作用的结果", "src": "石学敏临证实验录·第六篇第五章 p.972" },
+    { "id": "E6", "quote": "对上述疗效明显的6例患者……分别进行不同术者施用相同方法（施术1分钟）的效应观察，结果表明，不同术者对同一患者……症状均有同样的改善", "src": "石学敏临证实验录·第六篇第一章 p.962" },
+    { "id": "E7", "quote": "醒脑开窍组与传统组均有不同程度的改善，尤以前者明显", "src": "石学敏临证实验录·第六篇第三章 p.967" },
+    { "id": "E8", "quote": "针刺组针前左、右心功能与正常人组比较……其余各项指标与正常人组比较，均有显著性或极显著性差异", "src": "石学敏临证实验录·第六篇第四章 p.969" },
+    { "id": "E9", "quote": "醒脑开窍法能明显改善MCA的异常血流动力学状态，有良性调整作用", "src": "石学敏临证实验录·第六篇第五章 p.972" },
+    { "id": "E10", "quote": "醒脑组慢频段功率减低……α波主要在顶、枕区增高明显。以上改变在45天时更为明显，且范围更广", "src": "石学敏临证实验录·第六篇第六章 p.976" },
+    { "id": "E11", "quote": "语言障碍针刺组有效率为91.67%，明显高于对照组（51.43%），两者比较有极显著差异", "src": "石学敏临证实验录·第六篇第七章 p.980" },
+    { "id": "E12", "quote": "针刺组肢体瘫痪有效率达97.73%，比对照组高28.50%", "src": "石学敏临证实验录·第六篇第七章 p.980" },
+    { "id": "E13", "quote": "该实验未考虑实验前两组发病时间、年龄、次数等是否具有可比性，因此，在今后的研究中，应进一步扩大样本量", "src": "石学敏临证实验录·第六篇第七章 p.980" },
+    { "id": "E14", "quote": "目前国际公认临床随机对照试验（RCT）和 RCT的系统评价（SR）结果是证明某种疗法的有效性和安全性最可靠的依据，亦即“金标准”", "src": "石学敏临证实验录·第六篇第七章 p.980" },
+    { "id": "E15", "quote": "处方：主穴：内关（双侧）、水沟、三阴交（患侧）；辅穴：极泉、委中、尺泽（均患侧）；配穴：吞咽障碍加风池、翳风、完骨", "src": "石学敏临证实验录·第六篇第七章 p.980" }
+  ],
+  "how_to_use": {
+    "zh": "把这份指南当作 sxm-03（醒脑开窍处方）与 sxm-04（手法量学）的证据附录：它给出了“1分钟为多数穴位的最佳施术时间”这条经验法则背后的具体实验，以及醒脑开窍法相对传统针刺的多维客观优势。查具体病种的取穴/手法时，仍以 sxm-03/04 及各处方记录为准；这里补充的是“为什么这样做”的实验依据与统计数字。",
+    "en": "Use this as the evidence appendix to sxm-03 (Xingnao formula) and sxm-04 (manipulation dosage): it supplies the actual experiments behind the “~1 minute is usually best” rule of thumb, and the multi-measure evidence for Xingnao Kaiqiao's edge over traditional needling. For point selection and technique on a specific disease, defer to sxm-03/04 and the prescription records; this guide supplies the “why”, with the numbers."
+  },
+  "caveats": {
+    "zh": "早期几项实验样本量小（如24例、31例、25例），且未必充分匹配对照组基线，作者本人也指出了这一点；多中心RCT的具体“结果”部分原书标注“略”，未给出完整数据表。书中血流/脑电等仪器型号与检测标准反映1990年代—2000年代的技术条件，仅作历史记录，不代表现今设备标准。",
+    "en": "Several early experiments had small samples (e.g. n=24, 31, 25) and may not have fully matched control-group baselines, a limit the author himself notes; the multicenter RCT's detailed “Results” section is marked “omitted” in the source, with no full data table given. The flow/EEG instruments and detection standards reflect 1990s–2000s technology and are recorded here as historical fact, not current equipment standards."
+  },
+  "see": {
+    "points": ["内关", "水沟", "三阴交", "极泉", "委中", "尺泽", "风池", "完骨", "翳风", "人迎", "膈俞"],
+    "notes": []
+  }
+}
