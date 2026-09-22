@@ -25,7 +25,7 @@ const T = {
     noGuides: 'No guides for this selection yet.', noCasesDoc: 'No case records for this doctor yet.', noRxDoc: 'No prescriptions for this doctor yet.',
     noMatch: 'Nothing matches.', method: 'Technique', indication: 'Acupuncture indication', indAll: 'Any', indNo: 'Not indicated', indCond: 'Conditional',
     flagNo: 'The source says this condition is NOT indicated for acupuncture', flagCond: 'The source limits acupuncture to certain causes/stages',
-    rxText: 'Prescription (处方)', care: 'Care (调护)', prog: 'Prognosis (预后)', sets: 'Point sets', src: 'Source', note: 'Editorial note',
+    rxText: 'Prescription (处方)', care: 'Care (调护)', prog: 'Prognosis (预后)', sets: 'Point sets', ptChart: 'Point chart', src: 'Source', note: 'Editorial note',
     random: 'Random', pointFilter: 'Point', filterRx: 'Show prescriptions with this point', filterCases: 'Show cases with this point', back: 'Back',
     usedIn: 'Prescriptions using this point', usedInCases: 'Cases using this point', pairs: 'Most often needled together with',
     extraPt: 'Extra-meridian / collective point (no WHO code asserted)', showAll: 'Include unused points', channel: 'Channel',
@@ -50,7 +50,7 @@ const T = {
     noGuides: '这一选择下暂无导读。', noCasesDoc: '该医家暂无医案。', noRxDoc: '该医家暂无处方。',
     noMatch: '未找到匹配项。', method: '刺灸法', indication: '针灸适应', indAll: '不限', indNo: '非适应证', indCond: '有条件适用',
     flagNo: '原书明确：本病不属针灸适应证', flagCond: '原书限定：仅部分病因／阶段可用针灸',
-    rxText: '处方', care: '调护', prog: '预后', sets: '取穴组', src: '出处', note: '编者按',
+    rxText: '处方', care: '调护', prog: '预后', sets: '取穴组', ptChart: '取穴图解', src: '出处', note: '编者按',
     random: '随机', pointFilter: '腧穴', filterRx: '在处方库中筛选此穴', filterCases: '在医案中筛选此穴', back: '返回',
     usedIn: '用到此穴的处方', usedInCases: '用到此穴的医案', pairs: '常与之同用',
     extraPt: '奇穴／合称（不标 WHO 编码）', showAll: '含未用到的腧穴', channel: '经脉',
@@ -74,6 +74,26 @@ const CHAN = {
 const CHAN_ORDER = Object.keys(CHAN);
 const chanName = (c) => (LANG === 'zh' ? CHAN[c][0] : CHAN[c][1]);
 const MOD_ZH = { herbal: '中药', acupuncture: '针刺', moxa: '艾灸', tuina: '推拿', 'gua-sha': '刮痧', cupping: '拔罐', mixed: '综合', other: '其他' };
+
+// one colour per channel, so a point-tile grid reads at a glance which meridian a prescription draws from
+const CHAN_COLOR = {
+  LU: '#7fa8bf', LI: '#c9a15a', ST: '#e0a33e', SP: '#b8860b', HT: '#c1443a', SI: '#e0674a',
+  BL: '#2f5f8a', KI: '#24406b', PC: '#a83e78', TE: '#6f5aa8', GB: '#2f8f7a', LR: '#4a8f3c',
+  CV: '#9b7fb0', GV: '#33352f', EX: '#7a7a72',
+};
+function ptTile(name, display) {
+  const p = ptInfo(name);
+  const chan = p ? p.channel : 'EX';
+  const color = CHAN_COLOR[chan] || CHAN_COLOR.EX;
+  const code = p ? p.code : 'EX';
+  return '<button class="pt-tile" data-point="' + esc(name) + '" style="--tile-color:' + color + '" title="' + esc(chanName(chan)) + '"><span class="pt-tile-name">' + esc(display || name) + '</span><span class="pt-tile-code">' + esc(code) + '</span></button>';
+}
+function ptTileGrid(points, display) { return '<div class="pt-tile-grid">' + points.map((n, i) => ptTile(n, display && display[i])).join('') + '</div>'; }
+function ptLegend(points) {
+  const chans = [...new Set(points.map((n) => { const p = ptInfo(n); return p ? p.channel : 'EX'; }))].sort((a, b) => CHAN_ORDER.indexOf(a) - CHAN_ORDER.indexOf(b));
+  if (chans.length < 2) return '';
+  return '<div class="pt-legend">' + chans.map((c) => '<span><i style="--sw:' + (CHAN_COLOR[c] || CHAN_COLOR.EX) + '"></i>' + esc(chanName(c)) + '</span>').join('') + '</div>';
+}
 
 const state = {
   doc: '__all', mod: 'thought', q: '', gGroup: '__all',
@@ -443,10 +463,14 @@ function obsidianLink(r) {
 function sheetRx(id) {
   const r = RX.find((x) => x.id === id); if (!r) return;
   const flag = r.indication === 'no' ? '<div class="flag no">' + esc(t('flagNo')) + '</div>' : r.indication === 'conditional' ? '<div class="flag cond">' + esc(t('flagCond')) + '</div>' : '';
-  const sets = r.groups.length > 1 ? sect(t('sets'), '<dl class="kv">' + r.groups.map((g, i) => '<dt>' + esc(g.label || '#' + (i + 1)) + '</dt><dd><span class="tagrow">' + g.points.map((p) => ptChip(p)).join('') + '</span></dd>').join('') + '</dl>') : '';
+  const chart = r.points.length
+    ? sect(t('ptChart'), ptLegend(r.points) + (r.groups.length > 1
+        ? r.groups.map((g, i) => '<div class="pt-group"><div class="pt-group-label">' + esc(g.label || '#' + (i + 1)) + '</div>' + ptTileGrid(g.points) + '</div>').join('')
+        : ptTileGrid(r.points)))
+    : '';
   const extra = Object.entries(r.extra_html || {}).map(([k, v]) => sect(k, '<div class="rx">' + v + '</div>')).join('');
   const meth = r.method.length || r.gauge.length ? sect(t('method'), '<div class="tagrow">' + r.method.map((m) => '<button class="tag" data-act="rtag2" data-v="' + esc(m) + '">' + esc(m) + '</button>').join('') + r.gauge.map((m) => '<span class="tag" style="cursor:default">' + esc(m) + '</span>').join('') + '</div>') : '';
-  const body = flag + sect(t('rxText'), '<div class="rx">' + r.rx_html + '</div>') + sets
+  const body = flag + sect(t('rxText'), '<div class="rx">' + r.rx_html + '</div>') + chart
     + (r.care_html ? sect(t('care'), '<div class="rx">' + r.care_html + '</div>') : '') + (r.prog_html ? sect(t('prog'), '<div class="rx">' + r.prog_html + '</div>') : '') + extra + meth
     + (r.note ? sect(t('note'), '<div class="note-box">' + esc(r.note) + '</div>') : '')
     + sect(t('src'), '<div style="font-size:12px;color:var(--muted)">' + esc(docName(r.doctor)) + ' · 《' + esc(r.book) + '》 · ' + esc(L(r.system)) + (r.section ? ' › ' + esc(L(r.section)) : '') + '<br>' + esc(r.notes_path) + obsidianLink(r) + '</div>')
@@ -454,6 +478,34 @@ function sheetRx(id) {
   shell(L(r.system) + (r.section ? ' › ' + L(r.section) : ''), LANG === 'zh' ? r.name.zh : r.name.en || r.name.zh, (LANG === 'zh' ? r.name.en : r.name.zh) + (r.alias ? ' · ' + r.alias : ''), body);
 }
 
+const VISIT_RE = /^(初诊|[二三四五六七八九十]+诊(?:[、至][二三四五六七八九十]+诊)*)$/;
+const OUTCOME_RE = /^(疗效|治疗结果|治疗经过|治疗过程|按语|随访)$/;
+const PT_FIELD_RE = /选穴|取穴|治疗过程|操作|处方/;
+function linkifyPoints(text, pts, ptsN) {
+  let out = esc(text);
+  if (!pts || !pts.length) return out;
+  const pairs = pts.map((p, i) => [p, (ptsN && ptsN[i]) || p]).filter(([r]) => r).sort((a, b) => b[0].length - a[0].length);
+  for (const [raw, canon] of pairs) {
+    const escRaw = esc(raw); if (!escRaw) continue;
+    out = out.split(escRaw).join('<button class="pt" data-point="' + esc(canon) + '">' + escRaw + '</button>');
+  }
+  return out;
+}
+function caseFieldsHTML(c) {
+  const kv = c.kv_zh || []; if (!kv.length) return '';
+  const segs = [];
+  for (const [k, v] of kv) {
+    const isVisit = VISIT_RE.test(k);
+    const kind = isVisit ? 'timeline' : 'box';
+    const last = segs[segs.length - 1];
+    if (last && last.kind === kind) last.items.push([k, v]); else segs.push({ kind, items: [[k, v]] });
+  }
+  const bodyHTML = (k, v) => PT_FIELD_RE.test(k) ? linkifyPoints(v, c.points, c.ptsN) : esc(v);
+  return segs.map((seg) => seg.kind === 'timeline'
+    ? '<div class="case-timeline">' + seg.items.map(([k, v]) => '<div class="tl-item"><span class="tl-dot"></span><div class="tl-box"><h4>' + esc(k) + '</h4><div class="body">' + bodyHTML(k, v) + '</div></div></div>').join('') + '</div>'
+    : '<div class="field-stack">' + seg.items.map(([k, v]) => '<div class="field-box' + (OUTCOME_RE.test(k) ? ' outcome' : '') + '"><h4>' + esc(k) + '</h4><div class="body">' + bodyHTML(k, v) + '</div></div>').join('') + '</div>'
+  ).join('');
+}
 function sheetCase(id) {
   const c = CASES.find((x) => x.id === id); if (!c) return;
   const ptRow = (ps) => '<span class="tagrow">' + ps.map((p, i) => '<button class="tag pt" data-point="' + esc((c.ptsN || [])[i] || p) + '">' + esc(p) + '</button>').join('') + '</span>';
@@ -470,8 +522,8 @@ function sheetCase(id) {
   if (c.followup_en) en.push([esc(t('kFollow')), esc(c.followup_en)]);
   const tagsHTML = (c.tags || []).length ? sect(t('tags'), '<div class="tagrow">' + c.tags.map((x) => '<button class="tag" data-act="ctag" data-v="' + esc(x) + '">' + esc(x) + '</button>').join('') + '</div>') : '';
   const structured = (c.kv_zh || []).length
-    ? sect(LANG === 'zh' ? '医案记录' : 'Case record (source language)', '<dl class="kv" style="grid-template-columns:78px 1fr">' + c.kv_zh.map(([k, v]) => '<dt>' + esc(k) + '</dt><dd class="zhtext" style="font-size:15px;line-height:1.85">' + esc(v) + '</dd>').join('') + '</dl>')
-      + ((c.points || []).length ? sect(t('kPoints'), ptRow(c.points)) : '')
+    ? sect(LANG === 'zh' ? '医案记录' : 'Case record (source language)', caseFieldsHTML(c))
+      + ((c.points || []).length ? sect(t('kPoints'), ptLegend(c.ptsN && c.ptsN.length ? c.ptsN : c.points) + ptTileGrid(c.ptsN && c.ptsN.length ? c.ptsN : c.points, c.points)) : '')
     : '';
   const commentary = c.commentary_zh ? sect(LANG === 'zh' ? '医案解读 · 按语' : 'Commentary (source language)', '<div class="rx" style="white-space:pre-wrap;font-size:16px">' + esc(c.commentary_zh) + '</div>') : '';
   const passageBlock = structured
