@@ -12,7 +12,9 @@ A per-doctor bank of acupuncture knowledge with a self-contained web viewer. For
 | 石学敏 Shi Xuemin | 《石学敏针灸全集》(2015), 《石学敏实用针灸学》 | guides, 175 prescriptions incl. his 配方理论, ~620 cases |
 | 王居易 Wang Juyi | 《王居易针灸医案讲习录》(2014) | guides, 125 cases with his 医案解读, prescriptions compiled from his recorded 选穴 |
 
-> **Private repository.** The data contains verbatim passages from books that are still under copyright (石学敏, 王居易). Do not make this repo or `bank/viewer.html` public.
+**Live site:** https://sevenelevenshao.github.io/acupuncture-master-bank/
+
+> **Public repository, published by request of the compiler.** The data includes verbatim passages from books still under copyright (石学敏, 王居易) alongside 承淡安's work, which entered the public domain in China in 2007 (copyright runs to death + 50 years; he died in 1957). Content is reproduced for study/scholarship. If you are a rights holder and want something removed, open an issue.
 
 ## Layout
 
